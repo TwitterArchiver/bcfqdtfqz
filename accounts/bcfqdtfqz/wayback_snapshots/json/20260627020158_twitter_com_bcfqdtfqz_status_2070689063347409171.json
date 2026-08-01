@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070337923652915515",
+    "created_at": "2026-06-27T02:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T03:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070689063347409171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1693795125162647552",
+          "start": 0,
+          "username": "yan841477390729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070689063347409171",
+    "in_reply_to_user_id": "1693795125162647552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070620129461969082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yan841477390729 那直接上岸吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070337923652915515",
+        "created_at": "2026-06-27T02:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070689063347409171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1693795125162647552",
+              "start": 0,
+              "username": "yan841477390729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070689063347409171",
+        "in_reply_to_user_id": "1693795125162647552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070620129461969082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yan841477390729 那直接上岸吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693795125162647552",
+        "conversation_id": "2070337923652915515",
+        "created_at": "2026-06-26T21:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T22:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070620129461969082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070620129461969082",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070337923652915515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 今年分数线感觉高的有点绝望了，不知道该怎么去复读达到神秘分数线，已经丧失斗志了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 1375,
+          "like_count": 348,
+          "listed_count": 2,
+          "media_count": 772,
+          "tweet_count": 2430
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-22T01:20:16.000Z",
+        "description": "不是人机！\n理发苦手 缝纫苦手\n阴暗扭曲爬行\n杂食二游玩家\n欢迎扩列/互fo",
+        "id": "1693795125162647552",
+        "name": "岩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924539806769709056/2ye9q5m3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 937,
+          "like_count": 3303,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "yan841477390729",
+        "verified": false
+      }
+    ]
+  }
+}

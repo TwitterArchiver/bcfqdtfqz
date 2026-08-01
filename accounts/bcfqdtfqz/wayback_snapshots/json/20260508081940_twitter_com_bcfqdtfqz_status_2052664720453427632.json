@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2052645631861375465",
+    "created_at": "2026-05-08T08:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052664720453427632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342135083252105216",
+          "start": 0,
+          "username": "xixikawaii"
+        },
+        {
+          "end": 28,
+          "id": "1392719518871425025",
+          "start": 12,
+          "username": "abyssofgambling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052664720453427632",
+    "in_reply_to_user_id": "1342135083252105216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052649166153883703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikawaii @abyssofgambling 小盘股跟meme差不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2052645631861375465",
+        "created_at": "2026-05-08T08:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052664720453427632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            },
+            {
+              "end": 28,
+              "id": "1392719518871425025",
+              "start": 12,
+              "username": "abyssofgambling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052664720453427632",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052649166153883703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii @abyssofgambling 小盘股跟meme差不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1342135083252105216",
+        "conversation_id": "2052645631861375465",
+        "created_at": "2026-05-08T07:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052649166153883703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1392719518871425025",
+              "start": 0,
+              "username": "abyssofgambling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052649166153883703",
+        "in_reply_to_user_id": "1392719518871425025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 479,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052645631861375465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abyssofgambling 怎么玩美股，能小资金博大么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 1346,
+          "like_count": 279,
+          "listed_count": 1,
+          "media_count": 717,
+          "tweet_count": 1868
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "频道 https://t.co/nE2kwqQ3xG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xixi_call",
+                "end": 26,
+                "expanded_url": "http://t.me/xixi_call",
+                "start": 3,
+                "url": "https://t.co/nE2kwqQ3xG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_QXw2uGWZ",
+                "start": 0,
+                "url": "https://t.co/p8Rr4RFzRt"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "location": "Disney | Meme",
+        "name": "汐",
+        "pinned_tweet_id": "2013522582885278160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036827516841930752/UUPZffAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29487,
+          "following_count": 1147,
+          "like_count": 14628,
+          "listed_count": 450,
+          "media_count": 4578,
+          "tweet_count": 22976
+        },
+        "url": "https://t.co/p8Rr4RFzRt",
+        "username": "xixikawaii",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-13T05:53:14.000Z",
+        "description": "｜Channel： https://t.co/MKZcwEUsP7 ｜｜HK雷式集团员工｜ Not Financial Advice.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Theabyssofgamb…",
+                "end": 33,
+                "expanded_url": "https://t.me/Theabyssofgambling",
+                "start": 10,
+                "url": "https://t.co/MKZcwEUsP7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Theabyssofgamb…",
+                "end": 23,
+                "expanded_url": "https://t.me/Theabyssofgambling",
+                "start": 0,
+                "url": "https://t.co/MKZcwEUsP7"
+              }
+            ]
+          }
+        },
+        "id": "1392719518871425025",
+        "location": "赌性坚毅",
+        "name": "HK•L_牛英俊",
+        "pinned_tweet_id": "2025449887861793019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046834793351196672/K7d2FOk2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26812,
+          "following_count": 1066,
+          "like_count": 9856,
+          "listed_count": 312,
+          "media_count": 1811,
+          "tweet_count": 16312
+        },
+        "url": "https://t.co/MKZcwEUsP7",
+        "username": "abyssofgambling",
+        "verified": true
+      }
+    ]
+  }
+}

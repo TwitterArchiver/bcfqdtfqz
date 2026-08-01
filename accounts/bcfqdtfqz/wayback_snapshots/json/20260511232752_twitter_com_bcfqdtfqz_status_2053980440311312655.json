@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2053939125082841144",
+    "created_at": "2026-05-11T23:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T00:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053980440311312655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1765989284275007488",
+          "start": 0,
+          "username": "Pleasure9876"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053980440311312655",
+    "in_reply_to_user_id": "1765989284275007488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053939125082841144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pleasure9876 那就跨出这个圈子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2053939125082841144",
+        "created_at": "2026-05-11T23:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T00:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053980440311312655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1765989284275007488",
+              "start": 0,
+              "username": "Pleasure9876"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053980440311312655",
+        "in_reply_to_user_id": "1765989284275007488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053939125082841144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pleasure9876 那就跨出这个圈子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765989284275007488",
+        "conversation_id": "2053939125082841144",
+        "created_at": "2026-05-11T20:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T21:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053939125082841144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053939125082841144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 89,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "对物以类聚有了更深的体会...\n所在的圈子是什么样的，眼里的世界就是什么样的\n耳濡目染下，自己也会被塑造成这个样子\n我不怕改变，只是不想哪天变成自己曾经讨厌的模样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 1349,
+          "like_count": 291,
+          "listed_count": 1,
+          "media_count": 724,
+          "tweet_count": 1901
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-08T06:33:58.000Z",
+        "description": "One of the core maintainers 👉 @CherryStudioHQ 🍒\nCSAI undergraduate student 👉 @UniofNottingham\nISTJ / https://t.co/zTQuCdSRQO\nhttps://t.co/wpRb8tCCp4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "CherryStudioHQ"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "UniofNottingham"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/Pleasurecruise",
+                "end": 124,
+                "expanded_url": "https://github.com/Pleasurecruise",
+                "start": 101,
+                "url": "https://t.co/zTQuCdSRQO"
+              },
+              {
+                "display_url": "yiming1234.cn",
+                "end": 148,
+                "expanded_url": "https://yiming1234.cn",
+                "start": 125,
+                "url": "https://t.co/wpRb8tCCp4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "you-find.me",
+                "end": 23,
+                "expanded_url": "https://you-find.me",
+                "start": 0,
+                "url": "https://t.co/yGqCGYmerC"
+              }
+            ]
+          }
+        },
+        "id": "1765989284275007488",
+        "location": "Nottingham, United Kingdom",
+        "name": "Pleasure1234",
+        "pinned_tweet_id": "2052830658683179211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052853273955028994/iCIWpxuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 118,
+          "like_count": 2504,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 470
+        },
+        "url": "https://t.co/yGqCGYmerC",
+        "username": "Pleasure9876",
+        "verified": true
+      }
+    ]
+  }
+}

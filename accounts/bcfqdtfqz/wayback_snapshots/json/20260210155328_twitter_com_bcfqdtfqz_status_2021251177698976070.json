@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2021144721696165907",
+    "created_at": "2026-02-10T15:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T16:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021251177698976070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "916758476080128000",
+          "start": 0,
+          "username": "nyanyakodayo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021251177698976070",
+    "in_reply_to_user_id": "916758476080128000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021144721696165907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyanyakodayo 坏了怎么牙掉下来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19986,
+        "height": 1280,
+        "media_key": "7_2021144606998659073",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2021144606998659073/pu/img/Pkp8jbzubOVT-H2e.jpg",
+        "public_metrics": {
+          "view_count": 5648
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021144606998659073/pu/vid/avc1/320x568/DwrmjsKGsV5K8gbD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021144606998659073/pu/vid/avc1/480x852/4l9jXb6hiFX_nq3p.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021144606998659073/pu/vid/avc1/720x1280/GrdBXdT_dxg9KxdG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2021144606998659073/pu/pl/wnPIAvZM3LwjG1xO.m3u8?tag=12&v=31f"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2021144721696165907",
+        "created_at": "2026-02-10T15:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T16:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021251177698976070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "916758476080128000",
+              "start": 0,
+              "username": "nyanyakodayo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021251177698976070",
+        "in_reply_to_user_id": "916758476080128000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021144721696165907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanyakodayo 坏了怎么牙掉下来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2021144606998659073"
+          ]
+        },
+        "author_id": "916758476080128000",
+        "conversation_id": "2021144721696165907",
+        "created_at": "2026-02-10T08:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T09:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021144721696165907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mndRosnhYh",
+              "end": 66,
+              "expanded_url": "https://x.com/nyanyakodayo/status/2021144721696165907/video/1",
+              "media_key": "7_2021144606998659073",
+              "start": 43,
+              "url": "https://t.co/mndRosnhYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021144721696165907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 12634,
+          "like_count": 121,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "喵老师看到最近投资什么银条、金条都发财了，大家帮忙看看投资铀条有没有搞头，想囤一波货 https://t.co/mndRosnhYh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "🍅",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 670,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 246
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-07T20:13:48.000Z",
+        "description": "我永远喜欢初音未来🌱✨",
+        "id": "916758476080128000",
+        "location": "喵子星",
+        "name": "喵喵子",
+        "pinned_tweet_id": "1742127993991188544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667069956398227457/HO1XCO5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41401,
+          "following_count": 833,
+          "like_count": 18553,
+          "listed_count": 109,
+          "media_count": 2466,
+          "tweet_count": 31502
+        },
+        "username": "nyanyakodayo",
+        "verified": false
+      }
+    ]
+  }
+}

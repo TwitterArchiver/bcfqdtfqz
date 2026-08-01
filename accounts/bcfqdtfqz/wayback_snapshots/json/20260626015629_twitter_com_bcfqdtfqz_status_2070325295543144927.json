@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2069708649195532445",
+    "created_at": "2026-06-26T01:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T02:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070325295543144927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1880893548968722432",
+          "start": 0,
+          "username": "xiyou939"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070325295543144927",
+    "in_reply_to_user_id": "1880893548968722432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069708649195532445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiyou939 下北泽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2069708649195532445",
+        "created_at": "2026-06-26T01:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070325295543144927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1880893548968722432",
+              "start": 0,
+              "username": "xiyou939"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070325295543144927",
+        "in_reply_to_user_id": "1880893548968722432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069708649195532445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiyou939 下北泽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880893548968722432",
+        "conversation_id": "2069708649195532445",
+        "created_at": "2026-06-24T09:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069708649195532445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069708649195532445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 166518,
+          "like_count": 2347,
+          "quote_count": 72,
+          "reply_count": 172,
+          "retweet_count": 278
+        },
+        "reply_settings": "everyone",
+        "text": "高考出分了问问，音乃木坂学园、虹咲学园、 结丘女子高中、瑟罗希亚国际学校、莲之空女学院、初星学园、羽丘女子学园、花咲川女子学园、月之森女子学园、圣翔音乐学园、凛明馆女子学院、西克菲尔特音乐学院、秀华高校、下北泽高中、樱丘高中、北宇治高中、圣米卡尔学院、宫益坂女子学园哪个比较好啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 1354,
+          "like_count": 343,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 2363
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-19T08:22:43.000Z",
+        "description": "可以喊我西柚~女装只是小爱好 其实胆子很小丨\n清水 只是分享一些碎碎念丨\n有礼貌的孩子欢迎找我聊聊天~害羞的宝子也可以匿名找我丸↓。会互fo有生活气的孩子😙丨\n喜欢μ's！是姬厨~交友大欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiyou2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiyou2",
+                "start": 0,
+                "url": "https://t.co/hjMOHlxItN"
+              }
+            ]
+          }
+        },
+        "id": "1880893548968722432",
+        "name": "汐又",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925213863169130496/MPjAKWCm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 101,
+          "like_count": 2095,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 337
+        },
+        "url": "https://t.co/hjMOHlxItN",
+        "username": "xiyou939",
+        "verified": false
+      }
+    ]
+  }
+}

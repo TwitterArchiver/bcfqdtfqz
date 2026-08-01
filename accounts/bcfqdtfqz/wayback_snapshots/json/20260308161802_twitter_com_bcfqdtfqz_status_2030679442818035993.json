@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2030421613884354738",
+    "created_at": "2026-03-08T16:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T17:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030679442818035993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1850112898347237376",
+          "start": 0,
+          "username": "Poijyan_"
+        },
+        {
+          "end": 19,
+          "id": "1828632343680294916",
+          "start": 10,
+          "username": "jianlvya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030679442818035993",
+    "in_reply_to_user_id": "1850112898347237376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030679108640981427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Poijyan_ @jianlvya 对硬件其实没研究过🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2030421613884354738",
+        "created_at": "2026-03-08T16:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030679442818035993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1850112898347237376",
+              "start": 0,
+              "username": "Poijyan_"
+            },
+            {
+              "end": 19,
+              "id": "1828632343680294916",
+              "start": 10,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030679442818035993",
+        "in_reply_to_user_id": "1850112898347237376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030679108640981427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poijyan_ @jianlvya 对硬件其实没研究过🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850112898347237376",
+        "conversation_id": "2030421613884354738",
+        "created_at": "2026-03-08T16:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030679108640981427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            },
+            {
+              "end": 20,
+              "id": "1828632343680294916",
+              "start": 11,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030679108640981427",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030484165712633991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz @jianlvya 30系显卡 使用了不怎么先进的三星高功耗工艺 使得再优秀的架构也需要很高的功率才能维持满载使用 3080都345W了 你说呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 1038,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 1111
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-26T09:51:30.000Z",
+        "description": "風吹散情花沙啞，遠走的人不會再歸家",
+        "id": "1850112898347237376",
+        "name": "ポイジャン",
+        "pinned_tweet_id": "2026918873375916367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929580562815373313/PF2_URPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 349,
+          "like_count": 24513,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 2438
+        },
+        "username": "Poijyan_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 私信互关\n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律",
+        "pinned_tweet_id": "2030256274726924473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3516,
+          "following_count": 913,
+          "like_count": 12299,
+          "listed_count": 6,
+          "media_count": 433,
+          "tweet_count": 893
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

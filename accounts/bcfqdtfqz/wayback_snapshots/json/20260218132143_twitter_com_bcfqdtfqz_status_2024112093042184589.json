@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2023959932731556298",
+    "created_at": "2026-02-18T13:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T14:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024112093042184589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "768931223024443392",
+          "start": 0,
+          "username": "seiyo36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024112093042184589",
+    "in_reply_to_user_id": "768931223024443392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023959932731556298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seiyo36 把拜金女的丑恶嘴脸展现的一览无余只能说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 979,
+        "media_key": "3_2023959925714808833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBaM1DvbcAEK382.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2023959932731556298",
+        "created_at": "2026-02-18T13:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024112093042184589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "768931223024443392",
+              "start": 0,
+              "username": "seiyo36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024112093042184589",
+        "in_reply_to_user_id": "768931223024443392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023959932731556298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seiyo36 把拜金女的丑恶嘴脸展现的一览无余只能说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023959925714808833"
+          ]
+        },
+        "author_id": "768931223024443392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1255950086699315200",
+              "name": "Designer fashion"
+            }
+          }
+        ],
+        "conversation_id": "2023959932731556298",
+        "created_at": "2026-02-18T03:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023959932731556298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LmQk4F88Bj",
+              "end": 80,
+              "expanded_url": "https://x.com/seiyo36/status/2023959932731556298/photo/1",
+              "media_key": "3_2023959925714808833",
+              "start": 57,
+              "url": "https://t.co/LmQk4F88Bj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023959932731556298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 21952,
+          "like_count": 137,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。。。\n人家女生收到很开心就发在朋友圈里而已\n礼物一定要是YSL才有资格发吗\n人家又不是炫富就只是收到礼物很开心 https://t.co/LmQk4F88Bj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "New York, USA",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 807,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 569
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-25T22:01:04.000Z",
+        "description": "🇯🇵｜推文都是个人观点｜当日记写｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/seiyo36/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/seiyo36/",
+                "start": 0,
+                "url": "https://t.co/UqBlvSVUVa"
+              }
+            ]
+          }
+        },
+        "id": "768931223024443392",
+        "name": "星阳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877408607274414084/aOkKgMLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44800,
+          "following_count": 67,
+          "like_count": 1605,
+          "listed_count": 161,
+          "media_count": 2918,
+          "tweet_count": 20329
+        },
+        "url": "https://t.co/UqBlvSVUVa",
+        "username": "seiyo36",
+        "verified": true
+      }
+    ]
+  }
+}

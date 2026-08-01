@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070053090909454391",
+    "created_at": "2026-06-26T02:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070330809190646118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1547587299248025600",
+          "start": 0,
+          "username": "Corrrine233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070330809190646118",
+    "in_reply_to_user_id": "1547587299248025600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070053090909454391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Corrrine233 上个沿海2没问题吧这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1527,
+        "media_key": "3_2070053088552222720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpOUQFbAAALlbU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070053090909454391",
+        "created_at": "2026-06-26T02:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070330809190646118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547587299248025600",
+              "start": 0,
+              "username": "Corrrine233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070330809190646118",
+        "in_reply_to_user_id": "1547587299248025600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070053090909454391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Corrrine233 上个沿海2没问题吧这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070053088552222720"
+          ]
+        },
+        "author_id": "1547587299248025600",
+        "conversation_id": "2070053090909454391",
+        "created_at": "2026-06-25T07:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070053090909454391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sMynNPq2vp",
+              "end": 37,
+              "expanded_url": "https://x.com/Corrrine233/status/2070053090909454391/photo/1",
+              "media_key": "3_2070053088552222720",
+              "start": 14,
+              "url": "https://t.co/sMynNPq2vp"
+            },
+            {
+              "display_url": "x.com/Corrrine233/st…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Corrrine233/status/2069963133758931054",
+              "start": 38,
+              "url": "https://t.co/tCZgfVaWRp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070053090909454391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10338,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069963133758931054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "湖北傻逼一分一段使我没学上 https://t.co/sMynNPq2vp https://t.co/tCZgfVaWRp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 1359,
+          "like_count": 343,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 2372
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-14T14:22:31.000Z",
+        "description": "澄ます、生きている",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/citirizine233",
+                "end": 23,
+                "expanded_url": "https://t.me/citirizine233",
+                "start": 0,
+                "url": "https://t.co/KcKS6VsMW8"
+              }
+            ]
+          }
+        },
+        "id": "1547587299248025600",
+        "location": "显生宙",
+        "name": "清水はれ",
+        "pinned_tweet_id": "1718486117073522876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627335832498757632/aFad3Nl5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 279,
+          "like_count": 8141,
+          "listed_count": 1,
+          "media_count": 656,
+          "tweet_count": 2544
+        },
+        "url": "https://t.co/KcKS6VsMW8",
+        "username": "Corrrine233",
+        "verified": false
+      }
+    ]
+  }
+}

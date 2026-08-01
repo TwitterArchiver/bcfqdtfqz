@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070037735667319176",
+    "created_at": "2026-06-25T13:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070139715475652637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1375769014396329985",
+          "start": 0,
+          "username": "gra5s_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070139715475652637",
+    "in_reply_to_user_id": "1375769014396329985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070037735667319176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gra5s_awa 神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070037735667319176",
+        "created_at": "2026-06-25T13:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070139715475652637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1375769014396329985",
+              "start": 0,
+              "username": "gra5s_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070139715475652637",
+        "in_reply_to_user_id": "1375769014396329985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070037735667319176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gra5s_awa 神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1375769014396329985",
+        "conversation_id": "2070037735667319176",
+        "created_at": "2026-06-25T06:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070037735667319176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070037735667319176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于查到成绩了，裸分745，我看完后泪如雨下，想起这三年，想起为我拼搏的父母，我赶紧拨通清华的电话，但是他们说危机合约的不算，还和我说再玩明日方舟就把脚塞我嘴里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 1351,
+          "like_count": 343,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 2350
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-27T11:21:47.000Z",
+        "description": "漢語｜EN｜台語（閩南語）｜INFP | 大一｜是明日方舟風笛推！｜成分複雜 ｜歡迎互fo講古",
+        "id": "1375769014396329985",
+        "location": "Quanzhou,Fujian,ROC",
+        "name": "風笛bagpipe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038819159031894016/CxQ2-SpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 273,
+          "like_count": 3368,
+          "listed_count": 0,
+          "media_count": 425,
+          "tweet_count": 3761
+        },
+        "url": "",
+        "username": "gra5s_awa",
+        "verified": false
+      }
+    ]
+  }
+}

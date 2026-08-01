@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2056711243612975172",
+    "created_at": "2026-05-19T15:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056756474341359855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1495635928949616642",
+          "start": 0,
+          "username": "Meizakini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056756474341359855",
+    "in_reply_to_user_id": "1495635928949616642",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056711243612975172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meizakini 恭喜恭喜🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056711221530009600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrn9YTbIAA0xDn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056711221458657280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrn9YCaYAAkueL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1486,
+        "media_key": "3_2056711221441904640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrn9X-awAAsVae.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2056711243612975172",
+        "created_at": "2026-05-19T15:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056756474341359855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1495635928949616642",
+              "start": 0,
+              "username": "Meizakini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056756474341359855",
+        "in_reply_to_user_id": "1495635928949616642",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056711243612975172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meizakini 恭喜恭喜🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056711221530009600",
+            "3_2056711221458657280",
+            "3_2056711221441904640"
+          ]
+        },
+        "author_id": "1495635928949616642",
+        "conversation_id": "2056711243612975172",
+        "created_at": "2026-05-19T12:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056711243612975172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nykHKEku5y",
+              "end": 53,
+              "expanded_url": "https://x.com/Meizakini/status/2056711243612975172/photo/1",
+              "media_key": "3_2056711221530009600",
+              "start": 30,
+              "url": "https://t.co/nykHKEku5y"
+            },
+            {
+              "display_url": "pic.x.com/nykHKEku5y",
+              "end": 53,
+              "expanded_url": "https://x.com/Meizakini/status/2056711243612975172/photo/1",
+              "media_key": "3_2056711221458657280",
+              "start": 30,
+              "url": "https://t.co/nykHKEku5y"
+            },
+            {
+              "display_url": "pic.x.com/nykHKEku5y",
+              "end": 53,
+              "expanded_url": "https://x.com/Meizakini/status/2056711243612975172/photo/1",
+              "media_key": "3_2056711221441904640",
+              "start": 30,
+              "url": "https://t.co/nykHKEku5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056711243612975172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 53327,
+          "like_count": 631,
+          "quote_count": 1,
+          "reply_count": 125,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "博士答辩顺利结束了。一切的困难都是暂时的，祝大家人生顺利。 https://t.co/nykHKEku5y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1713,
+          "following_count": 1344,
+          "like_count": 309,
+          "listed_count": 1,
+          "media_count": 736,
+          "tweet_count": 1961
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-21T05:46:25.000Z",
+        "description": "Trans girl | INFP | 常驻上海 | 177 cm | 物理 PhD 在读 | mston @meizakini@o3o.ca | tg@meizakini | 手术日记 https://t.co/mRGIEVmg7T | 小号 meizitsubaki | 小红书同名",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/meizaSRS",
+                "end": 117,
+                "expanded_url": "https://t.me/meizaSRS",
+                "start": 94,
+                "url": "https://t.co/mRGIEVmg7T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "meiza.cc",
+                "end": 23,
+                "expanded_url": "https://meiza.cc",
+                "start": 0,
+                "url": "https://t.co/1ZyXkX11lS"
+              }
+            ]
+          }
+        },
+        "id": "1495635928949616642",
+        "location": "0.7 km",
+        "name": "Meiza",
+        "pinned_tweet_id": "1935550629465965051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909095447438000128/wnbRaCr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5600,
+          "following_count": 1250,
+          "like_count": 22437,
+          "listed_count": 18,
+          "media_count": 735,
+          "tweet_count": 8590
+        },
+        "url": "https://t.co/1ZyXkX11lS",
+        "username": "Meizakini",
+        "verified": false
+      }
+    ]
+  }
+}

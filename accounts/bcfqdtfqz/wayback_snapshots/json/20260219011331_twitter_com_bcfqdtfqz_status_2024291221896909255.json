@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2024291221896909255",
+    "created_at": "2026-02-19T01:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T02:12:07.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024290869009129786",
+      "2024291221896909255"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024291221896909255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看啥惊蛰无声啊\n你推上粉丝差不多2000的人在国内的\n人手都能拍一部惊蛰无声还是现场版\n身临其境还不要钱那种\n关注番茄带你了解更多省钱小技巧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2024290869009129786",
+        "created_at": "2026-02-19T01:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:12:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024290869009129786",
+          "2024291221896909255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024290869009129786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看啥惊蛰无声啊\n你推上粉丝差不多2000的人在国内的\n人手都能拍一部惊蛰无声还是现场版"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2024291221896909255",
+        "created_at": "2026-02-19T01:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:12:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024290869009129786",
+          "2024291221896909255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024291221896909255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看啥惊蛰无声啊\n你推上粉丝差不多2000的人在国内的\n人手都能拍一部惊蛰无声还是现场版\n身临其境还不要钱那种\n关注番茄带你了解更多省钱小技巧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "New York, USA",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 833,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 597
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2058454757069762866",
+    "created_at": "2026-05-24T16:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058590628116897963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1998647355839754240",
+          "start": 0,
+          "username": "VonJu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058590628116897963",
+    "in_reply_to_user_id": "1998647355839754240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058454757069762866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VonJu0 旷的前提是保证及格"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2058454757069762866",
+        "created_at": "2026-05-24T16:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058590628116897963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1998647355839754240",
+              "start": 0,
+              "username": "VonJu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058590628116897963",
+        "in_reply_to_user_id": "1998647355839754240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058454757069762866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VonJu0 旷的前提是保证及格"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998647355839754240",
+        "conversation_id": "2058454757069762866",
+        "created_at": "2026-05-24T07:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058454757069762866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058454757069762866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 8621,
+          "like_count": 95,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我认为当代大学生最值得做的几件事：\n1.独处散步 减少噪音\n2.定投纳指标普（绝不碰大A）\n3.旷掉没用的课（把时间留给自己）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 1346,
+          "like_count": 317,
+          "listed_count": 2,
+          "media_count": 737,
+          "tweet_count": 2005
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-10T06:54:05.000Z",
+        "description": "06大学生  211在读 沉默的观察者\n\n真实思考 观点输出 人生讨论 社会热点 美股投资",
+        "id": "1998647355839754240",
+        "location": "Los Angeles, CA",
+        "name": "vonju",
+        "pinned_tweet_id": "2057843895388737564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050137749106425856/cHbj5-zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 260,
+          "like_count": 1345,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 1572
+        },
+        "username": "VonJu0",
+        "verified": true
+      }
+    ]
+  }
+}

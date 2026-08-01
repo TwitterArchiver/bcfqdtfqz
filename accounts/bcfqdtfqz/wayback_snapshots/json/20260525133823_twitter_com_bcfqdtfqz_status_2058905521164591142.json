@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2058774500326703296",
+    "created_at": "2026-05-25T13:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058905521164591142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1998647355839754240",
+          "start": 0,
+          "username": "VonJu0"
+        },
+        {
+          "end": 21,
+          "id": "1912116017918320640",
+          "start": 8,
+          "username": "Clara_J_0529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058905521164591142",
+    "in_reply_to_user_id": "1998647355839754240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058777774735917315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VonJu0 @Clara_J_0529 你这思路我有研究，我这会也在考虑着冲广深然后再寻找一下拿到hk身份"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2058774500326703296",
+        "created_at": "2026-05-25T13:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058905521164591142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1998647355839754240",
+              "start": 0,
+              "username": "VonJu0"
+            },
+            {
+              "end": 21,
+              "id": "1912116017918320640",
+              "start": 8,
+              "username": "Clara_J_0529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058905521164591142",
+        "in_reply_to_user_id": "1998647355839754240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058777774735917315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VonJu0 @Clara_J_0529 你这思路我有研究，我这会也在考虑着冲广深然后再寻找一下拿到hk身份"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998647355839754240",
+        "conversation_id": "2058774500326703296",
+        "created_at": "2026-05-25T05:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058777774735917315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912116017918320640",
+              "start": 0,
+              "username": "Clara_J_0529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058777774735917315",
+        "in_reply_to_user_id": "1912116017918320640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 869,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058774500326703296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Clara_J_0529 自我感动 本质还是在既定轨道里兜兜转转\n不过去香港可以考虑考虑🥸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄🍅\n分享思考和个人生活\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 1348,
+          "like_count": 318,
+          "listed_count": 2,
+          "media_count": 737,
+          "tweet_count": 2017
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-10T06:54:05.000Z",
+        "description": "06大学生  211在读 沉默的观察者\n\n真实思考 观点输出 人生讨论 社会热点 美股投资",
+        "id": "1998647355839754240",
+        "location": "Los Angeles, CA",
+        "name": "vonju",
+        "pinned_tweet_id": "2057843895388737564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050137749106425856/cHbj5-zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 262,
+          "like_count": 1400,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 1607
+        },
+        "username": "VonJu0",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T12:09:53.000Z",
+        "description": "✈️ 04｜211｜体制内违约创业中\n💻 小红书个人IP | 自媒体变现\n💹 AI趋势解读｜Start up in public\n📮 X增长｜自媒体咨询｜AI工作流\njiamiaomiao029@gmail.com",
+        "id": "1912116017918320640",
+        "location": "vx：M18391980882  ",
+        "name": "Clara J",
+        "pinned_tweet_id": "2046771081202287028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054833839810433024/g-Me9BPn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3613,
+          "following_count": 265,
+          "like_count": 9525,
+          "listed_count": 11,
+          "media_count": 119,
+          "tweet_count": 4895
+        },
+        "username": "Clara_J_0529",
+        "verified": true
+      }
+    ]
+  }
+}

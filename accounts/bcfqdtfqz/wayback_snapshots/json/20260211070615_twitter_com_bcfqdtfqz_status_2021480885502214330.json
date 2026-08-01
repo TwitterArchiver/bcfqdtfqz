@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2021475976383955458",
+    "created_at": "2026-02-11T07:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T08:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021480885502214330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "191759462",
+          "start": 0,
+          "username": "david98703"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021480885502214330",
+    "in_reply_to_user_id": "191759462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021475976383955458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@david98703 都到这样了牙周确定没烂完吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16020,
+        "height": 1100,
+        "media_key": "13_2021172419025854465",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021172419025854465/img/d_Pe7mQLBSbstUWw.jpg",
+        "public_metrics": {
+          "view_count": 110563
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021172419025854465/vid/avc1/320x488/xNqYDea7RumNTccd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021172419025854465/vid/avc1/480x732/Fo_euDY-fSFkFx8C.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021172419025854465/vid/avc1/720x1100/J-yaPY-Vyxv7V47b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021172419025854465/pl/1hCEmZeCxMhY_ENC.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2021475976383955458",
+        "created_at": "2026-02-11T07:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021480885502214330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "191759462",
+              "start": 0,
+              "username": "david98703"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021480885502214330",
+        "in_reply_to_user_id": "191759462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021475976383955458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@david98703 都到这样了牙周确定没烂完吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021172419025854465"
+          ],
+          "media_source_tweet_id": [
+            "2021172476948930870"
+          ]
+        },
+        "author_id": "191759462",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2021475976383955458",
+        "created_at": "2026-02-11T06:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T07:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021475976383955458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOakQr8Akx",
+              "end": 31,
+              "expanded_url": "https://x.com/iladasilfarr/status/2021172476948930870/video/1",
+              "media_key": "13_2021172419025854465",
+              "start": 8,
+              "url": "https://t.co/XOakQr8Akx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021475976383955458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗牙真的挺重要的https://t.co/XOakQr8Akx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "秽土转生之神秘的番茄🍅",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 699,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 302
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-17T08:14:50.000Z",
+        "description": "let’s connect |蓝v互关",
+        "id": "191759462",
+        "location": "Fremont, CA",
+        "name": "David",
+        "pinned_tweet_id": "2018113109924220997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017966926429827072/5rVkR6mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 1360,
+          "like_count": 307,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 276
+        },
+        "username": "david98703",
+        "verified": true
+      }
+    ]
+  }
+}

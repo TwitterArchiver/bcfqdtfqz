@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2023108435278168571",
+    "created_at": "2026-02-16T07:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023304603694146019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676285751669956612",
+          "start": 0,
+          "username": "GG5940583085364"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023304603694146019",
+    "in_reply_to_user_id": "1676285751669956612",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023108435278168571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GG5940583085364 你也是神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2023108435278168571",
+        "created_at": "2026-02-16T07:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023304603694146019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676285751669956612",
+              "start": 0,
+              "username": "GG5940583085364"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023304603694146019",
+        "in_reply_to_user_id": "1676285751669956612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023108435278168571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GG5940583085364 你也是神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676285751669956612",
+        "conversation_id": "2023108435278168571",
+        "created_at": "2026-02-15T18:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T19:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023108435278168571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023108435278168571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 41311,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们在吃鸡吧的时候有考虑过现在全体女性面临的困境吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "Tokyo，Japan",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 787,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 486
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-04T17:44:15.000Z",
+        "description": "给我钱好不好 我是傻逼我乱说的",
+        "id": "1676285751669956612",
+        "location": "天堂🚪",
+        "name": "喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754476974204928000/R3axqwsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55888,
+          "following_count": 137,
+          "like_count": 2690,
+          "listed_count": 115,
+          "media_count": 298,
+          "tweet_count": 5081
+        },
+        "username": "GG5940583085364",
+        "verified": false
+      }
+    ]
+  }
+}

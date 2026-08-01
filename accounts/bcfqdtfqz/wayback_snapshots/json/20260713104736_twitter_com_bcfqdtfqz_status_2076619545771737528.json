@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2076619545771737528",
+    "created_at": "2026-07-13T10:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T11:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076619545771737528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_FORAB/status/…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/_FORAB/status/2076606903220940930",
+          "start": 72,
+          "url": "https://t.co/hEBkxwDWnO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076619545771737528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076606903220940930",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "海南这个地方比较特殊\n海南的高速公路不设置任何通行费，修缮的钱全部由加油钱当中抽税\n所以海南油价天生比内地高一截，当然不知道电车有没有这个限制 https://t.co/hEBkxwDWnO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1110,
+        "media_key": "3_2076605673425788928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGV248a4AA_dDi.jpg",
+        "width": 1028
+      },
+      {
+        "height": 998,
+        "media_key": "3_2076606727123095552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGW0ORb0AA6MKK.png",
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2076619545771737528",
+        "created_at": "2026-07-13T10:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076619545771737528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_FORAB/status/…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/_FORAB/status/2076606903220940930",
+              "start": 72,
+              "url": "https://t.co/hEBkxwDWnO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076619545771737528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076606903220940930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "海南这个地方比较特殊\n海南的高速公路不设置任何通行费，修缮的钱全部由加油钱当中抽税\n所以海南油价天生比内地高一截，当然不知道电车有没有这个限制 https://t.co/hEBkxwDWnO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076605673425788928",
+            "3_2076606727123095552"
+          ]
+        },
+        "author_id": "4848269835",
+        "conversation_id": "2076606903220940930",
+        "created_at": "2026-07-13T09:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076606903220940930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/96JR10aFjd",
+              "end": 133,
+              "expanded_url": "https://x.com/_FORAB/status/2076606903220940930/photo/1",
+              "media_key": "3_2076605673425788928",
+              "start": 110,
+              "url": "https://t.co/96JR10aFjd"
+            },
+            {
+              "display_url": "pic.x.com/96JR10aFjd",
+              "end": 133,
+              "expanded_url": "https://x.com/_FORAB/status/2076606903220940930/photo/1",
+              "media_key": "3_2076606727123095552",
+              "start": 110,
+              "url": "https://t.co/96JR10aFjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076606903220940930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14273,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "没想到比欧洲更快的是中国海南。\n\n海南官方发布通知，确认推进在 2030 年，也就是 4 年后，全面在当地禁售燃油车，同时计划将电车在当地的 23.7% 市场份额，推进到 45%，而欧洲原本的计划是 2035 年实施。 https://t.co/96JR10aFjd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号，梦到哪句发哪句\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 47,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 24,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 1424,
+          "like_count": 412,
+          "listed_count": 2,
+          "media_count": 802,
+          "tweet_count": 2945
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132060,
+          "following_count": 634,
+          "like_count": 10384,
+          "listed_count": 2056,
+          "media_count": 4011,
+          "tweet_count": 15474
+        },
+        "url": "",
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

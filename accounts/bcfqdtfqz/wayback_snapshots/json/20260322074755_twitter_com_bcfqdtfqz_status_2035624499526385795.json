@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2035310430252581331",
+    "created_at": "2026-03-22T07:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T08:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035624499526385795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "193648759",
+          "start": 0,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035624499526385795",
+    "in_reply_to_user_id": "193648759",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035310430252581331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ripo0079 加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2035310413995511809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7gCbnbEAE2Vlx.jpg",
+        "width": 3024
+      },
+      {
+        "height": 929,
+        "media_key": "3_2035310413999726592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7gCbobYAAC19I.jpg",
+        "width": 929
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2035310430252581331",
+        "created_at": "2026-03-22T07:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T08:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035624499526385795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035624499526385795",
+        "in_reply_to_user_id": "193648759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035310430252581331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035310413995511809",
+            "3_2035310413999726592"
+          ]
+        },
+        "author_id": "193648759",
+        "conversation_id": "2035310430252581331",
+        "created_at": "2026-03-21T10:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T11:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035310430252581331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gYYIISj2bL",
+              "end": 138,
+              "expanded_url": "https://x.com/ripo0079/status/2035310430252581331/photo/1",
+              "media_key": "3_2035310413995511809",
+              "start": 115,
+              "url": "https://t.co/gYYIISj2bL"
+            },
+            {
+              "display_url": "pic.x.com/gYYIISj2bL",
+              "end": 138,
+              "expanded_url": "https://x.com/ripo0079/status/2035310430252581331/photo/1",
+              "media_key": "3_2035310413999726592",
+              "start": 115,
+              "url": "https://t.co/gYYIISj2bL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035310430252581331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 39805,
+          "like_count": 1092,
+          "quote_count": 8,
+          "reply_count": 26,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "我今天在日本性别不一致学会（GI学会）上进行了发表，主题是来自中国的跨性别（AMAB）留学生及其所处的社会环境。\n同时，我也介绍了中国跨性别群体所拥有的文化（🍥标志）。\n中国当事人所形成的文化与社区力量，给予了我们勇气。\n谢谢！ https://t.co/gYYIISj2bL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 1121,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 482,
+          "tweet_count": 1327
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 21-NNT。国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "1995163218428432583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6883,
+          "following_count": 1364,
+          "like_count": 69564,
+          "listed_count": 121,
+          "media_count": 4263,
+          "tweet_count": 53444
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

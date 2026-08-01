@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2083531050547052922",
+    "created_at": "2026-08-01T12:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083534757405880683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1971833233253060610",
+          "start": 0,
+          "username": "DRG1145"
+        },
+        {
+          "end": 16,
+          "id": "1286241253621817344",
+          "start": 9,
+          "username": "CldGeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083534757405880683",
+    "in_reply_to_user_id": "1971833233253060610",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083531050547052922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DRG1145 @CldGeo 神秘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 134,
+        "media_key": "3_2083531045186789376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOowclLbYAA4SqK.jpg",
+        "width": 252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2083531050547052922",
+        "created_at": "2026-08-01T12:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083534757405880683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1971833233253060610",
+              "start": 0,
+              "username": "DRG1145"
+            },
+            {
+              "end": 16,
+              "id": "1286241253621817344",
+              "start": 9,
+              "username": "CldGeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083534757405880683",
+        "in_reply_to_user_id": "1971833233253060610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083531050547052922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DRG1145 @CldGeo 神秘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083531045186789376"
+          ]
+        },
+        "author_id": "1971833233253060610",
+        "conversation_id": "2083531050547052922",
+        "created_at": "2026-08-01T12:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083531050547052922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2iznFVXXs",
+              "end": 38,
+              "expanded_url": "https://x.com/DRG1145/status/2083531050547052922/photo/1",
+              "media_key": "3_2083531045186789376",
+              "start": 15,
+              "url": "https://t.co/F2iznFVXXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083531050547052922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这张图发出来会产生什么影响😱 https://t.co/F2iznFVXXs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 1424,
+          "like_count": 432,
+          "listed_count": 2,
+          "media_count": 827,
+          "tweet_count": 3226
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T07:04:21.000Z",
+        "description": "你好，这里是格林！汉语/English 请叫我格林/Green/小绿 互fo/上推频率：最少每周一次 杂食动物，喜欢音游/ボカロ/生活分享",
+        "id": "1971833233253060610",
+        "name": "DGawa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971835900272558080/4ygDwYmv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 414,
+          "like_count": 1893,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 293
+        },
+        "url": "",
+        "username": "DRG1145",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う\n@Cldeop / @YunJiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "Cldeop"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "username": "YunJiu"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "「絶え間ない光」が降り注ぐ",
+        "name": "九鸟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4810,
+          "following_count": 373,
+          "like_count": 5404,
+          "listed_count": 8,
+          "media_count": 558,
+          "tweet_count": 2200
+        },
+        "url": "",
+        "username": "CldGeo",
+        "verified": true
+      }
+    ]
+  }
+}

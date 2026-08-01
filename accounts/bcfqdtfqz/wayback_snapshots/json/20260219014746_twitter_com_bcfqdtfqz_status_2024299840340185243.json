@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024299829728595968"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2024299840340185243",
+    "created_at": "2026-02-19T01:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T02:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024299840340185243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F83MXHpcGn",
+          "end": 29,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2024299840340185243/photo/1",
+          "media_key": "3_2024299829728595968",
+          "start": 6,
+          "url": "https://t.co/F83MXHpcGn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024299840340185243",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁家op？ https://t.co/F83MXHpcGn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 801,
+        "media_key": "3_2024299829728595968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfB-E3bUAAKnMX.jpg",
+        "width": 1071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024299829728595968"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024299840340185243",
+        "created_at": "2026-02-19T01:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024299840340185243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F83MXHpcGn",
+              "end": 29,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2024299840340185243/photo/1",
+              "media_key": "3_2024299829728595968",
+              "start": 6,
+              "url": "https://t.co/F83MXHpcGn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024299840340185243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁家op？ https://t.co/F83MXHpcGn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "New York, USA",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 833,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 598
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

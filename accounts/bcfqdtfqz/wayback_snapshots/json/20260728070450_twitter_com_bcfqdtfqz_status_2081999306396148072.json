@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2081904830789058886",
+    "created_at": "2026-07-28T07:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T08:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081999306396148072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081999306396148072",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081904830789058886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 主包你怎么这么高冷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1196,
+        "media_key": "3_2081904815672848384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HORpZkJa8AAnOcZ.jpg",
+        "width": 896
+      },
+      {
+        "height": 1196,
+        "media_key": "3_2081904823197425664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HORpaALa4AAioJg.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2081904830789058886",
+        "created_at": "2026-07-28T07:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081999306396148072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081999306396148072",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081904830789058886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 主包你怎么这么高冷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081904815672848384",
+            "3_2081904823197425664"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "2081904830789058886",
+        "created_at": "2026-07-28T00:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T01:47:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081904465561665687",
+          "2081904830789058886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BsQqnIYwKA",
+              "end": 40,
+              "expanded_url": "https://x.com/IXXA00/status/2081904830789058886/photo/1",
+              "media_key": "3_2081904815672848384",
+              "start": 17,
+              "url": "https://t.co/BsQqnIYwKA"
+            },
+            {
+              "display_url": "pic.x.com/BsQqnIYwKA",
+              "end": 40,
+              "expanded_url": "https://x.com/IXXA00/status/2081904830789058886/photo/1",
+              "media_key": "3_2081904823197425664",
+              "start": 17,
+              "url": "https://t.co/BsQqnIYwKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081904830789058886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1155,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "主包其实是有超绝肩宽的冷峻硬妹。 https://t.co/BsQqnIYwKA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 1429,
+          "like_count": 429,
+          "listed_count": 2,
+          "media_count": 823,
+          "tweet_count": 3173
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "太阳应该燃烧。❤️我也有足够的爱。/一个热烈、分享欲强、情绪丰富、愿意给予的小孩。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2081982951584399512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7526,
+          "following_count": 4536,
+          "like_count": 43578,
+          "listed_count": 18,
+          "media_count": 3203,
+          "tweet_count": 43179
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

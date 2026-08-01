@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2023035699331727680",
+    "created_at": "2026-02-15T14:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T15:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023046231359201558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "751665353625776129",
+          "start": 0,
+          "username": "ooeli_eth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023046231359201558",
+    "in_reply_to_user_id": "751665353625776129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023035699331727680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ooeli_eth 适当储蓄，不要对现实生活影响太大就好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 606,
+        "media_key": "3_2023030675520274432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBM_rlAawAAR1N1.jpg",
+        "width": 1125
+      },
+      {
+        "height": 587,
+        "media_key": "3_2023030675516030976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBM_rk_aAAA-_YU.jpg",
+        "width": 1107
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2023035699331727680",
+        "created_at": "2026-02-15T14:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023046231359201558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "751665353625776129",
+              "start": 0,
+              "username": "ooeli_eth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023046231359201558",
+        "in_reply_to_user_id": "751665353625776129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023035699331727680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ooeli_eth 适当储蓄，不要对现实生活影响太大就好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023030675520274432",
+            "3_2023030675516030976"
+          ]
+        },
+        "author_id": "751665353625776129",
+        "conversation_id": "2023035699331727680",
+        "created_at": "2026-02-15T14:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023035699331727680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mAerSp9MQv",
+              "end": 162,
+              "expanded_url": "https://x.com/ooeli_eth/status/2023035699331727680/photo/1",
+              "media_key": "3_2023030675520274432",
+              "start": 139,
+              "url": "https://t.co/mAerSp9MQv"
+            },
+            {
+              "display_url": "pic.x.com/mAerSp9MQv",
+              "end": 162,
+              "expanded_url": "https://x.com/ooeli_eth/status/2023035699331727680/photo/1",
+              "media_key": "3_2023030675516030976",
+              "start": 139,
+              "url": "https://t.co/mAerSp9MQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023035699331727680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很多上学阶段的朋友问，\n\n要不要把不舍得花，攒下的钱，投入到标普和纳指里面？\n\n其实，不管是大学生，还是刚刚上班，如果你只有几万本金，买指数基金(价值投资)都不是很好的选择！\n\n这个阶段投资自己才是更重要的，几万块钱，不如拿去学英语、健身、学AI、旅行、恋爱以及尝试些新玩意…\n\n就像段永平说的，好好享受你的现在的学校生活才是正经事——因为毕业以后，你就会发现那种纯粹的学习时光一去不复返了！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3115,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "很多上学阶段的朋友问，\n\n要不要把不舍得花，攒下的钱，投入到标普和纳指里面？\n\n其实，不管是大学生，还是刚刚上班，如果你只有几万本金，买指数基金(价值投资)都不是很好的选择！\n\n这个阶段投资自己才是更重要的，几万块钱，不如拿去学英语、健身、学AI、旅行、恋爱以及尝试些新玩意… https://t.co/mAerSp9MQv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 779,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 462
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-09T06:32:40.000Z",
+        "description": "美股｜标普&纳斯达克｜投资理财常识｜读书和学习分享｜學思集｜小红书号ooeli_eth｜私信解答¥25/问题｜1v1投资辅导¥199/次",
+        "id": "751665353625776129",
+        "name": "OōEli.eth",
+        "pinned_tweet_id": "2013811176564805878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490937705995276288/BckjXqU0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72813,
+          "following_count": 453,
+          "like_count": 6685,
+          "listed_count": 740,
+          "media_count": 1851,
+          "tweet_count": 8719
+        },
+        "username": "ooeli_eth",
+        "verified": true
+      }
+    ]
+  }
+}

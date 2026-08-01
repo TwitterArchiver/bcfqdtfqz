@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2074066251727749362",
+    "created_at": "2026-07-06T12:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T13:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074101569503801718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1875930017781456896",
+          "start": 0,
+          "username": "PL76543"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074101569503801718",
+    "in_reply_to_user_id": "1875930017781456896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074066251727749362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PL76543 我也想要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1806,
+        "media_key": "3_2074066243997540352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiQQpIaIAADVp-.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074066244018606081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiQQpNbkAEoskO.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2074066251727749362",
+        "created_at": "2026-07-06T12:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074101569503801718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1875930017781456896",
+              "start": 0,
+              "username": "PL76543"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074101569503801718",
+        "in_reply_to_user_id": "1875930017781456896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074066251727749362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PL76543 我也想要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074066243997540352",
+            "3_2074066244018606081"
+          ]
+        },
+        "author_id": "1875930017781456896",
+        "conversation_id": "2074066251727749362",
+        "created_at": "2026-07-06T09:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074066251727749362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ME0jtST3F8",
+              "end": 39,
+              "expanded_url": "https://x.com/PL76543/status/2074066251727749362/photo/1",
+              "media_key": "3_2074066243997540352",
+              "start": 16,
+              "url": "https://t.co/ME0jtST3F8"
+            },
+            {
+              "display_url": "pic.x.com/ME0jtST3F8",
+              "end": 39,
+              "expanded_url": "https://x.com/PL76543/status/2074066251727749362/photo/1",
+              "media_key": "3_2074066244018606081",
+              "start": 16,
+              "url": "https://t.co/ME0jtST3F8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074066251727749362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2656,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近好心人有点多 总之谢谢你们 https://t.co/ME0jtST3F8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 1405,
+          "like_count": 390,
+          "listed_count": 2,
+          "media_count": 789,
+          "tweet_count": 2748
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-05T15:39:14.000Z",
+        "description": "04｜美术生｜kpop｜本命TXT｜🤍崔杋圭崔秀彬🤍｜不加v｜2026年的愿望是多看几场演唱会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "akmbjsq.com/auth/register?…",
+                "end": 23,
+                "expanded_url": "https://www.akmbjsq.com/auth/register?code=crOw",
+                "start": 0,
+                "url": "https://t.co/cQtB2X16gi"
+              }
+            ]
+          }
+        },
+        "id": "1875930017781456896",
+        "location": "自用vpn",
+        "name": "PL",
+        "pinned_tweet_id": "2062075865429909534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901906907155341313/XnYP5CuQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4721,
+          "following_count": 510,
+          "like_count": 3151,
+          "listed_count": 5,
+          "media_count": 207,
+          "tweet_count": 1288
+        },
+        "url": "https://t.co/cQtB2X16gi",
+        "username": "PL76543",
+        "verified": false
+      }
+    ]
+  }
+}

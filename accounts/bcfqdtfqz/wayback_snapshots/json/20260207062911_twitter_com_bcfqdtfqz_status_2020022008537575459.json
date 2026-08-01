@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020021990594330624"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2020022008537575459",
+    "created_at": "2026-02-07T06:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T07:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020022008537575459"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pKpNDnhrtn",
+          "end": 36,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2020022008537575459/photo/1",
+          "media_key": "3_2020021990594330624",
+          "start": 13,
+          "url": "https://t.co/pKpNDnhrtn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020022008537575459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太喜欢了，看得我春心荡漾 https://t.co/pKpNDnhrtn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1615,
+        "media_key": "3_2020021990594330624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAiPTEPaQAAop1C.jpg",
+        "width": 1118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020021990594330624"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2020022008537575459",
+        "created_at": "2026-02-07T06:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T07:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020022008537575459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pKpNDnhrtn",
+              "end": 36,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2020022008537575459/photo/1",
+              "media_key": "3_2020021990594330624",
+              "start": 13,
+              "url": "https://t.co/pKpNDnhrtn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020022008537575459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太喜欢了，看得我春心荡漾 https://t.co/pKpNDnhrtn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "🍅",
+        "id": "2018306514549972992",
+        "name": "吃番茄不吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 311,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 136
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

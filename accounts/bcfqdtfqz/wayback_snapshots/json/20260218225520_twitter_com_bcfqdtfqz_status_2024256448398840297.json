@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2023986249518723543",
+    "created_at": "2026-02-18T22:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T23:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024256448398840297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1845304648313323522",
+          "start": 0,
+          "username": "55juzi55_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024256448398840297",
+    "in_reply_to_user_id": "1845304648313323522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023986249518723543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@55juzi55_ 羡慕赣鲁和粤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2023986249518723543",
+        "created_at": "2026-02-18T22:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T23:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024256448398840297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1845304648313323522",
+              "start": 0,
+              "username": "55juzi55_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024256448398840297",
+        "in_reply_to_user_id": "1845304648313323522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023986249518723543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@55juzi55_ 羡慕赣鲁和粤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845304648313323522",
+        "conversation_id": "2023986249518723543",
+        "created_at": "2026-02-18T05:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023986249518723543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023986249518723543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 24596,
+          "like_count": 188,
+          "quote_count": 4,
+          "reply_count": 38,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "江西人一出生就在赣，山东人一出生就在鲁，广东人一岀生就在粤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "New York, USA",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 827,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 587
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T03:25:04.000Z",
+        "description": "‼️私信前请先关注丨优先回复🚪/有意思的/女孩子丨当朋友圈发丨🚪可加联系方式丨欢迎美女宝宝互关丨礼貌一点互相尊重谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/juzi.mood",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/juzi.mood",
+                "start": 0,
+                "url": "https://t.co/ymlXKHVLfK"
+              }
+            ]
+          }
+        },
+        "id": "1845304648313323522",
+        "location": "🚪98/188/520没什么实际区别",
+        "name": "欣欣",
+        "pinned_tweet_id": "2021138914254389481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924989316138467328/bwN8esp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 81,
+          "like_count": 2229,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1248
+        },
+        "url": "https://t.co/ymlXKHVLfK",
+        "username": "55juzi55_",
+        "verified": false
+      }
+    ]
+  }
+}

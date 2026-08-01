@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2024401818294583353",
+    "created_at": "2026-02-19T14:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T15:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024493239613661523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1069414274374688771",
+          "start": 0,
+          "username": "yami04650367"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024493239613661523",
+    "in_reply_to_user_id": "1069414274374688771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024401818294583353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yami04650367 所以蜘蛛侠是拍的是你的自传吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2024401813940948998",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgeuVqbUAYzvTt.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2024401818294583353",
+        "created_at": "2026-02-19T14:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024493239613661523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1069414274374688771",
+              "start": 0,
+              "username": "yami04650367"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024493239613661523",
+        "in_reply_to_user_id": "1069414274374688771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024401818294583353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yami04650367 所以蜘蛛侠是拍的是你的自传吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024401813940948998"
+          ]
+        },
+        "author_id": "1069414274374688771",
+        "conversation_id": "2024401818294583353",
+        "created_at": "2026-02-19T08:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024401818294583353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/50eOY8b7P5",
+              "end": 67,
+              "expanded_url": "https://x.com/yami04650367/status/2024401818294583353/photo/1",
+              "media_key": "3_2024401813940948998",
+              "start": 44,
+              "url": "https://t.co/50eOY8b7P5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024401818294583353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 15312,
+          "like_count": 340,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "在我们这有个不成文的规定，\n如果有人能把钢卷扛走，那不算偷，那算拿，那钢卷就直接归他了 https://t.co/50eOY8b7P5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 848,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 619
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-03T02:13:26.000Z",
+        "description": "建模一二岁时候没处理好\n主页有女装照和kig混杂注意回避风险\n需要互关请私信muamua，不想关注我会回复",
+        "id": "1069414274374688771",
+        "location": "我这是哪里啊",
+        "name": "壓米",
+        "pinned_tweet_id": "1849848965174526093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022342120716292097/wXjwJ0ar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 418,
+          "like_count": 4981,
+          "listed_count": 13,
+          "media_count": 1307,
+          "tweet_count": 2009
+        },
+        "username": "yami04650367",
+        "verified": false
+      }
+    ]
+  }
+}

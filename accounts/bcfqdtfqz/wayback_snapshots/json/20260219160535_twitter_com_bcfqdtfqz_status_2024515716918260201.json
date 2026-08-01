@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2024509616126906519",
+    "created_at": "2026-02-19T16:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024515716918260201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757630242288541696",
+          "start": 0,
+          "username": "Zhixiang_312145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024515716918260201",
+    "in_reply_to_user_id": "1757630242288541696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024509616126906519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhixiang_312145 墙外用的多的话不建议国产输入法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2024509616126906519",
+        "created_at": "2026-02-19T16:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024515716918260201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757630242288541696",
+              "start": 0,
+              "username": "Zhixiang_312145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024515716918260201",
+        "in_reply_to_user_id": "1757630242288541696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024509616126906519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhixiang_312145 墙外用的多的话不建议国产输入法"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2024509614822395904"
+          ]
+        },
+        "author_id": "1757630242288541696",
+        "conversation_id": "2024509616126906519",
+        "created_at": "2026-02-19T15:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024509616126906519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024509616126906519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Which one?\n想换一个\nGboard 太傻了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 848,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 620
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T04:58:13.000Z",
+        "description": "Chinese 🇨🇳 / Male / Student / 17 years old / See you in every world, if possible. / No NSFW / No political content / Backup account: @Phoeversum / EN or ZH-CN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Phoeversum"
+              }
+            ]
+          }
+        },
+        "id": "1757630242288541696",
+        "location": "China Mainland",
+        "name": "Zhixiang Huang",
+        "pinned_tweet_id": "2022209412203749618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757630635047280640/bkSrQETY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 1937,
+          "like_count": 106748,
+          "listed_count": 4,
+          "media_count": 1638,
+          "tweet_count": 14307
+        },
+        "username": "Zhixiang_312145",
+        "verified": false
+      }
+    ]
+  }
+}

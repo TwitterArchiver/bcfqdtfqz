@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2020830801777307997",
+    "created_at": "2026-02-09T15:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T16:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020879706858623060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3150623335",
+          "start": 0,
+          "username": "himself65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020879706858623060",
+    "in_reply_to_user_id": "3150623335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020830801777307997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@himself65 那么问题来了，吃完老黄餐能长智慧吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2020830787185328128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtu5OVawAAcKlj.jpg",
+        "width": 2047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2020830801777307997",
+        "created_at": "2026-02-09T15:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020879706858623060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3150623335",
+              "start": 0,
+              "username": "himself65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020879706858623060",
+        "in_reply_to_user_id": "3150623335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020830801777307997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@himself65 那么问题来了，吃完老黄餐能长智慧吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020830787185328128"
+          ]
+        },
+        "author_id": "3150623335",
+        "conversation_id": "2020830801777307997",
+        "created_at": "2026-02-09T12:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T13:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020830801777307997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nkjjtDT7De",
+              "end": 36,
+              "expanded_url": "https://x.com/himself65/status/2020830801777307997/photo/1",
+              "media_key": "3_2020830787185328128",
+              "start": 13,
+              "url": "https://t.co/nkjjtDT7De"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020830801777307997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6230,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "AAA显卡批发黄先生同款 https://t.co/nkjjtDT7De"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "🍅",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 487,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 184
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2015-04-12T00:07:21.000Z",
+        "description": "Not a trader, not a programmer. All posts are not financial advice nor tech insight.",
+        "id": "3150623335",
+        "location": "California, USA",
+        "name": "面包🍞",
+        "pinned_tweet_id": "2019886969992671513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883626401947136000/k8x5k3f8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59811,
+          "following_count": 224,
+          "like_count": 110625,
+          "listed_count": 323,
+          "media_count": 1395,
+          "tweet_count": 16992
+        },
+        "username": "himself65",
+        "verified": true
+      }
+    ]
+  }
+}

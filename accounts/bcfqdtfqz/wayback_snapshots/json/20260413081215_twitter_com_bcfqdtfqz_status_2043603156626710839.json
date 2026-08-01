@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2043316406218092549",
+    "created_at": "2026-04-13T08:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T09:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043603156626710839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        },
+        {
+          "end": 21,
+          "id": "1840055457756610560",
+          "start": 10,
+          "username": "hood438371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043603156626710839",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043316406218092549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne @hood438371 当个事办"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1154,
+        "media_key": "3_2043315989925015552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtRER9bMAA1Ux3.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2043316406218092549",
+        "created_at": "2026-04-13T08:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043603156626710839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            },
+            {
+              "end": 21,
+              "id": "1840055457756610560",
+              "start": 10,
+              "username": "hood438371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043603156626710839",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043316406218092549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne @hood438371 当个事办"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043315989925015552"
+          ]
+        },
+        "author_id": "1247054463329656832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1499439674430951425",
+              "name": "Twitter Blue"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1499439674430951425",
+              "name": "Twitter Blue"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2043316406218092549",
+        "created_at": "2026-04-12T13:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:11:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043315995394330723",
+          "2043316406218092549"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "蓝v"
+            },
+            {
+              "end": 64,
+              "start": 55,
+              "tag": "XPremium"
+            },
+            {
+              "end": 77,
+              "start": 65,
+              "tag": "TwitterBlue"
+            },
+            {
+              "end": 84,
+              "start": 78,
+              "tag": "创作者收益"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z4F4eCvjWB",
+              "end": 108,
+              "expanded_url": "https://x.com/quasarne/status/2043316406218092549/photo/1",
+              "media_key": "3_2043315989925015552",
+              "start": 85,
+              "url": "https://t.co/z4F4eCvjWB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043316406218092549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "距离目标还有 388 位蓝标关注，大家可以助力我爆马斯克的米吗？qωq\n\n欢迎 #蓝v 互 fo (^🙏^)\n#XPremium #TwitterBlue #创作者收益 https://t.co/z4F4eCvjWB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅另一个号@__fanqie__\n这个号发帖梗图夹杂着生活帖子，\n欢迎互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "__fanqie__"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 1334,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 663,
+          "tweet_count": 1739
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "全沾逝学牲猫｜數碼/科幻/策略/音游 Wikier｜🏳️‍🌈𝕡𝕒𝕟/𝕘𝕒𝕪🏳️‍⚧️｜🚩🏴𝒕𝒂𝒗𝒍𝒖𝒗𝒂 y 𝒆𝒂 自由·平等🌹｜🌐漢語 吴、普/English OK｜SAD｜Knowledge is кии to the universe｜键政垢：@junenkim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "junenkim"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quasarne14546",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quasarne14546",
+                "start": 0,
+                "url": "https://t.co/av1wKCkdLM"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "Freedom Territory of QNA",
+        "name": "neⒶστήρ |星ない",
+        "pinned_tweet_id": "2043336938221170970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015318609091026944/HsmCBNSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 1010,
+          "like_count": 74971,
+          "listed_count": 6,
+          "media_count": 1010,
+          "tweet_count": 13549
+        },
+        "url": "https://t.co/av1wKCkdLM",
+        "username": "quasarne",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-28T15:46:52.000Z",
+        "description": "可能是138亿年前就出发的不断远离的光",
+        "id": "1840055457756610560",
+        "name": "红、东",
+        "pinned_tweet_id": "2042606237351842242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043356160083083264/-uQtl6AP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 1895,
+          "like_count": 82978,
+          "listed_count": 6,
+          "media_count": 1100,
+          "tweet_count": 21065
+        },
+        "username": "hood438371",
+        "verified": false
+      }
+    ]
+  }
+}

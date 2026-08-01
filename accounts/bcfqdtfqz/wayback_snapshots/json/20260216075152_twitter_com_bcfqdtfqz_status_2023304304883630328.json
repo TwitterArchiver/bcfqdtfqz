@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2023238523835527569",
+    "created_at": "2026-02-16T07:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023304304883630328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "39716430",
+          "start": 0,
+          "username": "plantegg"
+        },
+        {
+          "end": 20,
+          "id": "1243478418957594629",
+          "start": 10,
+          "username": "Smile4Yes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023304304883630328",
+    "in_reply_to_user_id": "39716430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023264076231791003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plantegg @Smile4Yes 你是我在推上为数不多能客观评价币圈的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2023238523835527569",
+        "created_at": "2026-02-16T07:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023304304883630328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "39716430",
+              "start": 0,
+              "username": "plantegg"
+            },
+            {
+              "end": 20,
+              "id": "1243478418957594629",
+              "start": 10,
+              "username": "Smile4Yes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023304304883630328",
+        "in_reply_to_user_id": "39716430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023264076231791003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plantegg @Smile4Yes 你是我在推上为数不多能客观评价币圈的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "39716430",
+        "conversation_id": "2023238523835527569",
+        "created_at": "2026-02-16T05:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023264076231791003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1243478418957594629",
+              "start": 0,
+              "username": "Smile4Yes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023264076231791003",
+        "in_reply_to_user_id": "1243478418957594629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 977,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023249573817270760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Smile4Yes 是的，币的话买点比特币长期持有可能还行，频繁买卖的基本上都是赌博"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "Tokyo，Japan",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 787,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 485
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-13T08:54:08.000Z",
+        "description": "工程师，网络、性能、CPU等领域。个人介绍：https://t.co/sdAwtv1et3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "plantegg.github.io/2022/01/01/%E4…",
+                "end": 45,
+                "expanded_url": "https://plantegg.github.io/2022/01/01/%E4%B8%89%E4%B8%AA%E6%95%85%E4%BA%8B/",
+                "start": 22,
+                "url": "https://t.co/sdAwtv1et3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "plantegg.github.io",
+                "end": 23,
+                "expanded_url": "https://plantegg.github.io",
+                "start": 0,
+                "url": "https://t.co/UWhpCZ06ua"
+              }
+            ]
+          }
+        },
+        "id": "39716430",
+        "name": "plantegg",
+        "pinned_tweet_id": "2019706381662585151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/587268563/twitterProfilePhoto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52968,
+          "following_count": 435,
+          "like_count": 2653,
+          "listed_count": 332,
+          "media_count": 1669,
+          "tweet_count": 8265
+        },
+        "url": "https://t.co/UWhpCZ06ua",
+        "username": "plantegg",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-27T10:02:25.000Z",
+        "description": "ISTP-T / Trying to get better / 一个好人 / 自己的心事小树洞",
+        "id": "1243478418957594629",
+        "location": "Utopia",
+        "name": "Smileyes（互/mutual）",
+        "pinned_tweet_id": "2010248239120077202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848555831572545536/Ri4_Cvix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231,
+          "following_count": 2204,
+          "like_count": 26427,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 5766
+        },
+        "username": "Smile4Yes",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2081773322703180037",
+    "created_at": "2026-07-27T16:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T17:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081773322703180037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__fanqie__/sta…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/__fanqie__/status/2081735664765464698",
+          "start": 75,
+          "url": "https://t.co/gFFLf96xSA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081773322703180037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081735664765464698",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点想念张雪峰刚死那会有人在我评论区指着我骂吃人血馒头那帮人了\n\n现在被shadowban了正愁着没神人来我评论区跳脚然后再被另一拨人怼回去🙂‍↕️ https://t.co/gFFLf96xSA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2081735628434423808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPPhkkbwAAO5-G.jpg",
+        "width": 1890
+      },
+      {
+        "height": 1803,
+        "media_key": "3_2081735645593272320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPPikfbAAAhqKh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2081773322703180037",
+        "created_at": "2026-07-27T16:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081773322703180037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__fanqie__/sta…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/__fanqie__/status/2081735664765464698",
+              "start": 75,
+              "url": "https://t.co/gFFLf96xSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081773322703180037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081735664765464698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点想念张雪峰刚死那会有人在我评论区指着我骂吃人血馒头那帮人了\n\n现在被shadowban了正愁着没神人来我评论区跳脚然后再被另一拨人怼回去🙂‍↕️ https://t.co/gFFLf96xSA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081735628434423808",
+            "3_2081735645593272320"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2081735664765464698",
+        "created_at": "2026-07-27T13:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081735664765464698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wc35dHuhuo",
+              "end": 43,
+              "expanded_url": "https://x.com/__fanqie__/status/2081735664765464698/photo/1",
+              "media_key": "3_2081735628434423808",
+              "start": 20,
+              "url": "https://t.co/wc35dHuhuo"
+            },
+            {
+              "display_url": "pic.x.com/wc35dHuhuo",
+              "end": 43,
+              "expanded_url": "https://x.com/__fanqie__/status/2081735664765464698/photo/1",
+              "media_key": "3_2081735645593272320",
+              "start": 20,
+              "url": "https://t.co/wc35dHuhuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081735664765464698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 423,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "让你做张雪峰鬼谷子卖，这下子也保阎了吧 https://t.co/wc35dHuhuo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 1428,
+          "like_count": 428,
+          "listed_count": 2,
+          "media_count": 822,
+          "tweet_count": 3161
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuO2ty"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11420,
+          "following_count": 2805,
+          "like_count": 1610,
+          "listed_count": 26,
+          "media_count": 2405,
+          "tweet_count": 11196
+        },
+        "url": "https://t.co/ndOwWuO2ty",
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

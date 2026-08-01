@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2025545848499917046",
+    "created_at": "2026-02-22T12:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T13:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025552037480677684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1558317849508122629",
+          "start": 0,
+          "username": "CuiMao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025552037480677684",
+    "in_reply_to_user_id": "1558317849508122629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025545848499917046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuiMao 孙哥下一个目标来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 429,
+        "media_key": "3_2025545638604341248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwvBslagAAYJWj.png",
+        "width": 601
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2025545848499917046",
+        "created_at": "2026-02-22T12:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T13:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025552037480677684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1558317849508122629",
+              "start": 0,
+              "username": "CuiMao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025552037480677684",
+        "in_reply_to_user_id": "1558317849508122629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025545848499917046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuiMao 孙哥下一个目标来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025545638604341248"
+          ]
+        },
+        "author_id": "1558317849508122629",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025545848499917046",
+        "created_at": "2026-02-22T12:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T13:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025545848499917046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e8Zp3UDOda",
+              "end": 30,
+              "expanded_url": "https://x.com/CuiMao/status/2025545848499917046/photo/1",
+              "media_key": "3_2025545638604341248",
+              "start": 7,
+              "url": "https://t.co/e8Zp3UDOda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025545848499917046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1412,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊？why？ https://t.co/e8Zp3UDOda"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 989,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 754
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-13T05:01:53.000Z",
+        "description": "AI Developer",
+        "id": "1558317849508122629",
+        "name": "CuiMao",
+        "pinned_tweet_id": "2025015201977041353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025112186520211456/kfP9BPWZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29764,
+          "following_count": 1107,
+          "like_count": 8388,
+          "listed_count": 141,
+          "media_count": 1296,
+          "tweet_count": 11151
+        },
+        "username": "CuiMao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2074138368905293900",
+    "created_at": "2026-07-07T02:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074323677106282837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596823873894420480",
+          "start": 0,
+          "username": "hanzheng_street"
+        },
+        {
+          "end": 29,
+          "id": "1165044876297134080",
+          "start": 17,
+          "username": "realNyarime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074323677106282837",
+    "in_reply_to_user_id": "1596823873894420480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074152717493383472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanzheng_street @realNyarime 那你觉得付费改可观看，b站付的版权费怎么收回来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2074138368905293900",
+        "created_at": "2026-07-07T02:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074323677106282837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596823873894420480",
+              "start": 0,
+              "username": "hanzheng_street"
+            },
+            {
+              "end": 29,
+              "id": "1165044876297134080",
+              "start": 17,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074323677106282837",
+        "in_reply_to_user_id": "1596823873894420480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074152717493383472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanzheng_street @realNyarime 那你觉得付费改可观看，b站付的版权费怎么收回来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596823873894420480",
+        "conversation_id": "2074138368905293900",
+        "created_at": "2026-07-06T15:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074152717493383472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074152717493383472",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 969,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074138368905293900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 强烈反对B站无理打压模块开发者，侵害用户体验"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 1407,
+          "like_count": 387,
+          "listed_count": 2,
+          "media_count": 789,
+          "tweet_count": 2760
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-27T11:11:08.000Z",
+        "description": "君は私が明日何を更新するかずっと知れない。［🚫広告は絶対に禁止です！迷惑メッセージをしな！広告チャットの要請を送るな！］",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vdse.bdstatic.com//192d9a98d782d…",
+                "end": 23,
+                "expanded_url": "https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4",
+                "start": 0,
+                "url": "https://t.co/IC0IB1UhyI"
+              }
+            ]
+          }
+        },
+        "id": "1596823873894420480",
+        "location": "中国武漢",
+        "name": "漢正街地鐵站",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881113130505502720/bMozvMtx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 208,
+          "like_count": 38866,
+          "listed_count": 3,
+          "media_count": 951,
+          "tweet_count": 10261
+        },
+        "url": "https://t.co/IC0IB1UhyI",
+        "username": "hanzheng_street",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39847,
+          "following_count": 657,
+          "like_count": 18979,
+          "listed_count": 182,
+          "media_count": 2307,
+          "tweet_count": 15951
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2030987308501967256",
+    "created_at": "2026-03-10T05:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T06:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031238214460301680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1162361622880509954",
+          "start": 0,
+          "username": "cheesesenbeixxd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031238214460301680",
+    "in_reply_to_user_id": "1162361622880509954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030987308501967256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheesesenbeixxd 这都不算啥，之前广东有个17岁发癌细胞sci的，然后他爹是中山大学教授方向恰好一致🤓🤓🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2030987308501967256",
+        "created_at": "2026-03-10T05:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T06:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031238214460301680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1162361622880509954",
+              "start": 0,
+              "username": "cheesesenbeixxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031238214460301680",
+        "in_reply_to_user_id": "1162361622880509954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030987308501967256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheesesenbeixxd 这都不算啥，之前广东有个17岁发癌细胞sci的，然后他爹是中山大学教授方向恰好一致🤓🤓🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1162361622880509954",
+        "conversation_id": "2030987308501967256",
+        "created_at": "2026-03-09T12:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030987308501967256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030987308501967256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2006,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "17岁发sci那件事也挺好笑的。\n直接说这篇论文是代写他只是挂名，太没意思了。\n有意思的在于，如果他真的从头到尾都参与了。17这个年纪该准备高考对吧，普通人家的孩子窝在教室里哐哐写题，为了场考试拼死拼活。人家在研究新物种，发sci。你知道笑点在哪里了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 1041,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 1148
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-16T13:53:13.000Z",
+        "description": "你好，再见",
+        "id": "1162361622880509954",
+        "name": "🌳是棵胡杨ツ",
+        "pinned_tweet_id": "1761438084179390903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873186798232584193/X4SuKxWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 782,
+          "like_count": 105612,
+          "listed_count": 6,
+          "media_count": 524,
+          "tweet_count": 11141
+        },
+        "username": "cheesesenbeixxd",
+        "verified": false
+      }
+    ]
+  }
+}

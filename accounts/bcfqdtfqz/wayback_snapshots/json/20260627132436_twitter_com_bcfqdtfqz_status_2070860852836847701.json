@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070819924952666615",
+    "created_at": "2026-06-27T13:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070860852836847701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1529448037885833216",
+          "start": 0,
+          "username": "WoShiGaoYuliang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070860852836847701",
+    "in_reply_to_user_id": "1529448037885833216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070819924952666615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WoShiGaoYuliang …？啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070819924952666615",
+        "created_at": "2026-06-27T13:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070860852836847701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529448037885833216",
+              "start": 0,
+              "username": "WoShiGaoYuliang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070860852836847701",
+        "in_reply_to_user_id": "1529448037885833216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070819924952666615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WoShiGaoYuliang …？啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529448037885833216",
+        "conversation_id": "2070819924952666615",
+        "created_at": "2026-06-27T10:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070819924952666615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070819924952666615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学医有一点好处就是批量产出标准学姐，就是那种，非常标准的学姐🐱而且无论年龄，只要年级比她小就会自动触发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 1378,
+          "like_count": 353,
+          "listed_count": 2,
+          "media_count": 774,
+          "tweet_count": 2455
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-25T13:03:35.000Z",
+        "description": "2004年4月至2010年3月，担任汉东省吕州市委常委、政法委书记。\n2013年5月至2013年7月，担任汉东省委副书记、吕州市委书记。\n2013年7月至2016年6月，担任汉东省委常委、省委副书记、政法委书记。\n现担任汉东医科大学附属第一医院副院长、泌尿外科主任。",
+        "id": "1529448037885833216",
+        "location": "汉东省 京州市 省委大院",
+        "name": "高育良",
+        "pinned_tweet_id": "1941784806347747656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043355952951500801/q6HB3jw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 541,
+          "like_count": 26934,
+          "listed_count": 3,
+          "media_count": 763,
+          "tweet_count": 11031
+        },
+        "url": "",
+        "username": "WoShiGaoYuliang",
+        "verified": false
+      }
+    ]
+  }
+}

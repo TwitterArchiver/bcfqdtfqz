@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2075906794438947113",
+    "created_at": "2026-07-11T12:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075926749972668725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1635414331797180416",
+          "start": 0,
+          "username": "dXqwq_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075926749972668725",
+    "in_reply_to_user_id": "1635414331797180416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075906794438947113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dXqwq_Official 想要个手台"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075906770472779777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8aNYjbwAEa5v5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2075906770464284673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8aNYhaIAEte7h.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075906770476912640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8aNYka0AAP7e8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075906770518900736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8aNYubgAAjY3S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2075906794438947113",
+        "created_at": "2026-07-11T12:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075926749972668725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1635414331797180416",
+              "start": 0,
+              "username": "dXqwq_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075926749972668725",
+        "in_reply_to_user_id": "1635414331797180416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075906794438947113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dXqwq_Official 想要个手台"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075906770472779777",
+            "3_2075906770464284673",
+            "3_2075906770476912640",
+            "3_2075906770518900736"
+          ]
+        },
+        "author_id": "1635414331797180416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075906794438947113",
+        "created_at": "2026-07-11T11:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075906794438947113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vlGhf0ANlN",
+              "end": 124,
+              "expanded_url": "https://x.com/dXqwq_Official/status/2075906794438947113/photo/1",
+              "media_key": "3_2075906770472779777",
+              "start": 101,
+              "url": "https://t.co/vlGhf0ANlN"
+            },
+            {
+              "display_url": "pic.x.com/vlGhf0ANlN",
+              "end": 124,
+              "expanded_url": "https://x.com/dXqwq_Official/status/2075906794438947113/photo/1",
+              "media_key": "3_2075906770464284673",
+              "start": 101,
+              "url": "https://t.co/vlGhf0ANlN"
+            },
+            {
+              "display_url": "pic.x.com/vlGhf0ANlN",
+              "end": 124,
+              "expanded_url": "https://x.com/dXqwq_Official/status/2075906794438947113/photo/1",
+              "media_key": "3_2075906770476912640",
+              "start": 101,
+              "url": "https://t.co/vlGhf0ANlN"
+            },
+            {
+              "display_url": "pic.x.com/vlGhf0ANlN",
+              "end": 124,
+              "expanded_url": "https://x.com/dXqwq_Official/status/2075906794438947113/photo/1",
+              "media_key": "3_2075906770518900736",
+              "start": 101,
+              "url": "https://t.co/vlGhf0ANlN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075906794438947113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 420,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电子设备&amp;周边全家福\n大概一两年前在twi上看到谁说理想的药娘窝就要有算力和舞萌\n是不是现在唯一的问题其实我是顺直男，家里还有空房或许可以招募一个女仆（？\n\np1的价格可能超过剩下三张图加起来 https://t.co/vlGhf0ANlN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 1413,
+          "like_count": 405,
+          "listed_count": 2,
+          "media_count": 798,
+          "tweet_count": 2872
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-13T22:55:49.000Z",
+        "description": "THU25 / Competitive Programming / OI / XCPC / Codeforces / ATCoder / maimaiDX\n\nNo longer searching for painless suicide",
+        "id": "1635414331797180416",
+        "location": "Beijing",
+        "name": "dXqwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885628949612363776/mwkzgyuk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 171,
+          "like_count": 1171,
+          "listed_count": 5,
+          "media_count": 106,
+          "tweet_count": 416
+        },
+        "url": "",
+        "username": "dXqwq_Official",
+        "verified": false
+      }
+    ]
+  }
+}

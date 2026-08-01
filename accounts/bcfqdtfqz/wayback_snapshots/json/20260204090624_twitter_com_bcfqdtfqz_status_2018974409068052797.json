@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2018571220904820780",
+    "created_at": "2026-02-04T09:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T10:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018974409068052797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1999431383723483136",
+          "start": 0,
+          "username": "ysp2025"
+        },
+        {
+          "end": 22,
+          "id": "1812504972044775425",
+          "start": 9,
+          "username": "muhanmode123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018974409068052797",
+    "in_reply_to_user_id": "1999431383723483136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018893853722546451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysp2025 @muhanmode123 跳出固定圈子看看，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2018571220904820780",
+        "created_at": "2026-02-04T09:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018974409068052797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1999431383723483136",
+              "start": 0,
+              "username": "ysp2025"
+            },
+            {
+              "end": 22,
+              "id": "1812504972044775425",
+              "start": 9,
+              "username": "muhanmode123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018974409068052797",
+        "in_reply_to_user_id": "1999431383723483136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018893853722546451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysp2025 @muhanmode123 跳出固定圈子看看，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999431383723483136",
+        "conversation_id": "2018571220904820780",
+        "created_at": "2026-02-04T03:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018893853722546451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1812504972044775425",
+              "start": 0,
+              "username": "muhanmode123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018893853722546451",
+        "in_reply_to_user_id": "1812504972044775425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018571220904820780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muhanmode123 实际上应该差不多，我互关了将近 4000 人，越来越难找蓝 V 了，大部分列表里都是关注过的人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄外账      请不要转帖回墙内谢谢 本账仅供娱乐，真假自辨，图源来自墙内，有侵权内容私信删除",
+        "id": "2018306514549972992",
+        "name": "吃番茄不吐番茄籽",
+        "pinned_tweet_id": "2018360937804444012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 171,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 72
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-12T10:49:43.000Z",
+        "description": "20年电商创业经历，操作过多个电商头部品牌，25年破产，26年学习自媒体，欢迎链接V：97289",
+        "id": "1999431383723483136",
+        "name": "老叶聊电商自媒体",
+        "pinned_tweet_id": "2008129126100869509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999438473670098944/e-I6FlvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4021,
+          "following_count": 4269,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 2592
+        },
+        "username": "ysp2025",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T15:10:45.000Z",
+        "description": "专注个人成长及财经知识分享 社会议题分析 力求用理性视角看待世界，一个回复经常很搞笑的人，满满的活人感",
+        "id": "1812504972044775425",
+        "location": "Chuo-ku, Tokyo",
+        "name": "马红梅",
+        "pinned_tweet_id": "2010894425623556287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978135518752755712/e8UvK-rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 1225,
+          "like_count": 1525,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 4051
+        },
+        "username": "muhanmode123",
+        "verified": true
+      }
+    ]
+  }
+}

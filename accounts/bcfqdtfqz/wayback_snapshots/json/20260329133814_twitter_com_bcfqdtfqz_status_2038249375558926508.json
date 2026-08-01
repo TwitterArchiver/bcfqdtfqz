@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2038186808627142978",
+    "created_at": "2026-03-29T13:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T14:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038249375558926508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1470943033365438470",
+          "start": 0,
+          "username": "CamanoDiana_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038249375558926508",
+    "in_reply_to_user_id": "1470943033365438470",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038186808627142978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CamanoDiana_404 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038186800842432512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkYGLoaYAAxWNY.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2038186808627142978",
+        "created_at": "2026-03-29T13:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038249375558926508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1470943033365438470",
+              "start": 0,
+              "username": "CamanoDiana_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038249375558926508",
+        "in_reply_to_user_id": "1470943033365438470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038186808627142978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CamanoDiana_404 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038186800842432512"
+          ]
+        },
+        "author_id": "1470943033365438470",
+        "conversation_id": "2038186808627142978",
+        "created_at": "2026-03-29T09:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T10:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038186808627142978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CN9a5k4fh6",
+              "end": 72,
+              "expanded_url": "https://x.com/CamanoDiana_404/status/2038186808627142978/photo/1",
+              "media_key": "3_2038186800842432512",
+              "start": 49,
+              "url": "https://t.co/CN9a5k4fh6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038186808627142978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 419,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "约了三个女大一起出国旅游\n计划只订三间单床房，我跟她独自单房睡，俩人一起睡——不要打扰人家女同😼 https://t.co/CN9a5k4fh6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅@__fanqie__日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "__fanqie__"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不知道包什么的番茄（私信互关）",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 1271,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 545,
+          "tweet_count": 1489
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "Status: 404 Not Found.",
+        "id": "1470943033365438470",
+        "location": "0",
+        "name": "然子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006754677745135617/PTxLN9py_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3104,
+          "following_count": 851,
+          "like_count": 27227,
+          "listed_count": 12,
+          "media_count": 1474,
+          "tweet_count": 19616
+        },
+        "username": "CamanoDiana_404",
+        "verified": false
+      }
+    ]
+  }
+}

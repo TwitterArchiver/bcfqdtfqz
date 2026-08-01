@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2035220514004709480",
+    "created_at": "2026-03-21T11:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T12:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035316275464052878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1651982136709357568",
+          "start": 0,
+          "username": "clorami_"
+        },
+        {
+          "end": 24,
+          "id": "1999007250829230080",
+          "start": 10,
+          "username": "DDaquaforever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035316275464052878",
+    "in_reply_to_user_id": "1651982136709357568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035220514004709480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clorami_ @DDaquaforever 我是主人，找个人帮我上课"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1465,
+        "media_key": "3_2035220512402501632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6OReFW8AAYV8g.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2035220514004709480",
+        "created_at": "2026-03-21T11:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035316275464052878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1651982136709357568",
+              "start": 0,
+              "username": "clorami_"
+            },
+            {
+              "end": 24,
+              "id": "1999007250829230080",
+              "start": 10,
+              "username": "DDaquaforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035316275464052878",
+        "in_reply_to_user_id": "1651982136709357568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035220514004709480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clorami_ @DDaquaforever 我是主人，找个人帮我上课"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035220512402501632"
+          ]
+        },
+        "author_id": "1651982136709357568",
+        "conversation_id": "2035220514004709480",
+        "created_at": "2026-03-21T05:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T06:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035220514004709480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XR4mXPH56s",
+              "end": 41,
+              "expanded_url": "https://x.com/clorami_/status/2035220514004709480/photo/1",
+              "media_key": "3_2035220512402501632",
+              "start": 18,
+              "url": "https://t.co/XR4mXPH56s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035220514004709480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 73517,
+          "like_count": 1386,
+          "quote_count": 8,
+          "reply_count": 287,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "pov：你在中文圈发了一条很火的推 https://t.co/XR4mXPH56s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 1107,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 474,
+          "tweet_count": 1311
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-28T16:10:26.000Z",
+        "description": "大城市的郊区有着明亮的月亮 明天的露水在墙上凝结",
+        "id": "1651982136709357568",
+        "location": "新川崎",
+        "name": "半紜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651982946931441666/T4x20ozy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 314,
+          "like_count": 105402,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 3816
+        },
+        "username": "clorami_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3864,
+          "following_count": 4415,
+          "like_count": 7414,
+          "listed_count": 11,
+          "media_count": 2561,
+          "tweet_count": 12101
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

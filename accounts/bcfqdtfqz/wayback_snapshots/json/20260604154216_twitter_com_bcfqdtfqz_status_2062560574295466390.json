@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2062560574295466390",
+    "created_at": "2026-06-04T15:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062560574295466390"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062560574295466390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已经预判到9月份进来的大学生们\n开局就是被卖校园卡卖棉被骚扰，\n早上有早读晚上有晚自习和校园跑\n然后当高中一样学英语和高数和一堆水课上到破防\n课后还有概率被学校拉去参加各种78活动\n然后病恹恹的去各种自媒体问为什么大学这么难了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2062560574295466390",
+        "created_at": "2026-06-04T15:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062560574295466390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062560574295466390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经预判到9月份进来的大学生们\n开局就是被卖校园卡卖棉被骚扰，\n早上有早读晚上有晚自习和校园跑\n然后当高中一样学英语和高数和一堆水课上到破防\n课后还有概率被学校拉去参加各种78活动\n然后病恹恹的去各种自媒体问为什么大学这么难了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 1340,
+          "like_count": 333,
+          "listed_count": 2,
+          "media_count": 750,
+          "tweet_count": 2150
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      }
+    ]
+  }
+}

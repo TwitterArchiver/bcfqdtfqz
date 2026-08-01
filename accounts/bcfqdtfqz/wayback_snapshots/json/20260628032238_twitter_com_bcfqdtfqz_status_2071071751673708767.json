@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070718960140722612",
+    "created_at": "2026-06-28T03:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T04:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071071751673708767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2049811110199771136",
+          "start": 0,
+          "username": "Siqib5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071071751673708767",
+    "in_reply_to_user_id": "2049811110199771136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071065875172720974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Siqib5 原来如此\n那会嘞着肉嘛，毕竟紧身衣……？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070718960140722612",
+        "created_at": "2026-06-28T03:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T04:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071071751673708767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2049811110199771136",
+              "start": 0,
+              "username": "Siqib5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071071751673708767",
+        "in_reply_to_user_id": "2049811110199771136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071065875172720974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siqib5 原来如此\n那会嘞着肉嘛，毕竟紧身衣……？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049811110199771136",
+        "conversation_id": "2070718960140722612",
+        "created_at": "2026-06-28T02:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071065875172720974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071065875172720974",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071029485844267127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 它相对会更紧更贴身 没有多余的布料 可以减少下水后的累赘 类似只往身上紧紧贴了一层皮？有些竞速泳衣也会用高纤维材质 更防氯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 1383,
+          "like_count": 359,
+          "listed_count": 2,
+          "media_count": 776,
+          "tweet_count": 2488
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-30T11:21:48.000Z",
+        "description": "完全普通人\n话多容易刷屏\n不要美化陌生人\n祝您健康🙂‍↕️🙂‍↕️\n\nhttps://t.co/m5OQPimJ6M",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qq28475",
+                "end": 58,
+                "expanded_url": "https://ngl.link/qq28475",
+                "start": 35,
+                "url": "https://t.co/m5OQPimJ6M"
+              }
+            ]
+          }
+        },
+        "id": "2049811110199771136",
+        "name": "QQ",
+        "pinned_tweet_id": "2064719615641735645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050167568003141632/1Q-2sGxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 402,
+          "like_count": 3228,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 596
+        },
+        "url": "",
+        "username": "Siqib5",
+        "verified": false
+      }
+    ]
+  }
+}

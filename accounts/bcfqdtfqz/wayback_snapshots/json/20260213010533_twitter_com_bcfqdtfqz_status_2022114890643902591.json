@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022114884033613824"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2022114890643902591",
+    "created_at": "2026-02-13T01:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T02:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022114890643902591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6F4xXQ0tam",
+          "end": 38,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2022114890643902591/photo/1",
+          "media_key": "3_2022114884033613824",
+          "start": 15,
+          "url": "https://t.co/6F4xXQ0tam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022114890643902591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在学计算机的指不定有啥说法 https://t.co/6F4xXQ0tam"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 716,
+        "media_key": "3_2022114884033613824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_-xf3akAAJYKo.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022114884033613824"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2022114890643902591",
+        "created_at": "2026-02-13T01:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T02:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022114890643902591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6F4xXQ0tam",
+              "end": 38,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2022114890643902591/photo/1",
+              "media_key": "3_2022114884033613824",
+              "start": 15,
+              "url": "https://t.co/6F4xXQ0tam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022114890643902591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在学计算机的指不定有啥说法 https://t.co/6F4xXQ0tam"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 752,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 391
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2021885875530183051",
+    "created_at": "2026-02-13T14:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T15:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022315997274022164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1765768192675454976",
+          "start": 0,
+          "username": "qazxx200622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022315997274022164",
+    "in_reply_to_user_id": "1765768192675454976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022270459644195046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qazxx200622 哇塞是大v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2021885875530183051",
+        "created_at": "2026-02-13T14:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022315997274022164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1765768192675454976",
+              "start": 0,
+              "username": "qazxx200622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022315997274022164",
+        "in_reply_to_user_id": "1765768192675454976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022270459644195046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qazxx200622 哇塞是大v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765768192675454976",
+        "conversation_id": "2021885875530183051",
+        "created_at": "2026-02-13T11:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022270459644195046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022270459644195046",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1511,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021885875530183051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 被挂了😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 755,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 409
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-07T15:55:26.000Z",
+        "description": "外网只有x账，和小号防走丢 @xixi200622 不是鸡！不线下！不卖视频和图包，发漏点是因为有点暴露p-不出原味-不接线上视频，平常会发点小照片和cos，大家喜欢请多多点赞哦~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "xixi200622"
+              }
+            ]
+          }
+        },
+        "id": "1765768192675454976",
+        "location": "北海道 札幌市",
+        "name": "不汐汐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976186354687148035/FrT017KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76946,
+          "following_count": 256,
+          "like_count": 129,
+          "listed_count": 294,
+          "media_count": 176,
+          "tweet_count": 707
+        },
+        "username": "qazxx200622",
+        "verified": false
+      }
+    ]
+  }
+}

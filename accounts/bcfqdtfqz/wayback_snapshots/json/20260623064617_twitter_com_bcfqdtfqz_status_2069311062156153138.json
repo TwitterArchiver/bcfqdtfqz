@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069311054182842368"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2069311062156153138",
+    "created_at": "2026-06-23T06:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069311062156153138"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qssd3SfB5W",
+          "end": 34,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2069311062156153138/photo/1",
+          "media_key": "3_2069311054182842368",
+          "start": 11,
+          "url": "https://t.co/Qssd3SfB5W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069311062156153138",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "港股我求求你别跌了😭 https://t.co/Qssd3SfB5W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1022,
+        "media_key": "3_2069311054182842368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLercKpbgAAlJ8A.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069311054182842368"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2069311062156153138",
+        "created_at": "2026-06-23T06:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069311062156153138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qssd3SfB5W",
+              "end": 34,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2069311062156153138/photo/1",
+              "media_key": "3_2069311054182842368",
+              "start": 11,
+              "url": "https://t.co/Qssd3SfB5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069311062156153138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "港股我求求你别跌了😭 https://t.co/Qssd3SfB5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 1347,
+          "like_count": 343,
+          "listed_count": 2,
+          "media_count": 763,
+          "tweet_count": 2332
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      }
+    ]
+  }
+}

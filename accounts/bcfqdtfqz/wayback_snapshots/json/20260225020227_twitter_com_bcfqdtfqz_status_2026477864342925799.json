@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2026454241762586835",
+    "created_at": "2026-02-25T02:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T03:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026477864342925799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1675212653940056065",
+          "start": 0,
+          "username": "Areskapitalon"
+        },
+        {
+          "end": 25,
+          "id": "3150623335",
+          "start": 15,
+          "username": "himself65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026477864342925799",
+    "in_reply_to_user_id": "1675212653940056065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026464830173884577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Areskapitalon @himself65 Anthropic不是一众ai公司对华态度最强硬的吗还会被川普盯上？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2026454241762586835",
+        "created_at": "2026-02-25T02:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T03:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026477864342925799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1675212653940056065",
+              "start": 0,
+              "username": "Areskapitalon"
+            },
+            {
+              "end": 25,
+              "id": "3150623335",
+              "start": 15,
+              "username": "himself65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026477864342925799",
+        "in_reply_to_user_id": "1675212653940056065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026464830173884577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Areskapitalon @himself65 Anthropic不是一众ai公司对华态度最强硬的吗还会被川普盯上？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675212653940056065",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2026454241762586835",
+        "created_at": "2026-02-25T01:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026464830173884577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3150623335",
+              "start": 0,
+              "username": "himself65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026464830173884577",
+        "in_reply_to_user_id": "3150623335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026464051271012851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@himself65 供应链风险认定。美国政府在用之前对待华为和中兴的招数威胁Anthropic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 1005,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 811
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-01T18:40:04.000Z",
+        "description": "Not Financial Advice",
+        "id": "1675212653940056065",
+        "name": "Aelia Capitolina",
+        "pinned_tweet_id": "2017000935625523641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870619107676053504/UvwwTg_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7067,
+          "following_count": 112,
+          "like_count": 4847,
+          "listed_count": 136,
+          "media_count": 50,
+          "tweet_count": 5054
+        },
+        "username": "Areskapitalon",
+        "verified": true
+      },
+      {
+        "created_at": "2015-04-12T00:07:21.000Z",
+        "description": "Not a trader, not a programmer. All posts are not financial advice nor tech insight.",
+        "id": "3150623335",
+        "location": "California, USA",
+        "name": "面包🍞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883626401947136000/k8x5k3f8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60182,
+          "following_count": 225,
+          "like_count": 111807,
+          "listed_count": 325,
+          "media_count": 1409,
+          "tweet_count": 17175
+        },
+        "username": "himself65",
+        "verified": true
+      }
+    ]
+  }
+}

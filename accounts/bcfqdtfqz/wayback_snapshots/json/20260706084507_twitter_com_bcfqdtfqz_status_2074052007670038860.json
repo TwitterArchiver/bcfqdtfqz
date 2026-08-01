@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2074016313601896833",
+    "created_at": "2026-07-06T08:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074052007670038860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "903691274770833408",
+          "start": 0,
+          "username": "TingHu888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074052007670038860",
+    "in_reply_to_user_id": "903691274770833408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074022599282307152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TingHu888 得扩产产能释放或者ai大战结束但是这都不是一两年内的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2074016313601896833",
+        "created_at": "2026-07-06T08:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074052007670038860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "903691274770833408",
+              "start": 0,
+              "username": "TingHu888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074052007670038860",
+        "in_reply_to_user_id": "903691274770833408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074022599282307152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TingHu888 得扩产产能释放或者ai大战结束但是这都不是一两年内的事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "903691274770833408",
+        "conversation_id": "2074016313601896833",
+        "created_at": "2026-07-06T06:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074022599282307152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074022599282307152",
+        "in_reply_to_user_id": "903691274770833408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3427,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074016313601896833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是皱着眉头看完三星财报信息的，因为芯片部门太爆炸了，我不认为这是可持续的，三星手机部门都要亏损了。粮食也出现过短缺暴涨的事情，但一旦粮食充沛，粮价的下跌也是挺猛的。作为硅基的粮食，半导体/芯片，怎么可能一直涨价呢？一定会有一个平衡。奇点➤产能明显增加、涨价明显变少、需求增加减缓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 1403,
+          "like_count": 388,
+          "listed_count": 2,
+          "media_count": 789,
+          "tweet_count": 2739
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-01T18:49:24.000Z",
+        "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
+        "id": "903691274770833408",
+        "location": "China",
+        "name": "TingHu♪",
+        "pinned_tweet_id": "1975548674509054305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147240,
+          "following_count": 595,
+          "like_count": 5369,
+          "listed_count": 2021,
+          "media_count": 3824,
+          "tweet_count": 36640
+        },
+        "url": "",
+        "username": "TingHu888",
+        "verified": true
+      }
+    ]
+  }
+}

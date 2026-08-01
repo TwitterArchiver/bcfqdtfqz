@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2018930261292188021",
+    "created_at": "2026-02-04T07:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T08:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018946381155910117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944862516976472064",
+          "start": 0,
+          "username": "Mickey06101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018946381155910117",
+    "in_reply_to_user_id": "1944862516976472064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018930261292188021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mickey06101 这我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2018930253343989760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HASuXmDboAA7e_f.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2018930261292188021",
+        "created_at": "2026-02-04T07:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T08:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018946381155910117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944862516976472064",
+              "start": 0,
+              "username": "Mickey06101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018946381155910117",
+        "in_reply_to_user_id": "1944862516976472064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018930261292188021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mickey06101 这我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018930253343989760"
+          ]
+        },
+        "author_id": "1944862516976472064",
+        "conversation_id": "2018930261292188021",
+        "created_at": "2026-02-04T06:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018930261292188021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KRa4WispuJ",
+              "end": 23,
+              "expanded_url": "https://x.com/Mickey06101/status/2018930261292188021/photo/1",
+              "media_key": "3_2018930253343989760",
+              "start": 0,
+              "url": "https://t.co/KRa4WispuJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018930261292188021",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3157,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KRa4WispuJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄二代目 请不要转帖回墙内谢谢 本账仅供娱乐，真假自辨，图源来自墙内，有侵权内容私信删除",
+        "id": "2018306514549972992",
+        "name": "吃番茄不吐番茄籽",
+        "pinned_tweet_id": "2018360937804444012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 145,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 65
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T20:52:22.000Z",
+        "description": "玩推只是分享生活",
+        "id": "1944862516976472064",
+        "location": "🚪88/188",
+        "name": "qaq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944863286157053952/6Y2oQa9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60094,
+          "following_count": 12,
+          "like_count": 798,
+          "listed_count": 78,
+          "media_count": 181,
+          "tweet_count": 488
+        },
+        "username": "Mickey06101",
+        "verified": false
+      }
+    ]
+  }
+}

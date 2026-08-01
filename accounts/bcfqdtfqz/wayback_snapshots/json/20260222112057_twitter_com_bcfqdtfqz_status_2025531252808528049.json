@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2025509010011836836",
+    "created_at": "2026-02-22T11:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T12:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025531252808528049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1164388321545449472",
+          "start": 0,
+          "username": "imwsl90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025531252808528049",
+    "in_reply_to_user_id": "1164388321545449472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025509010011836836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imwsl90 哪个区的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025508994312499200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwNst9a8AANJu6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2025509010011836836",
+        "created_at": "2026-02-22T11:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025531252808528049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1164388321545449472",
+              "start": 0,
+              "username": "imwsl90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025531252808528049",
+        "in_reply_to_user_id": "1164388321545449472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025509010011836836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imwsl90 哪个区的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025508994312499200"
+          ]
+        },
+        "author_id": "1164388321545449472",
+        "conversation_id": "2025509010011836836",
+        "created_at": "2026-02-22T09:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025509010011836836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuKaeDGsT3",
+              "end": 44,
+              "expanded_url": "https://x.com/imwsl90/status/2025509010011836836/photo/1",
+              "media_key": "3_2025508994312499200",
+              "start": 21,
+              "url": "https://t.co/vuKaeDGsT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025509010011836836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5074,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "武汉的房价\n\n感觉四五十万就可以买一套了 https://t.co/vuKaeDGsT3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 986,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 749
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-22T04:06:29.000Z",
+        "description": "程序员/产品经理/销售/中年已婚带2娃\n\n- 互联网、编程、AI、情感、历史、八卦\n\n联系方式: https://t.co/qhzcXic3G8\n我的服务：https://t.co/35tV6ds2ny\n推荐魔法：https://t.co/B5SfJ7LlqH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/imwsl90",
+                "end": 72,
+                "expanded_url": "https://t.me/imwsl90",
+                "start": 49,
+                "url": "https://t.co/qhzcXic3G8"
+              },
+              {
+                "display_url": "fuwu.super.site",
+                "end": 101,
+                "expanded_url": "https://fuwu.super.site/",
+                "start": 78,
+                "url": "https://t.co/35tV6ds2ny"
+              },
+              {
+                "display_url": "tinyurl.com/4auuxfw9",
+                "end": 130,
+                "expanded_url": "https://tinyurl.com/4auuxfw9",
+                "start": 107,
+                "url": "https://t.co/B5SfJ7LlqH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "imwsl.com",
+                "end": 23,
+                "expanded_url": "https://imwsl.com",
+                "start": 0,
+                "url": "https://t.co/jkPrQuSo0I"
+              }
+            ]
+          }
+        },
+        "id": "1164388321545449472",
+        "location": "V: wesley6020",
+        "name": "卫斯理",
+        "pinned_tweet_id": "2023206501427577098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770626410606141440/HFy0Ibg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86076,
+          "following_count": 7652,
+          "like_count": 47066,
+          "listed_count": 566,
+          "media_count": 13582,
+          "tweet_count": 76250
+        },
+        "url": "https://t.co/jkPrQuSo0I",
+        "username": "imwsl90",
+        "verified": true
+      }
+    ]
+  }
+}

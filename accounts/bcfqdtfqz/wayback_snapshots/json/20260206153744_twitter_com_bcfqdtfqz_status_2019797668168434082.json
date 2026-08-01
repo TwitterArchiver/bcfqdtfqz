@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019797659763322882"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2019797668168434082",
+    "created_at": "2026-02-06T15:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T16:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019797668168434082"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7R8dnlvYJY",
+          "end": 23,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2019797668168434082/photo/1",
+          "media_key": "3_2019797659763322882",
+          "start": 0,
+          "url": "https://t.co/7R8dnlvYJY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019797668168434082",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/7R8dnlvYJY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_2019797659763322882",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAfDRSxbsAIWz7I.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019797659763322882"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2019797668168434082",
+        "created_at": "2026-02-06T15:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T16:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019797668168434082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7R8dnlvYJY",
+              "end": 23,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2019797668168434082/photo/1",
+              "media_key": "3_2019797659763322882",
+              "start": 0,
+              "url": "https://t.co/7R8dnlvYJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019797668168434082",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7R8dnlvYJY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄外账      请不要转帖回墙内谢谢 本账仅供娱乐，真假自辨，图源来自墙内，有侵权内容私信删除",
+        "id": "2018306514549972992",
+        "name": "吃番茄不吐番茄籽",
+        "pinned_tweet_id": "2018360937804444012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 250,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 113
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2068176380932526353",
+    "created_at": "2026-06-20T13:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T14:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068325252359471273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1767180145629257728",
+          "start": 0,
+          "username": "yehuxinyu184337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068325252359471273",
+    "in_reply_to_user_id": "1767180145629257728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068176380932526353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yehuxinyu184337 都meme了还有优质标的吗……？不都是比谁跑得快"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068176340730220544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOjbJoXkAAvg8F.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068176340755292160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOjbJuWIAA5hhJ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068176340700782592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOjbJhWYAAbooM.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068176340759576576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOjbJvXgAAlV_N.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2068176380932526353",
+        "created_at": "2026-06-20T13:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068325252359471273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1767180145629257728",
+              "start": 0,
+              "username": "yehuxinyu184337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068325252359471273",
+        "in_reply_to_user_id": "1767180145629257728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068176380932526353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yehuxinyu184337 都meme了还有优质标的吗……？不都是比谁跑得快"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068176340730220544",
+            "3_2068176340755292160",
+            "3_2068176340700782592",
+            "3_2068176340759576576"
+          ]
+        },
+        "author_id": "1767180145629257728",
+        "conversation_id": "2068176380932526353",
+        "created_at": "2026-06-20T03:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068176380932526353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MmeYuocj6J",
+              "end": 139,
+              "expanded_url": "https://x.com/yehuxinyu184337/status/2068176380932526353/photo/1",
+              "media_key": "3_2068176340730220544",
+              "start": 116,
+              "url": "https://t.co/MmeYuocj6J"
+            },
+            {
+              "display_url": "pic.x.com/MmeYuocj6J",
+              "end": 139,
+              "expanded_url": "https://x.com/yehuxinyu184337/status/2068176380932526353/photo/1",
+              "media_key": "3_2068176340755292160",
+              "start": 116,
+              "url": "https://t.co/MmeYuocj6J"
+            },
+            {
+              "display_url": "pic.x.com/MmeYuocj6J",
+              "end": 139,
+              "expanded_url": "https://x.com/yehuxinyu184337/status/2068176380932526353/photo/1",
+              "media_key": "3_2068176340700782592",
+              "start": 116,
+              "url": "https://t.co/MmeYuocj6J"
+            },
+            {
+              "display_url": "pic.x.com/MmeYuocj6J",
+              "end": 139,
+              "expanded_url": "https://x.com/yehuxinyu184337/status/2068176380932526353/photo/1",
+              "media_key": "3_2068176340759576576",
+              "start": 116,
+              "url": "https://t.co/MmeYuocj6J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068176380932526353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1893,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老师们也别怪币圈现在不行\n前段时间80%的优质标的我都参与过\n可以说我为市场提供了宝贵的流动性\n但结局就是只有hype还能勉强拉盘\n我也想和你们共情\n但只有科技我能随便夹头还能爆赚\n我也没办法\n我不是来讨论对错的\n我是来考虑印钞的 https://t.co/MmeYuocj6J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 1350,
+          "like_count": 342,
+          "listed_count": 2,
+          "media_count": 761,
+          "tweet_count": 2322
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T13:26:02.000Z",
+        "description": "21341453453",
+        "id": "1767180145629257728",
+        "name": "ye hu xin yu",
+        "pinned_tweet_id": "2007835032862523816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767180840155717632/0fYN1Gun_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 523,
+          "like_count": 11108,
+          "listed_count": 14,
+          "media_count": 287,
+          "tweet_count": 7776
+        },
+        "url": "",
+        "username": "yehuxinyu184337",
+        "verified": false
+      }
+    ]
+  }
+}

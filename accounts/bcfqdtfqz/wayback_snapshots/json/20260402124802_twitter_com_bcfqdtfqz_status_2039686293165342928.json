@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2039598614193012919",
+    "created_at": "2026-04-02T12:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T13:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039686293165342928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039686293165342928",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039598614193012919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 哎，说到心坎里了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2039598614193012919",
+        "created_at": "2026-04-02T12:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039686293165342928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039686293165342928",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039598614193012919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 哎，说到心坎里了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2039598614193012919",
+        "created_at": "2026-04-02T06:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T07:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039598614193012919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/minokakay/status/2039597134161592648",
+              "start": 65,
+              "url": "https://t.co/wkCEOt2orh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039598614193012919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "钱不就是拿来花的吗？\n如果这辈子能游历一些国家，多欣赏美的事物，有一些自己的想法，留下一些幸福的瞬间作为回忆，也就死而无憾了吧？\n\n若你起点足够高，自然不必在意这几千万把块的开销。若你白手起家，更没必要担心储蓄了，反正你存一辈子钱都不够老了得个癌症治病的，何必要苦一辈子把钱都交给医院。\n\n越是没见过世面的人，能从旅行中学到的东西也就越多，连世界都没看过的人哪来的世界观呢。任何一次旅行，只要你学到了东西，甚至说只是感到幸福快乐，都是对你人生的一次成功的投资，我想收益率是跑得过纳斯达克的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4120,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039597134161592648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "钱不就是拿来花的吗？\n如果这辈子能游历一些国家，多欣赏美的事物，有一些自己的想法，留下一些幸福的瞬间作为回忆，也就死而无憾了吧？ https://t.co/wkCEOt2orh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "原番茄🍅日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不知道包什么的番茄",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1635,
+          "following_count": 1285,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 588,
+          "tweet_count": 1565
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 mtx 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp，私信不回，打不开换梯子换浏览器",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 78,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 55,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14314,
+          "following_count": 1054,
+          "like_count": 44013,
+          "listed_count": 53,
+          "media_count": 1788,
+          "tweet_count": 25671
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

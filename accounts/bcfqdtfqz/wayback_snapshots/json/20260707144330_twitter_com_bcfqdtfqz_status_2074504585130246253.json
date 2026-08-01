@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074504230371794944"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2074504585130246253",
+    "created_at": "2026-07-07T14:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074504585130246253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BEvI5QAfva",
+          "end": 94,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2074504585130246253/photo/1",
+          "media_key": "3_2074504230371794944",
+          "start": 71,
+          "url": "https://t.co/BEvI5QAfva"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074504585130246253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本来想用真寻头像，女生性别，外加名字后面挂上鱼板，让我初恋认为我不会喜欢女生来礼貌劝退她的\n\n然后我今早翻那个号QQ空间一看我无语了。。。👇 https://t.co/BEvI5QAfva"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 897,
+        "media_key": "3_2074504230371794944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoemzhbIAAza-O.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074504230371794944"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2074504585130246253",
+        "created_at": "2026-07-07T14:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074504585130246253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BEvI5QAfva",
+              "end": 94,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2074504585130246253/photo/1",
+              "media_key": "3_2074504230371794944",
+              "start": 71,
+              "url": "https://t.co/BEvI5QAfva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074504585130246253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来想用真寻头像，女生性别，外加名字后面挂上鱼板，让我初恋认为我不会喜欢女生来礼貌劝退她的\n\n然后我今早翻那个号QQ空间一看我无语了。。。👇 https://t.co/BEvI5QAfva"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 1406,
+          "like_count": 391,
+          "listed_count": 2,
+          "media_count": 791,
+          "tweet_count": 2788
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

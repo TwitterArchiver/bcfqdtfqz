@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2072486604099477637",
+    "created_at": "2026-07-02T01:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T02:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072486604099477637"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072486604099477637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚做了个很奇怪的梦，梦见我有了对象，然后初恋加回来没聊几句就问我要不要出门吃饭\n于是我把事情跟对象说了，外放打了一通电话回去然后在我面前疯狂嘲讽她，大概内容是说这些年都没意识到自己的问题现在才看出来晚了\n我什么也没说，只是紧紧的抱着身边的对象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2072486604099477637",
+        "created_at": "2026-07-02T01:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T02:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072486604099477637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072486604099477637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚做了个很奇怪的梦，梦见我有了对象，然后初恋加回来没聊几句就问我要不要出门吃饭\n于是我把事情跟对象说了，外放打了一通电话回去然后在我面前疯狂嘲讽她，大概内容是说这些年都没意识到自己的问题现在才看出来晚了\n我什么也没说，只是紧紧的抱着身边的对象"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 1379,
+          "like_count": 369,
+          "listed_count": 2,
+          "media_count": 782,
+          "tweet_count": 2562
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

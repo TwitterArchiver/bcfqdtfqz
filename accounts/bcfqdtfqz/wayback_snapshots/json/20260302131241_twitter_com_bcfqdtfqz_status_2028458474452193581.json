@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2028403295887507759",
+    "created_at": "2026-03-02T13:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T14:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028458474452193581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1111541486200356864",
+          "start": 0,
+          "username": "M4A1_SSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028458474452193581",
+    "in_reply_to_user_id": "1111541486200356864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028403295887507759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M4A1_SSS 所以人月神话是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2028403295887507759",
+        "created_at": "2026-03-02T13:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028458474452193581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1111541486200356864",
+              "start": 0,
+              "username": "M4A1_SSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028458474452193581",
+        "in_reply_to_user_id": "1111541486200356864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028403295887507759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M4A1_SSS 所以人月神话是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1111541486200356864",
+        "conversation_id": "2028403295887507759",
+        "created_at": "2026-03-02T09:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028403295887507759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028403295887507759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 25137,
+          "like_count": 191,
+          "quote_count": 4,
+          "reply_count": 27,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "【面试日记2】 装逼犯\n\n这次是杭州某公司，面试官自称阿里人，上来就问有没有看过《人月神话》，然后拷打项目，全程“嗯哼”回复我的陈述。\n\n最后反问环节，我让他介绍公司infra的tracing怎么做的，自称搞管理不是很懂。（这就是技术负责人嗷）\n\n这位罗先生应该看推特吧，如果你看，我想说我操你妈。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 1017,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 942
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-29T08:11:56.000Z",
+        "description": "INFP | CTFer | Gamer especially @PlayOverwatch Pilled | ⚽ fans",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "PlayOverwatch"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/notepadxx",
+                "end": 23,
+                "expanded_url": "https://t.me/notepadxx",
+                "start": 0,
+                "url": "https://t.co/3VEdYpG5Te"
+              }
+            ]
+          }
+        },
+        "id": "1111541486200356864",
+        "location": "M78",
+        "name": "Jack1e",
+        "pinned_tweet_id": "2020872370047664481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950590874523729920/JF4gtgN__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 702,
+          "like_count": 5351,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 614
+        },
+        "url": "https://t.co/3VEdYpG5Te",
+        "username": "M4A1_SSS",
+        "verified": false
+      }
+    ]
+  }
+}

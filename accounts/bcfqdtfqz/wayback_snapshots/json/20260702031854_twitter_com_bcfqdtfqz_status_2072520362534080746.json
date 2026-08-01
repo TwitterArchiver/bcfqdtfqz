@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2072510650325103017",
+    "created_at": "2026-07-02T03:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072520362534080746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072520362534080746",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072510650325103017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 今天原来是周四"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2072510650325103017",
+        "created_at": "2026-07-02T03:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072520362534080746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072520362534080746",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072510650325103017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 今天原来是周四"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "conversation_id": "2072510650325103017",
+        "created_at": "2026-07-02T02:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072510650325103017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072510650325103017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "奉天承运皇帝诏曰\n\n朕闻天下黎民，晨兴夜寐，勤勉劳作，或为功名，或为碎银，皆甚不易\n\n然人生百味，亦当偶得欢愉，今逢癸日，值肯德基疯狂星期四，诸卿当暂歇公务，放下案牍，携三五好友，共赴炸鸡盛宴\n\n凡吮指原味鸡、香辣鸡翅、黄金鸡块、汉堡可乐，皆待有缘之人前往品尝，价优味美，错过则再候七日\n\n朕特赐卿一旨\n速转账五十有四文于朕，朕即刻代卿前往验明真伪，若其物果然美味，必于心中替卿多食两块，以慰君恩\n\n钦此"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 422,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "奉天承运皇帝诏曰\n\n朕闻天下黎民，晨兴夜寐，勤勉劳作，或为功名，或为碎银，皆甚不易\n\n然人生百味，亦当偶得欢愉，今逢癸日，值肯德基疯狂星期四，诸卿当暂歇公务，放下案牍，携三五好友，共赴炸鸡盛宴\n\n凡吮指原味鸡、香辣鸡翅、黄金鸡块、汉堡可乐，皆待有缘之人前往品尝，价优味美，错过则再候七日"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 1379,
+          "like_count": 369,
+          "listed_count": 2,
+          "media_count": 782,
+          "tweet_count": 2565
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9172,
+          "following_count": 93,
+          "like_count": 11100,
+          "listed_count": 27,
+          "media_count": 266,
+          "tweet_count": 2519
+        },
+        "url": "",
+        "username": "liujiayi1111",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2023399226856906888",
+    "created_at": "2026-02-16T16:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T17:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023441934648570042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1558317849508122629",
+          "start": 0,
+          "username": "CuiMao"
+        },
+        {
+          "end": 18,
+          "id": "367212879",
+          "start": 8,
+          "username": "biggor888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023441934648570042",
+    "in_reply_to_user_id": "1558317849508122629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023441563486241270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuiMao @biggor888 你这么一说，这下思路是真打开了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2023399226856906888",
+        "created_at": "2026-02-16T16:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023441934648570042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1558317849508122629",
+              "start": 0,
+              "username": "CuiMao"
+            },
+            {
+              "end": 18,
+              "id": "367212879",
+              "start": 8,
+              "username": "biggor888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023441934648570042",
+        "in_reply_to_user_id": "1558317849508122629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023441563486241270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuiMao @biggor888 你这么一说，这下思路是真打开了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558317849508122629",
+        "conversation_id": "2023399226856906888",
+        "created_at": "2026-02-16T16:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023441563486241270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "367212879",
+              "start": 0,
+              "username": "biggor888"
+            },
+            {
+              "end": 21,
+              "id": "2018306514549972992",
+              "start": 11,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023441563486241270",
+        "in_reply_to_user_id": "367212879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023440926182461801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biggor888 @bcfqdtfqz 你可以去试试哈哈哈，我一个朋友做算命，小程序行为封建迷信不让上，直接 soul 匹配算，收入可观，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "Tokyo，Japan",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 787,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 497
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-13T05:01:53.000Z",
+        "description": "AI Developer",
+        "id": "1558317849508122629",
+        "name": "CuiMao",
+        "pinned_tweet_id": "2023367147867816410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016982166920712192/XUjldPCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29294,
+          "following_count": 1099,
+          "like_count": 8322,
+          "listed_count": 133,
+          "media_count": 1277,
+          "tweet_count": 10917
+        },
+        "username": "CuiMao",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-03T15:46:25.000Z",
+        "description": "❤️ I enjoy freedom in a broad sense. 与AI共舞，不时分享AI编程经验，会搭梯子用各种AI。 有时候也分享人生思考、领悟。 超级 i人，但也有交际能力，多面体。 我始终相信这个世界上不管哪里都有好人与坏人，而你看到的世界就如对着镜子所看到的一切（你自己怎样，这个世界就怎样）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afffun.com",
+                "end": 23,
+                "expanded_url": "https://afffun.com",
+                "start": 0,
+                "url": "https://t.co/KPMOsOBGHZ"
+              }
+            ]
+          }
+        },
+        "id": "367212879",
+        "location": "Freedom",
+        "name": "Samgor 三哥玩AI",
+        "pinned_tweet_id": "2013476955161796860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837848554549006336/h5T_xLWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5740,
+          "following_count": 855,
+          "like_count": 5789,
+          "listed_count": 37,
+          "media_count": 2420,
+          "tweet_count": 18229
+        },
+        "url": "https://t.co/KPMOsOBGHZ",
+        "username": "biggor888",
+        "verified": true
+      }
+    ]
+  }
+}

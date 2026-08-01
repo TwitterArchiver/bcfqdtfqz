@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2065991014373061115",
+    "created_at": "2026-06-14T02:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T03:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065992498024239474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841306675674075136",
+          "start": 0,
+          "username": "suishoucrystal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065992498024239474",
+    "in_reply_to_user_id": "1841306675674075136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065991014373061115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suishoucrystal 我比率都在10%以下很难想象蓝v比例能到50以上都是什么天才"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2065991014373061115",
+        "created_at": "2026-06-14T02:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065992498024239474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841306675674075136",
+              "start": 0,
+              "username": "suishoucrystal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065992498024239474",
+        "in_reply_to_user_id": "1841306675674075136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065991014373061115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suishoucrystal 我比率都在10%以下很难想象蓝v比例能到50以上都是什么天才"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841306675674075136",
+        "conversation_id": "2065991014373061115",
+        "created_at": "2026-06-14T02:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065991014373061115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065991014373061115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说过阴谋论\n粉丝里蓝V比例过高会被算法标记，\n因为这说明你只会互关而不是一个合格的内容创作者，甚至X会觉得你帖子的浏览量也是刷出来的。\n然后X就会在你拿收益的道路上给你设绊子，比如前段时间突然暂停大量中文区创作者的收益这种事情\n建议自查一下，蓝V粉丝占50%以上的我都觉得危险"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 1341,
+          "like_count": 339,
+          "listed_count": 2,
+          "media_count": 757,
+          "tweet_count": 2246
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "日本語+データサイエンス専攻 JPOP夢中 @AORINGOHUZIN ファン🍏📰中国速報🌗友跨🍥中推圈锐评家🌗钻研 数码科技/经济社会/跨境支付与理财 跨境引路人:@bailyLU 出色的老乡:@realNyarime",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "AORINGOHUZIN"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "bailyLU"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "realNyarime"
+              }
+            ]
+          }
+        },
+        "id": "1841306675674075136",
+        "location": "金門縣",
+        "name": "水晶クリスタル",
+        "pinned_tweet_id": "2064919117703045329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 1433,
+          "like_count": 2000,
+          "listed_count": 3,
+          "media_count": 392,
+          "tweet_count": 4300
+        },
+        "username": "suishoucrystal",
+        "verified": true
+      }
+    ]
+  }
+}

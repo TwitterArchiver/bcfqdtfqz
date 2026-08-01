@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2062405232714498477",
+    "created_at": "2026-06-04T15:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062556178304123347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1109483218758037504",
+          "start": 0,
+          "username": "Kawawa_Map_4698"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062556178304123347",
+    "in_reply_to_user_id": "1109483218758037504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062405232714498477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kawawa_Map_4698 这位哥们比张雪峰厉害\n张雪峰起码还投了半天投不明白\n他起码赚钱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2062405232714498477",
+        "created_at": "2026-06-04T15:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062556178304123347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1109483218758037504",
+              "start": 0,
+              "username": "Kawawa_Map_4698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062556178304123347",
+        "in_reply_to_user_id": "1109483218758037504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062405232714498477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kawawa_Map_4698 这位哥们比张雪峰厉害\n张雪峰起码还投了半天投不明白\n他起码赚钱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1109483218758037504",
+        "conversation_id": "2062405232714498477",
+        "created_at": "2026-06-04T05:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062405232714498477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_forab/status/…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/_forab/status/2062396523598737756",
+              "start": 85,
+              "url": "https://t.co/5Du3LidFRF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062405232714498477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1501,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062396523598737756",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跟大部分学生谈论炒股注定失败\n门槛低的a股都没几个开的更别说门槛高出天际的美股了\n除此之外这b人光说炒股票\n我也没见你教人怎么先去积累啊\n光教杠杆不教资本原始积累是吧😅 https://t.co/5Du3LidFRF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 1340,
+          "like_count": 333,
+          "listed_count": 2,
+          "media_count": 750,
+          "tweet_count": 2146
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-23T15:53:07.000Z",
+        "description": "INFP-T\n成功失敗学、失敗成功学の信者\nすべての発言は信憑性なし\n真偽は皆自分で判断\n連絡先：https://t.co/Bi2CDrYyJq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=dQw4w9…",
+                "end": 72,
+                "expanded_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                "start": 49,
+                "url": "https://t.co/Bi2CDrYyJq"
+              }
+            ]
+          }
+        },
+        "id": "1109483218758037504",
+        "location": "IP 归属地：偷乐星球驻泰拉大陆炎国办事处",
+        "name": "Saileach丶Maple 彡",
+        "pinned_tweet_id": "1954012013237354756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555847208057982976/ualdViQP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 698,
+          "like_count": 115399,
+          "listed_count": 10,
+          "media_count": 333,
+          "tweet_count": 21272
+        },
+        "username": "Kawawa_Map_4698",
+        "verified": false
+      }
+    ]
+  }
+}

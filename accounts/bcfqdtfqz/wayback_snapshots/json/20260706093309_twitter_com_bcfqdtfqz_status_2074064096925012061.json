@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2073987196831576258",
+    "created_at": "2026-07-06T09:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074064096925012061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1998849670345613312",
+          "start": 0,
+          "username": "KEMZ412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074064096925012061",
+    "in_reply_to_user_id": "1998849670345613312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073987196831576258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KEMZ412 恭喜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2073987196831576258",
+        "created_at": "2026-07-06T09:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074064096925012061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1998849670345613312",
+              "start": 0,
+              "username": "KEMZ412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074064096925012061",
+        "in_reply_to_user_id": "1998849670345613312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073987196831576258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KEMZ412 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998849670345613312",
+        "conversation_id": "2073987196831576258",
+        "created_at": "2026-07-06T04:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073987196831576258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073987196831576258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 819,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜表弟成功拿下全家目前最高学历，已打破老一辈复旦的记录，成功进入北大\n希望越走越高，学业节节新高，毕业后事业蒸蒸日上🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771,
+          "following_count": 1403,
+          "like_count": 389,
+          "listed_count": 2,
+          "media_count": 789,
+          "tweet_count": 2745
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-10T20:18:03.000Z",
+        "description": "最好看的自杀方式莫过于朝九晚五\n我或许是个自杀爱好者\n这是我的随记，我对钱不感兴趣",
+        "id": "1998849670345613312",
+        "location": "穷山恶水",
+        "name": "KemzLife",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048976120356417536/wrlph77h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 384,
+          "like_count": 8450,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 3087
+        },
+        "url": "",
+        "username": "KEMZ412",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2021522165712257091",
+    "created_at": "2026-02-12T06:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T07:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021833736124608820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1090136700741812224",
+          "start": 0,
+          "username": "Alice__486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021833736124608820",
+    "in_reply_to_user_id": "1090136700741812224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021522165712257091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alice__486 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4001,
+        "media_key": "3_2021521542816112642",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3jIflaoAIZugf.jpg",
+        "width": 2263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2021522165712257091",
+        "created_at": "2026-02-12T06:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021833736124608820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1090136700741812224",
+              "start": 0,
+              "username": "Alice__486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021833736124608820",
+        "in_reply_to_user_id": "1090136700741812224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021522165712257091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alice__486 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021521542816112642"
+          ]
+        },
+        "author_id": "1090136700741812224",
+        "conversation_id": "2021522165712257091",
+        "created_at": "2026-02-11T09:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T10:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021522165712257091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxeSJUBNgy",
+              "end": 29,
+              "expanded_url": "https://x.com/Alice__486/status/2021522165712257091/photo/1",
+              "media_key": "3_2021521542816112642",
+              "start": 6,
+              "url": "https://t.co/cxeSJUBNgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021522165712257091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3220,
+          "like_count": 291,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "水色真好呀 https://t.co/cxeSJUBNgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "秽土转生之神秘的番茄🍅",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 726,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 365
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-29T06:36:57.000Z",
+        "description": "Alice",
+        "id": "1090136700741812224",
+        "name": "Alice_486",
+        "pinned_tweet_id": "2005852057278763256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1381121494395273216/J5Zmzrhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27678,
+          "following_count": 1724,
+          "like_count": 52834,
+          "listed_count": 94,
+          "media_count": 943,
+          "tweet_count": 15483
+        },
+        "username": "Alice__486",
+        "verified": false
+      }
+    ]
+  }
+}

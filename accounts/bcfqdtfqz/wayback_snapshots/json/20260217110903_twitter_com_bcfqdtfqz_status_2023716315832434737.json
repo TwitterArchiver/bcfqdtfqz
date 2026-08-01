@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2023714096877892042",
+    "created_at": "2026-02-17T11:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T12:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023716315832434737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023716315832434737",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023714096877892042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy 这我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_2023714088229236741",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWtPbvbcAU77ne.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2023714096877892042",
+        "created_at": "2026-02-17T11:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T12:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023716315832434737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023716315832434737",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023714096877892042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 这我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023714088229236741"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2023714096877892042",
+        "created_at": "2026-02-17T11:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T12:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023714096877892042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HoRFuPUBVR",
+              "end": 42,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2023714096877892042/photo/1",
+              "media_key": "3_2023714088229236741",
+              "start": 19,
+              "url": "https://t.co/HoRFuPUBVR"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2023685374904856647",
+              "start": 43,
+              "url": "https://t.co/qr1D3AFVBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023714096877892042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023685374904856647",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在思考中推圈有多少人文凭在初中以下 https://t.co/HoRFuPUBVR https://t.co/qr1D3AFVBf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "Tokyo，Japan",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 791,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 521
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- ｜一生挚爱@nationalpurevf4｜来吧，我的故事很多｜Language：🇯🇵🇩🇪🇬🇧&Chinese（TC&SC）｜AIart｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1998890721911435591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2475,
+          "following_count": 3003,
+          "like_count": 34765,
+          "listed_count": 5,
+          "media_count": 813,
+          "tweet_count": 7903
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

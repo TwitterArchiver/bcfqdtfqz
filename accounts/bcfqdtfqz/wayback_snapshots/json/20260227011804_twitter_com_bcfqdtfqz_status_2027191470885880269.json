@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027191463571025920"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2027191470885880269",
+    "created_at": "2026-02-27T01:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T02:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027191470885880269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/797M89nFHj",
+          "end": 30,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2027191470885880269/photo/1",
+          "media_key": "3_2027191463571025920",
+          "start": 7,
+          "url": "https://t.co/797M89nFHj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027191470885880269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有点应激反应 https://t.co/797M89nFHj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2027191463571025920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIH5UXa8AA26CZ.jpg",
+        "width": 619
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027191463571025920"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2027191470885880269",
+        "created_at": "2026-02-27T01:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T02:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027191470885880269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/797M89nFHj",
+              "end": 30,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2027191470885880269/photo/1",
+              "media_key": "3_2027191463571025920",
+              "start": 7,
+              "url": "https://t.co/797M89nFHj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027191470885880269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点应激反应 https://t.co/797M89nFHj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 1006,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 851
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

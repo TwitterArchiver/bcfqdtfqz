@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070207218281337087",
+    "created_at": "2026-06-26T01:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T02:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070325874390626461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050781055213244416",
+          "start": 0,
+          "username": "TianXiaoTangDSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070325874390626461",
+    "in_reply_to_user_id": "2050781055213244416",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070207218281337087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TianXiaoTangDSB 6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1761,
+        "media_key": "3_2070207213529116672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrafgXasAA5uop.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070207218281337087",
+        "created_at": "2026-06-26T01:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070325874390626461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050781055213244416",
+              "start": 0,
+              "username": "TianXiaoTangDSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070325874390626461",
+        "in_reply_to_user_id": "2050781055213244416",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070207218281337087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TianXiaoTangDSB 6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070207213529116672"
+          ]
+        },
+        "author_id": "2050781055213244416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070207218281337087",
+        "created_at": "2026-06-25T18:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070207218281337087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OcTDlrbLvW",
+              "end": 32,
+              "expanded_url": "https://x.com/TianXiaoTangDSB/status/2070207218281337087/photo/1",
+              "media_key": "3_2070207213529116672",
+              "start": 9,
+              "url": "https://t.co/OcTDlrbLvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070207218281337087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天地互换＝逆天😱 https://t.co/OcTDlrbLvW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 1355,
+          "like_count": 343,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 2365
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-03T03:34:53.000Z",
+        "description": "过抽象生活，品恶臭人生。\n唯一单推：@snhrlinglu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "snhrlinglu"
+              }
+            ]
+          }
+        },
+        "id": "2050781055213244416",
+        "location": "辽南第一怂货",
+        "name": "TXT.🍬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068896177874214912/ITwSjrYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 193,
+          "like_count": 4654,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 825
+        },
+        "url": "",
+        "username": "TianXiaoTangDSB",
+        "verified": true
+      }
+    ]
+  }
+}

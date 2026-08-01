@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069603855470575616"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2069603864161263813",
+    "created_at": "2026-06-24T02:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069603864161263813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GSfYbqWmXT",
+          "end": 59,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2069603864161263813/photo/1",
+          "media_key": "3_2069603855470575616",
+          "start": 36,
+          "url": "https://t.co/GSfYbqWmXT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069603864161263813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉我现在的择偶标准像是在找三笠。。\n（好了再设敬一下我们的张雪峰老师 https://t.co/GSfYbqWmXT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 862,
+        "media_key": "3_2069603855470575616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLi1vccaQAA7EVR.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069603855470575616"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2069603864161263813",
+        "created_at": "2026-06-24T02:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069603864161263813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GSfYbqWmXT",
+              "end": 59,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2069603864161263813/photo/1",
+              "media_key": "3_2069603855470575616",
+              "start": 36,
+              "url": "https://t.co/GSfYbqWmXT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069603864161263813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我现在的择偶标准像是在找三笠。。\n（好了再设敬一下我们的张雪峰老师 https://t.co/GSfYbqWmXT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 1350,
+          "like_count": 343,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 2345
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      }
+    ]
+  }
+}

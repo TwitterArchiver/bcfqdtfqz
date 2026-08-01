@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2074751594953126249",
+    "created_at": "2026-07-08T07:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074757372141281436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "899470193776140289",
+          "start": 0,
+          "username": "hzqsns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074757372141281436",
+    "in_reply_to_user_id": "899470193776140289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074751594953126249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzqsns claude那种封号环境真的是一般人能用的了的吗。。。。。？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2074751594953126249",
+        "created_at": "2026-07-08T07:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074757372141281436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "899470193776140289",
+              "start": 0,
+              "username": "hzqsns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074757372141281436",
+        "in_reply_to_user_id": "899470193776140289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074751594953126249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzqsns claude那种封号环境真的是一般人能用的了的吗。。。。。？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "899470193776140289",
+        "conversation_id": "2074751594953126249",
+        "created_at": "2026-07-08T07:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074751594953126249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074751594953126249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【工信部发布关于防范AI编程工具Cl­a­u­de Co­de安全后门隐患的风险提示】 近日，工业和信息化部网络安全威胁和漏洞信息共享平台（NV­DB）监测发现，AI编程工具Cl­a­u­de Co­de存在安全后门隐患，危害严重。Cl­a­u­de Co­de是美国An­t­h­r­o­p­ic公司开发的AI编程工具，可根据文字需求自主完成代码编写、修复等工作。由于其内置了监控机制，未经用户同意即可向远程服务器回传用户地域、身份标识等敏感信息，受影响的Cl­a­u­de Co­de为2.1.91至2.1.196版本。建议相关单位和用户立即开展全面排查，对于安装上述受影响版本的开发终端，立即卸载或升级至已清除相关后门代码的最新安全版本；加强核心业务网段内开发工具外联权限管控与流量监测，防止敏感数据违规外传。\n\n笑嘻了，A÷😄"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【工信部发布关于防范AI编程工具Cl­a­u­de Co­de安全后门隐患的风险提示】 近日，工业和信息化部网络安全威胁和漏洞信息共享平台（NV­DB）监测发现，AI编程工具Cl­a­u­de Co­de存在安全后门隐患，危害严重。Cl­a­u­de Co­de是美国An­t­h­r­o­p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 1407,
+          "like_count": 392,
+          "listed_count": 2,
+          "media_count": 792,
+          "tweet_count": 2797
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-21T03:16:20.000Z",
+        "description": "ex-KS | ex-Baidu\nISFJ | mtx | 奇迹和魔法并不是免费的\n🐧：第40542075个质数\n欢迎和我交朋友ww\n匿名信箱：https://t.co/m2nyyclarh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/0kg37l",
+                "end": 95,
+                "expanded_url": "https://reurl.cc/0kg37l",
+                "start": 72,
+                "url": "https://t.co/m2nyyclarh"
+              }
+            ]
+          }
+        },
+        "id": "899470193776140289",
+        "location": "M87",
+        "name": "Sakura🜃",
+        "pinned_tweet_id": "2061076825389019435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471482768732160/Okzc1BWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 566,
+          "like_count": 3709,
+          "listed_count": 4,
+          "media_count": 563,
+          "tweet_count": 2456
+        },
+        "url": "",
+        "username": "hzqsns",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2022826688862634495",
+    "created_at": "2026-02-15T06:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T07:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022926256313110847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1221617765519282176",
+          "start": 0,
+          "username": "AriXZone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022926256313110847",
+    "in_reply_to_user_id": "1221617765519282176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022826688862634495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AriXZone 英语环境待太久了确实有可能忘了自己的母语"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71167,
+        "height": 960,
+        "media_key": "7_2022826636555792384",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2022826636555792384/pu/img/eV7b7CwvUZG9i75l.jpg",
+        "public_metrics": {
+          "view_count": 7866
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022826636555792384/pu/vid/avc1/320x426/qzSBp379v9IJt4ZP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022826636555792384/pu/vid/avc1/480x640/NOZMaZZvvMwxRA9b.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022826636555792384/pu/vid/avc1/720x960/32OY24Bkg-EL6lZ3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2022826636555792384/pu/pl/SG8fSJo7ts3hXUuC.m3u8?v=354"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2022826688862634495",
+        "created_at": "2026-02-15T06:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T07:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022926256313110847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1221617765519282176",
+              "start": 0,
+              "username": "AriXZone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022926256313110847",
+        "in_reply_to_user_id": "1221617765519282176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022826688862634495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AriXZone 英语环境待太久了确实有可能忘了自己的母语"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2022826636555792384"
+          ]
+        },
+        "author_id": "1221617765519282176",
+        "conversation_id": "2022826688862634495",
+        "created_at": "2026-02-15T00:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T01:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022826688862634495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOFy23iky1",
+              "end": 54,
+              "expanded_url": "https://x.com/AriXZone/status/2022826688862634495/video/1",
+              "media_key": "7_2022826636555792384",
+              "start": 31,
+              "url": "https://t.co/xOFy23iky1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022826688862634495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 15223,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "黄仁勋中文演讲不到10句就破功，尬笑称“接下来不折磨大家了” https://t.co/xOFy23iky1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 774,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 451
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-27T02:16:06.000Z",
+        "description": "Veteran Full-Stack Architect & CEO | Tech & Science Communicator | Sharing life's fun bits.全栈架构师＆CEO|科普|趣事分享",
+        "id": "1221617765519282176",
+        "name": "魔都老猿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748977294448955392/yYvT5hTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22929,
+          "following_count": 3712,
+          "like_count": 68586,
+          "listed_count": 78,
+          "media_count": 3065,
+          "tweet_count": 36705
+        },
+        "username": "AriXZone",
+        "verified": true
+      }
+    ]
+  }
+}

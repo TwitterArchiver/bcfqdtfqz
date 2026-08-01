@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2037409990252933544",
+    "created_at": "2026-03-27T14:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037530884384141772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472111867036594179",
+          "start": 0,
+          "username": "SeimoDev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037530884384141772",
+    "in_reply_to_user_id": "1472111867036594179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037409990252933544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@SeimoDev 那关一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2037409990252933544",
+        "created_at": "2026-03-27T14:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037530884384141772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472111867036594179",
+              "start": 0,
+              "username": "SeimoDev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037530884384141772",
+        "in_reply_to_user_id": "1472111867036594179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037409990252933544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SeimoDev 那关一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472111867036594179",
+        "conversation_id": "2037409990252933544",
+        "created_at": "2026-03-27T06:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037409990252933544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037409990252933544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4055,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我互关的互关就是我的互关，我亲友的亲友就是我的亲友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄🍅日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不知道包什么的番茄（私信互关）",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 1231,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 521,
+          "tweet_count": 1419
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-18T07:50:10.000Z",
+        "description": "BI6PCR丨音游壬丨Web3丨Co-Founder of HNUBA丨Cooking @workworkorg丨SparkLab丨EnvX丨 Android Dev丨简中丨繁中丨English丨21歲丨大三丨https://t.co/Pikc5r4ELF丨友跨顺男丨面基Bot丨本人言论不构成任何投资建议",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "workworkorg"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/seimoSFW",
+                "end": 128,
+                "expanded_url": "https://t.me/seimoSFW",
+                "start": 105,
+                "url": "https://t.co/Pikc5r4ELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seimo.cn",
+                "end": 23,
+                "expanded_url": "https://seimo.cn",
+                "start": 0,
+                "url": "https://t.co/aegqvv8Y3G"
+              }
+            ]
+          }
+        },
+        "id": "1472111867036594179",
+        "location": "Earth",
+        "name": "Seimo（全🌏🉑✈️）",
+        "pinned_tweet_id": "1675708739998056449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020150811016466433/xhLLotxZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 691,
+          "like_count": 8468,
+          "listed_count": 4,
+          "media_count": 1234,
+          "tweet_count": 5198
+        },
+        "url": "https://t.co/aegqvv8Y3G",
+        "username": "SeimoDev",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2048034458402730173",
+    "created_at": "2026-04-26T13:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048392831186899310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1507619788503203840",
+          "start": 0,
+          "username": "SSN45071038"
+        },
+        {
+          "end": 21,
+          "id": "1223407990713114624",
+          "start": 13,
+          "username": "wmtbxsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048392831186899310",
+    "in_reply_to_user_id": "1507619788503203840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048064590140133407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SSN45071038 @wmtbxsh 能讨论出因为间谍的c9目测应该是只有两所，哈工和中科大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2048034458402730173",
+        "created_at": "2026-04-26T13:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048392831186899310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1507619788503203840",
+              "start": 0,
+              "username": "SSN45071038"
+            },
+            {
+              "end": 21,
+              "id": "1223407990713114624",
+              "start": 13,
+              "username": "wmtbxsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048392831186899310",
+        "in_reply_to_user_id": "1507619788503203840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048064590140133407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SSN45071038 @wmtbxsh 能讨论出因为间谍的c9目测应该是只有两所，哈工和中科大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507619788503203840",
+        "conversation_id": "2048034458402730173",
+        "created_at": "2026-04-25T15:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048064590140133407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1223407990713114624",
+              "start": 0,
+              "username": "wmtbxsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048064590140133407",
+        "in_reply_to_user_id": "1223407990713114624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 964,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048034458402730173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmtbxsh 现在国内对留子恶意太大了。前两天刚投了某C9高校的校友会的岗位，完事儿对面告诉我上会讨论后学校领导怕我是间谍不肯要我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄包着番茄籽炒蛋",
+        "pinned_tweet_id": "2048391956037017963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1340,
+          "like_count": 268,
+          "listed_count": 1,
+          "media_count": 702,
+          "tweet_count": 1806
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-26T07:25:51.000Z",
+        "description": "",
+        "id": "1507619788503203840",
+        "location": "Iowa, USA",
+        "name": "Hyatt",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 31,
+          "like_count": 5,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 72
+        },
+        "username": "SSN45071038",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T00:49:51.000Z",
+        "description": "我只想安静发疯💢｜碎碎念@wjtbxsh｜推广自辨❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "wjtbxsh"
+              }
+            ]
+          }
+        },
+        "id": "1223407990713114624",
+        "name": "我明天不想说话（读研发疯版）",
+        "pinned_tweet_id": "2047307160347169104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012531606020390912/jU4-9qGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48904,
+          "following_count": 237,
+          "like_count": 5384,
+          "listed_count": 107,
+          "media_count": 480,
+          "tweet_count": 1973
+        },
+        "username": "wmtbxsh",
+        "verified": false
+      }
+    ]
+  }
+}

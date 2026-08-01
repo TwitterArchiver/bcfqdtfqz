@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081734263616278528"
+      ],
+      "media_source_tweet_id": [
+        "2081734278338224147"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2081751425760338336",
+    "created_at": "2026-07-27T14:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081751425760338336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756909109788753920",
+          "start": 3,
+          "username": "__fanqie__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ayqrz19978",
+          "end": 53,
+          "expanded_url": "https://x.com/__fanqie__/status/2081734278338224147/photo/1",
+          "media_key": "3_2081734263616278528",
+          "start": 30,
+          "url": "https://t.co/ayqrz19978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081751425760338336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081734278338224147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__fanqie__: 细说什么是阿鲁巴游戏……？ https://t.co/ayqrz19978"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1318,
+        "media_key": "3_2081734263616278528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPOSIObkAAfepB.jpg",
+        "width": 1890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081734263616278528"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2081734278338224147",
+        "created_at": "2026-07-27T13:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081734278338224147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ayqrz19978",
+              "end": 37,
+              "expanded_url": "https://x.com/__fanqie__/status/2081734278338224147/photo/1",
+              "media_key": "3_2081734263616278528",
+              "start": 14,
+              "url": "https://t.co/ayqrz19978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081734278338224147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 473,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "细说什么是阿鲁巴游戏……？ https://t.co/ayqrz19978"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081734263616278528"
+          ],
+          "media_source_tweet_id": [
+            "2081734278338224147"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2081751425760338336",
+        "created_at": "2026-07-27T14:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081751425760338336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756909109788753920",
+              "start": 3,
+              "username": "__fanqie__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ayqrz19978",
+              "end": 53,
+              "expanded_url": "https://x.com/__fanqie__/status/2081734278338224147/photo/1",
+              "media_key": "3_2081734263616278528",
+              "start": 30,
+              "url": "https://t.co/ayqrz19978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081751425760338336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081734278338224147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__fanqie__: 细说什么是阿鲁巴游戏……？ https://t.co/ayqrz19978"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 1428,
+          "like_count": 428,
+          "listed_count": 2,
+          "media_count": 822,
+          "tweet_count": 3160
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuO2ty"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11422,
+          "following_count": 2805,
+          "like_count": 1610,
+          "listed_count": 26,
+          "media_count": 2405,
+          "tweet_count": 11194
+        },
+        "url": "https://t.co/ndOwWuO2ty",
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

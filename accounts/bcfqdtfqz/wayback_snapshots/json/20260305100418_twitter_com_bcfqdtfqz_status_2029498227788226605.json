@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2029463823728742646",
+    "created_at": "2026-03-05T10:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T11:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029498227788226605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2016452580793257985",
+          "start": 0,
+          "username": "vape3721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029498227788226605",
+    "in_reply_to_user_id": "2016452580793257985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029498082191389150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vape3721 应该不算是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2029463823728742646",
+        "created_at": "2026-03-05T10:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T11:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029498227788226605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2016452580793257985",
+              "start": 0,
+              "username": "vape3721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029498227788226605",
+        "in_reply_to_user_id": "2016452580793257985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029498082191389150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vape3721 应该不算是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016452580793257985",
+        "conversation_id": "2029463823728742646",
+        "created_at": "2026-03-05T10:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T11:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029498082191389150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029498082191389150",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029463823728742646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 这还是人类吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 1027,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 352,
+          "tweet_count": 1020
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-28T10:05:47.000Z",
+        "description": "主营正品RELX、雪加、高维等电子「烟」，6年卖家，诚信靠谱。微：vape3721",
+        "id": "2016452580793257985",
+        "location": "3km",
+        "name": "柒宝雾语-悦刻-冰熊-雪加-电子烟",
+        "pinned_tweet_id": "2029402254437171706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027992694610632704/CwdAVSYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 306,
+          "like_count": 1143,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 968
+        },
+        "username": "vape3721",
+        "verified": true
+      }
+    ]
+  }
+}

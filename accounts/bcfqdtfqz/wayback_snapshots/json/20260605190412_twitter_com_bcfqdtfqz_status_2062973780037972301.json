@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2062804375786209679",
+    "created_at": "2026-06-05T19:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T20:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062973780037972301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1283817542666997760",
+          "start": 0,
+          "username": "Dogecoin688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062973780037972301",
+    "in_reply_to_user_id": "1283817542666997760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062804375786209679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dogecoin688 智谱：我要上大a了你怎么说？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2062804375786209679",
+        "created_at": "2026-06-05T19:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T20:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062973780037972301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1283817542666997760",
+              "start": 0,
+              "username": "Dogecoin688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062973780037972301",
+        "in_reply_to_user_id": "1283817542666997760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062804375786209679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dogecoin688 智谱：我要上大a了你怎么说？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1283817542666997760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2062804375786209679",
+        "created_at": "2026-06-05T07:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062804375786209679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062804375786209679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 435,
+                "start": 430,
+                "tag": "doge"
+              },
+              {
+                "end": 440,
+                "start": 436,
+                "tag": "btc"
+              }
+            ]
+          },
+          "text": "有没有可能是这样的剧本：\n\n第一阶段：\n美国高举AI大旗，美股持续创新高。\nSpaceX、OpenAI、Anthropic等超级独角兽陆续传出上市预期。\n全球资金开始被吸引至美国资本市场。\n\n第二阶段：\n特朗普提出让美国成为全球数字资产中心。比特币冲上12万美元。大量散户资金涌入加密市场。随后市场开始大幅下跌。\n\n第三阶段：\nAI巨头上市预期升温。\n散户开始从加密市场割肉撤退。\n资金重新流向美股。\n数字货币市场进入震荡洗盘阶段。\n\n第四阶段：\n当散户资金被锁定在美股高位后。\n机构完成筹码交换。\n加密市场经过多轮洗盘后筹码重新集中。\n\n第五阶段：\n美股完成出货。\n美国重新推动数字资产发展。\n新一轮数字货币行情开启。\n美国既拿到了全球资本，\n又拿到了全球数字资产定价权。\n\n第六阶段：\n东方大国静静看着这一切。\n不让自己的散户轻易参与这场游戏。\n毕竟，当所有人都在讲财富自由的时候，往往才是最危险的时候。\n\n再次声明：\n以上纯属虚构，如有雷同，纯属巧合。\n#doge #btc"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 19999,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "有没有可能是这样的剧本：\n\n第一阶段：\n美国高举AI大旗，美股持续创新高。\nSpaceX、OpenAI、Anthropic等超级独角兽陆续传出上市预期。\n全球资金开始被吸引至美国资本市场。\n\n第二阶段：\n特朗普提出让美国成为全球数字资产中心。比特币冲上12万美元。大量散户资金涌入加密市场。随后市场开始大幅下跌。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 1341,
+          "like_count": 333,
+          "listed_count": 2,
+          "media_count": 752,
+          "tweet_count": 2164
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-16T17:35:38.000Z",
+        "description": "Witness Doge making history together",
+        "id": "1283817542666997760",
+        "location": "𝕏Ð",
+        "name": "Charlie Smith 🐕 Doge",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815190789766725632/gQn6UhId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3307,
+          "following_count": 388,
+          "like_count": 3513,
+          "listed_count": 11,
+          "media_count": 78,
+          "tweet_count": 1386
+        },
+        "username": "Dogecoin688",
+        "verified": true
+      }
+    ]
+  }
+}

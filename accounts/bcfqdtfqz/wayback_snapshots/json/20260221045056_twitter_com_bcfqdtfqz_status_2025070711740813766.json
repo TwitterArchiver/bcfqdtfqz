@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025070701628264448"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2025070711740813766",
+    "created_at": "2026-02-21T04:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T05:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025070711740813766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lts4kPvtqk",
+          "end": 26,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2025070711740813766/photo/1",
+          "media_key": "3_2025070701628264448",
+          "start": 3,
+          "url": "https://t.co/Lts4kPvtqk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025070711740813766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这我 https://t.co/Lts4kPvtqk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2025070701628264448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBp_EueakAAQjLG.jpg",
+        "width": 1106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025070701628264448"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2025070711740813766",
+        "created_at": "2026-02-21T04:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025070711740813766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lts4kPvtqk",
+              "end": 26,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2025070711740813766/photo/1",
+              "media_key": "3_2025070701628264448",
+              "start": 3,
+              "url": "https://t.co/Lts4kPvtqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025070711740813766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这我 https://t.co/Lts4kPvtqk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主｜里推@_with_tomato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "_with_tomato"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 953,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 711
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2059318594413142496",
+    "created_at": "2026-05-27T09:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059565197703213356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1644761277900951552",
+          "start": 0,
+          "username": "IMGeneralSun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059565197703213356",
+    "in_reply_to_user_id": "1644761277900951552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059318594413142496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IMGeneralSun 因为如果朋友做错了你指出来有概率连着你一起翻脸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2059318594413142496",
+        "created_at": "2026-05-27T09:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059565197703213356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1644761277900951552",
+              "start": 0,
+              "username": "IMGeneralSun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059565197703213356",
+        "in_reply_to_user_id": "1644761277900951552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059318594413142496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IMGeneralSun 因为如果朋友做错了你指出来有概率连着你一起翻脸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644761277900951552",
+        "conversation_id": "2059318594413142496",
+        "created_at": "2026-05-26T16:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059318594413142496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059318594413142496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1855,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥现在的人交友观都很扭曲啊，什么叫就算朋友做错了也得无条件支持朋友，不是应该及时让朋友认识到错误然后劝朋友改正吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n分享思考和个人生活\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 1350,
+          "like_count": 324,
+          "listed_count": 2,
+          "media_count": 740,
+          "tweet_count": 2051
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "我是男的别再觉得我是女的了谢谢！本人农村户口（可验证）技校毕业（可验证）持有某函授大专证书（可验证）（注：本人无任何小号）",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "白色小孩（无小号，有也不会让你们发现）",
+        "pinned_tweet_id": "2055822795893092796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054103810906509312/sJoC4SNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6858,
+          "following_count": 437,
+          "like_count": 63177,
+          "listed_count": 6,
+          "media_count": 398,
+          "tweet_count": 28006
+        },
+        "username": "IMGeneralSun",
+        "verified": false
+      }
+    ]
+  }
+}

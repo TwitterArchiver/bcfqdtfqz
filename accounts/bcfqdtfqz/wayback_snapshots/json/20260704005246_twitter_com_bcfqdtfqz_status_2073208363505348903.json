@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2072922752651018648",
+    "created_at": "2026-07-04T00:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T01:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073208363505348903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1887319518923661312",
+          "start": 0,
+          "username": "yiyi2731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073208363505348903",
+    "in_reply_to_user_id": "1887319518923661312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072922752651018648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiyi2731 看长相默认年龄破案"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 93530,
+        "height": 1280,
+        "media_key": "7_2072922637353758720",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2072922637353758720/pu/img/zMrPO6xVxJ3KbCU2.jpg",
+        "public_metrics": {
+          "view_count": 2176
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072922637353758720/pu/vid/avc1/320x710/zuiDNngnE_Yy2nk5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072922637353758720/pu/vid/avc1/480x1066/apgFiH_HBtxR8ILK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072922637353758720/pu/vid/avc1/576x1280/izS-RcWmZQ17ImxF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2072922637353758720/pu/pl/n0jSxTY2goGGG7yg.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2072922752651018648",
+        "created_at": "2026-07-04T00:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T01:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073208363505348903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1887319518923661312",
+              "start": 0,
+              "username": "yiyi2731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073208363505348903",
+        "in_reply_to_user_id": "1887319518923661312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072922752651018648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiyi2731 看长相默认年龄破案"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2072922637353758720"
+          ]
+        },
+        "author_id": "1887319518923661312",
+        "conversation_id": "2072922752651018648",
+        "created_at": "2026-07-03T05:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072922752651018648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1QAWaHdBl2",
+              "end": 46,
+              "expanded_url": "https://x.com/yiyi2731/status/2072922752651018648/video/1",
+              "media_key": "7_2072922637353758720",
+              "start": 23,
+              "url": "https://t.co/1QAWaHdBl2"
+            },
+            {
+              "display_url": "x.com/yiyi2731/statu…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/yiyi2731/status/2071940475263787244",
+              "start": 47,
+              "url": "https://t.co/JwSHYB5pnY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072922752651018648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6329,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071940475263787244",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我家长就看这种视频然后特意录下来发给我😨🥺😡 https://t.co/1QAWaHdBl2 https://t.co/JwSHYB5pnY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 1387,
+          "like_count": 378,
+          "listed_count": 2,
+          "media_count": 784,
+          "tweet_count": 2645
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-06T01:57:10.000Z",
+        "description": "MtF🏳️‍⚧️ | 家长反对党 | INFJ 🥹 | 09🤤 | =ᗜωᗜ= | 🥺😿 | 在湖南🐰",
+        "id": "1887319518923661312",
+        "name": "小依.🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049793278422495232/6KBMi0QR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 202,
+          "like_count": 4852,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "yiyi2731",
+        "verified": false
+      }
+    ]
+  }
+}

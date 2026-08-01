@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081388811997880320"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2081381677637779572",
+    "created_at": "2026-07-26T14:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T15:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081388818855505929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1917047326990094336",
+          "start": 0,
+          "username": "0TwT012"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EbzeV3CprX",
+          "end": 36,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2081388818855505929/photo/1",
+          "media_key": "3_2081388811997880320",
+          "start": 13,
+          "url": "https://t.co/EbzeV3CprX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081388818855505929",
+    "in_reply_to_user_id": "1917047326990094336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081381677637779572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0TwT012 对不起 https://t.co/EbzeV3CprX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2081388811997880320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKUGMqbIAA1rAl.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081388811997880320"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2081381677637779572",
+        "created_at": "2026-07-26T14:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081388818855505929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EbzeV3CprX",
+              "end": 36,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2081388818855505929/photo/1",
+              "media_key": "3_2081388811997880320",
+              "start": 13,
+              "url": "https://t.co/EbzeV3CprX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081388818855505929",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081381677637779572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 对不起 https://t.co/EbzeV3CprX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2081381677637779572",
+        "created_at": "2026-07-26T14:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081381677637779572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081381677637779572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好生气好生气我不明白为什么地铁上总有人喜欢靠在杆子上，我手还握着那呢，能不能有点边界感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 1427,
+          "like_count": 427,
+          "listed_count": 2,
+          "media_count": 822,
+          "tweet_count": 3156
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//前夫回忆录//情感博主//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4067,
+          "following_count": 254,
+          "like_count": 1261,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 1978
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": true
+      }
+    ]
+  }
+}

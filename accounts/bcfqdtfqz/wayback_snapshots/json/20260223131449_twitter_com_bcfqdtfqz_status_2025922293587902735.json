@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2025895505746948472",
+    "created_at": "2026-02-23T13:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T14:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025922293587902735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1558317849508122629",
+          "start": 0,
+          "username": "CuiMao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025922293587902735",
+    "in_reply_to_user_id": "1558317849508122629",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025895505746948472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuiMao 隔壁v神才到4.0你这咋就5.0上了😳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2025895505746948472",
+        "created_at": "2026-02-23T13:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025922293587902735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1558317849508122629",
+              "start": 0,
+              "username": "CuiMao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025922293587902735",
+        "in_reply_to_user_id": "1558317849508122629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025895505746948472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuiMao 隔壁v神才到4.0你这咋就5.0上了😳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558317849508122629",
+        "conversation_id": "2025895505746948472",
+        "created_at": "2026-02-23T11:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025895505746948472"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "Web 5.0",
+              "probability": 0.6886,
+              "start": 7,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025895505746948472",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4737,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "All in Web 5.0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 999,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 773
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-13T05:01:53.000Z",
+        "description": "AI  Developer ｜ OpenClaw ｜ ComfyUI ｜",
+        "id": "1558317849508122629",
+        "name": "CuiMao",
+        "pinned_tweet_id": "2025015201977041353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025112186520211456/kfP9BPWZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31493,
+          "following_count": 1109,
+          "like_count": 8431,
+          "listed_count": 145,
+          "media_count": 1301,
+          "tweet_count": 11239
+        },
+        "username": "CuiMao",
+        "verified": true
+      }
+    ]
+  }
+}

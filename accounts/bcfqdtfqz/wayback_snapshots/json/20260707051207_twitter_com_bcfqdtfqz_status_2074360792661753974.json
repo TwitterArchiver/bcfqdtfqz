@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2074053525072760867",
+    "created_at": "2026-07-07T05:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T06:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074360792661753974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1806225733045690368",
+          "start": 0,
+          "username": "MizutaniSubaru_"
+        },
+        {
+          "end": 30,
+          "id": "1319578357395156993",
+          "start": 17,
+          "username": "yoshino_2333"
+        },
+        {
+          "end": 42,
+          "id": "1765989284275007488",
+          "start": 31,
+          "username": "yiming9876"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074360792661753974",
+    "in_reply_to_user_id": "1806225733045690368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074339637712355329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MizutaniSubaru_ @yoshino_2333 @yiming9876 我没招了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2074053525072760867",
+        "created_at": "2026-07-07T05:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074360792661753974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1806225733045690368",
+              "start": 0,
+              "username": "MizutaniSubaru_"
+            },
+            {
+              "end": 30,
+              "id": "1319578357395156993",
+              "start": 17,
+              "username": "yoshino_2333"
+            },
+            {
+              "end": 42,
+              "id": "1765989284275007488",
+              "start": 31,
+              "username": "yiming9876"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074360792661753974",
+        "in_reply_to_user_id": "1806225733045690368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074339637712355329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MizutaniSubaru_ @yoshino_2333 @yiming9876 我没招了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806225733045690368",
+        "conversation_id": "2074053525072760867",
+        "created_at": "2026-07-07T03:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074339637712355329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            },
+            {
+              "end": 25,
+              "id": "1765989284275007488",
+              "start": 14,
+              "username": "yiming9876"
+            },
+            {
+              "end": 36,
+              "id": "2018306514549972992",
+              "start": 26,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074339637712355329",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074155304972112254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 @yiming9876 @bcfqdtfqz 不是你们都什么情况🫪🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 1408,
+          "like_count": 389,
+          "listed_count": 2,
+          "media_count": 789,
+          "tweet_count": 2763
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-27T07:19:18.000Z",
+        "description": "目标是天天开心｜愿你被世界温柔相待.🏳️‍🌈",
+        "id": "1806225733045690368",
+        "location": "In Freedom",
+        "name": "水谷昴",
+        "pinned_tweet_id": "2067863985891017197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031314735795417095/AHtCnHWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 576,
+          "like_count": 8081,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 1606
+        },
+        "url": "",
+        "username": "MizutaniSubaru_",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "希望成为一个有趣、独特的人 | Frontend/ReactNative Developer | AI 拉屎督察官 | Tweets in EN/CN | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058124254395400192/V-ESBVRl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 696,
+          "like_count": 20747,
+          "listed_count": 5,
+          "media_count": 918,
+          "tweet_count": 13946
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-08T06:33:58.000Z",
+        "description": "One of the core maintainers 👉 @CherryStudioHQ 🍒\nCSAI undergraduate student 👉 @UniofNottingham\nISTJ / https://t.co/zTQuCdSRQO\nhttps://t.co/wpRb8tCCp4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "CherryStudioHQ"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "UniofNottingham"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/Pleasurecruise",
+                "end": 124,
+                "expanded_url": "https://github.com/Pleasurecruise",
+                "start": 101,
+                "url": "https://t.co/zTQuCdSRQO"
+              },
+              {
+                "display_url": "yiming1234.cn",
+                "end": 148,
+                "expanded_url": "https://yiming1234.cn",
+                "start": 125,
+                "url": "https://t.co/wpRb8tCCp4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "you-find.me",
+                "end": 23,
+                "expanded_url": "https://you-find.me",
+                "start": 0,
+                "url": "https://t.co/yGqCGYmerC"
+              }
+            ]
+          }
+        },
+        "id": "1765989284275007488",
+        "location": "Nottingham, United Kingdom",
+        "name": "Pleasure1234",
+        "pinned_tweet_id": "2052830658683179211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052853273955028994/iCIWpxuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 163,
+          "like_count": 4545,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 690
+        },
+        "url": "https://t.co/yGqCGYmerC",
+        "username": "yiming9876",
+        "verified": false
+      }
+    ]
+  }
+}

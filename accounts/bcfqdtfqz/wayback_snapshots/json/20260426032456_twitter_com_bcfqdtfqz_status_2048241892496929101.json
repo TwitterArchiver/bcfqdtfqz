@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048241887484780544"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048241892496929101",
+    "created_at": "2026-04-26T03:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T04:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048241892496929101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LecODlAWah",
+          "end": 47,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2048241892496929101/photo/1",
+          "media_key": "3_2048241887484780544",
+          "start": 24,
+          "url": "https://t.co/LecODlAWah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048241892496929101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽这人肯定假冒的啊，我们皱皮真没这么下头的啊 https://t.co/LecODlAWah"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 624,
+        "media_key": "3_2048241887484780544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzRJQWbIAAhzS1.jpg",
+        "width": 298
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048241887484780544"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048241892496929101",
+        "created_at": "2026-04-26T03:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048241892496929101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LecODlAWah",
+              "end": 47,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2048241892496929101/photo/1",
+              "media_key": "3_2048241887484780544",
+              "start": 24,
+              "url": "https://t.co/LecODlAWah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048241892496929101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽这人肯定假冒的啊，我们皱皮真没这么下头的啊 https://t.co/LecODlAWah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图夹杂着生活帖子，\n欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄包着番茄籽炒蛋",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 1340,
+          "like_count": 268,
+          "listed_count": 1,
+          "media_count": 703,
+          "tweet_count": 1802
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      }
+    ]
+  }
+}

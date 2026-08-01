@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2024690700038631846",
+    "created_at": "2026-02-20T04:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T05:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024697855467044985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1959230145623138304",
+          "start": 0,
+          "username": "oouki_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024697855467044985",
+    "in_reply_to_user_id": "1959230145623138304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024690700038631846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oouki_o 对不起🧎‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2024690700038631846",
+        "created_at": "2026-02-20T04:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T05:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024697855467044985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1959230145623138304",
+              "start": 0,
+              "username": "oouki_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024697855467044985",
+        "in_reply_to_user_id": "1959230145623138304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024690700038631846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oouki_o 对不起🧎‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959230145623138304",
+        "conversation_id": "2024690700038631846",
+        "created_at": "2026-02-20T03:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024690700038631846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024690700038631846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些人好神 个人有个人的xp 关注不关注17和你有什么关系  装什么理中客 要是实在闲的没事做 你就去发天气预报 如果怕发不准你就发昨天的🙄一天到晚刷个推特遇到一堆纱口 红苕稀饭胀多了吗 如此雷霆发言"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 853,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 632
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-23T12:24:14.000Z",
+        "description": "REST-A ｜华籍美人｜窝不约🤗 ｜ 喜欢有素质的人 私信对我发烧的先v我500精神损失费😇｜匿名提问在这里：https://t.co/6NpukbCMno",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/oouki.hello",
+                "end": 79,
+                "expanded_url": "https://tellonym.me/oouki.hello",
+                "start": 56,
+                "url": "https://t.co/6NpukbCMno"
+              }
+            ]
+          }
+        },
+        "id": "1959230145623138304",
+        "location": "表面呆呆的 其实内心也萌萌的",
+        "name": "ค 奈᳐奈᳐ ฅ ੭ﾞ",
+        "pinned_tweet_id": "2022983209760514506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001087386701475840/00JAfx-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 37,
+          "like_count": 5254,
+          "listed_count": 8,
+          "media_count": 129,
+          "tweet_count": 800
+        },
+        "username": "oouki_o",
+        "verified": false
+      }
+    ]
+  }
+}

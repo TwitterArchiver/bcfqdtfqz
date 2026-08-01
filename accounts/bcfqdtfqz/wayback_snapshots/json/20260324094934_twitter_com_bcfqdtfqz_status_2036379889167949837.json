@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2036358880700383558",
+    "created_at": "2026-03-24T09:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T10:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036379889167949837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1342787787418812416",
+          "start": 0,
+          "username": "BleakFaith1"
+        },
+        {
+          "end": 28,
+          "id": "44186175",
+          "start": 13,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036379889167949837",
+    "in_reply_to_user_id": "1342787787418812416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036363109129191494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BleakFaith1 @xiaojingcanxue 美股有多少前十大控股控股在30%，50%甚至85%，\na股这种的一抓一大把，公司决策投票来投票去也都是那几个人点头的事情，也不用看股民脸色所以不用分红，公司股票拿去抵押进就能疯狂套钱就算投票也根本没人拦得住，钱挣不挣无所谓大不了退市了该被查被查手续合理进完事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2036358880700383558",
+        "created_at": "2026-03-24T09:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036379889167949837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1342787787418812416",
+              "start": 0,
+              "username": "BleakFaith1"
+            },
+            {
+              "end": 28,
+              "id": "44186175",
+              "start": 13,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036379889167949837",
+        "in_reply_to_user_id": "1342787787418812416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036363109129191494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BleakFaith1 @xiaojingcanxue 美股有多少前十大控股控股在30%，50%甚至85%，\na股这种的一抓一大把，公司决策投票来投票去也都是那几个人点头的事情，也不用看股民脸色所以不用分红，公司股票拿去抵押进就能疯狂套钱就算投票也根本没人拦得住，钱挣不挣无所谓大不了退市了该被查被查手续合理进完事了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1342787787418812416",
+        "conversation_id": "2036358880700383558",
+        "created_at": "2026-03-24T08:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T09:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036363109129191494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "44186175",
+              "start": 0,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036363109129191494",
+        "in_reply_to_user_id": "44186175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036358880700383558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojingcanxue 资本市场从业人员看法：\n1.没有核实数据\n2.非流通股是中国资本市场的“国情”，转流通股是大势所趋。二者同股同权，在权益分配没有本质区别，只是非流通股暂时不可上市交易。非流通股转流通股后理论上不会给公众股东带来任何损害。\n3.“wait, what?”这种极度口语化的表述，不像是专业财经媒体ft的风格。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅@__fanqie__， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主，偶尔生活帖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "__fanqie__"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不知道包什么的番茄",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 1218,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 492,
+          "tweet_count": 1360
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-26T11:04:18.000Z",
+        "description": "共产主义才是人类历史上最大的瘟疫",
+        "id": "1342787787418812416",
+        "location": "Toronto, Ontario",
+        "name": "BleakFaith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1349717012008771584/DWtxJrQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 17254,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 11111
+        },
+        "username": "BleakFaith1",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中美新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236469,
+          "following_count": 1848,
+          "like_count": 189,
+          "listed_count": 1265,
+          "media_count": 28326,
+          "tweet_count": 36152
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

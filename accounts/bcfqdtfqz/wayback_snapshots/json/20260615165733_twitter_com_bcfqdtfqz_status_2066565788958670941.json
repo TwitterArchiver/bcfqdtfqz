@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066565766590480384"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2066565788958670941",
+    "created_at": "2026-06-15T16:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066565788958670941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1971850577106948097",
+          "start": 7,
+          "username": "Sino_nime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/di5I7GvYgT",
+          "end": 41,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2066565788958670941/photo/1",
+          "media_key": "3_2066565766590480384",
+          "start": 18,
+          "url": "https://t.co/di5I7GvYgT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066565788958670941",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天在上海和\n@Sino_nime https://t.co/di5I7GvYgT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2066565766590480384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3qnZabwAAkn-y.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066565766590480384"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2066565788958670941",
+        "created_at": "2026-06-15T16:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066565788958670941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1971850577106948097",
+              "start": 7,
+              "username": "Sino_nime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/di5I7GvYgT",
+              "end": 41,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2066565788958670941/photo/1",
+              "media_key": "3_2066565766590480384",
+              "start": 18,
+              "url": "https://t.co/di5I7GvYgT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066565788958670941",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天在上海和\n@Sino_nime https://t.co/di5I7GvYgT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 1342,
+          "like_count": 339,
+          "listed_count": 2,
+          "media_count": 758,
+          "tweet_count": 2255
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T08:13:16.000Z",
+        "description": "收藏日常和碎碎念 To collect daily items and jabber.                                                         medical student",
+        "id": "1971850577106948097",
+        "location": "Hong Kong",
+        "name": "Sinonime Sora",
+        "pinned_tweet_id": "2055187924296270322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979907907404570624/XqtDX02C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 99,
+          "like_count": 1438,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1021
+        },
+        "username": "Sino_nime",
+        "verified": false
+      }
+    ]
+  }
+}

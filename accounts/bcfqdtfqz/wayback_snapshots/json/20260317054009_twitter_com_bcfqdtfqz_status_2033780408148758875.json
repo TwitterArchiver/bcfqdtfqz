@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033780393128955906",
+        "3_2033780393133150213",
+        "3_2033780393166643200"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033780408148758875",
+    "created_at": "2026-03-17T05:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T06:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033780408148758875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/22J7nvZ8vE",
+          "end": 33,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2033780408148758875/photo/1",
+          "media_key": "3_2033780393128955906",
+          "start": 10,
+          "url": "https://t.co/22J7nvZ8vE"
+        },
+        {
+          "display_url": "pic.x.com/22J7nvZ8vE",
+          "end": 33,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2033780408148758875/photo/1",
+          "media_key": "3_2033780393133150213",
+          "start": 10,
+          "url": "https://t.co/22J7nvZ8vE"
+        },
+        {
+          "display_url": "pic.x.com/22J7nvZ8vE",
+          "end": 33,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2033780408148758875/photo/1",
+          "media_key": "3_2033780393166643200",
+          "start": 10,
+          "url": "https://t.co/22J7nvZ8vE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033780408148758875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大事上爹还真不含糊 https://t.co/22J7nvZ8vE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2033780393128955906",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlwffubEAInyxL.jpg",
+        "width": 590
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2033780393133150213",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlwffvbEAUqM_P.jpg",
+        "width": 590
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2033780393166643200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlwff3aIAA04P2.jpg",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033780393128955906",
+            "3_2033780393133150213",
+            "3_2033780393166643200"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033780408148758875",
+        "created_at": "2026-03-17T05:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T06:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033780408148758875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/22J7nvZ8vE",
+              "end": 33,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2033780408148758875/photo/1",
+              "media_key": "3_2033780393128955906",
+              "start": 10,
+              "url": "https://t.co/22J7nvZ8vE"
+            },
+            {
+              "display_url": "pic.x.com/22J7nvZ8vE",
+              "end": 33,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2033780408148758875/photo/1",
+              "media_key": "3_2033780393133150213",
+              "start": 10,
+              "url": "https://t.co/22J7nvZ8vE"
+            },
+            {
+              "display_url": "pic.x.com/22J7nvZ8vE",
+              "end": 33,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2033780408148758875/photo/1",
+              "media_key": "3_2033780393166643200",
+              "start": 10,
+              "url": "https://t.co/22J7nvZ8vE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033780408148758875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大事上爹还真不含糊 https://t.co/22J7nvZ8vE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 1098,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 452,
+          "tweet_count": 1267
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

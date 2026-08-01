@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2062518154664825007",
+    "created_at": "2026-06-04T16:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062571689515548685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1540752023674429441",
+          "start": 0,
+          "username": "ChrisHamous"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062571689515548685",
+    "in_reply_to_user_id": "1540752023674429441",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062518154664825007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChrisHamous 加油喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2062518154664825007",
+        "created_at": "2026-06-04T16:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062571689515548685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1540752023674429441",
+              "start": 0,
+              "username": "ChrisHamous"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062571689515548685",
+        "in_reply_to_user_id": "1540752023674429441",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062518154664825007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChrisHamous 加油喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540752023674429441",
+        "conversation_id": "2062518154664825007",
+        "created_at": "2026-06-04T12:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062518154664825007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062518154664825007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "怎么突然这么多事情一起涌上来了。\n\n晚上开组会的时候，我小导又提到了我的中期设计实验。其实他一直在帮我梳理实验方案，每次都很认真地给我推思路、定方向，也一直提醒我小论文的进度。他并没有给我特别大的压力，可我自己心里很清楚，很多方案说过了，我却一直没有真正执行下去。\n\n我好像总是把精力放在自己眼前最急的事情上，尤其是那些需要向大导交差的任务。因为大导是真的会发火，所以我下意识会优先处理那些让我害怕出问题的事情。可这样一来，小导这边长期帮我推进的事情，反而被我一拖再拖。\n\n今天组会上，我能明显听出来小导对我的失望。他说我其实很有能力，但总是不愿意真正使劲，他也不知道该怎么说我。师兄还一直在旁边帮我说话，也继续帮我推方案。那一刻我真的很愧疚，感觉自己辜负了他们的耐心和期待。\n\n晚上我哥给我打电话，说他离职了，想休息一段时间。其实我很能理解他，他真的也辛苦了很久。可这样一来，我原本想着这个月下旬离职的计划，可能又要搁置了。家里的债务压力还在那里，我必须承担一部分责任。\n\n工作这边也没有消停。临下班的时候，老板突然又提出要加新功能，我和 mentor 对视了一眼，真的两个人都是麻木的状态，脸上完全挂不住了。\n\n我发现自己一旦事情同时变多，就会完全失去理性的部分。学业、论文、实验、工作、家庭压力，全都挤在一起的时候，我根本不知道该从哪里开始处理。\n\n我现在真的很崩溃，也很愧疚，更不知道下一步到底该怎么办。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么突然这么多事情一起涌上来了。\n\n晚上开组会的时候，我小导又提到了我的中期设计实验。其实他一直在帮我梳理实验方案，每次都很认真地给我推思路、定方向，也一直提醒我小论文的进度。他并没有给我特别大的压力，可我自己心里很清楚，很多方案说过了，我却一直没有真正执行下去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 1344,
+          "like_count": 333,
+          "listed_count": 2,
+          "media_count": 751,
+          "tweet_count": 2157
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T17:41:30.000Z",
+        "description": "研二工科在读 | 分享AI、生活、碎碎念，努力赚钱ing\n欢迎随时向我分享你的生活！\n https://t.co/oJ2lI89oja（匿名提问）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chrishamous",
+                "end": 67,
+                "expanded_url": "https://ngl.link/chrishamous",
+                "start": 44,
+                "url": "https://t.co/oJ2lI89oja"
+              }
+            ]
+          }
+        },
+        "id": "1540752023674429441",
+        "name": "Chris hamous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001160491646029824/Niex04uV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1254,
+          "like_count": 2122,
+          "listed_count": 2,
+          "media_count": 433,
+          "tweet_count": 3144
+        },
+        "username": "ChrisHamous",
+        "verified": true
+      }
+    ]
+  }
+}

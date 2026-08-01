@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2067549738908737953",
+    "created_at": "2026-06-19T02:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T03:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067800545226903688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2067360380196941824",
+          "start": 0,
+          "username": "OpenToRise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067800545226903688",
+    "in_reply_to_user_id": "2067360380196941824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067549738908737953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OpenToRise 但是我还没到你这个本科层次，所以给不出什么合适的建议"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2067549738908737953",
+        "created_at": "2026-06-19T02:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067800545226903688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067360380196941824",
+              "start": 0,
+              "username": "OpenToRise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067800545226903688",
+        "in_reply_to_user_id": "2067360380196941824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067549738908737953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OpenToRise 但是我还没到你这个本科层次，所以给不出什么合适的建议"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067360380196941824",
+        "conversation_id": "2067549738908737953",
+        "created_at": "2026-06-18T10:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067549738908737953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067549738908737953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 31107,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 82,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "礼貌求建议\n个人情况：\n清华大一，but文科；\n对搞学术不是很感兴趣，也🈚这方面的天分；\n这学期由于抑郁症休学了，可以后面补上课程，不用延毕；\n\n跪求大佬指点迷津啊，我该投入到学业吗，还是说直接找实习啥的跟社会接轨，如果是，又该学些什么嘞（我真的要哭了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 1345,
+          "like_count": 341,
+          "listed_count": 2,
+          "media_count": 759,
+          "tweet_count": 2290
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-17T21:37:09.000Z",
+        "description": "清华本科在读\n\n喜欢电子游戏\n\n努力增重却失败\n\n迷茫于就业",
+        "id": "2067360380196941824",
+        "location": "北京",
+        "name": "High Quality Wanderer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067493915645849600/B8OdqWUp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 38,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "OpenToRise",
+        "verified": false
+      }
+    ]
+  }
+}

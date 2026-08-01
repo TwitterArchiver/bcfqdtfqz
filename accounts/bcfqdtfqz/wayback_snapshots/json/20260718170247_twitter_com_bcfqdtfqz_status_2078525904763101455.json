@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2078333340516766089",
+    "created_at": "2026-07-18T17:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T18:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078525904763101455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1956083750661718016",
+          "start": 0,
+          "username": "fly2_1M"
+        },
+        {
+          "end": 20,
+          "id": "2059173799543930880",
+          "start": 9,
+          "username": "falali2015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078525904763101455",
+    "in_reply_to_user_id": "1956083750661718016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078520727804973492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fly2_1M @falali2015 澜起和兆易创新还有救，老登只适合吃分红，并且茅台这些年被几个董事长轮着搞各种奇葩ip霍霍的不成样子🙂‍↔️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2078333340516766089",
+        "created_at": "2026-07-18T17:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078525904763101455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1956083750661718016",
+              "start": 0,
+              "username": "fly2_1M"
+            },
+            {
+              "end": 20,
+              "id": "2059173799543930880",
+              "start": 9,
+              "username": "falali2015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078525904763101455",
+        "in_reply_to_user_id": "1956083750661718016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078520727804973492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fly2_1M @falali2015 澜起和兆易创新还有救，老登只适合吃分红，并且茅台这些年被几个董事长轮着搞各种奇葩ip霍霍的不成样子🙂‍↔️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956083750661718016",
+        "conversation_id": "2078333340516766089",
+        "created_at": "2026-07-18T16:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078520727804973492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2059173799543930880",
+              "start": 0,
+              "username": "falali2015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078520727804973492",
+        "in_reply_to_user_id": "2059173799543930880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078333340516766089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@falali2015 清仓买贵州茅台吧，刚刚涨价，十年都没有这跌的多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号，梦到哪句发哪句\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 47,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 24,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 1432,
+          "like_count": 418,
+          "listed_count": 2,
+          "media_count": 812,
+          "tweet_count": 3073
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T20:01:43.000Z",
+        "description": "不交易也是一种交易。\n重视趋势性机会，重仓国运级的机会。\n不提供任何财务建议，记录自己的每一笔交易。",
+        "id": "1956083750661718016",
+        "name": "从零爬上100wu",
+        "pinned_tweet_id": "2065104467012505949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050787841970728961/cAYAwg2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5812,
+          "following_count": 162,
+          "like_count": 14368,
+          "listed_count": 70,
+          "media_count": 1155,
+          "tweet_count": 7978
+        },
+        "url": "",
+        "username": "fly2_1M",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-26T07:25:34.000Z",
+        "description": "An interesting soul \n北大医学系毕业，弃医从“金”\n我的专栏\nhttps://t.co/KDactQzRDm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zhangtingban.substack.com/?r=8n5tk6&utm_…",
+                "end": 64,
+                "expanded_url": "https://zhangtingban.substack.com/?r=8n5tk6&utm_campaign=pub-share-checklist",
+                "start": 41,
+                "url": "https://t.co/KDactQzRDm"
+              }
+            ]
+          }
+        },
+        "id": "2059173799543930880",
+        "location": "陆家嘴",
+        "name": "硅基流动",
+        "pinned_tweet_id": "2077974272333766716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059890589609717760/aj2mixGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5050,
+          "following_count": 1125,
+          "like_count": 27,
+          "listed_count": 44,
+          "media_count": 365,
+          "tweet_count": 1303
+        },
+        "url": "",
+        "username": "falali2015",
+        "verified": true
+      }
+    ]
+  }
+}

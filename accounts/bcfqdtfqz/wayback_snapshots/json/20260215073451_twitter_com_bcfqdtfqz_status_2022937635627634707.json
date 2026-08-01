@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2022600579164549543",
+    "created_at": "2026-02-15T07:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T08:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022937635627634707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1120638103306117120",
+          "start": 0,
+          "username": "siantgirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022937635627634707",
+    "in_reply_to_user_id": "1120638103306117120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022600579164549543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siantgirl 看赛道，不同赛道的价格不一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2022600579164549543",
+        "created_at": "2026-02-15T07:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T08:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022937635627634707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1120638103306117120",
+              "start": 0,
+              "username": "siantgirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022937635627634707",
+        "in_reply_to_user_id": "1120638103306117120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022600579164549543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siantgirl 看赛道，不同赛道的价格不一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1120638103306117120",
+        "conversation_id": "2022600579164549543",
+        "created_at": "2026-02-14T09:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022600579164549543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoheshang202…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/xiaoheshang2025/status/2022599054283411902",
+              "start": 14,
+              "url": "https://t.co/CGfPOAsLvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022600579164549543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1944,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022599054283411902",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "省流总结 1M 赚124U https://t.co/CGfPOAsLvt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 776,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 456
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-23T10:38:39.000Z",
+        "description": "Midjourney 爱好者，AI绘画制图师，分享咒语，希望今年能研究出AI赚钱的路子，成为超级个体（看八字，预测财富事业/婚姻等，一位 50 元，经验丰富，付费咨询私信加v）",
+        "id": "1120638103306117120",
+        "name": "Ryo",
+        "pinned_tweet_id": "2021433088950313163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820993730393870336/8OvYVwXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9566,
+          "following_count": 1087,
+          "like_count": 11245,
+          "listed_count": 77,
+          "media_count": 2474,
+          "tweet_count": 16891
+        },
+        "username": "siantgirl",
+        "verified": true
+      }
+    ]
+  }
+}

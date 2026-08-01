@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2024522535724077397",
+    "created_at": "2026-02-20T14:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T15:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024854564265165014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964581098731773952",
+          "start": 0,
+          "username": "4ever_Nahida"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024854564265165014",
+    "in_reply_to_user_id": "1964581098731773952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024854365903982858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4ever_Nahida 🤓🤓多露才健康"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2024522535724077397",
+        "created_at": "2026-02-20T14:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024854564265165014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964581098731773952",
+              "start": 0,
+              "username": "4ever_Nahida"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024854564265165014",
+        "in_reply_to_user_id": "1964581098731773952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024854365903982858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ever_Nahida 🤓🤓多露才健康"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964581098731773952",
+        "conversation_id": "2024522535724077397",
+        "created_at": "2026-02-20T14:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024854365903982858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024854365903982858",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024522535724077397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 別擼暈了（bushi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主｜里推@_with_tomato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "_with_tomato"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 922,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 675
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-07T06:46:55.000Z",
+        "description": "個人簡介在網頁。神秘帳號：@Nahida_4ever",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "Nahida_4ever"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "110530.xyz",
+                "end": 23,
+                "expanded_url": "https://www.110530.xyz",
+                "start": 0,
+                "url": "https://t.co/0gjHuVQwj4"
+              }
+            ]
+          }
+        },
+        "id": "1964581098731773952",
+        "name": "瑤瑤的草神",
+        "pinned_tweet_id": "2015795501279699322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988514809521045505/hN3Lv94V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 219,
+          "like_count": 4973,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1076
+        },
+        "url": "https://t.co/0gjHuVQwj4",
+        "username": "4ever_Nahida",
+        "verified": false
+      }
+    ]
+  }
+}

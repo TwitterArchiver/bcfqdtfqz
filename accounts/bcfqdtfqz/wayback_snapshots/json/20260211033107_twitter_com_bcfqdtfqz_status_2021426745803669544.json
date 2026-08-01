@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2021277249920786524",
+    "created_at": "2026-02-11T03:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T04:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021426745803669544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "467102254",
+          "start": 0,
+          "username": "disksing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021426745803669544",
+    "in_reply_to_user_id": "467102254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021277249920786524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@disksing ai也能代替一部分了要求全手写确实也不合理吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2021277249920786524",
+        "created_at": "2026-02-11T03:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T04:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021426745803669544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467102254",
+              "start": 0,
+              "username": "disksing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021426745803669544",
+        "in_reply_to_user_id": "467102254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021277249920786524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@disksing ai也能代替一部分了要求全手写确实也不合理吧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467102254",
+        "conversation_id": "2021277249920786524",
+        "created_at": "2026-02-10T17:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T18:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021277249920786524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021277249920786524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 22594,
+          "like_count": 132,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "2016年热门话题：程序员面试时要求手写代码合不合理。\n\n2026年热门话题：程序员面试时要求手写代码合不合理。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "🍅",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 693,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 279
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2012-01-18T03:44:03.000Z",
+        "description": "生活有时是喜剧，有时是悲剧，但是不管什么时候都可以发段子。｜因为淋过雨，看别人淋雨的时候，送上录音笔。｜先天离婚圣体，古希腊掌管录音笔的神。｜https://t.co/w5SkYgz0KA 〔备用账号 @shadiaofriend〕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 101,
+                "username": "shadiaofriend"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bento.me/disksing",
+                "end": 94,
+                "expanded_url": "http://bento.me/disksing",
+                "start": 71,
+                "url": "https://t.co/w5SkYgz0KA"
+              }
+            ]
+          }
+        },
+        "id": "467102254",
+        "name": "象牙山刘能",
+        "pinned_tweet_id": "1847109505810944047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904882584955609089/xgyeRR4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44375,
+          "following_count": 605,
+          "like_count": 24620,
+          "listed_count": 204,
+          "media_count": 1227,
+          "tweet_count": 17210
+        },
+        "username": "disksing",
+        "verified": true
+      }
+    ]
+  }
+}

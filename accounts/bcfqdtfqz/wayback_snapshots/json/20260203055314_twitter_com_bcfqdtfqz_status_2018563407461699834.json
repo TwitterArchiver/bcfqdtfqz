@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2018535761755386232",
+    "created_at": "2026-02-03T05:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T06:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018563407461699834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1353694338643972097",
+          "start": 0,
+          "username": "xiaoyumama9968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018563407461699834",
+    "in_reply_to_user_id": "1353694338643972097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018535761755386232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyumama9968 怕不是只装修"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1514,
+        "media_key": "3_2018535758773239808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANHk_QaQAAmC-4.jpg",
+        "width": 1078
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2018535759301754881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANHlBOawAEiVm-.jpg",
+        "width": 836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2018535761755386232",
+        "created_at": "2026-02-03T05:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T06:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018563407461699834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353694338643972097",
+              "start": 0,
+              "username": "xiaoyumama9968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018563407461699834",
+        "in_reply_to_user_id": "1353694338643972097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018535761755386232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyumama9968 怕不是只装修"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018535758773239808",
+            "3_2018535759301754881"
+          ]
+        },
+        "author_id": "1353694338643972097",
+        "conversation_id": "2018535761755386232",
+        "created_at": "2026-02-03T04:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T05:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018535761755386232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L4q84EwVhr",
+              "end": 45,
+              "expanded_url": "https://x.com/xiaoyumama9968/status/2018535761755386232/photo/1",
+              "media_key": "3_2018535758773239808",
+              "start": 22,
+              "url": "https://t.co/L4q84EwVhr"
+            },
+            {
+              "display_url": "pic.x.com/L4q84EwVhr",
+              "end": 45,
+              "expanded_url": "https://x.com/xiaoyumama9968/status/2018535761755386232/photo/1",
+              "media_key": "3_2018535759301754881",
+              "start": 22,
+              "url": "https://t.co/L4q84EwVhr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018535761755386232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 39934,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 35,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "房子装修，请这样的装修队一天需要多少钱？？ https://t.co/L4q84EwVhr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄二代目  请不要转帖回墙内谢谢",
+        "id": "2018306514549972992",
+        "name": "吃番茄不吐番茄籽",
+        "pinned_tweet_id": "2018360937804444012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 37,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 14
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-25T13:21:50.000Z",
+        "description": "杭州人，不搞黄色，不聊骚，广告自辨清楚！！！不会主动联系任何人！！！小号 @xiaoyumama9988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "xiaoyumama9988"
+              }
+            ]
+          }
+        },
+        "id": "1353694338643972097",
+        "name": "小宇妈妈",
+        "pinned_tweet_id": "1979190395440632049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1457902448547274755/S8Sn15qS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475451,
+          "following_count": 31,
+          "like_count": 13102,
+          "listed_count": 374,
+          "media_count": 3208,
+          "tweet_count": 31635
+        },
+        "username": "xiaoyumama9968",
+        "verified": true
+      }
+    ]
+  }
+}

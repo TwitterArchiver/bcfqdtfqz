@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047256171707498496"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2047256196240093495",
+    "created_at": "2026-04-23T10:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047256196240093495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aP7Y9cWiEo",
+          "end": 30,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2047256196240093495/photo/1",
+          "media_key": "3_2047256171707498496",
+          "start": 7,
+          "url": "https://t.co/aP7Y9cWiEo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047256196240093495",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "智人tv？！ https://t.co/aP7Y9cWiEo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2047256171707498496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlQpC7aAAAcfoj.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047256171707498496"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2047256196240093495",
+        "created_at": "2026-04-23T10:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047256196240093495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aP7Y9cWiEo",
+              "end": 30,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2047256196240093495/photo/1",
+              "media_key": "3_2047256171707498496",
+              "start": 7,
+              "url": "https://t.co/aP7Y9cWiEo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047256196240093495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "智人tv？！ https://t.co/aP7Y9cWiEo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄🍅\n这个号发帖梗图夹杂着生活帖子，\n欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 1332,
+          "like_count": 265,
+          "listed_count": 1,
+          "media_count": 700,
+          "tweet_count": 1789
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

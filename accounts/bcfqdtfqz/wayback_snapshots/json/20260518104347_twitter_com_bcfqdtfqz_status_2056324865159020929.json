@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2056279098436325742",
+    "created_at": "2026-05-18T10:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T11:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056324865159020929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 4,
+          "id": "131174050",
+          "start": 0,
+          "username": "_7t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056324865159020929",
+    "in_reply_to_user_id": "131174050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056279098436325742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_7t 做题家看到以后直接震怒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2056279098436325742",
+        "created_at": "2026-05-18T10:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056324865159020929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 4,
+              "id": "131174050",
+              "start": 0,
+              "username": "_7t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056324865159020929",
+        "in_reply_to_user_id": "131174050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056279098436325742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_7t 做题家看到以后直接震怒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "131174050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2056279098436325742",
+        "created_at": "2026-05-18T07:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056279098436325742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056279098436325742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4467,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "DeepSeek 梁文锋父母都是县城小学老师，这也叫家境普通？\n\n另外\n“小学六年级自学微积分，初中刷完高中数学，高中直接碾压大学教材”  -- 这种教育环境是顶格的，好吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 1346,
+          "like_count": 306,
+          "listed_count": 1,
+          "media_count": 731,
+          "tweet_count": 1951
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-09T13:55:58.000Z",
+        "description": "smile😊｜深圳｜产品经理｜985→大厂(pdd、byd)→挂壁大神 的一生\n💁🏻My whole life is a sham",
+        "id": "131174050",
+        "name": "笑鸥smile",
+        "pinned_tweet_id": "2053138433858748612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043098998739996672/4Qfzyv_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8169,
+          "following_count": 913,
+          "like_count": 768,
+          "listed_count": 40,
+          "media_count": 1377,
+          "tweet_count": 15603
+        },
+        "username": "_7t",
+        "verified": true
+      }
+    ]
+  }
+}

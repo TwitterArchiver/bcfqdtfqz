@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2059499341900136729",
+    "created_at": "2026-05-27T04:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059499341900136729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bcfqdtfqz/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/bcfqdtfqz/status/2059303106488434919",
+          "start": 14,
+          "url": "https://t.co/jlSEuf52DC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059499341900136729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059303106488434919",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "考完试了，接着去跪老师了， https://t.co/jlSEuf52DC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2059499341900136729",
+        "created_at": "2026-05-27T04:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059499341900136729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bcfqdtfqz/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/bcfqdtfqz/status/2059303106488434919",
+              "start": 14,
+              "url": "https://t.co/jlSEuf52DC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059499341900136729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059303106488434919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "考完试了，接着去跪老师了， https://t.co/jlSEuf52DC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2059303106488434919",
+        "created_at": "2026-05-26T15:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:57:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059302979094933910",
+          "2059303106488434919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059303106488434919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每当要考试的时候我都会思考为什么我会选了这么个狗操的专业，结课考试每次都是跟吃屎了一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n分享思考和个人生活\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 1349,
+          "like_count": 322,
+          "listed_count": 2,
+          "media_count": 740,
+          "tweet_count": 2037
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

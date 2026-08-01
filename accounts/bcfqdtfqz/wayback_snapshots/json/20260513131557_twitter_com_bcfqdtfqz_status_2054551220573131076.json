@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2054551220573131076",
+    "created_at": "2026-05-13T13:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054551220573131076"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054551220573131076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最新买俩\n一个mram，一个zd\nmram是因为是头部mram然后切入边缘计算赛道了\nzd是因为他这个并购能力相当牛逼，十年内一百多起收购，广告业务整合一下然后再卖掉，最新卖了个赚钱的业务卖了12亿刀，这会股价40.8,市值才15亿，现在入还是有低估空间，并且他们管理层确实会玩，翻倍应该是游刃有余。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2054551220573131076",
+        "created_at": "2026-05-13T13:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054551220573131076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054551220573131076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最新买俩\n一个mram，一个zd\nmram是因为是头部mram然后切入边缘计算赛道了\nzd是因为他这个并购能力相当牛逼，十年内一百多起收购，广告业务整合一下然后再卖掉，最新卖了个赚钱的业务卖了12亿刀，这会股价40.8,市值才15亿，现在入还是有低估空间，并且他们管理层确实会玩，翻倍应该是游刃有余。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 1353,
+          "like_count": 292,
+          "listed_count": 1,
+          "media_count": 725,
+          "tweet_count": 1915
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

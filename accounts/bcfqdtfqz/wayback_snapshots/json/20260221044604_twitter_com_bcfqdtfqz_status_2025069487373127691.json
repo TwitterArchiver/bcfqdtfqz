@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2025062704692822095",
+    "created_at": "2026-02-21T04:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T05:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025069487373127691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1970247679432368134",
+          "start": 0,
+          "username": "uncleJohnny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025069487373127691",
+    "in_reply_to_user_id": "1970247679432368134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025069409921106125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uncleJohnny 谢谢你🥸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2025062704692822095",
+        "created_at": "2026-02-21T04:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025069487373127691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970247679432368134",
+              "start": 0,
+              "username": "uncleJohnny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025069487373127691",
+        "in_reply_to_user_id": "1970247679432368134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025069409921106125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uncleJohnny 谢谢你🥸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970247679432368134",
+        "conversation_id": "2025062704692822095",
+        "created_at": "2026-02-21T04:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025069409921106125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025069409921106125",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025066844026216953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 明天就会完成的 加油😉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主｜里推@_with_tomato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "_with_tomato"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 950,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 708
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-22T22:04:06.000Z",
+        "description": "Uncle Johnny 🪵 工地 × 💰 长期投资 × 🏡 生活 | 不折腾，不焦虑，把时间堆成资产",
+        "id": "1970247679432368134",
+        "name": "Uncle Johnny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022815639895986176/5o_lPpYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 2257,
+          "like_count": 5493,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 5158
+        },
+        "username": "uncleJohnny",
+        "verified": true
+      }
+    ]
+  }
+}

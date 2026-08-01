@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2059630470334448056",
+    "created_at": "2026-05-27T14:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059642860585320448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2015213345847300096",
+          "start": 0,
+          "username": "XynUnk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059642860585320448",
+    "in_reply_to_user_id": "2015213345847300096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059630470334448056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XynUnk 真要选吗。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2059630470334448056",
+        "created_at": "2026-05-27T14:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059642860585320448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2015213345847300096",
+              "start": 0,
+              "username": "XynUnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059642860585320448",
+        "in_reply_to_user_id": "2015213345847300096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059630470334448056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XynUnk 真要选吗。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2059630469097136129"
+          ]
+        },
+        "author_id": "2015213345847300096",
+        "conversation_id": "2059630470334448056",
+        "created_at": "2026-05-27T13:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059630470334448056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059630470334448056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 342,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "跨圈神人大竞选"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄🍅\n分享思考和个人生活\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1352,
+          "like_count": 325,
+          "listed_count": 2,
+          "media_count": 741,
+          "tweet_count": 2066
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-25T00:02:43.000Z",
+        "description": "永远怀念@Unkxyn|MtX?🏳️‍⚧️|she/her|Hrt🍥01.28.2026，无证含糖|年龄党+家长不管党|已炸柜|生产日期:11.13.2011|161cm52kg|Oder💊|INFP-T，重度社恐|初二牲，成绩倒数，休学中🥰|同类互fo喵～|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "Unkxyn"
+              }
+            ]
+          }
+        },
+        "id": "2015213345847300096",
+        "name": "2.✟Unk✟🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054692978460078311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059324193427374080/g39fOwMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 533,
+          "like_count": 685,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 94
+        },
+        "username": "XynUnk",
+        "verified": false
+      }
+    ]
+  }
+}

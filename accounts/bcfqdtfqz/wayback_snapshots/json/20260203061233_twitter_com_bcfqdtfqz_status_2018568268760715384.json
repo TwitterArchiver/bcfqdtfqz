@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2018568065596932096",
+        "3_2018568065529831424"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2018568268760715384",
+    "created_at": "2026-02-03T06:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T07:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018568268760715384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UYO0KRRNSZ",
+          "end": 34,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2018568268760715384/video/1",
+          "media_key": "13_2018568065596932096",
+          "start": 11,
+          "url": "https://t.co/UYO0KRRNSZ"
+        },
+        {
+          "display_url": "pic.x.com/UYO0KRRNSZ",
+          "end": 34,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2018568268760715384/video/1",
+          "media_key": "3_2018568065529831424",
+          "start": 11,
+          "url": "https://t.co/UYO0KRRNSZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018568268760715384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神秘地雷系与司机对话 https://t.co/UYO0KRRNSZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 130666,
+        "height": 640,
+        "media_key": "13_2018568065596932096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018568065596932096/img/ECE4H5QVEdYzzU8g.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018568065596932096/vid/avc1/320x568/kdWlYzbrTqFvOvze.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018568065596932096/vid/avc1/360x640/8-UR5y0jr_UjbEDE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018568065596932096/pl/xbhGqEsklPgtgLry.m3u8"
+          }
+        ],
+        "width": 360
+      },
+      {
+        "height": 634,
+        "media_key": "3_2018568065529831424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANk9fTaYAA5GD1.jpg",
+        "width": 664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018568065596932096",
+            "3_2018568065529831424"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2018568268760715384",
+        "created_at": "2026-02-03T06:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T07:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018568268760715384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYO0KRRNSZ",
+              "end": 34,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2018568268760715384/video/1",
+              "media_key": "13_2018568065596932096",
+              "start": 11,
+              "url": "https://t.co/UYO0KRRNSZ"
+            },
+            {
+              "display_url": "pic.x.com/UYO0KRRNSZ",
+              "end": 34,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2018568268760715384/video/1",
+              "media_key": "3_2018568065529831424",
+              "start": 11,
+              "url": "https://t.co/UYO0KRRNSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018568268760715384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神秘地雷系与司机对话 https://t.co/UYO0KRRNSZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄二代目  请不要转帖回墙内谢谢",
+        "id": "2018306514549972992",
+        "name": "吃番茄不吐番茄籽",
+        "pinned_tweet_id": "2018360937804444012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 44,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 24
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2067497497535324497",
+    "created_at": "2026-06-18T12:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067591696934998368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882102342155407360",
+          "start": 0,
+          "username": "routuishen2lm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067591696934998368",
+    "in_reply_to_user_id": "1882102342155407360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067497497535324497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@routuishen2lm 最后这个美股跟大a这也算高高在上嘛……？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2067497497535324497",
+        "created_at": "2026-06-18T12:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067591696934998368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882102342155407360",
+              "start": 0,
+              "username": "routuishen2lm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067591696934998368",
+        "in_reply_to_user_id": "1882102342155407360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067497497535324497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@routuishen2lm 最后这个美股跟大a这也算高高在上嘛……？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882102342155407360",
+        "conversation_id": "2067497497535324497",
+        "created_at": "2026-06-18T06:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067497497535324497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067497497535324497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 970,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直很反感那种何不食肉糜的人，不管是赚了钱就飘的还是因为特权高高在上的，“租房子看病才多少钱啊”“我们家小孩高考对赌协议是一只chanel bag和欧洲旅行”“只认山姆”“好可怜啊吃的合成肉”“开个美股账户多简单啊为什么在大a”这种人在比他更有钱有权的人面前装孙子最亲切了哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 1341,
+          "like_count": 340,
+          "listed_count": 2,
+          "media_count": 759,
+          "tweet_count": 2281
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T16:25:48.000Z",
+        "description": "神也会落泪吗 /不加v/不需要评论",
+        "id": "1882102342155407360",
+        "location": "London, England",
+        "name": "肉腿神",
+        "pinned_tweet_id": "2061384431689150921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067083956441538560/U4Fpaird_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 39,
+          "like_count": 639,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 401
+        },
+        "username": "routuishen2lm",
+        "verified": false
+      }
+    ]
+  }
+}

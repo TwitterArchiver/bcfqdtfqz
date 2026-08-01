@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2020875098694271346",
+    "created_at": "2026-02-09T16:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T17:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020890926676406623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2000126709375623168",
+          "start": 0,
+          "username": "Miharuka_47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020890926676406623",
+    "in_reply_to_user_id": "2000126709375623168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020875098694271346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miharuka_47 这我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2020875098694271346",
+        "created_at": "2026-02-09T16:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T17:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020890926676406623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000126709375623168",
+              "start": 0,
+              "username": "Miharuka_47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020890926676406623",
+        "in_reply_to_user_id": "2000126709375623168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020875098694271346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miharuka_47 这我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000126709375623168",
+        "conversation_id": "2020875098694271346",
+        "created_at": "2026-02-09T14:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020875098694271346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020875098694271346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 407,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "建议大家多宣传我们纯恨战士，俗话说得好：恨比爱长久。纯爱战士可能是表演型人格，我们纯恨战士实打实的恨所有人。上学恨老师，军训恨教官，小组作业恨同学，期末恨学科，放假恨火车，工作了恨领导恨同事。恨才能感受生命的真实，爱一个人可能是装的，但恨一个人带来的刺痛是很难忘怀的，恨门永存！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "🍅",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 531,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 201
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-14T08:52:36.000Z",
+        "description": "就一破发抽象文案碎碎念的。别性骚扰我。 | 心的距離是遙不可及。 ❤︎•┈ ❤︎ ⋅⋯ together ⋯⋅ ❤︎ ┈•❤︎",
+        "id": "2000126709375623168",
+        "name": "夢遙",
+        "pinned_tweet_id": "2018398587890409558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015483655137918976/sU1eoINa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 165,
+          "like_count": 5018,
+          "listed_count": 6,
+          "media_count": 126,
+          "tweet_count": 1376
+        },
+        "username": "Miharuka_47",
+        "verified": false
+      }
+    ]
+  }
+}

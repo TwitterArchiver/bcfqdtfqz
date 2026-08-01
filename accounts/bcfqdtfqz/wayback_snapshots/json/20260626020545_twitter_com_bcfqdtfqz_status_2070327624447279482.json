@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070031771245400418",
+    "created_at": "2026-06-26T02:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070327624447279482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1786442629917589505",
+          "start": 0,
+          "username": "GreenMarc512269"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070327624447279482",
+    "in_reply_to_user_id": "1786442629917589505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070031771245400418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GreenMarc512269 找个不错的学校分数够了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1704,
+        "media_key": "3_2070031768900812801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLo67SMbQAE-AHK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070031771245400418",
+        "created_at": "2026-06-26T02:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070327624447279482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1786442629917589505",
+              "start": 0,
+              "username": "GreenMarc512269"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070327624447279482",
+        "in_reply_to_user_id": "1786442629917589505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070031771245400418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreenMarc512269 找个不错的学校分数够了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070031768900812801"
+          ]
+        },
+        "author_id": "1786442629917589505",
+        "conversation_id": "2070031771245400418",
+        "created_at": "2026-06-25T06:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070031771245400418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9NMlWJq0TW",
+              "end": 29,
+              "expanded_url": "https://x.com/GreenMarc512269/status/2070031771245400418/photo/1",
+              "media_key": "3_2070031768900812801",
+              "start": 6,
+              "url": "https://t.co/9NMlWJq0TW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070031771245400418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5356,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死也不复读 https://t.co/9NMlWJq0TW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 1359,
+          "like_count": 343,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 2368
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-03T17:08:30.000Z",
+        "description": "可以和我聊天只要有空就回你消息😋😋|支持：CN ENG JAP RUS|互fo？…|当朋友圈发🤯🤯🫪\nTG：@GGHKing520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "GGHKing520"
+              }
+            ]
+          }
+        },
+        "id": "1786442629917589505",
+        "location": "花果山帝国",
+        "name": "LinQi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054062444159643648/_Bj8y2n7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 140,
+          "like_count": 3793,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 806
+        },
+        "url": "",
+        "username": "GreenMarc512269",
+        "verified": false
+      }
+    ]
+  }
+}

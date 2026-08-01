@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2021768060710093095",
+    "created_at": "2026-02-12T09:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T10:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021886122490818935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "nanami_mua"
+        },
+        {
+          "end": 24,
+          "id": "1851866685420265472",
+          "start": 12,
+          "username": "LCG_Akiball"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021886122490818935",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021768060710093095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami_mua @LCG_Akiball 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021768050929029120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7DVJ3b0AAvzXY.jpg",
+        "width": 1047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2021768060710093095",
+        "created_at": "2026-02-12T09:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021886122490818935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            },
+            {
+              "end": 24,
+              "id": "1851866685420265472",
+              "start": 12,
+              "username": "LCG_Akiball"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021886122490818935",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021768060710093095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua @LCG_Akiball 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021768050929029120"
+          ]
+        },
+        "author_id": "1360522586317348865",
+        "conversation_id": "2021768060710093095",
+        "created_at": "2026-02-12T02:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T03:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021768060710093095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/44QOhtX3L2",
+              "end": 33,
+              "expanded_url": "https://x.com/nanami_mua/status/2021768060710093095/photo/1",
+              "media_key": "3_2021768050929029120",
+              "start": 10,
+              "url": "https://t.co/44QOhtX3L2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021768060710093095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 483,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家来戳她的气球！ https://t.co/44QOhtX3L2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "秽土转生之神秘的番茄🍅",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 734,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 371
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX/小证🍥25.1.11/半个家长党/100%健全/永远的好妹妹:@LCG_Akiball/可爱狐狐～@SnowFoxSama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "SnowFoxSama"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanamiao～",
+        "pinned_tweet_id": "2021514579743039524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 486,
+          "like_count": 75500,
+          "listed_count": 2,
+          "media_count": 661,
+          "tweet_count": 6695
+        },
+        "username": "nanami_mua",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-31T06:00:11.000Z",
+        "description": "一只叫Aki的赛博暹罗猫:3🏳️‍⚧️另外的意识体叫Mika, Miyuki，Lumi，球球，mio | MDD+GAD+DID+ASD(纵向评估中) | 小证HRT 25.02.03 |❤️@ling1639040 @D_Level_potato @Yaknga1 | 好姐姐 @nanami_mua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "ling1639040"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "D_Level_potato"
+              },
+              {
+                "end": 133,
+                "start": 125,
+                "username": "Yaknga1"
+              },
+              {
+                "end": 151,
+                "start": 140,
+                "username": "nanami_mua"
+              }
+            ]
+          }
+        },
+        "id": "1851866685420265472",
+        "location": "Melbourne, Victoria",
+        "name": "Akiball 🍥",
+        "pinned_tweet_id": "1932365689534480561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885923338822008832/W8Egy59F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 90,
+          "like_count": 1477,
+          "listed_count": 11,
+          "media_count": 369,
+          "tweet_count": 1983
+        },
+        "username": "LCG_Akiball",
+        "verified": false
+      }
+    ]
+  }
+}

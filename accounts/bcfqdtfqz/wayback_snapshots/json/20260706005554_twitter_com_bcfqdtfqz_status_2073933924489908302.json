@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073933918009688064"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073897606129070104",
+    "created_at": "2026-07-06T00:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T01:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073933924489908302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775898302963384322",
+          "start": 0,
+          "username": "brontobehated"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/38WhBNVrCg",
+          "end": 59,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2073933924489908302/photo/1",
+          "media_key": "3_2073933918009688064",
+          "start": 36,
+          "url": "https://t.co/38WhBNVrCg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073933924489908302",
+    "in_reply_to_user_id": "1775898302963384322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073897606129070104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brontobehated 私信跪求老师比在这里跪求有效的多，比如👇 https://t.co/38WhBNVrCg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 954,
+        "media_key": "3_2073933918009688064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgX6QaaAAA60N7.jpg",
+        "width": 814
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073933918009688064"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073897606129070104",
+        "created_at": "2026-07-06T00:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073933924489908302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775898302963384322",
+              "start": 0,
+              "username": "brontobehated"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/38WhBNVrCg",
+              "end": 59,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2073933924489908302/photo/1",
+              "media_key": "3_2073933918009688064",
+              "start": 36,
+              "url": "https://t.co/38WhBNVrCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073933924489908302",
+        "in_reply_to_user_id": "1775898302963384322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073897606129070104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brontobehated 私信跪求老师比在这里跪求有效的多，比如👇 https://t.co/38WhBNVrCg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775898302963384322",
+        "conversation_id": "2073897606129070104",
+        "created_at": "2026-07-05T22:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T23:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073897606129070104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073897606129070104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "应该能过的吧。卷面考40老师就能捞动了，应该不会不捞我的吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 1397,
+          "like_count": 385,
+          "listed_count": 2,
+          "media_count": 787,
+          "tweet_count": 2716
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-04T14:48:59.000Z",
+        "description": "能不能原谅我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "brothergo.com//azxzzl/web?t=…",
+                "end": 23,
+                "expanded_url": "https://www.brothergo.com//azxzzl/web?t=1773856270",
+                "start": 0,
+                "url": "https://t.co/DSnHC04aZz"
+              }
+            ]
+          }
+        },
+        "id": "1775898302963384322",
+        "name": "香辣鳗鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040142530696941568/bboipVRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 64,
+          "like_count": 30835,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 5672
+        },
+        "url": "https://t.co/DSnHC04aZz",
+        "username": "brontobehated",
+        "verified": false
+      }
+    ]
+  }
+}

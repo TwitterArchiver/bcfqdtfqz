@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070011597905596803",
+    "created_at": "2026-06-25T15:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070175044270219350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1445083052225536014",
+          "start": 0,
+          "username": "Friede3142"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070175044270219350",
+    "in_reply_to_user_id": "1445083052225536014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070011597905596803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Friede3142 卡扩产cd罢了，两年以后你再看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070011597905596803",
+        "created_at": "2026-06-25T15:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070175044270219350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1445083052225536014",
+              "start": 0,
+              "username": "Friede3142"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070175044270219350",
+        "in_reply_to_user_id": "1445083052225536014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070011597905596803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Friede3142 卡扩产cd罢了，两年以后你再看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445083052225536014",
+        "conversation_id": "2070011597905596803",
+        "created_at": "2026-06-25T05:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070011597905596803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070011597905596803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 53642,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 64,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "现在怎么老有人觉得存储市值会超过科技巨头a，存储的钱不还得科技巨头发吗，ai绷了，谷歌微软休整几年靠之前的业务还能维持平稳，存储怎么能回到从前，牛市捧起太多认知不足的人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 1352,
+          "like_count": 343,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 2355
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-04T17:47:03.000Z",
+        "description": "Hedgehog’s dilemma",
+        "id": "1445083052225536014",
+        "name": "Friede",
+        "pinned_tweet_id": "2069764979860165070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857148661719048192/RwHbdT4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12364,
+          "following_count": 106,
+          "like_count": 3174,
+          "listed_count": 236,
+          "media_count": 327,
+          "tweet_count": 1884
+        },
+        "url": "",
+        "username": "Friede3142",
+        "verified": true
+      }
+    ]
+  }
+}

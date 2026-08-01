@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023048751720632320"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2022945797701275659",
+    "created_at": "2026-02-15T14:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T15:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023048756560859168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1332252107638927360",
+          "start": 0,
+          "username": "jun17630250"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tsa3so0jjq",
+          "end": 65,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2023048756560859168/photo/1",
+          "media_key": "3_2023048751720632320",
+          "start": 42,
+          "url": "https://t.co/Tsa3so0jjq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023048756560859168",
+    "in_reply_to_user_id": "1332252107638927360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022945797701275659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jun17630250 有一说一底下那个表里后面那仨粗糙度我愣是没看出来有啥区别 https://t.co/Tsa3so0jjq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 478,
+        "media_key": "3_2023048751720632320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNQHwGbEAA9VeZ.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023048751720632320"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2022945797701275659",
+        "created_at": "2026-02-15T14:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023048756560859168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1332252107638927360",
+              "start": 0,
+              "username": "jun17630250"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tsa3so0jjq",
+              "end": 65,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2023048756560859168/photo/1",
+              "media_key": "3_2023048751720632320",
+              "start": 42,
+              "url": "https://t.co/Tsa3so0jjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023048756560859168",
+        "in_reply_to_user_id": "1332252107638927360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022945797701275659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jun17630250 有一说一底下那个表里后面那仨粗糙度我愣是没看出来有啥区别 https://t.co/Tsa3so0jjq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1332252107638927360",
+        "conversation_id": "2022945797701275659",
+        "created_at": "2026-02-15T08:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022945797701275659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xctwy543808/st…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/xctwy543808/status/2022266657666969641",
+              "start": 120,
+              "url": "https://t.co/ectREXJqA6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022945797701275659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "底下评论区洗地的一知半解就别出来卖弄了。\n肉眼通过光反的确能观测微米级别的金属粗糙程度，但是依赖的是临界值现象。\n3.2μm以上是明显糙痕，1.6μm起到0.8μm是光滑临界值，0.8μm到0.1μm是镜面临界点，0.1μm以内是超光滑。\n老师傅能看穿个临界变化不奇怪，但是能看到0.4μm还有零有整的误差纯粹是没拿观众当正常认知的人类。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2299,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022266657666969641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "底下评论区洗地的一知半解就别出来卖弄了。\n肉眼通过光反的确能观测微米级别的金属粗糙程度，但是依赖的是临界值现象。\n3.2μm以上是明显糙痕，1.6μm起到0.8μm是光滑临界值，0.8μm到0.1μm是镜面临界点，0.1μm以内是超光滑。 https://t.co/ectREXJqA6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 780,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 463
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-27T09:17:17.000Z",
+        "description": "希望给我推文点赞评论的二极管们能读读我其它的推文和回复。\n别今天骂了日本蜘蛛赞评明天骂了支那精日赞评。只要你的立场是人种，国家，性别，左右逼，这种抱团取暖的垃圾。在我眼里都是傻逼。\n我的立场永远是个人，一切好坏以我自己的观感为主。认爹的和想给我认爹的别挨骂了才知道急。",
+        "id": "1332252107638927360",
+        "location": "池袋",
+        "name": "横浜打野",
+        "pinned_tweet_id": "1988576148092277203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862083611811569664/aDIElDkD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6907,
+          "following_count": 1544,
+          "like_count": 3946,
+          "listed_count": 45,
+          "media_count": 2951,
+          "tweet_count": 21708
+        },
+        "username": "jun17630250",
+        "verified": true
+      }
+    ]
+  }
+}

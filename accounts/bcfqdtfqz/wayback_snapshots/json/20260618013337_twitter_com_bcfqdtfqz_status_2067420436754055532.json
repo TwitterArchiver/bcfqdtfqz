@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2067328145011916968",
+    "created_at": "2026-06-18T01:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T02:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067420436754055532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1194641568478593024",
+          "start": 0,
+          "username": "sukie234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067420436754055532",
+    "in_reply_to_user_id": "1194641568478593024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067328145011916968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sukie234 换个思路，不买房只租房的话不是也能过得很好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2067328145011916968",
+        "created_at": "2026-06-18T01:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067420436754055532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1194641568478593024",
+              "start": 0,
+              "username": "sukie234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067420436754055532",
+        "in_reply_to_user_id": "1194641568478593024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067328145011916968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sukie234 换个思路，不买房只租房的话不是也能过得很好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1194641568478593024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2067328145011916968",
+        "created_at": "2026-06-17T19:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067328145011916968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sukie234/statu…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/sukie234/status/2067015225233338598",
+              "start": 97,
+              "url": "https://t.co/3p1RvrcxRE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067328145011916968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于“00后没有红利”这件事，我觉得有一个经常被忽略的现象。\n\n2008年之后，中国很多城市经历了大规模城市更新，催生出一批拆迁家庭。享受到拆迁红利的主体，大多是60后、70后甚至部分80后。\n\n当00后逐渐长大时，城市化带来的土地增值和拆迁机会已经大幅减少。对于一些家庭来说，上一代曾经获得过一次性的财富跃迁，但这些财富未必能持续转化为下一代的发展资本。\n\n于是就出现了一种现象：\n\n拆一代享受时代红利，拆二代继承时代成本。\n\n父母拥有过财富自由的机会，而子女面对的却是高房价、激烈竞争和增长放缓的环境。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5755,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067015225233338598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于“00后没有红利”这件事，我觉得有一个经常被忽略的现象。\n\n2008年之后，中国很多城市经历了大规模城市更新，催生出一批拆迁家庭。享受到拆迁红利的主体，大多是60后、70后甚至部分80后。 https://t.co/3p1RvrcxRE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 1338,
+          "like_count": 340,
+          "listed_count": 2,
+          "media_count": 759,
+          "tweet_count": 2261
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-13T15:42:11.000Z",
+        "description": "AI交流群： https://t.co/TsCxHc7GSa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sukieai",
+                "end": 30,
+                "expanded_url": "https://t.me/sukieai",
+                "start": 7,
+                "url": "https://t.co/TsCxHc7GSa"
+              }
+            ]
+          }
+        },
+        "id": "1194641568478593024",
+        "location": "San Jose, CA",
+        "name": "sukie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655829356835659777/zYMkeYhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36611,
+          "following_count": 7212,
+          "like_count": 16766,
+          "listed_count": 517,
+          "media_count": 310,
+          "tweet_count": 5013
+        },
+        "username": "sukie234",
+        "verified": true
+      }
+    ]
+  }
+}

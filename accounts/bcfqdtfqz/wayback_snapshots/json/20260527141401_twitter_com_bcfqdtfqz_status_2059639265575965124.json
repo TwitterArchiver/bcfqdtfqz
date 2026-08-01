@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2059570125624479904",
+    "created_at": "2026-05-27T14:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059639265575965124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1011298125225422848",
+          "start": 0,
+          "username": "Tang_Shuoyang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059639265575965124",
+    "in_reply_to_user_id": "1011298125225422848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059570125624479904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tang_Shuoyang a6到底是啥意思？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2059569979872440320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUP_BBa8AAm316.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2059570125624479904",
+        "created_at": "2026-05-27T14:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059639265575965124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1011298125225422848",
+              "start": 0,
+              "username": "Tang_Shuoyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059639265575965124",
+        "in_reply_to_user_id": "1011298125225422848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059570125624479904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tang_Shuoyang a6到底是啥意思？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059569979872440320"
+          ]
+        },
+        "author_id": "1011298125225422848",
+        "conversation_id": "2059570125624479904",
+        "created_at": "2026-05-27T09:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059570125624479904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xuvd6KtQrg",
+              "end": 171,
+              "expanded_url": "https://x.com/Tang_Shuoyang/status/2059570125624479904/photo/1",
+              "media_key": "3_2059569979872440320",
+              "start": 148,
+              "url": "https://t.co/xuvd6KtQrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059570125624479904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 549,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也不知道这条能不能传出去就是\n\n国内现在将有一批年龄在20-35岁之间，按CNY计价在a6-a7.5左右的底层中产和脱贫平民，开始动谋求跨国婚姻，各位外国友人如果愿意合伙过日子的话，那就合吧\n\n除了极个别赌狗以外，大多数人理财能力还不错，以后属于是没有重大问题的话温饱ok\n\n情感价值提供力存疑 https://t.co/xuvd6KtQrg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n分享思考和个人生活\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1353,
+          "like_count": 324,
+          "listed_count": 2,
+          "media_count": 740,
+          "tweet_count": 2061
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-25T17:20:36.000Z",
+        "description": "吉林大学→BOCHK→名古屋大学(M3)/Political Phenomenology、政治過程論、西マ。\n絶対王政/神道文献訓詁（君主主義者役）左翼研究(本人) 反精神病药物滥用&债务厌恶\n【不要以为到资本主义日本就没有儒了！😤👎】\n#ブルアカ #艦これ  (退役)随缘フォロバ\n要回关请私信🥺🌹",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 119,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 129,
+                "start": 125,
+                "tag": "艦これ"
+              }
+            ]
+          }
+        },
+        "id": "1011298125225422848",
+        "location": "豊葦原中国",
+        "name": "Nicholas Don",
+        "pinned_tweet_id": "2012737293145231675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929953311429668867/2eZF6dcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 209,
+          "like_count": 40366,
+          "listed_count": 10,
+          "media_count": 1211,
+          "tweet_count": 4815
+        },
+        "username": "Tang_Shuoyang",
+        "verified": false
+      }
+    ]
+  }
+}

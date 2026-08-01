@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2065836380845211922",
+    "created_at": "2026-06-14T03:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066000980806881551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1998647355839754240",
+          "start": 0,
+          "username": "VonJu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066000980806881551",
+    "in_reply_to_user_id": "1998647355839754240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065836380845211922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VonJu0 嫌事多建议别用微信，不怕事少随便"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2065836380845211922",
+        "created_at": "2026-06-14T03:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066000980806881551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1998647355839754240",
+              "start": 0,
+              "username": "VonJu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066000980806881551",
+        "in_reply_to_user_id": "1998647355839754240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065836380845211922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VonJu0 嫌事多建议别用微信，不怕事少随便"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998647355839754240",
+        "conversation_id": "2065836380845211922",
+        "created_at": "2026-06-13T16:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065836380845211922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065836380845211922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 355,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快2000fo了为了感谢大家 想搞个社群 再抽个奖\n\n有没有朋友有社群运营经验 用tg还是微信还是别的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 1341,
+          "like_count": 339,
+          "listed_count": 2,
+          "media_count": 757,
+          "tweet_count": 2248
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T06:54:05.000Z",
+        "description": "风菊 06大学生 沉默的观察者 纳指 标普定投\n\n真实思考 观点输出 人生讨论 社会热点 美股投资",
+        "id": "1998647355839754240",
+        "location": "Los Angeles, CA",
+        "name": "vonju",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050137749106425856/cHbj5-zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 384,
+          "like_count": 2899,
+          "listed_count": 7,
+          "media_count": 137,
+          "tweet_count": 2550
+        },
+        "username": "VonJu0",
+        "verified": true
+      }
+    ]
+  }
+}

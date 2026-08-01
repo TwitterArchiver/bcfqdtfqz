@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021074978620481536"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2021074989827711195",
+    "created_at": "2026-02-10T04:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T05:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021074989827711195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BplHkuZkGZ",
+          "end": 48,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2021074989827711195/photo/1",
+          "media_key": "3_2021074978620481536",
+          "start": 25,
+          "url": "https://t.co/BplHkuZkGZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021074989827711195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为了响应绿色节能的号召，以后我对ai绝对不说谢谢 https://t.co/BplHkuZkGZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2021074978620481536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAxM_CUaoAAP4Ig.jpg",
+        "width": 869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021074978620481536"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2021074989827711195",
+        "created_at": "2026-02-10T04:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T05:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021074989827711195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BplHkuZkGZ",
+              "end": 48,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2021074989827711195/photo/1",
+              "media_key": "3_2021074978620481536",
+              "start": 25,
+              "url": "https://t.co/BplHkuZkGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021074989827711195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了响应绿色节能的号召，以后我对ai绝对不说谢谢 https://t.co/BplHkuZkGZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "🍅",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 629,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 226
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

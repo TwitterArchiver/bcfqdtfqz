@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033031003548299267"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2033031012528304312",
+    "created_at": "2026-03-15T04:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T05:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033031012528304312"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UQF0AXuEFK",
+          "end": 32,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2033031012528304312/photo/1",
+          "media_key": "3_2033031003548299267",
+          "start": 9,
+          "url": "https://t.co/UQF0AXuEFK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033031012528304312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好学校，多少分？ https://t.co/UQF0AXuEFK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033031003548299267",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDbG7R_aMAM51Gj.jpg",
+        "width": 1197
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033031003548299267"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2033031012528304312",
+        "created_at": "2026-03-15T04:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T05:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033031012528304312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UQF0AXuEFK",
+              "end": 32,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2033031012528304312/photo/1",
+              "media_key": "3_2033031003548299267",
+              "start": 9,
+              "url": "https://t.co/UQF0AXuEFK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033031012528304312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好学校，多少分？ https://t.co/UQF0AXuEFK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 1089,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 445,
+          "tweet_count": 1248
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

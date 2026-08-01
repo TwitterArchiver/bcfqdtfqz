@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2021944780494946574",
+    "created_at": "2026-02-12T16:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T17:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021979727343628808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794617194954850304",
+          "start": 0,
+          "username": "Baixiaoming2952"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021979727343628808",
+    "in_reply_to_user_id": "1794617194954850304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021944780494946574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Baixiaoming2952 诶小铭也复活了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2021944744629387264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9kCFMaQAA2lS3.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2021944780494946574",
+        "created_at": "2026-02-12T16:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021979727343628808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794617194954850304",
+              "start": 0,
+              "username": "Baixiaoming2952"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021979727343628808",
+        "in_reply_to_user_id": "1794617194954850304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021944780494946574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baixiaoming2952 诶小铭也复活了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021944744629387264"
+          ]
+        },
+        "author_id": "1794617194954850304",
+        "conversation_id": "2021944780494946574",
+        "created_at": "2026-02-12T13:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021944780494946574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCHYBBq73h",
+              "end": 23,
+              "expanded_url": "https://x.com/Baixiaoming2952/status/2021944780494946574/photo/1",
+              "media_key": "3_2021944744629387264",
+              "start": 0,
+              "url": "https://t.co/MCHYBBq73h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021944780494946574",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 318,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MCHYBBq73h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 741,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 381
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-26T06:31:28.000Z",
+        "description": "不著名螺蛳粉与学校蛋挞爱好者 | 08年广西土著 | 简中/正體/En | 政史地亡命文科生 | 助ta们涨粉:@virtual_kaf @gen_senden @pp71294406 @IzayoiMarin @NovaBabelo @QQ5915179 @brandon94623 @oldsddl4gunmu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "virtual_kaf"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "gen_senden"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "pp71294406"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "IzayoiMarin"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "NovaBabelo"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "QQ5915179"
+              },
+              {
+                "end": 142,
+                "start": 129,
+                "username": "brandon94623"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "oldsddl4gunmu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/TvdkBws4WA",
+                "end": 23,
+                "expanded_url": "https://discord.gg/TvdkBws4WA",
+                "start": 0,
+                "url": "https://t.co/XlFsCAnf0y"
+              }
+            ]
+          }
+        },
+        "id": "1794617194954850304",
+        "location": "↓discord群→",
+        "name": "白小铭",
+        "pinned_tweet_id": "1961780054662295565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923928431512707072/VKPjgBRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 1589,
+          "like_count": 18513,
+          "listed_count": 11,
+          "media_count": 964,
+          "tweet_count": 5766
+        },
+        "url": "https://t.co/XlFsCAnf0y",
+        "username": "Baixiaoming2952",
+        "verified": false
+      }
+    ]
+  }
+}

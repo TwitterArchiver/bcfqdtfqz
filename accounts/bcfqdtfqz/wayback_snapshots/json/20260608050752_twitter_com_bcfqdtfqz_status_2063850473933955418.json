@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2063640366700789966",
+    "created_at": "2026-06-08T05:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T06:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063850473933955418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1607383098261397505",
+          "start": 0,
+          "username": "tlomlN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063850473933955418",
+    "in_reply_to_user_id": "1607383098261397505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063640366700789966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tlomlN 没事上了大学更性压抑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2063640366700789966",
+        "created_at": "2026-06-08T05:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063850473933955418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1607383098261397505",
+              "start": 0,
+              "username": "tlomlN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063850473933955418",
+        "in_reply_to_user_id": "1607383098261397505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063640366700789966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tlomlN 没事上了大学更性压抑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607383098261397505",
+        "conversation_id": "2063640366700789966",
+        "created_at": "2026-06-07T15:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063640366700789966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063640366700789966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 773,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想对高考生说\n不管考的好与坏\n不管能不能上本科\n我希望大家不要复读\n青春是很珍贵的\n复读是很压抑的\n少年心气是不可再生之物\n它比你的分数更重要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 1341,
+          "like_count": 334,
+          "listed_count": 2,
+          "media_count": 755,
+          "tweet_count": 2191
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T14:29:51.000Z",
+        "description": "05｜前文旅创业者，现游戏工作室操盘手分享搞钱逻辑与非标准化路径，长期主义践行者\n只链接对价值有欲望的同频者",
+        "id": "1607383098261397505",
+        "location": "同频者V：wjqwyh888",
+        "name": "魏启",
+        "pinned_tweet_id": "2045072754719031386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045115469905145856/kpfTP64t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 293,
+          "like_count": 674,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 2620
+        },
+        "username": "tlomlN",
+        "verified": true
+      }
+    ]
+  }
+}

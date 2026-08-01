@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070449021093859328"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070449028387774672",
+    "created_at": "2026-06-26T10:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070449028387774672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rtm5pSxUN2",
+          "end": 76,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2070449028387774672/photo/1",
+          "media_key": "3_2070449021093859328",
+          "start": 53,
+          "url": "https://t.co/rtm5pSxUN2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070449028387774672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说起来又到了报志愿的时间点了\n给大家伙整了个张雪峰群，内含各路抽象张雪峰表情包\n当然，奇怪的话题和人勿扰 https://t.co/rtm5pSxUN2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2055,
+        "media_key": "3_2070449021093859328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLu2ajva0AANuGA.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070449021093859328"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070449028387774672",
+        "created_at": "2026-06-26T10:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070449028387774672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rtm5pSxUN2",
+              "end": 76,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2070449028387774672/photo/1",
+              "media_key": "3_2070449021093859328",
+              "start": 53,
+              "url": "https://t.co/rtm5pSxUN2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070449028387774672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来又到了报志愿的时间点了\n给大家伙整了个张雪峰群，内含各路抽象张雪峰表情包\n当然，奇怪的话题和人勿扰 https://t.co/rtm5pSxUN2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1713,
+          "following_count": 1367,
+          "like_count": 345,
+          "listed_count": 2,
+          "media_count": 771,
+          "tweet_count": 2411
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

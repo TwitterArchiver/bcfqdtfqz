@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052029856960196608"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2052029874853032125",
+    "created_at": "2026-05-06T14:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052029874853032125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LAqCIQrh2a",
+          "end": 162,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2052029874853032125/photo/1",
+          "media_key": "3_2052029856960196608",
+          "start": 139,
+          "url": "https://t.co/LAqCIQrh2a"
+        },
+        {
+          "display_url": "x.com/__fanqie__/sta…",
+          "end": 186,
+          "expanded_url": "https://twitter.com/__fanqie__/status/2051896329539121492",
+          "start": 163,
+          "url": "https://t.co/Pb9e8XmD1w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052029874853032125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051896329539121492",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关于我为什么突然做张雪峰这个呢，\n主要是最近刷国抖刷多了都是做张雪峰鬼畜的就有感而发做了下，\n这人死之前后面公关团队维护形象\n人死了以后业务收缩没钱再维护风评了才让你们有机会去做雪毙表情包\n\n另外那些个说我消费张雪峰死人流量的\n骗你的其实这畜生活着的时候我也在消费\n内容如下👇 https://t.co/LAqCIQrh2a https://t.co/Pb9e8XmD1w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1204,
+        "media_key": "3_2052029856960196608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpGSGSbsAAmc0f.jpg",
+        "width": 1080
+      },
+      {
+        "height": 797,
+        "media_key": "3_2051895937803726848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnMe-jbsAAEQc8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 752,
+        "media_key": "3_2051896317983752192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnM1G1agAAuJY1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 926,
+        "media_key": "3_2051896316717084672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnM1CHasAA_D_o.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1045,
+        "media_key": "3_2051896317480407040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnM1E9aEAAlonV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052029856960196608"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2052029874853032125",
+        "created_at": "2026-05-06T14:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052029874853032125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LAqCIQrh2a",
+              "end": 162,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2052029874853032125/photo/1",
+              "media_key": "3_2052029856960196608",
+              "start": 139,
+              "url": "https://t.co/LAqCIQrh2a"
+            },
+            {
+              "display_url": "x.com/__fanqie__/sta…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/__fanqie__/status/2051896329539121492",
+              "start": 163,
+              "url": "https://t.co/Pb9e8XmD1w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052029874853032125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051896329539121492",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于我为什么突然做张雪峰这个呢，\n主要是最近刷国抖刷多了都是做张雪峰鬼畜的就有感而发做了下，\n这人死之前后面公关团队维护形象\n人死了以后业务收缩没钱再维护风评了才让你们有机会去做雪毙表情包\n\n另外那些个说我消费张雪峰死人流量的\n骗你的其实这畜生活着的时候我也在消费\n内容如下👇 https://t.co/LAqCIQrh2a https://t.co/Pb9e8XmD1w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051895937803726848",
+            "3_2051896317983752192",
+            "3_2051896316717084672",
+            "3_2051896317480407040"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2051896329539121492",
+        "created_at": "2026-05-06T05:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:24:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051895945869296088",
+          "2051896329539121492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jqmT4PluwA",
+              "end": 36,
+              "expanded_url": "https://x.com/__fanqie__/status/2051896329539121492/photo/1",
+              "media_key": "3_2051895937803726848",
+              "start": 13,
+              "url": "https://t.co/jqmT4PluwA"
+            },
+            {
+              "display_url": "pic.x.com/jqmT4PluwA",
+              "end": 36,
+              "expanded_url": "https://x.com/__fanqie__/status/2051896329539121492/photo/1",
+              "media_key": "3_2051896317983752192",
+              "start": 13,
+              "url": "https://t.co/jqmT4PluwA"
+            },
+            {
+              "display_url": "pic.x.com/jqmT4PluwA",
+              "end": 36,
+              "expanded_url": "https://x.com/__fanqie__/status/2051896329539121492/photo/1",
+              "media_key": "3_2051896316717084672",
+              "start": 13,
+              "url": "https://t.co/jqmT4PluwA"
+            },
+            {
+              "display_url": "pic.x.com/jqmT4PluwA",
+              "end": 36,
+              "expanded_url": "https://x.com/__fanqie__/status/2051896329539121492/photo/1",
+              "media_key": "3_2051896317480407040",
+              "start": 13,
+              "url": "https://t.co/jqmT4PluwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051896329539121492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 238362,
+          "like_count": 417,
+          "quote_count": 2,
+          "reply_count": 275,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "感觉张雪峰老师最近话少了 https://t.co/jqmT4PluwA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄包着番茄籽炒蛋",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1732,
+          "following_count": 1346,
+          "like_count": 275,
+          "listed_count": 1,
+          "media_count": 715,
+          "tweet_count": 1850
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/侵权私信删除\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2049387713699381754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6382,
+          "following_count": 2970,
+          "like_count": 1529,
+          "listed_count": 12,
+          "media_count": 1163,
+          "tweet_count": 9175
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

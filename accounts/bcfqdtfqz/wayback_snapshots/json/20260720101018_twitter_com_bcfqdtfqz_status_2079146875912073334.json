@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2079096572902822287",
+    "created_at": "2026-07-20T10:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079146875912073334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2065409166681030656",
+          "start": 0,
+          "username": "jackn4ve"
+        },
+        {
+          "end": 18,
+          "id": "1956083750661718016",
+          "start": 10,
+          "username": "fly2_1M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079146875912073334",
+    "in_reply_to_user_id": "2065409166681030656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079111285715939721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jackn4ve @fly2_1M 业绩同比增长五倍，其实不算差了，存储有几个业绩比他还爆炸的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2079096572902822287",
+        "created_at": "2026-07-20T10:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079146875912073334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2065409166681030656",
+              "start": 0,
+              "username": "jackn4ve"
+            },
+            {
+              "end": 18,
+              "id": "1956083750661718016",
+              "start": 10,
+              "username": "fly2_1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079146875912073334",
+        "in_reply_to_user_id": "2065409166681030656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079111285715939721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jackn4ve @fly2_1M 业绩同比增长五倍，其实不算差了，存储有几个业绩比他还爆炸的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065409166681030656",
+        "conversation_id": "2079096572902822287",
+        "created_at": "2026-07-20T07:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079111285715939721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            },
+            {
+              "end": 19,
+              "id": "1956083750661718016",
+              "start": 11,
+              "username": "fly2_1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079111285715939721",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079108999434387956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz @fly2_1M 这业绩跟造假没区别了，业绩太差了，总的来说涨太多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号，梦到哪句发哪句\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 47,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 24,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 1430,
+          "like_count": 424,
+          "listed_count": 2,
+          "media_count": 814,
+          "tweet_count": 3102
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-12T12:22:05.000Z",
+        "description": "",
+        "id": "2065409166681030656",
+        "name": "jack",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "jackn4ve",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T20:01:43.000Z",
+        "description": "不交易也是一种交易。\n重视趋势性机会，重仓国运级的机会。\n不提供任何财务建议，记录自己的每一笔交易。",
+        "id": "1956083750661718016",
+        "name": "从零爬上100wu",
+        "pinned_tweet_id": "2065104467012505949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050787841970728961/cAYAwg2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5963,
+          "following_count": 163,
+          "like_count": 14670,
+          "listed_count": 72,
+          "media_count": 1178,
+          "tweet_count": 8143
+        },
+        "url": "",
+        "username": "fly2_1M",
+        "verified": true
+      }
+    ]
+  }
+}

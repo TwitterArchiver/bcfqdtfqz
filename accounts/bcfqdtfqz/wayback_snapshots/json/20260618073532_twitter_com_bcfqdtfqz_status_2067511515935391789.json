@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2067481754751951000",
+    "created_at": "2026-06-18T07:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067511515935391789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1420205241404772352",
+          "start": 0,
+          "username": "yanbo2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067511515935391789",
+    "in_reply_to_user_id": "1420205241404772352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067481754751951000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanbo2004 我在偏公共的社交媒体这两年几乎没有发过的自拍，QQ群见过我脸的发过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2067481754751951000",
+        "created_at": "2026-06-18T07:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067511515935391789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1420205241404772352",
+              "start": 0,
+              "username": "yanbo2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067511515935391789",
+        "in_reply_to_user_id": "1420205241404772352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067481754751951000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanbo2004 我在偏公共的社交媒体这两年几乎没有发过的自拍，QQ群见过我脸的发过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420205241404772352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288793950199771136",
+              "name": "Economics"
+            }
+          }
+        ],
+        "conversation_id": "2067481754751951000",
+        "created_at": "2026-06-18T05:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067481754751951000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/6qhdtqgwixxalx…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/6qhdtqgwixxalxb/status/2067361276708434194",
+              "start": 84,
+              "url": "https://t.co/F0KqxvhMIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067481754751951000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 444,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067361276708434194",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎 想起来认识的来自地图上黄色和蓝色地区身边一些妹子 本来素面朝天也很耐看 一加美颜就没有锦上添花的感觉 反而是一种倒退\n\n我自己的话 要么背影 要么找角度 要么原图 https://t.co/F0KqxvhMIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 1340,
+          "like_count": 340,
+          "listed_count": 2,
+          "media_count": 759,
+          "tweet_count": 2274
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-28T02:11:40.000Z",
+        "description": "21 yo.｜prev. DevRel & Now building @WorkWorkOrg｜Drop out｜Digital Nomad & Ordinary Trader & Writer & Photoghapher｜Backpacking trip to 20 countries & all of China",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "WorkWorkOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yanbowa.ng",
+                "end": 23,
+                "expanded_url": "http://yanbowa.ng",
+                "start": 0,
+                "url": "https://t.co/LIctNgXeI8"
+              }
+            ]
+          }
+        },
+        "id": "1420205241404772352",
+        "location": "Remote everywhere, Born in 延边.",
+        "name": "烟波 Yanbo🍡",
+        "pinned_tweet_id": "2047564211480351043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058876241566928896/lTiQJnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6407,
+          "following_count": 1888,
+          "like_count": 113468,
+          "listed_count": 42,
+          "media_count": 2836,
+          "tweet_count": 22991
+        },
+        "url": "https://t.co/LIctNgXeI8",
+        "username": "yanbo2004",
+        "verified": true
+      }
+    ]
+  }
+}

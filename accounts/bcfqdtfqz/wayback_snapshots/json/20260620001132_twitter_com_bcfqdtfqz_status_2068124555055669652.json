@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068124547329785856"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2068124555055669652",
+    "created_at": "2026-06-20T00:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T01:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068124555055669652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4y938N5BlV",
+          "end": 67,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2068124555055669652/photo/1",
+          "media_key": "3_2068124547329785856",
+          "start": 44,
+          "url": "https://t.co/4y938N5BlV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068124555055669652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "实在不行马斯克你把浏览量连个tradingview的api直接当成美股看盘得了。。。。 https://t.co/4y938N5BlV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1764,
+        "media_key": "3_2068124547329785856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLN0UYLbgAAickH.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068124547329785856"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2068124555055669652",
+        "created_at": "2026-06-20T00:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T01:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068124555055669652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4y938N5BlV",
+              "end": 67,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2068124555055669652/photo/1",
+              "media_key": "3_2068124547329785856",
+              "start": 44,
+              "url": "https://t.co/4y938N5BlV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068124555055669652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实在不行马斯克你把浏览量连个tradingview的api直接当成美股看盘得了。。。。 https://t.co/4y938N5BlV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 1349,
+          "like_count": 342,
+          "listed_count": 2,
+          "media_count": 760,
+          "tweet_count": 2318
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      }
+    ]
+  }
+}

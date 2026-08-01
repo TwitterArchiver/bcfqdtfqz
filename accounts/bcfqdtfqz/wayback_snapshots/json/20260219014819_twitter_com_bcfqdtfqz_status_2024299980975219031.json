@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2024297371086311466",
+    "created_at": "2026-02-19T01:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T02:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024299980975219031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882844316475019264",
+          "start": 0,
+          "username": "Charles77xixi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024299980975219031",
+    "in_reply_to_user_id": "1882844316475019264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024297371086311466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Charles77xixi 这我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2024297371086311466",
+        "created_at": "2026-02-19T01:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024299980975219031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882844316475019264",
+              "start": 0,
+              "username": "Charles77xixi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024299980975219031",
+        "in_reply_to_user_id": "1882844316475019264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024297371086311466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Charles77xixi 这我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882844316475019264",
+        "conversation_id": "2024297371086311466",
+        "created_at": "2026-02-19T01:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T02:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024297371086311466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024297371086311466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了一个月x账号，发现个挺反差的事。\n\n很多几万几十万粉的大v都是言之无物的复读机，发的更多的是吐槽、教你xxx的十条tips之类的推文，翻来覆去炒冷饭。\n\n反而是挺多几百几千粉的小博主是真正在分享有观点、有干货的优质内容。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "New York, USA",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 833,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 599
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T17:34:58.000Z",
+        "description": "00后 | 程序员 | 长期投资者\n\n⚡️ 重复做对的事，慢一点也没关系",
+        "id": "1882844316475019264",
+        "location": "China, Shenzhen",
+        "name": "Charles在路上",
+        "pinned_tweet_id": "2020157915160875071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020132363184009218/PfMhdLG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 55,
+          "like_count": 71,
+          "listed_count": 4,
+          "media_count": 13,
+          "tweet_count": 345
+        },
+        "username": "Charles77xixi",
+        "verified": true
+      }
+    ]
+  }
+}

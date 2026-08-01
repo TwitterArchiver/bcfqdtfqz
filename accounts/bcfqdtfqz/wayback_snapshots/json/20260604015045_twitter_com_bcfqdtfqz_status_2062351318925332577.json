@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2062351318925332577",
+    "created_at": "2026-06-04T01:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T02:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062351318925332577"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062351318925332577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很少用国内ai\n（这里讨论范围只包括ds豆包因为其他的emmm。。。。）\n国内ai的唯一一个好处是不用开梯子我就不用因为他多点一遍clash\n但是国内ai训练语料不全，时不时关停服务以及很多时候因为本身模型差一个档次在那里鬼脑意淫\n于是除了水那些根本没人看的作业以外基本用的全是grok和chatgpt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2062351318925332577",
+        "created_at": "2026-06-04T01:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062351318925332577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062351318925332577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很少用国内ai\n（这里讨论范围只包括ds豆包因为其他的emmm。。。。）\n国内ai的唯一一个好处是不用开梯子我就不用因为他多点一遍clash\n但是国内ai训练语料不全，时不时关停服务以及很多时候因为本身模型差一个档次在那里鬼脑意淫\n于是除了水那些根本没人看的作业以外基本用的全是grok和chatgpt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 1341,
+          "like_count": 332,
+          "listed_count": 2,
+          "media_count": 749,
+          "tweet_count": 2140
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      }
+    ]
+  }
+}

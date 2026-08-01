@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070377590733541844",
+    "created_at": "2026-06-26T05:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T06:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070377590733541844"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bcfqdtfqz/stat…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/bcfqdtfqz/status/2070370759890047450",
+          "start": 49,
+          "url": "https://t.co/kRMaA8bII1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070377590733541844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070370759890047450",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到点了，在山姆门口机械的找了素材发大号的推文，看着那几个素材又想到了一些难受的事情……眼睛湿湿的 https://t.co/kRMaA8bII1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070370749232435200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtvOiVb0AAl4xK.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070377590733541844",
+        "created_at": "2026-06-26T05:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070377590733541844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bcfqdtfqz/stat…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/bcfqdtfqz/status/2070370759890047450",
+              "start": 49,
+              "url": "https://t.co/kRMaA8bII1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070377590733541844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070370759890047450",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到点了，在山姆门口机械的找了素材发大号的推文，看着那几个素材又想到了一些难受的事情……眼睛湿湿的 https://t.co/kRMaA8bII1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070370749232435200"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070370759890047450",
+        "created_at": "2026-06-26T04:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070370759890047450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aGgETZe6Tk",
+              "end": 36,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2070370759890047450/photo/1",
+              "media_key": "3_2070370749232435200",
+              "start": 13,
+              "url": "https://t.co/aGgETZe6Tk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070370759890047450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "山姆还是有点苹果了。。。 https://t.co/aGgETZe6Tk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1361,
+          "like_count": 344,
+          "listed_count": 2,
+          "media_count": 767,
+          "tweet_count": 2386
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

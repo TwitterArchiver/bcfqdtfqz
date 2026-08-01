@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2034245965620900210",
+    "created_at": "2026-03-18T12:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T13:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034245965620900210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nn142857/statu…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/nn142857/status/2033491602371699007",
+          "start": 137,
+          "url": "https://t.co/1yxFW0kYv1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034245965620900210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033491602371699007",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "讲个故事，\n因为不可抗力因素，回家以后我说想要换部手机，最好三星和苹果，然后我妈到了华为店门口一直在那试还想劝说我换华为，还说不买特斯拉想要买个华为问界还是尊界给我气的火冒三丈\n\n于是为了让我妈能够摆脱某菊花品牌的变态狂热我就往她私信里疯狂发华为黑料和逆天华为粉的各种事迹 https://t.co/1yxFW0kYv1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_2033491593932754944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhp1K4a0AARMhF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2034245965620900210",
+        "created_at": "2026-03-18T12:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T13:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034245965620900210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nn142857/statu…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/nn142857/status/2033491602371699007",
+              "start": 137,
+              "url": "https://t.co/1yxFW0kYv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034245965620900210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033491602371699007",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讲个故事，\n因为不可抗力因素，回家以后我说想要换部手机，最好三星和苹果，然后我妈到了华为店门口一直在那试还想劝说我换华为，还说不买特斯拉想要买个华为问界还是尊界给我气的火冒三丈\n\n于是为了让我妈能够摆脱某菊花品牌的变态狂热我就往她私信里疯狂发华为黑料和逆天华为粉的各种事迹 https://t.co/1yxFW0kYv1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033491593932754944"
+          ]
+        },
+        "author_id": "1886257354859315200",
+        "conversation_id": "2033491602371699007",
+        "created_at": "2026-03-16T10:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T11:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033491602371699007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iTZaLGD22w",
+              "end": 51,
+              "expanded_url": "https://x.com/nn142857/status/2033491602371699007/photo/1",
+              "media_key": "3_2033491593932754944",
+              "start": 28,
+              "url": "https://t.co/iTZaLGD22w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033491602371699007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 470616,
+          "like_count": 2579,
+          "quote_count": 8,
+          "reply_count": 561,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "在20岁全款给妈妈买手机 不是最贵的但是我能力范围好的 https://t.co/iTZaLGD22w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 1105,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 460,
+          "tweet_count": 1291
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-03T03:36:21.000Z",
+        "description": "4i/1i 相互尊重上推为了看美女和肌肉男\n当朋友圈发 推广自辨\n🚪88好友位/188/288纯绿",
+        "id": "1886257354859315200",
+        "name": "大石",
+        "pinned_tweet_id": "2033825532589314489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964072483679850498/VazYwvsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5411,
+          "following_count": 96,
+          "like_count": 2453,
+          "listed_count": 11,
+          "media_count": 83,
+          "tweet_count": 597
+        },
+        "username": "nn142857",
+        "verified": false
+      }
+    ]
+  }
+}

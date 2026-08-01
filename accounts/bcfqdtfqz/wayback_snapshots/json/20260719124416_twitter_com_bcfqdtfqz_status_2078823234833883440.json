@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2078808065076515165",
+    "created_at": "2026-07-19T12:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078823234833883440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342135083252105216",
+          "start": 0,
+          "username": "xixikawaii"
+        },
+        {
+          "end": 24,
+          "id": "1003840309166366721",
+          "start": 12,
+          "username": "heyibinance"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078823234833883440",
+    "in_reply_to_user_id": "1342135083252105216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078808065076515165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikawaii @heyibinance xixi你😰😰😰😰😰😰😰😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078793588264353792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlbwS3bQAAy6Bw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2078808065076515165",
+        "created_at": "2026-07-19T12:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078823234833883440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            },
+            {
+              "end": 24,
+              "id": "1003840309166366721",
+              "start": 12,
+              "username": "heyibinance"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078823234833883440",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078808065076515165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii @heyibinance xixi你😰😰😰😰😰😰😰😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078793588264353792"
+          ]
+        },
+        "author_id": "1342135083252105216",
+        "conversation_id": "2078808065076515165",
+        "created_at": "2026-07-19T11:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:46:30.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078793598364270725",
+          "2078802187225018423",
+          "2078808065076515165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1003840309166366721",
+              "start": 8,
+              "username": "heyibinance"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WvE0bgl9yu",
+              "end": 44,
+              "expanded_url": "https://x.com/xixikawaii/status/2078808065076515165/photo/1",
+              "media_key": "3_2078793588264353792",
+              "start": 21,
+              "url": "https://t.co/WvE0bgl9yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078808065076515165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 761,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "懂了，关你屁事 @heyibinance https://t.co/WvE0bgl9yu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号，梦到哪句发哪句\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 47,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 24,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 1430,
+          "like_count": 420,
+          "listed_count": 2,
+          "media_count": 813,
+          "tweet_count": 3091
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "infp | 戒赌版（每天要去迪士尼版）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_QXw2uGWZ",
+                "start": 0,
+                "url": "https://t.co/p8Rr4RFzRt"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "location": "Meme Alpha 👉🏻",
+        "name": "汐",
+        "pinned_tweet_id": "2074172096805233082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077793473823199232/TqP5gsYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35794,
+          "following_count": 1191,
+          "like_count": 15330,
+          "listed_count": 449,
+          "media_count": 4995,
+          "tweet_count": 24853
+        },
+        "url": "https://t.co/p8Rr4RFzRt",
+        "username": "xixikawaii",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-05T03:25:54.000Z",
+        "description": "Co-Founder & Chief Customer Service Officer @Binance， Holder of #BNB",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "BNB"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "Binance"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "binance.com",
+                "end": 23,
+                "expanded_url": "http://binance.com",
+                "start": 0,
+                "url": "https://t.co/cAe7RXTCAk"
+              }
+            ]
+          }
+        },
+        "id": "1003840309166366721",
+        "location": "Mars",
+        "name": "Yi He",
+        "pinned_tweet_id": "2070538442162028562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044437684144291841/vDSm1Vh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614199,
+          "following_count": 1338,
+          "like_count": 3776,
+          "listed_count": 4029,
+          "media_count": 383,
+          "tweet_count": 5427
+        },
+        "url": "https://t.co/cAe7RXTCAk",
+        "username": "heyibinance",
+        "verified": true
+      }
+    ]
+  }
+}

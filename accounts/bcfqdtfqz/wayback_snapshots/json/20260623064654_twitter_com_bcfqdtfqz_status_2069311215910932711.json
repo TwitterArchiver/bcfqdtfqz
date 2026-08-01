@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2068890948852208100",
+    "created_at": "2026-06-23T06:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069311215910932711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4230155178",
+          "start": 0,
+          "username": "real_huiliyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069311215910932711",
+    "in_reply_to_user_id": "4230155178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068890948852208100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@real_huiliyi 差不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2068890948852208100",
+        "created_at": "2026-06-23T06:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069311215910932711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4230155178",
+              "start": 0,
+              "username": "real_huiliyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069311215910932711",
+        "in_reply_to_user_id": "4230155178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068890948852208100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real_huiliyi 差不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4230155178",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2068890948852208100",
+        "created_at": "2026-06-22T02:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068890948852208100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068890948852208100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5047,
+          "like_count": 113,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "现在的twitter不是曾经的那个社区了，充斥着大量为了赚马斯克钱的蓝标营销号......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 1348,
+          "like_count": 343,
+          "listed_count": 2,
+          "media_count": 763,
+          "tweet_count": 2333
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-14T03:18:17.000Z",
+        "description": "Welcome to my world よろしく / ISFJ /一个过气不有趣的推主 / 我永远爱Pusheen cat！/LOVELIVE厨🌈 / 阴晴不定大哥哥/魔法小绘",
+        "id": "4230155178",
+        "location": "日本/中国（Japan / China）",
+        "name": "樱雪沫",
+        "pinned_tweet_id": "2064146665888756091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957657319044706306/US8vyzxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2923,
+          "following_count": 1347,
+          "like_count": 142355,
+          "listed_count": 16,
+          "media_count": 2646,
+          "tweet_count": 20061
+        },
+        "url": "",
+        "username": "real_huiliyi",
+        "verified": false
+      }
+    ]
+  }
+}

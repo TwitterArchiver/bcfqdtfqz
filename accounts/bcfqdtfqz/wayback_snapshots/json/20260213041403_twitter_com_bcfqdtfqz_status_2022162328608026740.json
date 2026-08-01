@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2021986877612716121",
+    "created_at": "2026-02-13T04:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T05:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022162328608026740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1102512660",
+          "start": 0,
+          "username": "LaurenceMister"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022162328608026740",
+    "in_reply_to_user_id": "1102512660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021986877612716121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaurenceMister 上证不跌不影响恒生跌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2021986877612716121",
+        "created_at": "2026-02-13T04:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022162328608026740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1102512660",
+              "start": 0,
+              "username": "LaurenceMister"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022162328608026740",
+        "in_reply_to_user_id": "1102512660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021986877612716121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaurenceMister 上证不跌不影响恒生跌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1102512660",
+        "conversation_id": "2021986877612716121",
+        "created_at": "2026-02-12T16:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021986877612716121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021986877612716121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 37006,
+          "like_count": 111,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "市场突然尿崩，贵金属、美股、币圈都在下跌，只有上证指数岿然不动！😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 752,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 395
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2013-01-19T01:56:07.000Z",
+        "description": "观察和记录｜互联网、经济、社会 说的不对，请各位批评🤗 我的YouTube：https://t.co/PT9XX0F0xV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@my_problem",
+                "end": 61,
+                "expanded_url": "https://youtube.com/@my_problem",
+                "start": 38,
+                "url": "https://t.co/PT9XX0F0xV"
+              }
+            ]
+          }
+        },
+        "id": "1102512660",
+        "location": "California, USA",
+        "name": "𝐋𝐚𝐮𝐫𝐞𝐧𝐜𝐞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1036669720122941440/XbUypgHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26837,
+          "following_count": 3020,
+          "like_count": 12578,
+          "listed_count": 159,
+          "media_count": 2381,
+          "tweet_count": 26894
+        },
+        "username": "LaurenceMister",
+        "verified": true
+      }
+    ]
+  }
+}

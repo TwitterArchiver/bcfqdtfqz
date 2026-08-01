@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2064515124497723851",
+    "created_at": "2026-06-10T04:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064569366256275745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "987479844052242432",
+          "start": 0,
+          "username": "uuzkora"
+        },
+        {
+          "end": 20,
+          "id": "2564383216",
+          "start": 9,
+          "username": "failcatcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064569366256275745",
+    "in_reply_to_user_id": "987479844052242432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064565539020886153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uuzkora @failcatcat 张在自己本科专业给排水上都给人报的严重翻车了，很难想象其早期信息来源是否有事实支撑\n而且这类名字听起来专业高大上的如果学校层次不够并且没有关系基本直接大幅度缩水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2064515124497723851",
+        "created_at": "2026-06-10T04:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064569366256275745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "987479844052242432",
+              "start": 0,
+              "username": "uuzkora"
+            },
+            {
+              "end": 20,
+              "id": "2564383216",
+              "start": 9,
+              "username": "failcatcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064569366256275745",
+        "in_reply_to_user_id": "987479844052242432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064565539020886153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uuzkora @failcatcat 张在自己本科专业给排水上都给人报的严重翻车了，很难想象其早期信息来源是否有事实支撑\n而且这类名字听起来专业高大上的如果学校层次不够并且没有关系基本直接大幅度缩水"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "987479844052242432",
+        "conversation_id": "2064515124497723851",
+        "created_at": "2026-06-10T04:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064565539020886153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            },
+            {
+              "end": 22,
+              "id": "2564383216",
+              "start": 11,
+              "username": "failcatcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064565539020886153",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064562439430283502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz @failcatcat 张在这方面至少不会故意说胡话哗众取宠。。。我查了一下张评飞行器是 就业偏向央国企，待遇不会太好也不会太差"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 1344,
+          "like_count": 339,
+          "listed_count": 2,
+          "media_count": 757,
+          "tweet_count": 2214
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-20T23:55:16.000Z",
+        "description": "北海，要多想",
+        "id": "987479844052242432",
+        "location": "China",
+        "name": "吃饱了的幽幽子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663472631667109888/80-ZyfKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 262,
+          "like_count": 965,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 165
+        },
+        "username": "uuzkora",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-26T00:20:59.000Z",
+        "description": "我是猫猫，你好！",
+        "id": "2564383216",
+        "name": "失败猫猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045895330034860032/cdrnMVpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 82,
+          "like_count": 1753,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 2576
+        },
+        "username": "failcatcat",
+        "verified": false
+      }
+    ]
+  }
+}

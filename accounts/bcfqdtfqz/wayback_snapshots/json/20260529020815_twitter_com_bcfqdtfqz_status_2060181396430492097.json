@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2060071074356973794",
+    "created_at": "2026-05-29T02:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060181396430492097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1775079210484436992",
+          "start": 0,
+          "username": "0xAstra"
+        },
+        {
+          "end": 21,
+          "id": "1353836358901501952",
+          "start": 9,
+          "username": "AnthropicAI"
+        },
+        {
+          "end": 34,
+          "id": "874126509245476864",
+          "start": 22,
+          "username": "DarioAmodei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060181396430492097",
+    "in_reply_to_user_id": "1775079210484436992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060071074356973794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xAstra @AnthropicAI @DarioAmodei 道德问题暂且不谈但是人家财务上据说真扭亏为盈了，水分可能有但是将就着看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2060071074356973794",
+        "created_at": "2026-05-29T02:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060181396430492097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1775079210484436992",
+              "start": 0,
+              "username": "0xAstra"
+            },
+            {
+              "end": 21,
+              "id": "1353836358901501952",
+              "start": 9,
+              "username": "AnthropicAI"
+            },
+            {
+              "end": 34,
+              "id": "874126509245476864",
+              "start": 22,
+              "username": "DarioAmodei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060181396430492097",
+        "in_reply_to_user_id": "1775079210484436992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060071074356973794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xAstra @AnthropicAI @DarioAmodei 道德问题暂且不谈但是人家财务上据说真扭亏为盈了，水分可能有但是将就着看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775079210484436992",
+        "conversation_id": "2060071074356973794",
+        "created_at": "2026-05-28T18:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060071074356973794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 92,
+              "id": "1353836358901501952",
+              "start": 80,
+              "username": "AnthropicAI"
+            },
+            {
+              "end": 105,
+              "id": "874126509245476864",
+              "start": 93,
+              "username": "DarioAmodei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/realnyarime/st…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/realnyarime/status/2060059543820963975",
+              "start": 106,
+              "url": "https://t.co/XJreUo3Rqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060071074356973794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 858,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060059543820963975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Anthropic这种公司你们说估值一万亿，ARR要破千亿？这不是搞笑吗😅\nCEO道德有明显问题，先咬定别人蒸馏自己，自己回头就开始蒸馏了，脸都不要了\n畜生啊 @AnthropicAI @DarioAmodei https://t.co/XJreUo3Rqg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 1353,
+          "like_count": 329,
+          "listed_count": 2,
+          "media_count": 747,
+          "tweet_count": 2103
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-02T08:34:21.000Z",
+        "description": "正在打造 @GMWallet ｜GitHub Star全球前十(加密领域) 加密交易用币安：https://t.co/gCvs8cb1ga\nOKX最合规交易所：https://t.co/Spvg2Or79R 高息理财MEXC：mexc-422Sy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "GMWallet"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=A…",
+                "end": 69,
+                "expanded_url": "https://www.binance.com/register?ref=ASTRA345",
+                "start": 46,
+                "url": "https://t.co/gCvs8cb1ga"
+              },
+              {
+                "display_url": "okx.com/join/17846565",
+                "end": 103,
+                "expanded_url": "https://okx.com/join/17846565",
+                "start": 80,
+                "url": "https://t.co/Spvg2Or79R"
+              }
+            ]
+          }
+        },
+        "id": "1775079210484436992",
+        "location": "Canberra",
+        "name": "Astra",
+        "pinned_tweet_id": "2045323867988906374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952691600603385856/fL2QZzUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7702,
+          "following_count": 968,
+          "like_count": 43561,
+          "listed_count": 33,
+          "media_count": 354,
+          "tweet_count": 8572
+        },
+        "username": "0xAstra",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-25T22:45:28.000Z",
+        "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 128,
+                "username": "claudeai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 164,
+                "expanded_url": "https://claude.ai",
+                "start": 141,
+                "url": "https://t.co/FhDI3KQh0n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anthropic.com",
+                "end": 23,
+                "expanded_url": "https://anthropic.com",
+                "start": 0,
+                "url": "https://t.co/w94SABjAXZ"
+              }
+            ]
+          }
+        },
+        "id": "1353836358901501952",
+        "name": "Anthropic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299520,
+          "following_count": 36,
+          "like_count": 1575,
+          "listed_count": 12700,
+          "media_count": 621,
+          "tweet_count": 1568
+        },
+        "url": "https://t.co/w94SABjAXZ",
+        "username": "AnthropicAI",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-12T04:49:35.000Z",
+        "description": "Anthropic CEO. https://t.co/qXHIf42jTl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "darioamodei.com",
+                "end": 38,
+                "expanded_url": "http://darioamodei.com",
+                "start": 15,
+                "url": "https://t.co/qXHIf42jTl"
+              }
+            ]
+          }
+        },
+        "id": "874126509245476864",
+        "name": "Dario Amodei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015835742577012736/uOwdzrEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362765,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 3688,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "DarioAmodei",
+        "verified": true
+      }
+    ]
+  }
+}

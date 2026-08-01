@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2067236726373077011",
+    "created_at": "2026-06-18T02:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T03:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067428123034165468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342135083252105216",
+          "start": 0,
+          "username": "xixikawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067428123034165468",
+    "in_reply_to_user_id": "1342135083252105216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067236726373077011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikawaii 想去上迪😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1764,
+        "media_key": "3_2067236712154304512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBM1kaakAAtJpB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1764,
+        "media_key": "3_2067236712531845121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBM1l0bYAEne2x.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1764,
+        "media_key": "3_2067236713387429888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBM1pAakAAb1ye.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1764,
+        "media_key": "3_2067236712984809472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBM1ngbEAAgqA9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2067236726373077011",
+        "created_at": "2026-06-18T02:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067428123034165468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067428123034165468",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067236726373077011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii 想去上迪😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067236712154304512",
+            "3_2067236712531845121",
+            "3_2067236713387429888",
+            "3_2067236712984809472"
+          ]
+        },
+        "author_id": "1342135083252105216",
+        "conversation_id": "2067236726373077011",
+        "created_at": "2026-06-17T13:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067236726373077011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RtgafsczWk",
+              "end": 37,
+              "expanded_url": "https://x.com/xixikawaii/status/2067236726373077011/photo/1",
+              "media_key": "3_2067236712154304512",
+              "start": 14,
+              "url": "https://t.co/RtgafsczWk"
+            },
+            {
+              "display_url": "pic.x.com/RtgafsczWk",
+              "end": 37,
+              "expanded_url": "https://x.com/xixikawaii/status/2067236726373077011/photo/1",
+              "media_key": "3_2067236712531845121",
+              "start": 14,
+              "url": "https://t.co/RtgafsczWk"
+            },
+            {
+              "display_url": "pic.x.com/RtgafsczWk",
+              "end": 37,
+              "expanded_url": "https://x.com/xixikawaii/status/2067236726373077011/photo/1",
+              "media_key": "3_2067236713387429888",
+              "start": 14,
+              "url": "https://t.co/RtgafsczWk"
+            },
+            {
+              "display_url": "pic.x.com/RtgafsczWk",
+              "end": 37,
+              "expanded_url": "https://x.com/xixikawaii/status/2067236726373077011/photo/1",
+              "media_key": "3_2067236712984809472",
+              "start": 14,
+              "url": "https://t.co/RtgafsczWk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067236726373077011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2133,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "东迪人太多了，我要回上迪🫠 https://t.co/RtgafsczWk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 1338,
+          "like_count": 340,
+          "listed_count": 2,
+          "media_count": 759,
+          "tweet_count": 2264
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "infp 童话都是骗小孩子的喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_QXw2uGWZ",
+                "start": 0,
+                "url": "https://t.co/p8Rr4RFzRt"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "location": "Disney",
+        "name": "汐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036827516841930752/UUPZffAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32387,
+          "following_count": 1179,
+          "like_count": 15104,
+          "listed_count": 449,
+          "media_count": 4800,
+          "tweet_count": 24098
+        },
+        "url": "https://t.co/p8Rr4RFzRt",
+        "username": "xixikawaii",
+        "verified": true
+      }
+    ]
+  }
+}

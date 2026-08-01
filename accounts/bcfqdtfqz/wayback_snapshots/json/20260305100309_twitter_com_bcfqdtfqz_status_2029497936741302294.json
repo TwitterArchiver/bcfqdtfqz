@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2029224868852695075",
+    "created_at": "2026-03-05T10:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T11:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029497936741302294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1919283967867625472",
+          "start": 0,
+          "username": "ggbond9694"
+        },
+        {
+          "end": 20,
+          "id": "1917047326990094336",
+          "start": 12,
+          "username": "0TwT012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029497936741302294",
+    "in_reply_to_user_id": "1919283967867625472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029252602446381522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggbond9694 @0TwT012 还有第二关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2029224868852695075",
+        "created_at": "2026-03-05T10:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T11:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029497936741302294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1919283967867625472",
+              "start": 0,
+              "username": "ggbond9694"
+            },
+            {
+              "end": 20,
+              "id": "1917047326990094336",
+              "start": 12,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029497936741302294",
+        "in_reply_to_user_id": "1919283967867625472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029252602446381522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggbond9694 @0TwT012 还有第二关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919283967867625472",
+        "conversation_id": "2029224868852695075",
+        "created_at": "2026-03-04T17:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T18:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029252602446381522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029252602446381522",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3310,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029224868852695075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 下次上课就想想有几十个78在对着老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 1026,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 352,
+          "tweet_count": 1019
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-05T06:52:19.000Z",
+        "description": "（´＿｀）",
+        "id": "1919283967867625472",
+        "location": "交融",
+        "name": "梦里盐粒",
+        "pinned_tweet_id": "2022966994342133863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020543991318761472/lVC4D93U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 152,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 430
+        },
+        "username": "ggbond9694",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/欢迎聊天💬//基本全是碎碎念 // 会互fo感兴趣的人—你喜欢我我喜欢你//讨厌没有礼貌的人   🔝开放提问箱：https://t.co/hLLfQQAfFm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 91,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 68,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 234,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 536
+        },
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

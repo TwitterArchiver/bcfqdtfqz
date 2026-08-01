@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070792464110367081",
+    "created_at": "2026-06-27T12:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070852651223593415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976201118826057728",
+          "start": 0,
+          "username": "yunaiiiwww344"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070852651223593415",
+    "in_reply_to_user_id": "1976201118826057728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070792464110367081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunaiiiwww344 并非，我绩点基本专业倒数，当然绩点低的也没人会主动说吧……？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070792464110367081",
+        "created_at": "2026-06-27T12:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070852651223593415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976201118826057728",
+              "start": 0,
+              "username": "yunaiiiwww344"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070852651223593415",
+        "in_reply_to_user_id": "1976201118826057728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070792464110367081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunaiiiwww344 并非，我绩点基本专业倒数，当然绩点低的也没人会主动说吧……？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976201118826057728",
+        "conversation_id": "2070792464110367081",
+        "created_at": "2026-06-27T08:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070792464110367081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070792464110367081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1266,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我感觉推特的人好多都是名校或者学习很好？？为什么都这么厉害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 1378,
+          "like_count": 351,
+          "listed_count": 2,
+          "media_count": 774,
+          "tweet_count": 2448
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-09T08:21:45.000Z",
+        "description": "08 不想闲聊 只回🚪我都是发着玩的 小号@Rinn380657Rinn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "Rinn380657Rinn"
+              }
+            ]
+          }
+        },
+        "id": "1976201118826057728",
+        "name": "☦︎",
+        "pinned_tweet_id": "2065403698696847623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065868512720211968/4U1S-wI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 9,
+          "like_count": 70,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 220
+        },
+        "url": "",
+        "username": "yunaiiiwww344",
+        "verified": false
+      }
+    ]
+  }
+}

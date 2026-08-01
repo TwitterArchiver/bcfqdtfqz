@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018568606418976768",
+        "3_2018568606410563584"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2018568614794908129",
+    "created_at": "2026-02-03T06:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T07:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018568614794908129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UMytU0MpM6",
+          "end": 31,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2018568614794908129/photo/1",
+          "media_key": "3_2018568606418976768",
+          "start": 8,
+          "url": "https://t.co/UMytU0MpM6"
+        },
+        {
+          "display_url": "pic.x.com/UMytU0MpM6",
+          "end": 31,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2018568614794908129/photo/1",
+          "media_key": "3_2018568606410563584",
+          "start": 8,
+          "url": "https://t.co/UMytU0MpM6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018568614794908129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有子宫的事情 https://t.co/UMytU0MpM6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018568606418976768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANlc-RbwAAt7qU.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018568606410563584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANlc-PbYAAPpmh.jpg",
+        "width": 1150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018568606418976768",
+            "3_2018568606410563584"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018568614794908129",
+        "created_at": "2026-02-03T06:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T07:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018568614794908129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UMytU0MpM6",
+              "end": 31,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2018568614794908129/photo/1",
+              "media_key": "3_2018568606418976768",
+              "start": 8,
+              "url": "https://t.co/UMytU0MpM6"
+            },
+            {
+              "display_url": "pic.x.com/UMytU0MpM6",
+              "end": 31,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2018568614794908129/photo/1",
+              "media_key": "3_2018568606410563584",
+              "start": 8,
+              "url": "https://t.co/UMytU0MpM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018568614794908129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有子宫的事情 https://t.co/UMytU0MpM6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄二代目 请不要转帖回墙内谢谢 本账仅供娱乐，真假自辨，图源来自墙内，有侵权内容私信删除",
+        "id": "2018306514549972992",
+        "name": "吃番茄不吐番茄籽",
+        "pinned_tweet_id": "2018360937804444012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 44,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 25
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

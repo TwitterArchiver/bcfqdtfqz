@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055177314061938688"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2055177323494944855",
+    "created_at": "2026-05-15T06:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T07:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055177323494944855"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BT4hKnDUBt",
+          "end": 44,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2055177323494944855/photo/1",
+          "media_key": "3_2055177314061938688",
+          "start": 21,
+          "url": "https://t.co/BT4hKnDUBt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055177323494944855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说的那么高大上。。。\n话说可以反向兑换吗 https://t.co/BT4hKnDUBt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1187,
+        "media_key": "3_2055177314061938688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIV04NsacAAX-k6.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055177314061938688"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2055177323494944855",
+        "created_at": "2026-05-15T06:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055177323494944855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BT4hKnDUBt",
+              "end": 44,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2055177323494944855/photo/1",
+              "media_key": "3_2055177314061938688",
+              "start": 21,
+              "url": "https://t.co/BT4hKnDUBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055177323494944855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说的那么高大上。。。\n话说可以反向兑换吗 https://t.co/BT4hKnDUBt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 1354,
+          "like_count": 296,
+          "listed_count": 1,
+          "media_count": 727,
+          "tweet_count": 1931
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

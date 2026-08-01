@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2037874390311035265",
+    "created_at": "2026-03-29T12:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T13:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038239219358011852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882671462210998272",
+          "start": 0,
+          "username": "HosinoEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038239219358011852",
+    "in_reply_to_user_id": "1882671462210998272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037874390311035265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HosinoEJ 我去n55"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037874381985353728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEf79AsbEAAAuje.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2037874390311035265",
+        "created_at": "2026-03-29T12:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038239219358011852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882671462210998272",
+              "start": 0,
+              "username": "HosinoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038239219358011852",
+        "in_reply_to_user_id": "1882671462210998272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037874390311035265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosinoEJ 我去n55"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037874381985353728"
+          ]
+        },
+        "author_id": "1882671462210998272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037874390311035265",
+        "created_at": "2026-03-28T12:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T13:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037874390311035265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PfJy9mFg7o",
+              "end": 50,
+              "expanded_url": "https://x.com/HosinoEJ/status/2037874390311035265/photo/1",
+              "media_key": "3_2037874381985353728",
+              "start": 27,
+              "url": "https://t.co/PfJy9mFg7o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037874390311035265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 24162,
+          "like_count": 76,
+          "quote_count": 4,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "感覺在哪裡見過，但是想不起來，掛一下看看有沒有認識的 https://t.co/PfJy9mFg7o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不知道包什么的番茄（私信互关）",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 1263,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 545,
+          "tweet_count": 1480
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "I love my country,but i'm not Heidrgger.\n\nDiscord: https://t.co/ccn1U72HVa\nE-mail: contact@hosinoneko.me",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hd2xDaGGRR",
+                "end": 74,
+                "expanded_url": "https://discord.gg/hd2xDaGGRR",
+                "start": 51,
+                "url": "https://t.co/ccn1U72HVa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NCT.hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://NCT.hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/MYVBfe2rap"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "location": "shanghai",
+        "name": "星野ネコ | HosinoNeko",
+        "pinned_tweet_id": "2037907869560168750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969203560090124288/UXWVrJV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 498,
+          "like_count": 3099,
+          "listed_count": 4,
+          "media_count": 551,
+          "tweet_count": 2938
+        },
+        "url": "https://t.co/MYVBfe2rap",
+        "username": "HosinoEJ",
+        "verified": false
+      }
+    ]
+  }
+}

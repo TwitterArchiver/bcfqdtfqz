@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2067270501823607112",
+    "created_at": "2026-06-18T12:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067592306715443236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033569052665524225",
+          "start": 0,
+          "username": "ssuixinsuoyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067592306715443236",
+    "in_reply_to_user_id": "2018306514549972992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067592077794517308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ssuixinsuoyu 如果不需要打游戏的话手机的找个中低配1-2k的凑合一下就行了，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2067270501823607112",
+        "created_at": "2026-06-18T12:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067592306715443236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033569052665524225",
+              "start": 0,
+              "username": "ssuixinsuoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067592306715443236",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067592077794517308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssuixinsuoyu 如果不需要打游戏的话手机的找个中低配1-2k的凑合一下就行了，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2067270501823607112",
+        "created_at": "2026-06-18T12:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067592077794517308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033569052665524225",
+              "start": 0,
+              "username": "ssuixinsuoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067592077794517308",
+        "in_reply_to_user_id": "2033569052665524225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067270501823607112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssuixinsuoyu 建议四千块去北上广深穷游，多走走多看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 1342,
+          "like_count": 340,
+          "listed_count": 2,
+          "media_count": 759,
+          "tweet_count": 2284
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T15:43:53.000Z",
+        "description": "大三休学 \n佛理｜哲学｜AI\n不玩互关不玩流量，关注你说明我和你同频\n喜欢qrq画师的作品\n无法停下前行的脚步\nFor human",
+        "id": "2033569052665524225",
+        "name": "Zede",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060730694507307008/qOmOZxcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 105,
+          "like_count": 9207,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1470
+        },
+        "url": "",
+        "username": "ssuixinsuoyu",
+        "verified": true
+      }
+    ]
+  }
+}

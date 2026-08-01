@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043292535435743232"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2043292544596132306",
+    "created_at": "2026-04-12T11:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043292544596132306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OPJQYcOmjp",
+          "end": 43,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2043292544596132306/photo/1",
+          "media_key": "3_2043292535435743232",
+          "start": 20,
+          "url": "https://t.co/OPJQYcOmjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043292544596132306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "冷知识：\n你吃的猪肉，几乎都患过抑郁症 https://t.co/OPJQYcOmjp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 676,
+        "media_key": "3_2043292535435743232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFs7vDLa0AALCVi.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043292535435743232"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2043292544596132306",
+        "created_at": "2026-04-12T11:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043292544596132306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OPJQYcOmjp",
+              "end": 43,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2043292544596132306/photo/1",
+              "media_key": "3_2043292535435743232",
+              "start": 20,
+              "url": "https://t.co/OPJQYcOmjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043292544596132306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：\n你吃的猪肉，几乎都患过抑郁症 https://t.co/OPJQYcOmjp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅另一个号@__fanqie__\n这个号发帖梗图夹杂着生活帖子，\n欢迎互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "__fanqie__"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 1334,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 661,
+          "tweet_count": 1733
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

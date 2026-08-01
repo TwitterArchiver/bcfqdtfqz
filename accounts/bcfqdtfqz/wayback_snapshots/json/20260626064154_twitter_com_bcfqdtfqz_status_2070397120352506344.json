@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070386120123400242",
+    "created_at": "2026-06-26T06:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070397120352506344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1830179006463033345",
+          "start": 0,
+          "username": "xiyangfacai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070397120352506344",
+    "in_reply_to_user_id": "1830179006463033345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070386120123400242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiyangfacai ……？啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070386120123400242",
+        "created_at": "2026-06-26T06:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070397120352506344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1830179006463033345",
+              "start": 0,
+              "username": "xiyangfacai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070397120352506344",
+        "in_reply_to_user_id": "1830179006463033345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070386120123400242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiyangfacai ……？啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830179006463033345",
+        "conversation_id": "2070386120123400242",
+        "created_at": "2026-06-26T05:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070386120123400242"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "母猪"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "母狗"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "婊子"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "堕落"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "男尊女卑"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "失智"
+            },
+            {
+              "end": 52,
+              "start": 50,
+              "tag": "M"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "白给"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "倒贴"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "傻逼"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070386120123400242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很清醒的知道自己在歇斯底里的发泄而且后果很严重\n#母猪 #母狗 #婊子 #堕落 #男尊女卑 #失智 #M #白给 #倒贴 #傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1365,
+          "like_count": 345,
+          "listed_count": 2,
+          "media_count": 768,
+          "tweet_count": 2399
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-01T09:41:06.000Z",
+        "description": "疯狗\n\ntg:https://t.co/hjZFQRkgUf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiyang2333",
+                "end": 30,
+                "expanded_url": "http://t.me/xiyang2333",
+                "start": 7,
+                "url": "https://t.co/hjZFQRkgUf"
+              }
+            ]
+          }
+        },
+        "id": "1830179006463033345",
+        "location": "距离100米内",
+        "name": "汐阳",
+        "pinned_tweet_id": "2059895425231163528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068387929827991552/FiP3IhOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 28,
+          "like_count": 22,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "xiyangfacai",
+        "verified": false
+      }
+    ]
+  }
+}

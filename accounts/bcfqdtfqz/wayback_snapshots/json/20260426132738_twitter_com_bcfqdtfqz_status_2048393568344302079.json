@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2047741859775012952",
+    "created_at": "2026-04-26T13:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048393568344302079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1805585103499694080",
+          "start": 0,
+          "username": "UnotheInvestor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048393568344302079",
+    "in_reply_to_user_id": "1805585103499694080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047741859775012952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UnotheInvestor 目标这么夸张，看中他什么了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1282,
+        "media_key": "3_2047741849058594816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsKXMDW0AAFw0G.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2047741859775012952",
+        "created_at": "2026-04-26T13:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048393568344302079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1805585103499694080",
+              "start": 0,
+              "username": "UnotheInvestor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048393568344302079",
+        "in_reply_to_user_id": "1805585103499694080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047741859775012952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UnotheInvestor 目标这么夸张，看中他什么了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047741849058594816"
+          ]
+        },
+        "author_id": "1805585103499694080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1486759965821849601",
+              "name": "SoFi"
+            }
+          }
+        ],
+        "conversation_id": "2047741859775012952",
+        "created_at": "2026-04-24T18:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T19:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047741859775012952"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "SOFI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fAroBGUILf",
+              "end": 74,
+              "expanded_url": "https://x.com/UnotheInvestor/status/2047741859775012952/photo/1",
+              "media_key": "3_2047741849058594816",
+              "start": 51,
+              "url": "https://t.co/fAroBGUILf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047741859775012952",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4775,
+          "like_count": 180,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "Day 7 of posting the $SOFI logo until it hits $100 https://t.co/fAroBGUILf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄包着番茄籽炒蛋",
+        "pinned_tweet_id": "2048391956037017963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1341,
+          "like_count": 268,
+          "listed_count": 1,
+          "media_count": 702,
+          "tweet_count": 1807
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-25T12:53:52.000Z",
+        "description": "Market narratives • US equities • Macro insights • Thinking out loud like an investor, not a commentator || NFA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/UnotheInvestor",
+                "end": 23,
+                "expanded_url": "https://t.me/UnotheInvestor",
+                "start": 0,
+                "url": "https://t.co/Tn0AGnKc9p"
+              }
+            ]
+          }
+        },
+        "id": "1805585103499694080",
+        "location": "Business 👉",
+        "name": "Uno",
+        "pinned_tweet_id": "2048131904075886981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033440186521026560/FxbfReop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2151,
+          "following_count": 1548,
+          "like_count": 13082,
+          "listed_count": 9,
+          "media_count": 438,
+          "tweet_count": 12038
+        },
+        "url": "https://t.co/Tn0AGnKc9p",
+        "username": "UnotheInvestor",
+        "verified": true
+      }
+    ]
+  }
+}

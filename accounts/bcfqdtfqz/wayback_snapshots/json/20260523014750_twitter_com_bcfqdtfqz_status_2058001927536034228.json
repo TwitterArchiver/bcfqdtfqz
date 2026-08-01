@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2057770948183691686",
+    "created_at": "2026-05-23T01:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T02:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058001927536034228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "11765952",
+          "start": 0,
+          "username": "interjc"
+        },
+        {
+          "end": 19,
+          "id": "1821849172368355328",
+          "start": 9,
+          "username": "L98808Lju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058001927536034228",
+    "in_reply_to_user_id": "11765952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057772920215306398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@interjc @L98808Lju 这个是有没有两年都要的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2057770948183691686",
+        "created_at": "2026-05-23T01:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T02:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058001927536034228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "11765952",
+              "start": 0,
+              "username": "interjc"
+            },
+            {
+              "end": 19,
+              "id": "1821849172368355328",
+              "start": 9,
+              "username": "L98808Lju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058001927536034228",
+        "in_reply_to_user_id": "11765952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057772920215306398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@interjc @L98808Lju 这个是有没有两年都要的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "11765952",
+        "conversation_id": "2057770948183691686",
+        "created_at": "2026-05-22T10:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057772920215306398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1821849172368355328",
+              "start": 0,
+              "username": "L98808Lju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057772920215306398",
+        "in_reply_to_user_id": "1821849172368355328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9964,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057772405616206169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L98808Lju 要补税吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 1347,
+          "like_count": 313,
+          "listed_count": 1,
+          "media_count": 737,
+          "tweet_count": 1982
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2008-01-02T18:38:17.000Z",
+        "description": "🥷🏼 ENTJ-A｜AIGC｜大阪在住",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "justincourse.com",
+                "end": 23,
+                "expanded_url": "http://justincourse.com",
+                "start": 0,
+                "url": "https://t.co/MNSqx9ncpS"
+              }
+            ]
+          }
+        },
+        "id": "11765952",
+        "location": "Osaka, Japan",
+        "name": "Justin",
+        "pinned_tweet_id": "2047111145086238766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791761180610211840/JrLnAGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30786,
+          "following_count": 2470,
+          "like_count": 86242,
+          "listed_count": 278,
+          "media_count": 4081,
+          "tweet_count": 34224
+        },
+        "url": "https://t.co/MNSqx9ncpS",
+        "username": "interjc",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-09T10:01:27.000Z",
+        "description": "I’m Anon’s (千早爱音) sister. PhD in Science🎓,首席AI政治学家🦋,谣言家^_^Share Knowledge/Social View/Animation. 亲爱的骑士@Romanorum_ 学生@C4_rRed 油管有时直播CS/日麻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "Romanorum_"
+              },
+              {
+                "end": 124,
+                "start": 116,
+                "username": "C4_rRed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yoyi-f6q",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@yoyi-f6q",
+                "start": 0,
+                "url": "https://t.co/fyCyiOfIWn"
+              }
+            ]
+          }
+        },
+        "id": "1821849172368355328",
+        "location": "Singapore",
+        "name": "神樂坂🌸Yoyi🇸🇬",
+        "pinned_tweet_id": "1928006182108614978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920668084102459395/1OyHpsxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2164,
+          "following_count": 551,
+          "like_count": 47583,
+          "listed_count": 10,
+          "media_count": 1003,
+          "tweet_count": 15977
+        },
+        "url": "https://t.co/fyCyiOfIWn",
+        "username": "L98808Lju",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2027321886800261624",
+    "created_at": "2026-02-28T04:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T05:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027595885065236657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1884523559546191872",
+          "start": 0,
+          "username": "chnyngxn777912"
+        },
+        {
+          "end": 26,
+          "id": "1867432957113204736",
+          "start": 16,
+          "username": "owO123qwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027595885065236657",
+    "in_reply_to_user_id": "1884523559546191872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027558671836659826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnyngxn777912 @owO123qwe 我正准备说😳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2027321886800261624",
+        "created_at": "2026-02-28T04:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T05:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027595885065236657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1884523559546191872",
+              "start": 0,
+              "username": "chnyngxn777912"
+            },
+            {
+              "end": 26,
+              "id": "1867432957113204736",
+              "start": 16,
+              "username": "owO123qwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027595885065236657",
+        "in_reply_to_user_id": "1884523559546191872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027558671836659826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnyngxn777912 @owO123qwe 我正准备说😳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884523559546191872",
+        "conversation_id": "2027321886800261624",
+        "created_at": "2026-02-28T01:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T02:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027558671836659826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1867432957113204736",
+              "start": 0,
+              "username": "owO123qwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027558671836659826",
+        "in_reply_to_user_id": "1867432957113204736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027321886800261624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owO123qwe 病名为爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 1009,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 882
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-29T08:47:02.000Z",
+        "description": "香草在文言文里是美人的意思喔🏳‍⚧🏳‍⚧  自我感觉精神良好 | 喜欢打游戏 | 社恐 |   求社交喵 | 糖糖好吃喵 | infj | 心理委员 | 二次元，求扩列喵≽^•༚• ྀི≼\n反跨是正确的\nod药物不如直接跳楼\n放弃助人情节，尊重他人命运",
+        "id": "1884523559546191872",
+        "name": "香草青丘酱🏳‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026275741973856256/Yu75WtPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 58,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "username": "chnyngxn777912",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T04:55:02.000Z",
+        "description": "想要救济世界の天使|会发日常和梗图|喜欢所有人|正在努力活着|希望世界毁灭|不见证|od抽烟喝酒自残|07|166|双相|HRT.24.10.3|MtF|无性别|双性恋|ODer|互fo.请私信|可爱的睦头: @AiYin16898  爱人:@banyaqwqa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "AiYin16898"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "banyaqwqa"
+              }
+            ]
+          }
+        },
+        "id": "1867432957113204736",
+        "name": "小然🍥",
+        "pinned_tweet_id": "2014159501797318753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009579488129187840/g48sr7Cf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2411,
+          "following_count": 597,
+          "like_count": 5139,
+          "listed_count": 7,
+          "media_count": 329,
+          "tweet_count": 2146
+        },
+        "username": "owO123qwe",
+        "verified": false
+      }
+    ]
+  }
+}

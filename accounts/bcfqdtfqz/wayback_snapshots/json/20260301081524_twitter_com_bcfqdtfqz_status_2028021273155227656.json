@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2028021185074921472"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2028021273155227656",
+    "created_at": "2026-03-01T08:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T09:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028021273155227656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Th9geNd6U",
+          "end": 43,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2028021273155227656/video/1",
+          "media_key": "13_2028021185074921472",
+          "start": 20,
+          "url": "https://t.co/1Th9geNd6U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028021273155227656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开放题：如果这是你家的娃你会怎么教育他 https://t.co/1Th9geNd6U"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22400,
+        "height": 1280,
+        "media_key": "13_2028021185074921472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028021185074921472/img/O4Fc4xC66YFl84sQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028021185074921472/vid/avc1/320x568/ldbQX1OPgntOWdgk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028021185074921472/vid/avc1/480x852/eMDJF4ylJ-8I3ZJf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028021185074921472/vid/avc1/720x1280/VJKNEGuHzAmiQ7u4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028021185074921472/pl/gA4o1kvx9BUf3Hur.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028021185074921472"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2028021273155227656",
+        "created_at": "2026-03-01T08:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T09:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028021273155227656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Th9geNd6U",
+              "end": 43,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2028021273155227656/video/1",
+              "media_key": "13_2028021185074921472",
+              "start": 20,
+              "url": "https://t.co/1Th9geNd6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028021273155227656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开放题：如果这是你家的娃你会怎么教育他 https://t.co/1Th9geNd6U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 1012,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 915
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

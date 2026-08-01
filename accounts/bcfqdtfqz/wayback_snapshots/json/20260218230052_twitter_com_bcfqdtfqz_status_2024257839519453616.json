@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2024117526515396727",
+    "created_at": "2026-02-18T23:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T00:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024257839519453616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1794035996889436160",
+          "start": 0,
+          "username": "Eris37298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024257839519453616",
+    "in_reply_to_user_id": "1794035996889436160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024117526515396727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eris37298 我也想进🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2024117523537625088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBccKdYagAAriI2.jpg",
+        "width": 1059
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2024117526515396727",
+        "created_at": "2026-02-18T23:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T00:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024257839519453616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1794035996889436160",
+              "start": 0,
+              "username": "Eris37298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024257839519453616",
+        "in_reply_to_user_id": "1794035996889436160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024117526515396727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eris37298 我也想进🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024117523537625088"
+          ]
+        },
+        "author_id": "1794035996889436160",
+        "conversation_id": "2024117526515396727",
+        "created_at": "2026-02-18T13:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024117526515396727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hzx8iyq60l",
+              "end": 47,
+              "expanded_url": "https://x.com/Eris37298/status/2024117526515396727/photo/1",
+              "media_key": "3_2024117523537625088",
+              "start": 24,
+              "url": "https://t.co/Hzx8iyq60l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024117526515396727",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1407,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完了我被列为+18账号了，本教有那么エロ吗？🫣 https://t.co/Hzx8iyq60l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "New York, USA",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 829,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 589
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-24T16:01:45.000Z",
+        "description": "中右翼温和保守派，厄里斯教驻地球分支部，忠实的厄里斯粉，喜欢分享素晴奇闻趣事和梗图（也会分享其它二次元番剧梗图），喜欢道早安晚安的机器人(迫真  日本語を勉強中、好朋友：@Akarasu64 @Giarritti1 @loveNanashimura @Shirasu8964228  @crowley20271751",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Akarasu64"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Giarritti1"
+              },
+              {
+                "end": 124,
+                "start": 108,
+                "username": "loveNanashimura"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "Shirasu8964228"
+              },
+              {
+                "end": 158,
+                "start": 142,
+                "username": "crowley20271751"
+              }
+            ]
+          }
+        },
+        "id": "1794035996889436160",
+        "name": "厄里斯教地球分部🌏",
+        "pinned_tweet_id": "1852603032577650753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021609907670384640/4sJWtvpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2600,
+          "following_count": 1407,
+          "like_count": 25673,
+          "listed_count": 6,
+          "media_count": 2927,
+          "tweet_count": 13151
+        },
+        "username": "Eris37298",
+        "verified": false
+      }
+    ]
+  }
+}

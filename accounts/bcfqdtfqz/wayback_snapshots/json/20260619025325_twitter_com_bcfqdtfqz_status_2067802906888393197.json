@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2067795260839964946",
+    "created_at": "2026-06-19T02:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T03:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067802906888393197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1780028117920444416",
+          "start": 0,
+          "username": "moonouox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067802906888393197",
+    "in_reply_to_user_id": "1780028117920444416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067795260839964946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonouox 你就算"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2067795260839964946",
+        "created_at": "2026-06-19T02:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067802906888393197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780028117920444416",
+              "start": 0,
+              "username": "moonouox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067802906888393197",
+        "in_reply_to_user_id": "1780028117920444416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067795260839964946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonouox 你就算"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780028117920444416",
+        "conversation_id": "2067795260839964946",
+        "created_at": "2026-06-19T02:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067795260839964946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067795260839964946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是我真的是来推特学技术的怎么什么都没学到啊 谁能推几个真的有实力的博主 我愿意知识付费🫴🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 1346,
+          "like_count": 341,
+          "listed_count": 2,
+          "media_count": 759,
+          "tweet_count": 2293
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T00:19:17.000Z",
+        "description": "你的眼泪是巴别塔永不停歇的一场雨",
+        "id": "1780028117920444416",
+        "name": "我需要三个亿",
+        "pinned_tweet_id": "1953051015600591211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065371447036633088/NnxXLS3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 412,
+          "like_count": 194,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1006
+        },
+        "url": "",
+        "username": "moonouox",
+        "verified": true
+      }
+    ]
+  }
+}

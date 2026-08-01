@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070971587709558784"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070971593719967807",
+    "created_at": "2026-06-27T20:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T21:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070971593719967807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8eMPzSwH24",
+          "end": 52,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2070971593719967807/photo/1",
+          "media_key": "3_2070971587709558784",
+          "start": 29,
+          "url": "https://t.co/8eMPzSwH24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070971593719967807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看情况，有时候只是空调没开，现在的话就是单纯的焦虑性失眠 https://t.co/8eMPzSwH24"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2070971587709558784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL2Rr8Fa4AAGniq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070971587709558784"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070971593719967807",
+        "created_at": "2026-06-27T20:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T21:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070971593719967807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8eMPzSwH24",
+              "end": 52,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2070971593719967807/photo/1",
+              "media_key": "3_2070971587709558784",
+              "start": 29,
+              "url": "https://t.co/8eMPzSwH24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070971593719967807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看情况，有时候只是空调没开，现在的话就是单纯的焦虑性失眠 https://t.co/8eMPzSwH24"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 1382,
+          "like_count": 359,
+          "listed_count": 2,
+          "media_count": 775,
+          "tweet_count": 2478
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

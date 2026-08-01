@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2075224096292634725",
+    "created_at": "2026-07-10T00:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T01:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075384387714306227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1956083750661718016",
+          "start": 0,
+          "username": "fly2_1M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075384387714306227",
+    "in_reply_to_user_id": "1956083750661718016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075224096292634725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fly2_1M 指的是前几个高喊出租算力今天媲美chathpt的模型吗🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 790,
+        "media_key": "3_2075224075321155584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMytTS7bIAAnN68.png",
+        "width": 605
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2075224096292634725",
+        "created_at": "2026-07-10T00:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T01:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075384387714306227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1956083750661718016",
+              "start": 0,
+              "username": "fly2_1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075384387714306227",
+        "in_reply_to_user_id": "1956083750661718016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075224096292634725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fly2_1M 指的是前几个高喊出租算力今天媲美chathpt的模型吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075224075321155584"
+          ]
+        },
+        "author_id": "1956083750661718016",
+        "conversation_id": "2075224096292634725",
+        "created_at": "2026-07-09T14:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075224096292634725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vNJLZBcF4B",
+              "end": 29,
+              "expanded_url": "https://x.com/fly2_1M/status/2075224096292634725/photo/1",
+              "media_key": "3_2075224075321155584",
+              "start": 6,
+              "url": "https://t.co/vNJLZBcF4B"
+            },
+            {
+              "display_url": "x.com/fly2_1M/status…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/fly2_1M/status/2074294526815146375",
+              "start": 30,
+              "url": "https://t.co/5LQ4bI0Bj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075224096292634725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4000,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074294526815146375",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "答案揭晓： https://t.co/vNJLZBcF4B https://t.co/5LQ4bI0Bj2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 1408,
+          "like_count": 397,
+          "listed_count": 2,
+          "media_count": 796,
+          "tweet_count": 2837
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T20:01:43.000Z",
+        "description": "不交易也是一种交易。\n重视趋势性机会，重仓国运级的机会。\n不提供任何财务建议，记录自己的每一笔交易。",
+        "id": "1956083750661718016",
+        "name": "从零爬上100wu",
+        "pinned_tweet_id": "2065104467012505949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050787841970728961/cAYAwg2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4618,
+          "following_count": 156,
+          "like_count": 12955,
+          "listed_count": 58,
+          "media_count": 1004,
+          "tweet_count": 6803
+        },
+        "url": "",
+        "username": "fly2_1M",
+        "verified": true
+      }
+    ]
+  }
+}

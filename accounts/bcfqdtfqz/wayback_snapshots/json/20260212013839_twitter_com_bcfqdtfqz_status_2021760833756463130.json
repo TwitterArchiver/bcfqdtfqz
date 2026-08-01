@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2021573019764662712",
+    "created_at": "2026-02-12T01:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T02:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021760833756463130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1815629627869851649",
+          "start": 0,
+          "username": "aiolosqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021760833756463130",
+    "in_reply_to_user_id": "1815629627869851649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021573019764662712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiolosqq 羡慕老王给你烧烤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2021573005303013376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4R8ASa4AAZhe_.jpg",
+        "width": 1030
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2021573019764662712",
+        "created_at": "2026-02-12T01:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T02:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021760833756463130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1815629627869851649",
+              "start": 0,
+              "username": "aiolosqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021760833756463130",
+        "in_reply_to_user_id": "1815629627869851649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021573019764662712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiolosqq 羡慕老王给你烧烤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021573005303013376"
+          ]
+        },
+        "author_id": "1815629627869851649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2021573019764662712",
+        "created_at": "2026-02-11T13:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T14:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021573019764662712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/98CB67ZlDH",
+              "end": 60,
+              "expanded_url": "https://x.com/aiolosqq/status/2021573019764662712/photo/1",
+              "media_key": "3_2021573005303013376",
+              "start": 37,
+              "url": "https://t.co/98CB67ZlDH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021573019764662712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1320,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天花了三块5090的钱后……终于给自己买了块5070……心疼我自己…… https://t.co/98CB67ZlDH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "秽土转生之神秘的番茄🍅",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 718,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 348
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-23T06:07:21.000Z",
+        "description": "主物质位面旅行者。世事漫随流水，算来一梦浮生…自说自话，信谣传谣",
+        "id": "1815629627869851649",
+        "location": "博德之门",
+        "name": "星空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004213616313303040/Xj0Zc1GF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 633,
+          "like_count": 9629,
+          "listed_count": 2,
+          "media_count": 1538,
+          "tweet_count": 4046
+        },
+        "username": "aiolosqq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2066385390844690760",
+    "created_at": "2026-06-15T05:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066385390844690760"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066385390844690760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坐在东方明珠顶上的旋转餐厅\n看到生食区有个芥末章鱼\n想到小时候我妈因为我不听她话要钱然后不让我吃饭\n肚子饿为了找东西吃只能把一大盒刚从冷冻区拿出来的芥末章鱼含着冰强吃了下去\n于是一时间不知道该哭还是该笑。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2066385390844690760",
+        "created_at": "2026-06-15T05:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066385390844690760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066385390844690760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坐在东方明珠顶上的旋转餐厅\n看到生食区有个芥末章鱼\n想到小时候我妈因为我不听她话要钱然后不让我吃饭\n肚子饿为了找东西吃只能把一大盒刚从冷冻区拿出来的芥末章鱼含着冰强吃了下去\n于是一时间不知道该哭还是该笑。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 1341,
+          "like_count": 339,
+          "listed_count": 2,
+          "media_count": 757,
+          "tweet_count": 2253
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      }
+    ]
+  }
+}

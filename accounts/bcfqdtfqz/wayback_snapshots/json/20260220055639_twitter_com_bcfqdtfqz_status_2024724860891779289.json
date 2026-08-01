@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2024722766973567336",
+    "created_at": "2026-02-20T05:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T06:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024724860891779289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1164388321545449472",
+          "start": 0,
+          "username": "imwsl90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024724860891779289",
+    "in_reply_to_user_id": "1164388321545449472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024722766973567336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imwsl90 这也不算太豪华吧，主要我个人讨厌烟味，配置的话连锁的包厢都差不多，新一点的网吧基本都是50起步的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024722752637456387",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBlCnbebUAMCKAj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2024722766973567336",
+        "created_at": "2026-02-20T05:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T06:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024724860891779289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1164388321545449472",
+              "start": 0,
+              "username": "imwsl90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024724860891779289",
+        "in_reply_to_user_id": "1164388321545449472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024722766973567336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imwsl90 这也不算太豪华吧，主要我个人讨厌烟味，配置的话连锁的包厢都差不多，新一点的网吧基本都是50起步的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024722752637456387"
+          ]
+        },
+        "author_id": "1164388321545449472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024722766973567336",
+        "created_at": "2026-02-20T05:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T06:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024722766973567336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LPramuknk8",
+              "end": 36,
+              "expanded_url": "https://x.com/imwsl90/status/2024722766973567336/photo/1",
+              "media_key": "3_2024722752637456387",
+              "start": 13,
+              "url": "https://t.co/LPramuknk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024722766973567336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在网吧都这么豪华了吗？ https://t.co/LPramuknk8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 865,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 638
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-22T04:06:29.000Z",
+        "description": "程序员/产品经理/销售/中年已婚带2娃\n\n- 互联网、编程、AI、情感、历史、八卦\n\n联系方式: https://t.co/qhzcXic3G8\n我的服务：https://t.co/35tV6ds2ny\n推荐魔法：https://t.co/B5SfJ7LlqH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/imwsl90",
+                "end": 72,
+                "expanded_url": "https://t.me/imwsl90",
+                "start": 49,
+                "url": "https://t.co/qhzcXic3G8"
+              },
+              {
+                "display_url": "fuwu.super.site",
+                "end": 101,
+                "expanded_url": "https://fuwu.super.site/",
+                "start": 78,
+                "url": "https://t.co/35tV6ds2ny"
+              },
+              {
+                "display_url": "tinyurl.com/4auuxfw9",
+                "end": 130,
+                "expanded_url": "https://tinyurl.com/4auuxfw9",
+                "start": 107,
+                "url": "https://t.co/B5SfJ7LlqH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "imwsl.com",
+                "end": 23,
+                "expanded_url": "https://imwsl.com",
+                "start": 0,
+                "url": "https://t.co/jkPrQuSo0I"
+              }
+            ]
+          }
+        },
+        "id": "1164388321545449472",
+        "location": "V: wesley6020",
+        "name": "卫斯理",
+        "pinned_tweet_id": "2023206501427577098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770626410606141440/HFy0Ibg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85899,
+          "following_count": 7646,
+          "like_count": 47029,
+          "listed_count": 565,
+          "media_count": 13559,
+          "tweet_count": 76199
+        },
+        "url": "https://t.co/jkPrQuSo0I",
+        "username": "imwsl90",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2063113835809325370",
+    "created_at": "2026-06-06T09:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063198089759125522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723047974677479424",
+          "start": 0,
+          "username": "ReedPascal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063198089759125522",
+    "in_reply_to_user_id": "1723047974677479424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063113835809325370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReedPascal 不祝福，因为对于很多人而言迟早有梦碎一地的一天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2063113835809325370",
+        "created_at": "2026-06-06T09:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063198089759125522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723047974677479424",
+              "start": 0,
+              "username": "ReedPascal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063198089759125522",
+        "in_reply_to_user_id": "1723047974677479424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063113835809325370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReedPascal 不祝福，因为对于很多人而言迟早有梦碎一地的一天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723047974677479424",
+        "conversation_id": "2063113835809325370",
+        "created_at": "2026-06-06T04:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063113835809325370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063113835809325370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3379,
+          "like_count": 145,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "关于“高考加油”\n\n虽然羡慕高学历那是刻在⏰骨子里的慕强DNA，但为高考生摇旗呐喊只是对高考生的一份单纯的祝福。既然绝大部分人都要经历高考这件事是既定事实，那就算不认可⏰教育模式也依旧希望考生能考个好成绩以后的路好走些，这不矛盾。\n\n不管怎样，祝福他人都是一种善良。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 1342,
+          "like_count": 333,
+          "listed_count": 2,
+          "media_count": 752,
+          "tweet_count": 2168
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T18:40:48.000Z",
+        "description": "和平，自由，勇气与爱.",
+        "id": "1723047974677479424",
+        "location": "Yamanashi-ken, Japan",
+        "name": "Pascal Reed🕊️",
+        "pinned_tweet_id": "2006756660673720629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058246245479751680/KLRrv8OF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 99,
+          "like_count": 100165,
+          "listed_count": 2,
+          "media_count": 2894,
+          "tweet_count": 9294
+        },
+        "username": "ReedPascal",
+        "verified": false
+      }
+    ]
+  }
+}

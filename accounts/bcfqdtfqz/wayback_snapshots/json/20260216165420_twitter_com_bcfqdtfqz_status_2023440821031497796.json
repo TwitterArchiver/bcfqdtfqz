@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2023399226856906888",
+    "created_at": "2026-02-16T16:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T17:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023440821031497796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "367212879",
+          "start": 0,
+          "username": "biggor888"
+        },
+        {
+          "end": 21,
+          "id": "908577293420728321",
+          "start": 11,
+          "username": "Y_Not2017"
+        },
+        {
+          "end": 29,
+          "id": "1558317849508122629",
+          "start": 22,
+          "username": "CuiMao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023440821031497796",
+    "in_reply_to_user_id": "367212879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023439298100687333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biggor888 @Y_Not2017 @CuiMao 差不多约炮的了，挂个性别女一堆男的各种问🈷️不🈷️的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2023399226856906888",
+        "created_at": "2026-02-16T16:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023440821031497796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "367212879",
+              "start": 0,
+              "username": "biggor888"
+            },
+            {
+              "end": 21,
+              "id": "908577293420728321",
+              "start": 11,
+              "username": "Y_Not2017"
+            },
+            {
+              "end": 29,
+              "id": "1558317849508122629",
+              "start": 22,
+              "username": "CuiMao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023440821031497796",
+        "in_reply_to_user_id": "367212879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023439298100687333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biggor888 @Y_Not2017 @CuiMao 差不多约炮的了，挂个性别女一堆男的各种问🈷️不🈷️的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "367212879",
+        "conversation_id": "2023399226856906888",
+        "created_at": "2026-02-16T16:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023439298100687333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "908577293420728321",
+              "start": 0,
+              "username": "Y_Not2017"
+            },
+            {
+              "end": 18,
+              "id": "1558317849508122629",
+              "start": 11,
+              "username": "CuiMao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023439298100687333",
+        "in_reply_to_user_id": "908577293420728321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023437426665115704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y_Not2017 @CuiMao 不懂啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "Tokyo，Japan",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 787,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 496
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-03T15:46:25.000Z",
+        "description": "❤️ I enjoy freedom in a broad sense. 与AI共舞，不时分享AI编程经验，会搭梯子用各种AI。 有时候也分享人生思考、领悟。 超级 i人，但也有交际能力，多面体。 我始终相信这个世界上不管哪里都有好人与坏人，而你看到的世界就如对着镜子所看到的一切（你自己怎样，这个世界就怎样）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afffun.com",
+                "end": 23,
+                "expanded_url": "https://afffun.com",
+                "start": 0,
+                "url": "https://t.co/KPMOsOBGHZ"
+              }
+            ]
+          }
+        },
+        "id": "367212879",
+        "location": "Freedom",
+        "name": "Samgor 三哥玩AI",
+        "pinned_tweet_id": "2013476955161796860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837848554549006336/h5T_xLWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5740,
+          "following_count": 855,
+          "like_count": 5789,
+          "listed_count": 37,
+          "media_count": 2420,
+          "tweet_count": 18228
+        },
+        "url": "https://t.co/KPMOsOBGHZ",
+        "username": "biggor888",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-15T06:24:42.000Z",
+        "description": "ONLY HOLD #BTC #Bitcoin",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "BTC"
+              },
+              {
+                "end": 23,
+                "start": 15,
+                "tag": "Bitcoin"
+              }
+            ]
+          }
+        },
+        "id": "908577293420728321",
+        "name": "Y_Not",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969790687823712256/G2CgfK_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 1038,
+          "like_count": 1296,
+          "listed_count": 7,
+          "media_count": 199,
+          "tweet_count": 2022
+        },
+        "username": "Y_Not2017",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-13T05:01:53.000Z",
+        "description": "AI Developer",
+        "id": "1558317849508122629",
+        "name": "CuiMao",
+        "pinned_tweet_id": "2023367147867816410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016982166920712192/XUjldPCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29294,
+          "following_count": 1099,
+          "like_count": 8322,
+          "listed_count": 133,
+          "media_count": 1277,
+          "tweet_count": 10914
+        },
+        "username": "CuiMao",
+        "verified": true
+      }
+    ]
+  }
+}

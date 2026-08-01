@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2020369943116791810",
+    "created_at": "2026-02-08T18:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T19:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020566446389023194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1858677052960112640",
+          "start": 0,
+          "username": "LINFUSDT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020566446389023194",
+    "in_reply_to_user_id": "1858677052960112640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020369943116791810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LINFUSDT 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2020369810161561600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAnLo1GacAAvbCF.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2020369943116791810",
+        "created_at": "2026-02-08T18:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T19:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020566446389023194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1858677052960112640",
+              "start": 0,
+              "username": "LINFUSDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020566446389023194",
+        "in_reply_to_user_id": "1858677052960112640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020369943116791810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LINFUSDT 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020369810161561600"
+          ]
+        },
+        "author_id": "1858677052960112640",
+        "conversation_id": "2020369943116791810",
+        "created_at": "2026-02-08T05:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T06:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020369943116791810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZHtaxjZJE",
+              "end": 58,
+              "expanded_url": "https://x.com/LINFUSDT/status/2020369943116791810/photo/1",
+              "media_key": "3_2020369810161561600",
+              "start": 35,
+              "url": "https://t.co/2ZHtaxjZJE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020369943116791810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 848,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天都在努力，大家一起加油！还没回的大家别着急。限制了。一定会回的。 https://t.co/2ZHtaxjZJE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "🍅",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 378,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 163
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T01:02:12.000Z",
+        "description": "深圳 3年场外 现金/转账 OTC | Polymarket 实战研究员 | Web3 & AI 学习中\n专注概率交易 & 信息不对称 | 每天进步一点点 | TG: @lixiaolong3445",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "lixiaolong3445"
+              }
+            ]
+          }
+        },
+        "id": "1858677052960112640",
+        "location": "中国，深圳",
+        "name": "林峰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931645282263191552/N8FOj59h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 1089,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 361
+        },
+        "username": "LINFUSDT",
+        "verified": true
+      }
+    ]
+  }
+}

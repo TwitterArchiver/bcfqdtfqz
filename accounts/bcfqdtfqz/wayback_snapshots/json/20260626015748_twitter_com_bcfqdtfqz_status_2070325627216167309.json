@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070105984828399815",
+    "created_at": "2026-06-26T01:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T02:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070325627216167309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886816086844190720",
+          "start": 0,
+          "username": "momosyh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070325627216167309",
+    "in_reply_to_user_id": "1886816086844190720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070105984828399815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momosyh 找个环境好点的学校起码，别太亏待自己了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070105984828399815",
+        "created_at": "2026-06-26T01:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070325627216167309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886816086844190720",
+              "start": 0,
+              "username": "momosyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070325627216167309",
+        "in_reply_to_user_id": "1886816086844190720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070105984828399815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momosyh 找个环境好点的学校起码，别太亏待自己了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886816086844190720",
+        "conversation_id": "2070105984828399815",
+        "created_at": "2026-06-25T11:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070105984828399815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070105984828399815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2348,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "果然人生的第一课是接受自己的平庸\n反正985211以下都一样。就这样吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 1355,
+          "like_count": 343,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 2364
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-04T16:36:47.000Z",
+        "description": "08高中牲 （没做过 不约）👾 傻逼远离我",
+        "id": "1886816086844190720",
+        "location": "えぇぇ(๑°ㅁ°๑)ぇぇ  ！",
+        "name": "momosyh（毕业版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975858655930310656/W3jz3Yuj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 76,
+          "like_count": 5428,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "momosyh",
+        "verified": false
+      }
+    ]
+  }
+}

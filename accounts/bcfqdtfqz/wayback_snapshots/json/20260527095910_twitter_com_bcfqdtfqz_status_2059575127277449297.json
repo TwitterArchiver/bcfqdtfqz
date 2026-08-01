@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2059318594413142496",
+    "created_at": "2026-05-27T09:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059575127277449297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1644761277900951552",
+          "start": 0,
+          "username": "IMGeneralSun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059575127277449297",
+    "in_reply_to_user_id": "1644761277900951552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059572439416492512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IMGeneralSun 但是我还是想研究和平分开，因为这种事情翻脸无形之中还会增加我的沉没成本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2059318594413142496",
+        "created_at": "2026-05-27T09:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059575127277449297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1644761277900951552",
+              "start": 0,
+              "username": "IMGeneralSun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059575127277449297",
+        "in_reply_to_user_id": "1644761277900951552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059572439416492512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IMGeneralSun 但是我还是想研究和平分开，因为这种事情翻脸无形之中还会增加我的沉没成本"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644761277900951552",
+        "conversation_id": "2059318594413142496",
+        "created_at": "2026-05-27T09:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059572439416492512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059572439416492512",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059565197703213356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 真翻脸了不就证明这个朋友压根就不值得交了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄🍅\n分享思考和个人生活\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1351,
+          "like_count": 324,
+          "listed_count": 2,
+          "media_count": 740,
+          "tweet_count": 2056
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "我是男的别再觉得我是女的了谢谢！本人农村户口（可验证）技校毕业（可验证）持有某函授大专证书（可验证）（注：本人无任何小号）",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "白色小孩（无小号，有也不会让你们发现）",
+        "pinned_tweet_id": "2055822795893092796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054103810906509312/sJoC4SNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6857,
+          "following_count": 437,
+          "like_count": 63180,
+          "listed_count": 6,
+          "media_count": 398,
+          "tweet_count": 28007
+        },
+        "username": "IMGeneralSun",
+        "verified": false
+      }
+    ]
+  }
+}

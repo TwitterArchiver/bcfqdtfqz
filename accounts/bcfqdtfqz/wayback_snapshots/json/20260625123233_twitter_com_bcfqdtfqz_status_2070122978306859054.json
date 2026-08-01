@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070122978306859054",
+    "created_at": "2026-06-25T12:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070122978306859054"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070122978306859054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "把刚主动加我的初恋删了，\n不咋说话，已经测试一周一晚上聊天，无法获得共识，从头到尾打哈哈，单纯来问高中有个信的事情。\n虽然还是残存了点感情但是确实没啥聊的，想把过去的遗憾补全也补不了，于是晚上看到她又已读不回我发她的动态就删了\n当然还是给她留了个后门没给她拉黑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070122978306859054",
+        "created_at": "2026-06-25T12:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070122978306859054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070122978306859054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把刚主动加我的初恋删了，\n不咋说话，已经测试一周一晚上聊天，无法获得共识，从头到尾打哈哈，单纯来问高中有个信的事情。\n虽然还是残存了点感情但是确实没啥聊的，想把过去的遗憾补全也补不了，于是晚上看到她又已读不回我发她的动态就删了\n当然还是给她留了个后门没给她拉黑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 1351,
+          "like_count": 343,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 2347
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      }
+    ]
+  }
+}

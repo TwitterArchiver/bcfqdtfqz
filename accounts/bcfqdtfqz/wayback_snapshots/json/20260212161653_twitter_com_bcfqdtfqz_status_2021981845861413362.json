@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2021981845861413362",
+    "created_at": "2026-02-12T16:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T17:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021981845861413362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1965chich/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/1965chich/status/2021966768613564740",
+          "start": 5,
+          "url": "https://t.co/wXyAITmqDz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021981845861413362",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021966768613564740",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "世界名画 https://t.co/wXyAITmqDz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1114,
+        "media_key": "3_2021966762045251584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA94DqdaoAAyoFz.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2021981845861413362",
+        "created_at": "2026-02-12T16:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021981845861413362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1965chich/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/1965chich/status/2021966768613564740",
+              "start": 5,
+              "url": "https://t.co/wXyAITmqDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021981845861413362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021966768613564740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "世界名画 https://t.co/wXyAITmqDz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021966762045251584"
+          ]
+        },
+        "author_id": "1703762928",
+        "conversation_id": "2021966768613564740",
+        "created_at": "2026-02-12T15:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021966768613564740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Prlf43WCej",
+              "end": 28,
+              "expanded_url": "https://x.com/1965chich/status/2021966768613564740/photo/1",
+              "media_key": "3_2021966762045251584",
+              "start": 5,
+              "url": "https://t.co/Prlf43WCej"
+            },
+            {
+              "display_url": "x.com/1965chich/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/1965chich/status/2019686361901723724",
+              "start": 29,
+              "url": "https://t.co/zh5RnVAzBo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021966768613564740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 257,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019686361901723724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "报应来了 https://t.co/Prlf43WCej https://t.co/zh5RnVAzBo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 746,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 387
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到互联网上的大王KFC的内心世界 带学生 有点社恐 喜欢看帅帅的女孩子/非跨/不会尊重人的关小黑屋/敌蜜@akui1121/宝宝@xjnpng51506/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "akui1121"
+              },
+              {
+                "end": 94,
+                "start": 82,
+                "username": "xjnpng51506"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=wrqf2yAk",
+                "start": 0,
+                "url": "https://t.co/9z3XsgbI49"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1945242862133686301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948921286530662400/Gmt9Tblq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8890,
+          "following_count": 1247,
+          "like_count": 24217,
+          "listed_count": 9,
+          "media_count": 391,
+          "tweet_count": 8141
+        },
+        "url": "https://t.co/9z3XsgbI49",
+        "username": "1965chich",
+        "verified": false
+      }
+    ]
+  }
+}

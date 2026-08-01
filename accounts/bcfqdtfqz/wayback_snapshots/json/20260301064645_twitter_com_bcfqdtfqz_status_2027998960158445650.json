@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2027993082822537616",
+    "created_at": "2026-03-01T06:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T07:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027998960158445650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1967772123478581249",
+          "start": 0,
+          "username": "HenryMorgan_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027998960158445650",
+    "in_reply_to_user_id": "1967772123478581249",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027993082822537616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HenryMorgan_X ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2027993082822537616",
+        "created_at": "2026-03-01T06:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T07:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027998960158445650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967772123478581249",
+              "start": 0,
+              "username": "HenryMorgan_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027998960158445650",
+        "in_reply_to_user_id": "1967772123478581249",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027993082822537616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HenryMorgan_X ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967772123478581249",
+        "conversation_id": "2027993082822537616",
+        "created_at": "2026-03-01T06:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:57:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027986668268208357",
+          "2027993082822537616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/demonyins/stat…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/demonyins/status/2027982192920695230",
+              "start": 155,
+              "url": "https://t.co/BRXVwpSIzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027993082822537616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "ZW 的时候最好找个没人看见的地方 \n这样就不会被别人评价或者误解\n自己觉得 OK 就行\n还有就是能自己解决的事情 就不要麻烦别人\n喜欢 ZW 的人 大概率不会是舔狗 \n也不会轻易 YP PC\n因为自己给自己的快乐也很多 \n而且干净卫生还实惠  \n所以 ZW 是一种很高尚的行为！！\n找对象一定要找这种人才行\n\n你的🐔🐔你自己主宰！！！\n不需要被审视也不需要被评价🤐"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027982192920695230",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ZW 的时候最好找个没人看见的地方 \n这样就不会被别人评价或者误解\n自己觉得 OK 就行\n还有就是能自己解决的事情 就不要麻烦别人\n喜欢 ZW 的人 大概率不会是舔狗 \n也不会轻易 YP PC\n因为自己给自己的快乐也很多 \n而且干净卫生还实惠  \n所以 ZW 是一种很高尚的行为！！\n找对象一定要找这种人才行 https://t.co/BRXVwpSIzG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 1012,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 910
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-16T02:06:57.000Z",
+        "description": "传统金融：“雪球”“香草”等结构化衍生品操盘手。加密金融：量化平台投资人、RWA全流程服务。香港信托：解决高净值人士CRS 、财富传承、隐私保护、风险隔离等。",
+        "id": "1967772123478581249",
+        "location": "Hong Kong",
+        "name": "HenryMorgan",
+        "pinned_tweet_id": "2026824337077268901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025792139360423936/AH8YOhX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3184,
+          "following_count": 2861,
+          "like_count": 3630,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 2167
+        },
+        "username": "HenryMorgan_X",
+        "verified": true
+      }
+    ]
+  }
+}

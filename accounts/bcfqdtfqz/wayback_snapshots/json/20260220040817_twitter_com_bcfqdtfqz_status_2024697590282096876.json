@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2024697590282096876",
+    "created_at": "2026-02-20T04:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T05:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024697590282096876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wxb_nb/status/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/wxb_nb/status/2024696080584282548",
+          "start": 15,
+          "url": "https://t.co/wdA8MKmvPP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024697590282096876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024696080584282548",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我到底咋勾搭上列表这些大佬的 https://t.co/wdA8MKmvPP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2024697590282096876",
+        "created_at": "2026-02-20T04:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T05:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024697590282096876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wxb_nb/status/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/wxb_nb/status/2024696080584282548",
+              "start": 15,
+              "url": "https://t.co/wdA8MKmvPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024697590282096876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024696080584282548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我到底咋勾搭上列表这些大佬的 https://t.co/wdA8MKmvPP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900168705847500800",
+        "conversation_id": "2024696080584282548",
+        "created_at": "2026-02-20T04:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T05:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024696080584282548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acnekot/status…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/acnekot/status/2024640923167272982",
+              "start": 16,
+              "url": "https://t.co/iYzUfe3hJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024696080584282548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024640923167272982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们到底咋勾搭上列表这些大佬的 https://t.co/iYzUfe3hJX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 853,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 631
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo来！\n16岁高中小废柴 / 泛性恋 / 上课听不懂 / 我的世界里才是家\n成分：互联网泔水爱好者 + 破防速通王 + 编程只会hello world循环\n作业写不完 / 梗图收不停\n评论分身 @wangxbNB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "wangxbNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/keaiXM",
+                "end": 23,
+                "expanded_url": "https://t.me/keaiXM",
+                "start": 0,
+                "url": "https://t.co/H4lcynwHy0"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960159165973934080/04SDhq54_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 208,
+          "like_count": 1487,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 229
+        },
+        "url": "https://t.co/H4lcynwHy0",
+        "username": "wxb_NB",
+        "verified": false
+      }
+    ]
+  }
+}

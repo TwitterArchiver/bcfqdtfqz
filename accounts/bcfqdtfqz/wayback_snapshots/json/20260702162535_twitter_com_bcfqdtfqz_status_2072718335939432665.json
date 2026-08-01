@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2072658503626375213",
+    "created_at": "2026-07-02T16:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072718335939432665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "354209105",
+          "start": 0,
+          "username": "FUCK_CCTV"
+        },
+        {
+          "end": 24,
+          "id": "1468298719447887872",
+          "start": 11,
+          "username": "dviolettchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072718335939432665",
+    "in_reply_to_user_id": "354209105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072714674622394758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FUCK_CCTV @dviolettchan 攀比炫富和吃喝玩乐都是看家庭教育而不是看学校学费，有些985学费一年也就4000不影响高收入家庭进去享受高生活质量\n至于上了此类能否真正意义上的学习，我不知道中外合办的质量，但是很多211懂得都懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2072658503626375213",
+        "created_at": "2026-07-02T16:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072718335939432665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "354209105",
+              "start": 0,
+              "username": "FUCK_CCTV"
+            },
+            {
+              "end": 24,
+              "id": "1468298719447887872",
+              "start": 11,
+              "username": "dviolettchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072718335939432665",
+        "in_reply_to_user_id": "354209105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072714674622394758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FUCK_CCTV @dviolettchan 攀比炫富和吃喝玩乐都是看家庭教育而不是看学校学费，有些985学费一年也就4000不影响高收入家庭进去享受高生活质量\n至于上了此类能否真正意义上的学习，我不知道中外合办的质量，但是很多211懂得都懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "354209105",
+        "conversation_id": "2072658503626375213",
+        "created_at": "2026-07-02T16:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072714674622394758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1468298719447887872",
+              "start": 0,
+              "username": "dviolettchan"
+            },
+            {
+              "end": 24,
+              "id": "2018306514549972992",
+              "start": 14,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072714674622394758",
+        "in_reply_to_user_id": "1468298719447887872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072699108687540341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dviolettchan @bcfqdtfqz 四年100万。  这种学校就不是给普通孩子读的。 主要面向高收入家庭，成绩不行的孩子。 即使进去，周围都是攀比炫富，吃喝玩乐的同学，没人是去学习的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 1382,
+          "like_count": 369,
+          "listed_count": 2,
+          "media_count": 783,
+          "tweet_count": 2590
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-13T09:41:48.000Z",
+        "description": "",
+        "id": "354209105",
+        "location": "日本",
+        "name": "_",
+        "pinned_tweet_id": "1728127526487355695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1052876332529377280/inMEOFAt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 3971,
+          "like_count": 5335,
+          "listed_count": 8,
+          "media_count": 112,
+          "tweet_count": 2644
+        },
+        "url": "",
+        "username": "FUCK_CCTV",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T19:18:15.000Z",
+        "description": "制服爱好者 | 想要变得幸福 | 北美菜校ECE PhD Candidate | 魏晋名士 | 与欣宝一起期待更温柔的世界 | 🍻: @sheriyuo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "sheriyuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesecatsdonotexist.com",
+                "end": 23,
+                "expanded_url": "https://thesecatsdonotexist.com/",
+                "start": 0,
+                "url": "https://t.co/XxMPM0e5ee"
+              }
+            ]
+          }
+        },
+        "id": "1468298719447887872",
+        "location": "Ontario, Canada",
+        "name": "紫云",
+        "pinned_tweet_id": "1999916217818333233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999225008120340481/KS3I1fWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5462,
+          "following_count": 582,
+          "like_count": 13143,
+          "listed_count": 15,
+          "media_count": 65,
+          "tweet_count": 5679
+        },
+        "url": "https://t.co/XxMPM0e5ee",
+        "username": "dviolettchan",
+        "verified": true
+      }
+    ]
+  }
+}

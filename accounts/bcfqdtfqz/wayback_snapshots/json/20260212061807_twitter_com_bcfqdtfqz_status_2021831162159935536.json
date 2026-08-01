@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2021593558642311480",
+    "created_at": "2026-02-12T06:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T07:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021831162159935536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926810561536208897",
+          "start": 0,
+          "username": "Owso6y_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021831162159935536",
+    "in_reply_to_user_id": "1926810561536208897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021593558642311480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Owso6y_ 变成wmc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2021593548291018752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4knw4bkAAiYZV.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2021593558642311480",
+        "created_at": "2026-02-12T06:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021831162159935536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926810561536208897",
+              "start": 0,
+              "username": "Owso6y_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021831162159935536",
+        "in_reply_to_user_id": "1926810561536208897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021593558642311480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owso6y_ 变成wmc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021593548291018752"
+          ]
+        },
+        "author_id": "1926810561536208897",
+        "conversation_id": "2021593558642311480",
+        "created_at": "2026-02-11T14:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021593558642311480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrwRy4Hwdx",
+              "end": 32,
+              "expanded_url": "https://x.com/Owso6y_/status/2021593558642311480/photo/1",
+              "media_key": "3_2021593548291018752",
+              "start": 9,
+              "url": "https://t.co/VrwRy4Hwdx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021593558642311480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 55283,
+          "like_count": 365,
+          "quote_count": 0,
+          "reply_count": 66,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这种女生怎么追？ https://t.co/VrwRy4Hwdx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "秽土转生之神秘的番茄🍅",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 726,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 361
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-26T01:20:18.000Z",
+        "description": "备用号@Owsoy_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Owsoy_"
+              }
+            ]
+          }
+        },
+        "id": "1926810561536208897",
+        "name": "ねこ",
+        "pinned_tweet_id": "2013316343412769171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926810632331960320/-llV7JkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10845,
+          "following_count": 5,
+          "like_count": 2604,
+          "listed_count": 22,
+          "media_count": 122,
+          "tweet_count": 351
+        },
+        "username": "Owso6y_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2023234323462373680",
+    "created_at": "2026-02-16T07:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023299544839250156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2007099894746812416",
+          "start": 0,
+          "username": "skxjxmcm57187"
+        },
+        {
+          "end": 23,
+          "id": "1820461845637128194",
+          "start": 15,
+          "username": "mu36214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023299544839250156",
+    "in_reply_to_user_id": "2007099894746812416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023273063941587212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skxjxmcm57187 @mu36214 本来还想着跟着原帖骂两嘴，你这一条评论直接把我干破功了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2023234323462373680",
+        "created_at": "2026-02-16T07:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023299544839250156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2007099894746812416",
+              "start": 0,
+              "username": "skxjxmcm57187"
+            },
+            {
+              "end": 23,
+              "id": "1820461845637128194",
+              "start": 15,
+              "username": "mu36214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023299544839250156",
+        "in_reply_to_user_id": "2007099894746812416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023273063941587212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skxjxmcm57187 @mu36214 本来还想着跟着原帖骂两嘴，你这一条评论直接把我干破功了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007099894746812416",
+        "conversation_id": "2023234323462373680",
+        "created_at": "2026-02-16T05:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023273063941587212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820461845637128194",
+              "start": 0,
+              "username": "mu36214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023273063941587212",
+        "in_reply_to_user_id": "1820461845637128194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 721,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023234323462373680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mu36214 你不是m吗🤣🤣🤣😂😂😂。怎么你家里人使唤你你就不听话了呢。你的m属性去哪里了呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "Tokyo，Japan",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 784,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 476
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-02T14:41:41.000Z",
+        "description": "",
+        "id": "2007099894746812416",
+        "name": "wfxfdcvsx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010295993581907968/eMP53hXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 38,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "username": "skxjxmcm57187",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T14:08:31.000Z",
+        "description": "| m | 碎碎念 | 私信请看置顶并报位置和自我介绍 |               匿名问答📭: https://t.co/wChVK5Fgev",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mudong1",
+                "end": 74,
+                "expanded_url": "https://ngl.link/mudong1",
+                "start": 51,
+                "url": "https://t.co/wChVK5Fgev"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zhuyetaotao",
+                "end": 23,
+                "expanded_url": "http://t.me/zhuyetaotao",
+                "start": 0,
+                "url": "https://t.co/JDeg8sL9js"
+              }
+            ]
+          }
+        },
+        "id": "1820461845637128194",
+        "location": "Hong Kong",
+        "name": "竹叶桃桃",
+        "pinned_tweet_id": "2020258925514502529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019058348277342208/hwu0-ofd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2333,
+          "following_count": 70,
+          "like_count": 681,
+          "listed_count": 6,
+          "media_count": 12,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/JDeg8sL9js",
+        "username": "mu36214",
+        "verified": false
+      }
+    ]
+  }
+}

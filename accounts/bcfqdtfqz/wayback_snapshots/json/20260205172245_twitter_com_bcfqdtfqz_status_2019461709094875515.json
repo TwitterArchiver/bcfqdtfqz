@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2019364033036710217",
+    "created_at": "2026-02-05T17:22:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T18:22:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019461709094875515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1601019850964357121",
+          "start": 0,
+          "username": "xooch95"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019461709094875515",
+    "in_reply_to_user_id": "1601019850964357121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019364033036710217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xooch95 来吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1520,
+        "media_key": "3_2019363991894540288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAY42gEWwAA0b2D.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2019364033036710217",
+        "created_at": "2026-02-05T17:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T18:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019461709094875515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1601019850964357121",
+              "start": 0,
+              "username": "xooch95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019461709094875515",
+        "in_reply_to_user_id": "1601019850964357121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019364033036710217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xooch95 来吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019363991894540288"
+          ]
+        },
+        "author_id": "1601019850964357121",
+        "conversation_id": "2019364033036710217",
+        "created_at": "2026-02-05T10:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T11:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019364033036710217"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfH4qhR4Lu",
+              "end": 151,
+              "expanded_url": "https://x.com/xooch95/status/2019364033036710217/photo/1",
+              "media_key": "3_2019363991894540288",
+              "start": 128,
+              "url": "https://t.co/KfH4qhR4Lu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019364033036710217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1616,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关的，兄弟姐妹们，必看！！！\n\n需求量巨大\n\n今天刚开的premium才24个互关。\n\n我的目标是一天50个，10天搞定，到时候看战果如何？\n超过50个，如果没有限制，会继续回关\n\n5M的曝光量大家进展如何？🫣\n\n来互相支持，诚信互关。🤓\n\n#蓝V互关 https://t.co/KfH4qhR4Lu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄外账      请不要转帖回墙内谢谢 本账仅供娱乐，真假自辨，图源来自墙内，有侵权内容私信删除",
+        "id": "2018306514549972992",
+        "name": "吃番茄不吐番茄籽",
+        "pinned_tweet_id": "2018360937804444012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 196,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 96
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-09T01:04:24.000Z",
+        "description": "Building! AI爱好者 | 变现探索者。记录从 0 到变现的过程，目标：在 X 上赚到 1 刀。欢迎互fo (￣O￣)ノ",
+        "id": "1601019850964357121",
+        "name": "EighthDay | 星期八",
+        "pinned_tweet_id": "2019364033036710217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019337088492093440/WiXQjIV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 877,
+          "like_count": 139,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 26
+        },
+        "username": "xooch95",
+        "verified": true
+      }
+    ]
+  }
+}

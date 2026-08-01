@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2040319052388897244",
+    "created_at": "2026-04-04T06:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T07:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040319052388897244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756909109788753920",
+          "start": 3,
+          "username": "__fanqie__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040319052388897244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040125580704977194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__fanqie__: 已经在谷底了，怎么走都是向上的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2040319052388897244",
+        "created_at": "2026-04-04T06:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040319052388897244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756909109788753920",
+              "start": 3,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040319052388897244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040125580704977194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__fanqie__: 已经在谷底了，怎么走都是向上的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756909109788753920",
+        "conversation_id": "2040125580704977194",
+        "created_at": "2026-04-03T17:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040125580704977194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_weatherclear/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/_weatherclear/status/2039764872276344854",
+              "start": 16,
+              "url": "https://t.co/Cr6RI1BbCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040125580704977194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039764872276344854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经在谷底了，怎么走都是向上的 https://t.co/Cr6RI1BbCG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa（私信互关）",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 1307,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 601,
+          "tweet_count": 1597
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点但是无特别喜好\n不讨论政治/发梗图为主/侵权私信删除\n支持私信/线下面基（如果我有空的话）",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2035215334706487414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012161853645074432/8hBhXLsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4425,
+          "following_count": 2989,
+          "like_count": 1478,
+          "listed_count": 5,
+          "media_count": 792,
+          "tweet_count": 8414
+        },
+        "url": "",
+        "username": "__fanqie__",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点但是无特别喜好\n不讨论政治/发梗图为主/侵权私信删除\n支持私信/线下面基（如果我有空的话）",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2035215334706487414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012161853645074432/8hBhXLsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4425,
+          "following_count": 2989,
+          "like_count": 1478,
+          "listed_count": 5,
+          "media_count": 792,
+          "tweet_count": 8414
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

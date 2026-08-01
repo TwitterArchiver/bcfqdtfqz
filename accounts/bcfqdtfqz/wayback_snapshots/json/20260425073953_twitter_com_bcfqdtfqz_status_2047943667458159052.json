@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2047943667458159052",
+    "created_at": "2026-04-25T07:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T08:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047943667458159052"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lyingoverduckw…",
+          "end": 117,
+          "expanded_url": "https://twitter.com/lyingoverduckww/status/2047595436496806249",
+          "start": 94,
+          "url": "https://t.co/JteqGbculc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047943667458159052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047595436496806249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说起来这个想起来个事\n你们这些吃创作者收入的人还在国内的能不能不要到处炫就怕别人不知道你挣钱了一样\n有个nc同学看我开了蓝v有次洗澡时候说我发推挣了不少钱然后还要检举我给我吓出来一身冷汗 https://t.co/JteqGbculc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2047943667458159052",
+        "created_at": "2026-04-25T07:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047943667458159052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lyingoverduckw…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/lyingoverduckww/status/2047595436496806249",
+              "start": 94,
+              "url": "https://t.co/JteqGbculc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047943667458159052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047595436496806249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起来这个想起来个事\n你们这些吃创作者收入的人还在国内的能不能不要到处炫就怕别人不知道你挣钱了一样\n有个nc同学看我开了蓝v有次洗澡时候说我发推挣了不少钱然后还要检举我给我吓出来一身冷汗 https://t.co/JteqGbculc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999668646952730625",
+        "conversation_id": "2047595436496806249",
+        "created_at": "2026-04-24T08:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047595436496806249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047595436496806249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70960,
+          "like_count": 215,
+          "quote_count": 3,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被推友直接点出姓名。\n哈人。\n锁推到毕业。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图夹杂着生活帖子，\n欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 1335,
+          "like_count": 267,
+          "listed_count": 1,
+          "media_count": 701,
+          "tweet_count": 1794
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-13T02:32:23.000Z",
+        "description": "前世 @LyingOverDuck 号没了...\n备用号 @LyingOver_Duck | Lie推? | 🏳️‍🌈 | 友跨 | Gemini全肯定bot | 学数学的请大胆聊 | INTJ-T | furry控 | 准美留 | 渴望变成玩具的不可爱的鸭鸭 | 民谣摇滚重金属爱好者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "LyingOverDuck"
+              },
+              {
+                "end": 44,
+                "start": 29,
+                "username": "LyingOver_Duck"
+              }
+            ]
+          }
+        },
+        "id": "1999668646952730625",
+        "location": "被流放到荒芜之地的人不会有幸福",
+        "name": "摆烂小鸭🦆（二代目）🔜沈阳🔜大连",
+        "pinned_tweet_id": "2031716798362697946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999670075301986305/SbikQVqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1941,
+          "following_count": 1378,
+          "like_count": 3236,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1627
+        },
+        "username": "LyingOverDuckww",
+        "verified": false
+      }
+    ]
+  }
+}

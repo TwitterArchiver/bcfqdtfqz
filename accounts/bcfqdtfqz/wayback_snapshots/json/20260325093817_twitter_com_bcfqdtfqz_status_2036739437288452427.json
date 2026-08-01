@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036739429117853696"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2036739437288452427",
+    "created_at": "2026-03-25T09:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T10:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036739437288452427"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D2S6DuLrWw",
+          "end": 41,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2036739437288452427/photo/1",
+          "media_key": "3_2036739429117853696",
+          "start": 18,
+          "url": "https://t.co/D2S6DuLrWw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036739437288452427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们华为问界销售是不是真这么来的？ https://t.co/D2S6DuLrWw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2036739429117853696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEPzuDyaAAAFkEh.jpg",
+        "width": 782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036739429117853696"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2036739437288452427",
+        "created_at": "2026-03-25T09:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T10:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036739437288452427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2S6DuLrWw",
+              "end": 41,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2036739437288452427/photo/1",
+              "media_key": "3_2036739429117853696",
+              "start": 18,
+              "url": "https://t.co/D2S6DuLrWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036739437288452427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们华为问界销售是不是真这么来的？ https://t.co/D2S6DuLrWw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅@__fanqie__， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "__fanqie__"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不知道包什么的番茄（私信互关）",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 1221,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 493,
+          "tweet_count": 1372
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

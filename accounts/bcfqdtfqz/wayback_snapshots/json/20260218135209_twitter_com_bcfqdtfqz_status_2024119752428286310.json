@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2024118420518678630",
+    "created_at": "2026-02-18T13:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T14:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024119752428286310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "272348993",
+          "start": 0,
+          "username": "rever_fu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024119752428286310",
+    "in_reply_to_user_id": "272348993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024118420518678630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rever_fu 还挺押韵就是，除了最后一句话我不认可"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2024118420518678630",
+        "created_at": "2026-02-18T13:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024119752428286310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "272348993",
+              "start": 0,
+              "username": "rever_fu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024119752428286310",
+        "in_reply_to_user_id": "272348993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024118420518678630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rever_fu 还挺押韵就是，除了最后一句话我不认可"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "272348993",
+        "conversation_id": "2024118420518678630",
+        "created_at": "2026-02-18T13:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024118420518678630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024118420518678630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "AI 圈仿佛进入了自媒体修仙时代\n每天不是变天了就是被推翻了，超越了\n动不动就要杀疯了\n已经被这种词穷式震撼弄的审美疲劳了\n回头一看，特么千问写的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "New York, USA",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 811,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 577
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-26T09:59:40.000Z",
+        "description": "大叔了|今天也什么都没做，只葬送了几个需求｜认证 铲屎官 ｜日音 | 日漫 | milet｜轻度玩家｜旅行| 虚拟分身@fufuXbot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "fufuXbot"
+              }
+            ]
+          }
+        },
+        "id": "272348993",
+        "location": "请稍后再试…..",
+        "name": "Fufu",
+        "pinned_tweet_id": "2013186935653912698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993663940929433600/C6PBYneU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 1443,
+          "like_count": 10763,
+          "listed_count": 0,
+          "media_count": 1208,
+          "tweet_count": 7146
+        },
+        "username": "rever_fu",
+        "verified": true
+      }
+    ]
+  }
+}

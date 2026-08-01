@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2064540168120680801",
+    "created_at": "2026-06-10T02:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064540168120680801"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/failcatcat/sta…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/failcatcat/status/2064515124497723851",
+          "start": 39,
+          "url": "https://t.co/mpK9LK4yqL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064540168120680801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064515124497723851",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "立党就该和张雪峰一个结局\n对了他还不配，因为这人死了墙外还没人给这傻逼做二创 https://t.co/mpK9LK4yqL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1354,
+        "media_key": "3_2064514792505905152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKahQ_jakAAy0GT.jpg",
+        "width": 1312
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2064540168120680801",
+        "created_at": "2026-06-10T02:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064540168120680801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/failcatcat/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/failcatcat/status/2064515124497723851",
+              "start": 39,
+              "url": "https://t.co/mpK9LK4yqL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064540168120680801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064515124497723851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "立党就该和张雪峰一个结局\n对了他还不配，因为这人死了墙外还没人给这傻逼做二创 https://t.co/mpK9LK4yqL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064514792505905152"
+          ]
+        },
+        "author_id": "2564383216",
+        "conversation_id": "2064515124497723851",
+        "created_at": "2026-06-10T01:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064515124497723851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rV9pdm52Pt",
+              "end": 72,
+              "expanded_url": "https://x.com/failcatcat/status/2064515124497723851/photo/1",
+              "media_key": "3_2064514792505905152",
+              "start": 49,
+              "url": "https://t.co/rV9pdm52Pt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064515124497723851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 616,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "连飞行器设计也能算垃圾专业了吗，未来15年，以理科知识driven的现实世界创造类专业都是好专业 https://t.co/rV9pdm52Pt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 1344,
+          "like_count": 339,
+          "listed_count": 2,
+          "media_count": 757,
+          "tweet_count": 2212
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-26T00:20:59.000Z",
+        "description": "我是猫猫，你好！",
+        "id": "2564383216",
+        "name": "失败猫猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045895330034860032/cdrnMVpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 82,
+          "like_count": 1751,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 2575
+        },
+        "username": "failcatcat",
+        "verified": false
+      }
+    ]
+  }
+}

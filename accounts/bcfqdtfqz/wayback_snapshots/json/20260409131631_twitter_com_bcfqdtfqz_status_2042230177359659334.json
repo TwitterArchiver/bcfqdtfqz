@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042230169663123457"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2042230177359659334",
+    "created_at": "2026-04-09T13:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T14:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042230177359659334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3ZUWjp8b5T",
+          "end": 29,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2042230177359659334/photo/1",
+          "media_key": "3_2042230169663123457",
+          "start": 6,
+          "url": "https://t.co/3ZUWjp8b5T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042230177359659334",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的假的？ https://t.co/3ZUWjp8b5T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 797,
+        "media_key": "3_2042230169663123457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFd1hORbMAEOPaK.jpg",
+        "width": 821
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042230169663123457"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2042230177359659334",
+        "created_at": "2026-04-09T13:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042230177359659334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ZUWjp8b5T",
+              "end": 29,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2042230177359659334/photo/1",
+              "media_key": "3_2042230169663123457",
+              "start": 6,
+              "url": "https://t.co/3ZUWjp8b5T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042230177359659334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的假的？ https://t.co/3ZUWjp8b5T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 1332,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 633,
+          "tweet_count": 1670
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

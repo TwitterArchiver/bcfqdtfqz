@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024114388819718146"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2024030749368664284",
+    "created_at": "2026-02-18T13:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T14:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024114402387951991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1395031782014205953",
+          "start": 0,
+          "username": "komacyan_zZ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bXf7aG3IzY",
+          "end": 41,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2024114402387951991/photo/1",
+          "media_key": "3_2024114388819718146",
+          "start": 18,
+          "url": "https://t.co/bXf7aG3IzY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024114402387951991",
+    "in_reply_to_user_id": "1395031782014205953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024030749368664284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@komacyan_zZ 梦魂联动 https://t.co/bXf7aG3IzY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2024114388819718146",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcZT_pbMAI1-jb.jpg",
+        "width": 750
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024026175568572416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbJFTrbcAAipuu.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024026175593738241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbJFTxbcAE04yG.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024114388819718146"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2024030749368664284",
+        "created_at": "2026-02-18T13:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024114402387951991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1395031782014205953",
+              "start": 0,
+              "username": "komacyan_zZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bXf7aG3IzY",
+              "end": 41,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2024114402387951991/photo/1",
+              "media_key": "3_2024114388819718146",
+              "start": 18,
+              "url": "https://t.co/bXf7aG3IzY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024114402387951991",
+        "in_reply_to_user_id": "1395031782014205953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024030749368664284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@komacyan_zZ 梦魂联动 https://t.co/bXf7aG3IzY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024026175568572416",
+            "3_2024026175593738241"
+          ]
+        },
+        "author_id": "1395031782014205953",
+        "conversation_id": "2024030749368664284",
+        "created_at": "2026-02-18T07:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:40:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024026182786961483",
+          "2024030749368664284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gIslMi576y",
+              "end": 83,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2024030749368664284/photo/1",
+              "media_key": "3_2024026175568572416",
+              "start": 60,
+              "url": "https://t.co/gIslMi576y"
+            },
+            {
+              "display_url": "pic.x.com/gIslMi576y",
+              "end": 83,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2024030749368664284/photo/1",
+              "media_key": "3_2024026175593738241",
+              "start": 60,
+              "url": "https://t.co/gIslMi576y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024030749368664284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6661,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "挂人\n合着水色系都是n55，你全家都是n55\n死🐴蹭流量沙币闹够了吗😅\np2被搬运的原作者要求删除，原推显然未经授权。 https://t.co/gIslMi576y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "New York, USA",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 809,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 571
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-19T15:01:25.000Z",
+        "description": "躁うつ病 / JLPT-N2 / 日常垢 / 絵垢 / フォロバをご希望の方はDMお願いします ❤️@MoeQike",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "MoeQike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kona.icu",
+                "end": 23,
+                "expanded_url": "https://kona.icu",
+                "start": 0,
+                "url": "https://t.co/71HeCHYqFm"
+              }
+            ]
+          }
+        },
+        "id": "1395031782014205953",
+        "location": "キミのとなり",
+        "name": "小鞠",
+        "pinned_tweet_id": "2016101454386495711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999378139898875904/xoF2Xocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2959,
+          "following_count": 790,
+          "like_count": 13977,
+          "listed_count": 10,
+          "media_count": 1526,
+          "tweet_count": 6956
+        },
+        "url": "https://t.co/71HeCHYqFm",
+        "username": "komacyan_zZ",
+        "verified": true
+      }
+    ]
+  }
+}

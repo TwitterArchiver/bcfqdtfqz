@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2062444019867861116",
+    "created_at": "2026-06-04T16:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062569882546479267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "813764480643440644",
+          "start": 0,
+          "username": "PatrickQin3"
+        },
+        {
+          "end": 26,
+          "id": "1912116017918320640",
+          "start": 13,
+          "username": "Clara_J_0529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062569882546479267",
+    "in_reply_to_user_id": "813764480643440644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062533873527894142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PatrickQin3 @Clara_J_0529 首先他成本这么大肯定有办法避税的，并且他只说炒美股又没说通过什么途径去炒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2062444019867861116",
+        "created_at": "2026-06-04T16:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062569882546479267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "813764480643440644",
+              "start": 0,
+              "username": "PatrickQin3"
+            },
+            {
+              "end": 26,
+              "id": "1912116017918320640",
+              "start": 13,
+              "username": "Clara_J_0529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062569882546479267",
+        "in_reply_to_user_id": "813764480643440644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062533873527894142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PatrickQin3 @Clara_J_0529 首先他成本这么大肯定有办法避税的，并且他只说炒美股又没说通过什么途径去炒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "813764480643440644",
+        "conversation_id": "2062444019867861116",
+        "created_at": "2026-06-04T13:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062533873527894142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912116017918320640",
+              "start": 0,
+              "username": "Clara_J_0529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062533873527894142",
+        "in_reply_to_user_id": "1912116017918320640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062444019867861116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Clara_J_0529 而且张小龙真的不知道中国炒美股，就算他在美国炒美国20%的资本利得税都是要交的么.所以闷声大发财才是最好的."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 1343,
+          "like_count": 333,
+          "listed_count": 2,
+          "media_count": 751,
+          "tweet_count": 2154
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-27T15:12:26.000Z",
+        "description": "",
+        "id": "813764480643440644",
+        "name": "Andy qin",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 212,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 180
+        },
+        "username": "PatrickQin3",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T12:09:53.000Z",
+        "description": "小红书：系统写作600天17万字\n自媒体陪跑/AI赋能自媒体咨询\nvx：M18391980882",
+        "id": "1912116017918320640",
+        "location": "vx：M18391980882  ",
+        "name": "Clara J",
+        "pinned_tweet_id": "2046771081202287028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059443036892143616/hQLkFruT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3824,
+          "following_count": 279,
+          "like_count": 10593,
+          "listed_count": 10,
+          "media_count": 133,
+          "tweet_count": 5259
+        },
+        "username": "Clara_J_0529",
+        "verified": true
+      }
+    ]
+  }
+}

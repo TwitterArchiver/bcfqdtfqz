@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2061510870753255905",
+    "created_at": "2026-06-02T04:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061670855227437109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2018976131849039872",
+          "start": 0,
+          "username": "sheriyuo"
+        },
+        {
+          "end": 16,
+          "id": "2049701902909399040",
+          "start": 10,
+          "username": "46ge5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061670855227437109",
+    "in_reply_to_user_id": "2018976131849039872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061511428859973771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sheriyuo @46ge5 京东什么路边"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2061510870753255905",
+        "created_at": "2026-06-02T04:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061670855227437109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2018976131849039872",
+              "start": 0,
+              "username": "sheriyuo"
+            },
+            {
+              "end": 16,
+              "id": "2049701902909399040",
+              "start": 10,
+              "username": "46ge5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061670855227437109",
+        "in_reply_to_user_id": "2018976131849039872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061511428859973771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sheriyuo @46ge5 京东什么路边"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018976131849039872",
+        "conversation_id": "2061510870753255905",
+        "created_at": "2026-06-01T18:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061511428859973771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2049701902909399040",
+              "start": 0,
+              "username": "46ge5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061511428859973771",
+        "in_reply_to_user_id": "2049701902909399040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1248,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061510870753255905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@46ge5 智谱市值超过两个京东了🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 1340,
+          "like_count": 331,
+          "listed_count": 2,
+          "media_count": 749,
+          "tweet_count": 2122
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-04T09:13:26.000Z",
+        "description": "Undergrad @RUC1937 | RL, Optimization, dLLM | Intern @JD_Corporate | Applying for Fall 27 PhD | Friend @dviolettchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "RUC1937"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "JD_Corporate"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "dviolettchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sheriyuo.github.io",
+                "end": 23,
+                "expanded_url": "http://sheriyuo.github.io",
+                "start": 0,
+                "url": "https://t.co/7yHglOnlhA"
+              }
+            ]
+          }
+        },
+        "id": "2018976131849039872",
+        "location": "Beijing, China",
+        "name": "Xiuyu Li",
+        "pinned_tweet_id": "2061382777623519284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018976441795502081/bpw974ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8319,
+          "following_count": 1273,
+          "like_count": 10190,
+          "listed_count": 58,
+          "media_count": 259,
+          "tweet_count": 1915
+        },
+        "url": "https://t.co/7yHglOnlhA",
+        "username": "sheriyuo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-30T04:06:55.000Z",
+        "description": "新帐号\n本职是做 LLM pre-train & post-train 的，目前已对 LLM 丧失兴趣，但偶尔也分享一些 AI 知识",
+        "id": "2049701902909399040",
+        "name": "枫原万葉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050802737907220480/nXPYfjsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 103,
+          "like_count": 1756,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 330
+        },
+        "username": "46ge5",
+        "verified": true
+      }
+    ]
+  }
+}

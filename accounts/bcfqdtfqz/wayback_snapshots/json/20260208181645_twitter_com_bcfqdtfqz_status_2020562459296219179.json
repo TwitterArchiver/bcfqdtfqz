@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2020535650357752242",
+    "created_at": "2026-02-08T18:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T19:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020562459296219179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020562459296219179",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020535650357752242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress 羡慕富哥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2020535637741297664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApidQ-WYAAd94A.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2020535637846478849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApidRXbUAEMjpv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020535637842276353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApidRWbMAEmNLA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2020535650357752242",
+        "created_at": "2026-02-08T18:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T19:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020562459296219179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020562459296219179",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020535650357752242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress 羡慕富哥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020535637741297664",
+            "3_2020535637846478849",
+            "3_2020535637842276353"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2020535650357752242",
+        "created_at": "2026-02-08T16:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T17:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020535650357752242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ANaIUAwML",
+              "end": 111,
+              "expanded_url": "https://x.com/NagiExpress/status/2020535650357752242/photo/1",
+              "media_key": "3_2020535637741297664",
+              "start": 88,
+              "url": "https://t.co/3ANaIUAwML"
+            },
+            {
+              "display_url": "pic.x.com/3ANaIUAwML",
+              "end": 111,
+              "expanded_url": "https://x.com/NagiExpress/status/2020535650357752242/photo/1",
+              "media_key": "3_2020535637846478849",
+              "start": 88,
+              "url": "https://t.co/3ANaIUAwML"
+            },
+            {
+              "display_url": "pic.x.com/3ANaIUAwML",
+              "end": 111,
+              "expanded_url": "https://x.com/NagiExpress/status/2020535650357752242/photo/1",
+              "media_key": "3_2020535637842276353",
+              "start": 88,
+              "url": "https://t.co/3ANaIUAwML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020535650357752242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 489,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Nagi今晚吃米三\n\n是羊肠➕青口饭\n整体口感偏浓郁\n比较像国内的那种焖饭\n有一说一把焖饭塞进青口壳里还真是个有趣的思路\n没吃到破的壳好评\n\n以后要是谁来土耳其我就带你吃这个 https://t.co/3ANaIUAwML"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "🍅",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 376,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 160
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "这个Nagi是不是富蛆啊全球到处飞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "精神Nagi🥥",
+        "pinned_tweet_id": "2013260482921017577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018463315022774273/QUHBbrKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4929,
+          "following_count": 2164,
+          "like_count": 21917,
+          "listed_count": 7,
+          "media_count": 1905,
+          "tweet_count": 18667
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "NagiExpress",
+        "verified": false
+      }
+    ]
+  }
+}

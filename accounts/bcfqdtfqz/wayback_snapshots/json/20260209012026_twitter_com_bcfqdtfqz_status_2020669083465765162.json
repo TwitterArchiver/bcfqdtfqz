@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020669070841151488"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2020669083465765162",
+    "created_at": "2026-02-09T01:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T02:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020669083465765162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4uzeMyq9jM",
+          "end": 37,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2020669083465765162/photo/1",
+          "media_key": "3_2020669070841151488",
+          "start": 14,
+          "url": "https://t.co/4uzeMyq9jM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020669083465765162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "快九点半了，赌场要开门了哦 https://t.co/4uzeMyq9jM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1060,
+        "media_key": "3_2020669070841151488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HArb0GAbAAAhmPg.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020669070841151488"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2020669083465765162",
+        "created_at": "2026-02-09T01:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T02:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020669083465765162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4uzeMyq9jM",
+              "end": 37,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2020669083465765162/photo/1",
+              "media_key": "3_2020669070841151488",
+              "start": 14,
+              "url": "https://t.co/4uzeMyq9jM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020669083465765162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快九点半了，赌场要开门了哦 https://t.co/4uzeMyq9jM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "🍅｜里账@_with_tomato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "_with_tomato"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 407,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 174
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

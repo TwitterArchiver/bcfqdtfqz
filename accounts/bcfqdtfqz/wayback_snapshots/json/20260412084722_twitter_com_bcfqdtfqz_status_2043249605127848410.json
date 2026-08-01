@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2043149113748000814",
+    "created_at": "2026-04-12T08:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043249605127848410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1804340577095630848",
+          "start": 0,
+          "username": "Lucas206292"
+        },
+        {
+          "end": 29,
+          "id": "2034385588288438272",
+          "start": 13,
+          "username": "PatriciaGa41436"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043249605127848410",
+    "in_reply_to_user_id": "1804340577095630848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043234794306412921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucas206292 @PatriciaGa41436 这能看懂啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2043149113748000814",
+        "created_at": "2026-04-12T08:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043249605127848410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1804340577095630848",
+              "start": 0,
+              "username": "Lucas206292"
+            },
+            {
+              "end": 29,
+              "id": "2034385588288438272",
+              "start": 13,
+              "username": "PatriciaGa41436"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043249605127848410",
+        "in_reply_to_user_id": "1804340577095630848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043234794306412921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucas206292 @PatriciaGa41436 这能看懂啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804340577095630848",
+        "conversation_id": "2043149113748000814",
+        "created_at": "2026-04-12T07:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043234794306412921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2034385588288438272",
+              "start": 0,
+              "username": "PatriciaGa41436"
+            },
+            {
+              "end": 27,
+              "id": "2018306514549972992",
+              "start": 17,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043234794306412921",
+        "in_reply_to_user_id": "2034385588288438272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043178438169911671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PatriciaGa41436 @bcfqdtfqz 臥槽，看懂了👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅另一个号@__fanqie__\n这个号发帖梗图夹杂着生活帖子，\n欢迎互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "__fanqie__"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 1334,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 660,
+          "tweet_count": 1732
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-22T02:28:23.000Z",
+        "description": "很爛卻一直畫畫🎨｜推特追蹤一堆V、藥娘、男娘｜支持多元性別🏳️‍⚧️｜咪咪咪｜🐱貓派｜ INFP｜原神玩家｜雙魚",
+        "id": "1804340577095630848",
+        "name": "༺❀ൢ 尖叫企鵝 ൢ❀༻",
+        "pinned_tweet_id": "2013578360677638522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036801124343365633/JOKnGZZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 566,
+          "like_count": 6778,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 630
+        },
+        "username": "Lucas206292",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T21:44:57.000Z",
+        "description": "",
+        "id": "2034385588288438272",
+        "name": "Patricia Gabhart",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034385603949735936/VQT-5byH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 71
+        },
+        "username": "PatriciaGa41436",
+        "verified": false
+      }
+    ]
+  }
+}

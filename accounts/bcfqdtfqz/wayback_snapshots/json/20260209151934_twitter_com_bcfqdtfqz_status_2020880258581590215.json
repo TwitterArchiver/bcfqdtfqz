@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2020589926233076078",
+    "created_at": "2026-02-09T15:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T16:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020880258581590215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3150623335",
+          "start": 0,
+          "username": "himself65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020880258581590215",
+    "in_reply_to_user_id": "3150623335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020589926233076078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@himself65 首先，连麦勇哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2020589926233076078",
+        "created_at": "2026-02-09T15:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020880258581590215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3150623335",
+              "start": 0,
+              "username": "himself65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020880258581590215",
+        "in_reply_to_user_id": "3150623335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020589926233076078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@himself65 首先，连麦勇哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3150623335",
+        "conversation_id": "2020589926233076078",
+        "created_at": "2026-02-08T20:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T21:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020589926233076078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020589926233076078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 23362,
+          "like_count": 114,
+          "quote_count": 2,
+          "reply_count": 99,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "准备去贷款和女朋友在上海开一家中药奶茶，家人们有没有什么建议"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "🍅",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 487,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 186
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2015-04-12T00:07:21.000Z",
+        "description": "Not a trader, not a programmer. All posts are not financial advice nor tech insight.",
+        "id": "3150623335",
+        "location": "California, USA",
+        "name": "面包🍞",
+        "pinned_tweet_id": "2019886969992671513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883626401947136000/k8x5k3f8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59811,
+          "following_count": 224,
+          "like_count": 110625,
+          "listed_count": 323,
+          "media_count": 1395,
+          "tweet_count": 16992
+        },
+        "username": "himself65",
+        "verified": true
+      }
+    ]
+  }
+}

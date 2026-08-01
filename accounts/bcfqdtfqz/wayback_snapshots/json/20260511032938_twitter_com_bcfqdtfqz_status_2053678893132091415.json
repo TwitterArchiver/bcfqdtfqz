@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053678885548814336",
+        "3_2053678885544636416"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2053678893132091415",
+    "created_at": "2026-05-11T03:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053678893132091415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QcvKX2H8ip",
+          "end": 52,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2053678893132091415/photo/1",
+          "media_key": "3_2053678885548814336",
+          "start": 29,
+          "url": "https://t.co/QcvKX2H8ip"
+        },
+        {
+          "display_url": "pic.x.com/QcvKX2H8ip",
+          "end": 52,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2053678893132091415/photo/1",
+          "media_key": "3_2053678885544636416",
+          "start": 29,
+          "url": "https://t.co/QcvKX2H8ip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053678893132091415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最新情报：外星人是身高5英尺4英寸、体重49公斤的猫娘！ https://t.co/QcvKX2H8ip"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 646,
+        "media_key": "3_2053678885548814336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAiEMfbcAA7MYn.jpg",
+        "width": 294
+      },
+      {
+        "height": 646,
+        "media_key": "3_2053678885544636416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAiEMebsAA5YQJ.jpg",
+        "width": 294
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053678885548814336",
+            "3_2053678885544636416"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2053678893132091415",
+        "created_at": "2026-05-11T03:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053678893132091415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QcvKX2H8ip",
+              "end": 52,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2053678893132091415/photo/1",
+              "media_key": "3_2053678885548814336",
+              "start": 29,
+              "url": "https://t.co/QcvKX2H8ip"
+            },
+            {
+              "display_url": "pic.x.com/QcvKX2H8ip",
+              "end": 52,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2053678893132091415/photo/1",
+              "media_key": "3_2053678885544636416",
+              "start": 29,
+              "url": "https://t.co/QcvKX2H8ip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053678893132091415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最新情报：外星人是身高5英尺4英寸、体重49公斤的猫娘！ https://t.co/QcvKX2H8ip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 1346,
+          "like_count": 285,
+          "listed_count": 1,
+          "media_count": 721,
+          "tweet_count": 1889
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

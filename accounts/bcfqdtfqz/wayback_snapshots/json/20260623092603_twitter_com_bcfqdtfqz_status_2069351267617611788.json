@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2069311062156153138",
+    "created_at": "2026-06-23T09:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T10:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069351267617611788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1740300686292627456",
+          "start": 0,
+          "username": "quantum_soul1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069351267617611788",
+    "in_reply_to_user_id": "1740300686292627456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069345728883995050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quantum_soul1 小米早晚问题，全战线都崩了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2069311062156153138",
+        "created_at": "2026-06-23T09:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069351267617611788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1740300686292627456",
+              "start": 0,
+              "username": "quantum_soul1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069351267617611788",
+        "in_reply_to_user_id": "1740300686292627456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069345728883995050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quantum_soul1 小米早晚问题，全战线都崩了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740300686292627456",
+        "conversation_id": "2069311062156153138",
+        "created_at": "2026-06-23T09:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069345728883995050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069345728883995050",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069311062156153138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 别的不知道，小米肯定是要完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 1349,
+          "like_count": 343,
+          "listed_count": 2,
+          "media_count": 764,
+          "tweet_count": 2343
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T09:16:42.000Z",
+        "description": "computer science ｜互联网算法岗牛马",
+        "id": "1740300686292627456",
+        "name": "高松燈全肯定码农",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987913366283628546/oAv3rQkJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 465,
+          "like_count": 26646,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1351
+        },
+        "url": "",
+        "username": "quantum_soul1",
+        "verified": true
+      }
+    ]
+  }
+}

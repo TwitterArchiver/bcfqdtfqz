@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056327388724928512"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2056327394898894947",
+    "created_at": "2026-05-18T10:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T11:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056327394898894947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YbgH40Y61D",
+          "end": 54,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2056327394898894947/photo/1",
+          "media_key": "3_2056327388724928512",
+          "start": 31,
+          "url": "https://t.co/YbgH40Y61D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056327394898894947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "到毕业季了，来版本回顾一下\n驻波可以边喝雪碧边吃巧乐兹上课的 https://t.co/YbgH40Y61D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 659,
+        "media_key": "3_2056327388724928512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImK3XrbIAA6JxF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056327388724928512"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2056327394898894947",
+        "created_at": "2026-05-18T10:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056327394898894947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YbgH40Y61D",
+              "end": 54,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2056327394898894947/photo/1",
+              "media_key": "3_2056327388724928512",
+              "start": 31,
+              "url": "https://t.co/YbgH40Y61D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056327394898894947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到毕业季了，来版本回顾一下\n驻波可以边喝雪碧边吃巧乐兹上课的 https://t.co/YbgH40Y61D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 1346,
+          "like_count": 306,
+          "listed_count": 1,
+          "media_count": 732,
+          "tweet_count": 1953
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

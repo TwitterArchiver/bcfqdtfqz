@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2073756056828968966",
+    "created_at": "2026-07-05T17:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073815063056847303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "929286186824220673",
+          "start": 0,
+          "username": "LihaiGeUpasaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073815063056847303",
+    "in_reply_to_user_id": "929286186824220673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073756056828968966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LihaiGeUpasaka 这是谁……？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2073756056828968966",
+        "created_at": "2026-07-05T17:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073815063056847303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "929286186824220673",
+              "start": 0,
+              "username": "LihaiGeUpasaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073815063056847303",
+        "in_reply_to_user_id": "929286186824220673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073756056828968966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LihaiGeUpasaka 这是谁……？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "929286186824220673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "2073756056828968966",
+        "created_at": "2026-07-05T13:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073756056828968966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quasarne/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/quasarne/status/2073616382558969942",
+              "start": 35,
+              "url": "https://t.co/YUWe5eEpI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073756056828968966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 902,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073616382558969942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中推圈的用户群迭代速度已经快到了两年前的营销号也能叫做纯净的地步了吗 https://t.co/YUWe5eEpI7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1767,
+          "following_count": 1396,
+          "like_count": 384,
+          "listed_count": 2,
+          "media_count": 786,
+          "tweet_count": 2704
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-11T09:54:27.000Z",
+        "description": "知津 || Chemistry/Archaeology || 复发性阿弗他口炎、ALDH2酶缺乏症、轴性近视伴规则散光 || 且愛路岐通南北，敢憑蠡測笑江湖。\n||一丸涼月，墮似他心 @NWA12302 || 头像/アイコン @cheriko_24",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "NWA12302"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cheriko_24"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LihaiZhaiUpasa…",
+                "end": 23,
+                "expanded_url": "http://t.me/LihaiZhaiUpasaka",
+                "start": 0,
+                "url": "https://t.co/cy3GVnQu9B"
+              }
+            ]
+          }
+        },
+        "id": "929286186824220673",
+        "location": "駕言隨子聽所之",
+        "name": "蠡海",
+        "pinned_tweet_id": "1407219840251695113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044754337277370368/UFWgGx8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1843,
+          "following_count": 500,
+          "like_count": 88032,
+          "listed_count": 28,
+          "media_count": 2233,
+          "tweet_count": 19931
+        },
+        "url": "https://t.co/cy3GVnQu9B",
+        "username": "LihaiGeUpasaka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2042937268323889225",
+    "created_at": "2026-04-11T12:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T13:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042941398996135951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1470943033365438470",
+          "start": 0,
+          "username": "CamanoDiana_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042941398996135951",
+    "in_reply_to_user_id": "1470943033365438470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042937268323889225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CamanoDiana_404 骗你的在读大学生考虑的也多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2042937268323889225",
+        "created_at": "2026-04-11T12:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042941398996135951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1470943033365438470",
+              "start": 0,
+              "username": "CamanoDiana_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042941398996135951",
+        "in_reply_to_user_id": "1470943033365438470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042937268323889225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CamanoDiana_404 骗你的在读大学生考虑的也多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470943033365438470",
+        "conversation_id": "2042937268323889225",
+        "created_at": "2026-04-11T12:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042937268323889225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042937268323889225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜，压力好大啊\n还是羡慕在读大学生\n社畜要考虑的问题太多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 1325,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 652,
+          "tweet_count": 1705
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "本号将永久锁推，并不再视为主号\n可能会转推或回复推文，但很少再主动发推了\n可以考虑关注我的两个小号\n偏键政@GabriolaDiana \n偏生活@CamanoDiana",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "GabriolaDiana"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "CamanoDiana"
+              }
+            ]
+          }
+        },
+        "id": "1470943033365438470",
+        "location": "404 Not Found",
+        "name": "然子",
+        "pinned_tweet_id": "2041530887574364253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006754677745135617/PTxLN9py_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3081,
+          "following_count": 849,
+          "like_count": 27527,
+          "listed_count": 12,
+          "media_count": 1491,
+          "tweet_count": 19831
+        },
+        "username": "CamanoDiana_404",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033094147612225536"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2033094155812176364",
+    "created_at": "2026-03-15T08:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T09:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033094155812176364"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fWp7YKbmNb",
+          "end": 36,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2033094155812176364/photo/1",
+          "media_key": "3_2033094147612225536",
+          "start": 13,
+          "url": "https://t.co/fWp7YKbmNb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033094155812176364",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又是跟阎王打pk赛的一天 https://t.co/fWp7YKbmNb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 693,
+        "media_key": "3_2033094147612225536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDcAWv9aMAACQrD.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033094147612225536"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2033094155812176364",
+        "created_at": "2026-03-15T08:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T09:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033094155812176364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fWp7YKbmNb",
+              "end": 36,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2033094155812176364/photo/1",
+              "media_key": "3_2033094147612225536",
+              "start": 13,
+              "url": "https://t.co/fWp7YKbmNb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033094155812176364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又是跟阎王打pk赛的一天 https://t.co/fWp7YKbmNb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 1097,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 448,
+          "tweet_count": 1259
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

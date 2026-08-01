@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2071832655151104151",
+    "created_at": "2026-06-30T06:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T07:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071847375577186416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2049811110199771136",
+          "start": 0,
+          "username": "Siqib5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071847375577186416",
+    "in_reply_to_user_id": "2049811110199771136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071832655151104151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Siqib5 我去我去我去！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_2071832639351255040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCgzvaXcAAgwa3.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2071832655151104151",
+        "created_at": "2026-06-30T06:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071847375577186416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2049811110199771136",
+              "start": 0,
+              "username": "Siqib5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071847375577186416",
+        "in_reply_to_user_id": "2049811110199771136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071832655151104151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siqib5 我去我去我去！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071832639351255040"
+          ]
+        },
+        "author_id": "2049811110199771136",
+        "conversation_id": "2071832655151104151",
+        "created_at": "2026-06-30T05:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071832655151104151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AyVSn3n364",
+              "end": 51,
+              "expanded_url": "https://x.com/Siqib5/status/2071832655151104151/photo/1",
+              "media_key": "3_2071832639351255040",
+              "start": 28,
+              "url": "https://t.co/AyVSn3n364"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071832655151104151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 530,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也不要上来就问我哪人 干什么的🙂‍↕️🙂‍↕️🙂‍↕️ https://t.co/AyVSn3n364"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 1382,
+          "like_count": 366,
+          "listed_count": 2,
+          "media_count": 780,
+          "tweet_count": 2538
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-30T11:21:48.000Z",
+        "description": "话多容易刷屏 不要美化陌生人\n祝您健康🙂‍↕️🙂‍↕️\n\nhttps://t.co/m5OQPimJ6M",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qq28475",
+                "end": 52,
+                "expanded_url": "https://ngl.link/qq28475",
+                "start": 29,
+                "url": "https://t.co/m5OQPimJ6M"
+              }
+            ]
+          }
+        },
+        "id": "2049811110199771136",
+        "name": "QQ",
+        "pinned_tweet_id": "2064719615641735645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050167568003141632/1Q-2sGxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1942,
+          "following_count": 424,
+          "like_count": 3555,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 679
+        },
+        "url": "",
+        "username": "Siqib5",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2066915072270893335",
+    "created_at": "2026-06-17T13:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067235249780826231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "899470193776140289",
+          "start": 0,
+          "username": "hzqsns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067235249780826231",
+    "in_reply_to_user_id": "899470193776140289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067220056032125356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzqsns 感谢大佬科普"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2066915072270893335",
+        "created_at": "2026-06-17T13:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067235249780826231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "899470193776140289",
+              "start": 0,
+              "username": "hzqsns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067235249780826231",
+        "in_reply_to_user_id": "899470193776140289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067220056032125356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzqsns 感谢大佬科普"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "899470193776140289",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nokia",
+              "id": "10027594377",
+              "name": "Nokia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nokia",
+              "id": "10027594377",
+              "name": "Nokia"
+            }
+          }
+        ],
+        "conversation_id": "2066915072270893335",
+        "created_at": "2026-06-17T12:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067220056032125356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067220056032125356",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很多人一提 Nokia，第一反应还是那个“摔不坏的手机”“砸核桃的手机”。这当然是情怀，但拿这个来分析今天的 诺基亚NOK，基本没什么用。我看诺基亚股票下面经常出现nokia 手机如何如何，这跟诺基亚事实上没有太大关系，nokia手机品牌的使用方现在是HMD 公司，跟nokia没什么关系，唯一有点关系的就是NOKIA每年可以收点品牌授权费，对于整个营收来说可以忽略不计。现在的 Nokia，早就不是手机公司，也不只是传统 5G 基站公司，它正在从一家欧洲老牌通信设备商，往AI 网络基础设施公司这个方向挪。说的是“正在挪”，不是已经完全变身，这也是 NOK 现在最有意思的地方：“它到底是被市场重新发现的 AI 网络铲子股，还是一家披着 AI 外衣的传统通信设备公司？”我觉得这才是这只股票真正的核心矛盾\n\nNokia 的位置大概可以这么拆：\n\n一是光网络是它现在最硬的牌。Nokia 收购 Infinera 以后，光网络这块明显增强了。Infinera 原本就在高速光传输、数据中心互联、webscale 客户方面有积累。Nokia 官方在 2025 年 2 月完成收购时说，这笔交易扩大了它在 webscale 客户和北美市场的存在，并增强了服务 AI 时代数据中心网络需求的能力。这点很关键，因为 AI 数据中心越建越大，不可能永远只在单个机房里解决问题。后面一定会有跨园区、跨城市、跨区域的数据中心互联需求，这时候光网络就不是可有可无的配套，而是 AI 基建扩张的血管。\n\n二是IP 网络是 Nokia 想继续往数据中心里打的牌。Nokia 传统上在运营商 IP routing 里有积累，但在纯数据中心交换市场，它不是 Arista 那种第一梯队形象。Nokia 现在要做的，是把自己从传统运营商网络往 AI/cloud 数据中心场景里推。老诺已经有 data center networking、data center switches、event-driven automation、intra-data center optics 等产品线，但客观上讲，Nokia 在 AI 数据中心交换机里的市场的地位，还没有 Arista 和 NVIDIA 那么强，老诺更好的path是先从光网络、IP routing、自动化和运营商/云客户关系里切进去，而不是一夜之间变成 AI back-end switch 龙头。\n\n三是AI-RAN 和 6G 是长期想象，不是短期主业绩。2025 年 10 月，NVIDIA 宣布向 Nokia 投资 10 亿美元，同时双方合作 AI-RAN、5G-Advanced 和 6G。这个事情当然是重大背书，但鄙人觉得也不能过分解读。NVIDIA 入股 Nokia，不等于 Nokia 立刻变成 NVIDIA 供应链核心公司，他又不是台积电，不是美光，大力士，他只是 NVIDIA 要把 AI 算力平台推向通信网络、边缘计算和未来 6G的合作伙伴，Nokia 有的是运营商客户、无线网络、通信标准和网络工程能力。所以老黄的而投资应该这么看，他的这个战略背书是真的，长期空间也有，但短期不能就说这是达链股或者直接折算成大订单discount到估值里。\n\nNokia真硬实力是Network Infrastructure\n\nNokia 现在最重要的业务是 Network Infrastructure。2026 年一季度，Nokia 披露 Network Infrastructure 销售额同比增长 6%，其中 Optical Networks 增长 20%；AI & Cloud 客户收入同比增长 49%，目前占集团销售额 8%，单季 AI & Cloud 客户订单约 10 亿欧元。公司还说 Optical Networks 订单强劲，book-to-bill 明显高于 1，这说明 AI 逻辑不是纯 PPT，已经开始进订单和报表。但是吧，AI & Cloud 现在只占集团销售额 8，说明 AI & Cloud 是边际增量，但还不是 Nokia 的基本盘，所以老诺现在需要向市场至明的是这 8% 能否继续变大，ptical/IP Networks 能不能持续高增长？Network Infrastructure 利润率能不能做上去？如果能做的好，Nokia 的估值体系就会从传统通信设备商往 AI 网络基础设施公司切，虽然现在已经切了很多了，但一旦被政委，诺基亚迟早还是会被市场重新打回“欧洲电信设备老公司”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067214720592191701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 很多人一提 Nokia，第一反应还是那个“摔不坏的手机”“砸核桃的手机”。这当然是情怀，但拿这个来分析今天的 诺基亚NOK，基本没什么用。我看诺基亚股票下面经常出现nokia 手机如何如何，这跟诺基亚事实上没有太大关系，nokia手机品牌的使用方现在是HMD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 1338,
+          "like_count": 340,
+          "listed_count": 2,
+          "media_count": 759,
+          "tweet_count": 2260
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-21T03:16:20.000Z",
+        "description": "ISFJ | mtx | 奇迹和魔法并不是免费的\n🐧：第40542075个质数\n欢迎和我交朋友ww\n自我介绍请看亮点置顶喵",
+        "id": "899470193776140289",
+        "location": "M87",
+        "name": "Sakura🜃",
+        "pinned_tweet_id": "2061076825389019435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060627202182651904/RO0pQWPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 538,
+          "like_count": 3478,
+          "listed_count": 4,
+          "media_count": 533,
+          "tweet_count": 2237
+        },
+        "username": "hzqsns",
+        "verified": true
+      }
+    ]
+  }
+}

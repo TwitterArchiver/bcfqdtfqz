@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018493495452078081"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2018493502062268830",
+    "created_at": "2026-02-03T01:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T02:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018493502062268830"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AqgqGzcO7t",
+          "end": 32,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2018493502062268830/photo/1",
+          "media_key": "3_2018493495452078081",
+          "start": 9,
+          "url": "https://t.co/AqgqGzcO7t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018493502062268830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这我是真不好回答 https://t.co/AqgqGzcO7t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 363,
+        "media_key": "3_2018493495452078081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAMhI8HbkAE8fCw.jpg",
+        "width": 1101
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018493495452078081"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2018493502062268830",
+        "created_at": "2026-02-03T01:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T02:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018493502062268830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AqgqGzcO7t",
+              "end": 32,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2018493502062268830/photo/1",
+              "media_key": "3_2018493495452078081",
+              "start": 9,
+              "url": "https://t.co/AqgqGzcO7t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018493502062268830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这我是真不好回答 https://t.co/AqgqGzcO7t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄二代目  请不要转帖回墙内谢谢",
+        "id": "2018306514549972992",
+        "name": "吃番茄不吐番茄籽",
+        "pinned_tweet_id": "2018360937804444012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 18,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

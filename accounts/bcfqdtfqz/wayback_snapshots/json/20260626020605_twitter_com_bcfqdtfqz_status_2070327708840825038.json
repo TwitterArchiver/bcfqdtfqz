@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070003454278606857",
+    "created_at": "2026-06-26T02:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070327708840825038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1892431376525545472",
+          "start": 0,
+          "username": "00ryuugu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070327708840825038",
+    "in_reply_to_user_id": "1892431376525545472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070003454278606857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@00ryuugu 你属美光的吗……？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070003454278606857",
+        "created_at": "2026-06-26T02:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070327708840825038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1892431376525545472",
+              "start": 0,
+              "username": "00ryuugu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070327708840825038",
+        "in_reply_to_user_id": "1892431376525545472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070003454278606857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@00ryuugu 你属美光的吗……？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892431376525545472",
+        "conversation_id": "2070003454278606857",
+        "created_at": "2026-06-25T04:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070003454278606857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070003454278606857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12081,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 89,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃。。。高考比我预估的高150"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 1359,
+          "like_count": 343,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 2369
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-20T04:29:48.000Z",
+        "description": "推广自辨",
+        "id": "1892431376525545472",
+        "location": "骂我的全家暴毙死无葬身之地",
+        "name": "0000",
+        "pinned_tweet_id": "2068340305469039064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904814053786345474/c9zEUJy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7561,
+          "following_count": 124,
+          "like_count": 4188,
+          "listed_count": 12,
+          "media_count": 162,
+          "tweet_count": 1362
+        },
+        "url": "",
+        "username": "00ryuugu",
+        "verified": false
+      }
+    ]
+  }
+}

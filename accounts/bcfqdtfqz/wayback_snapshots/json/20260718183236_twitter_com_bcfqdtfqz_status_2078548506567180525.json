@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2078425411336147266",
+    "created_at": "2026-07-18T18:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T19:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078548506567180525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3314841714",
+          "start": 0,
+          "username": "laocao1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078548506567180525",
+    "in_reply_to_user_id": "3314841714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078425411336147266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laocao1234 外盘预估现在是7美刀，打新价8块，\n你是怎么觉得能搞到破发的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2078425411336147266",
+        "created_at": "2026-07-18T18:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078548506567180525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3314841714",
+              "start": 0,
+              "username": "laocao1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078548506567180525",
+        "in_reply_to_user_id": "3314841714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078425411336147266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laocao1234 外盘预估现在是7美刀，打新价8块，\n你是怎么觉得能搞到破发的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3314841714",
+        "conversation_id": "2078425411336147266",
+        "created_at": "2026-07-18T10:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078425411336147266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078425411336147266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9288,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "个人感觉：\n长鑫存储上市破发的概率很大，\n\n因为市场上现在都在弥漫着说要靠这个股票来一招发家致富的。\n\n现在这种情绪跟当时黄金价格涨到 1250 点时的情绪很像。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号，梦到哪句发哪句\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 47,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 24,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 1433,
+          "like_count": 419,
+          "listed_count": 2,
+          "media_count": 813,
+          "tweet_count": 3081
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-14T08:59:38.000Z",
+        "description": "一届布衣",
+        "id": "3314841714",
+        "location": "香港",
+        "name": "终南",
+        "pinned_tweet_id": "2078484698620370954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068342716921196545/9Hh01Hax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3700,
+          "following_count": 3840,
+          "like_count": 1865,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 5280
+        },
+        "url": "",
+        "username": "laocao1234",
+        "verified": true
+      }
+    ]
+  }
+}

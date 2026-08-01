@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2056949897908383833",
+    "created_at": "2026-05-20T11:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T12:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057060170455523824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3150623335",
+          "start": 0,
+          "username": "himself65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057060170455523824",
+    "in_reply_to_user_id": "3150623335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056949897908383833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@himself65 阿祖死了，死之前甚至为了活命还要跪下来给布彻吹。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2056949897908383833",
+        "created_at": "2026-05-20T11:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057060170455523824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3150623335",
+              "start": 0,
+              "username": "himself65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057060170455523824",
+        "in_reply_to_user_id": "3150623335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056949897908383833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@himself65 阿祖死了，死之前甚至为了活命还要跪下来给布彻吹。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3150623335",
+        "conversation_id": "2056949897908383833",
+        "created_at": "2026-05-20T04:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056949897908383833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056949897908383833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 67011,
+          "like_count": 213,
+          "quote_count": 7,
+          "reply_count": 118,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "黑袍纠察队大结局和英伟达财报哪个更重要？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 1347,
+          "like_count": 310,
+          "listed_count": 1,
+          "media_count": 736,
+          "tweet_count": 1963
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2015-04-12T00:07:21.000Z",
+        "description": "AI Engineer at @FundaAI. All views are my own and do not constitute financial or investment advice. Not my employer's opinion.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "FundaAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "himself65.com",
+                "end": 23,
+                "expanded_url": "http://himself65.com",
+                "start": 0,
+                "url": "https://t.co/GqhB4ldwis"
+              }
+            ]
+          }
+        },
+        "id": "3150623335",
+        "location": "Mountain View, CA",
+        "name": "Bread🍞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883626401947136000/k8x5k3f8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65663,
+          "following_count": 249,
+          "like_count": 121635,
+          "listed_count": 400,
+          "media_count": 1555,
+          "tweet_count": 18196
+        },
+        "url": "https://t.co/GqhB4ldwis",
+        "username": "himself65",
+        "verified": true
+      }
+    ]
+  }
+}

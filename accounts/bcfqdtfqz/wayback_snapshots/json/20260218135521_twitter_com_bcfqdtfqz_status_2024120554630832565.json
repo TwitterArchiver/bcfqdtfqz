@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2023799635157082399",
+    "created_at": "2026-02-18T13:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T14:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024120554630832565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957104304034394112",
+          "start": 0,
+          "username": "cunyuanyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024120554630832565",
+    "in_reply_to_user_id": "1957104304034394112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023799635157082399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cunyuanyu 我很好奇那些爱喝酒的怎么能一吹吹一大堆的，我吹半瓶啤酒我就想上厕所。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2023799635157082399",
+        "created_at": "2026-02-18T13:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024120554630832565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957104304034394112",
+              "start": 0,
+              "username": "cunyuanyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024120554630832565",
+        "in_reply_to_user_id": "1957104304034394112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023799635157082399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cunyuanyu 我很好奇那些爱喝酒的怎么能一吹吹一大堆的，我吹半瓶啤酒我就想上厕所。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957104304034394112",
+        "conversation_id": "2023799635157082399",
+        "created_at": "2026-02-17T16:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T17:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023799635157082399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023799635157082399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5052,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉家里的男性长辈不管年龄大小喝多酒之后都好吓人。。。接以后老公没有酒瘾……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "New York, USA",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 812,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 578
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-17T15:37:11.000Z",
+        "description": "祝福我真的可以睡得好",
+        "id": "1957104304034394112",
+        "location": "🚪88/188纯绿没区别",
+        "name": "我不可爱还很坏",
+        "pinned_tweet_id": "1988238113731436642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008227971606409216/ZzX24tOx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 68,
+          "like_count": 2896,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 3140
+        },
+        "username": "cunyuanyu",
+        "verified": false
+      }
+    ]
+  }
+}

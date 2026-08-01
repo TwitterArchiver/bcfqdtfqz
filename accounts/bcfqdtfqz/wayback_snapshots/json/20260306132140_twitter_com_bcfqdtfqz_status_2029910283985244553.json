@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2029795674133516383",
+    "created_at": "2026-03-06T13:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T14:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029910283985244553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1966023688006078464",
+          "start": 0,
+          "username": "callme_mom_"
+        },
+        {
+          "end": 24,
+          "id": "1663516164306382852",
+          "start": 13,
+          "username": "DouBao8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029910283985244553",
+    "in_reply_to_user_id": "1966023688006078464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029795674133516383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@callme_mom_ @DouBao8964 这我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2029795674133516383",
+        "created_at": "2026-03-06T13:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T14:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029910283985244553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1966023688006078464",
+              "start": 0,
+              "username": "callme_mom_"
+            },
+            {
+              "end": 24,
+              "id": "1663516164306382852",
+              "start": 13,
+              "username": "DouBao8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029910283985244553",
+        "in_reply_to_user_id": "1966023688006078464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029795674133516383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@callme_mom_ @DouBao8964 这我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966023688006078464",
+        "conversation_id": "2029795674133516383",
+        "created_at": "2026-03-06T05:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029795674133516383"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029795674133516383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5571,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "玩x的人都很纯良，自己的段子火了之后没屁用，发微博或者抖音最起码有广告共享赚，发x除了被骂就是被无码发到抖音引来更多的人骂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 1034,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 360,
+          "tweet_count": 1051
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-11T06:19:22.000Z",
+        "description": "审美积累账号",
+        "id": "1966023688006078464",
+        "location": "如果您想为贫穷的我提供帮助：🚪52",
+        "name": "豆比（戒色day1）",
+        "pinned_tweet_id": "2014700169649131645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000933845299027972/G-KQIvi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 55,
+          "like_count": 1087,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 694
+        },
+        "username": "callme_mom_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "此豆包非彼豆包 不更新就找@callme_mom_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "callme_mom_"
+              }
+            ]
+          }
+        },
+        "id": "1663516164306382852",
+        "name": "豆包",
+        "pinned_tweet_id": "2011694838832578671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025774560457654272/ojdpVLBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11337,
+          "following_count": 80,
+          "like_count": 14351,
+          "listed_count": 6,
+          "media_count": 337,
+          "tweet_count": 6296
+        },
+        "username": "DouBao8964",
+        "verified": false
+      }
+    ]
+  }
+}

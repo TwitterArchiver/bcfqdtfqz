@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2057486564624932984",
+    "created_at": "2026-05-22T01:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T02:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057641362347172241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1148193228304162816",
+          "start": 0,
+          "username": "Sebastiancook98"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057641362347172241",
+    "in_reply_to_user_id": "1148193228304162816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057486564624932984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sebastiancook98 恭喜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2057486564624932984",
+        "created_at": "2026-05-22T01:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057641362347172241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1148193228304162816",
+              "start": 0,
+              "username": "Sebastiancook98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057641362347172241",
+        "in_reply_to_user_id": "1148193228304162816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057486564624932984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sebastiancook98 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1148193228304162816",
+        "conversation_id": "2057486564624932984",
+        "created_at": "2026-05-21T15:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057486564624932984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057486564624932984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1299,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好消息是，博士答辩通过了，现在是博士了\n坏消息是，今天大A亏了一万"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 1348,
+          "like_count": 310,
+          "listed_count": 1,
+          "media_count": 737,
+          "tweet_count": 1972
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-08T11:32:52.000Z",
+        "description": "怕什么真理无穷，进一寸有一寸的欢喜",
+        "id": "1148193228304162816",
+        "location": "Beijing",
+        "name": "Sebastian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1633643072679714817/CZnEVrEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2344,
+          "following_count": 409,
+          "like_count": 39022,
+          "listed_count": 6,
+          "media_count": 757,
+          "tweet_count": 5887
+        },
+        "username": "Sebastiancook98",
+        "verified": false
+      }
+    ]
+  }
+}

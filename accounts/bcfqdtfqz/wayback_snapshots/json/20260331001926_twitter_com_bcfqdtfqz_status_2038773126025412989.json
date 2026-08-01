@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038773119259979776"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2038773126025412989",
+    "created_at": "2026-03-31T00:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T01:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038773126025412989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FxK1QccPmq",
+          "end": 23,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2038773126025412989/photo/1",
+          "media_key": "3_2038773119259979776",
+          "start": 0,
+          "url": "https://t.co/FxK1QccPmq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038773126025412989",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/FxK1QccPmq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2038773119259979776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEstWZ8bMAAZcnk.jpg",
+        "width": 1017
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038773119259979776"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2038773126025412989",
+        "created_at": "2026-03-31T00:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T01:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038773126025412989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FxK1QccPmq",
+              "end": 23,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2038773126025412989/photo/1",
+              "media_key": "3_2038773119259979776",
+              "start": 0,
+              "url": "https://t.co/FxK1QccPmq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038773126025412989",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FxK1QccPmq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅@__fanqie__日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "__fanqie__"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不知道包什么的番茄",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 1279,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 567,
+          "tweet_count": 1524
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

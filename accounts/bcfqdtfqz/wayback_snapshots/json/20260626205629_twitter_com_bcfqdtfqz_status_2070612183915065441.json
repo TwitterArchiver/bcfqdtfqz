@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070406206548570498",
+    "created_at": "2026-06-26T20:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T21:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070612183915065441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1309537428189802497",
+          "start": 0,
+          "username": "Cfming98"
+        },
+        {
+          "end": 20,
+          "id": "1929517383389171712",
+          "start": 10,
+          "username": "baocha770"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070612183915065441",
+    "in_reply_to_user_id": "1309537428189802497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070492693529346139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cfming98 @baocha770 对，时间长的一般都早已习惯对方的存在了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070406206548570498",
+        "created_at": "2026-06-26T20:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T21:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070612183915065441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1309537428189802497",
+              "start": 0,
+              "username": "Cfming98"
+            },
+            {
+              "end": 20,
+              "id": "1929517383389171712",
+              "start": 10,
+              "username": "baocha770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070612183915065441",
+        "in_reply_to_user_id": "1309537428189802497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070492693529346139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cfming98 @baocha770 对，时间长的一般都早已习惯对方的存在了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1309537428189802497",
+        "conversation_id": "2070406206548570498",
+        "created_at": "2026-06-26T13:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070492693529346139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1929517383389171712",
+              "start": 0,
+              "username": "baocha770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070492693529346139",
+        "in_reply_to_user_id": "1929517383389171712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1418,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070406206548570498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baocha770 辩证看吧，恋爱长跑久性格相对稳定，性格不稳定的一般某一方会先提分手的；在一起走不到最后一定有问题，问题来源于双方家庭？某些婚后观念不合？但是这些都不重要，重要的是如果有芥蒂，那就不发展感情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1371,
+          "like_count": 348,
+          "listed_count": 2,
+          "media_count": 772,
+          "tweet_count": 2425
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-25T16:57:24.000Z",
+        "description": "ENTP 有生命力的人和事物都喜欢 似乎有网络i人症",
+        "id": "1309537428189802497",
+        "location": "0756",
+        "name": "非明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069957906372739072/_T5ahntv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 55,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "Cfming98",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T12:36:43.000Z",
+        "description": "随时切换随机人格",
+        "id": "1929517383389171712",
+        "location": "纯绿🚪88",
+        "name": "vii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035245352266473477/VntXdX9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 22,
+          "like_count": 14759,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "baocha770",
+        "verified": false
+      }
+    ]
+  }
+}

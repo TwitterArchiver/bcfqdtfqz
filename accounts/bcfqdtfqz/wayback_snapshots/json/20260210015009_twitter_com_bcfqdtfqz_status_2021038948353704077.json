@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2021038948353704077",
+    "created_at": "2026-02-10T01:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T02:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021038948353704077"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021038948353704077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们线下面基的时候都注意安全，我身边有被灌醉然后被宾馆无套强了的事后查出来艾滋高风险，也有面基超雄线下抡个大锤就是揍，把人打骨折这会还在医院躺着…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2021038948353704077",
+        "created_at": "2026-02-10T01:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T02:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021038948353704077"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021038948353704077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们线下面基的时候都注意安全，我身边有被灌醉然后被宾馆无套强了的事后查出来艾滋高风险，也有面基超雄线下抡个大锤就是揍，把人打骨折这会还在医院躺着…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "🍅",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 597,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 218
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

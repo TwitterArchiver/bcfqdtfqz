@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2023205782955938172",
+    "created_at": "2026-02-16T07:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023301017346118074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1221617765519282176",
+          "start": 0,
+          "username": "AriXZone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023301017346118074",
+    "in_reply_to_user_id": "1221617765519282176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023205782955938172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AriXZone 富哥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023205768741490690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBPe7WFbkAII3J5.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2023205782955938172",
+        "created_at": "2026-02-16T07:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023301017346118074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1221617765519282176",
+              "start": 0,
+              "username": "AriXZone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023301017346118074",
+        "in_reply_to_user_id": "1221617765519282176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023205782955938172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AriXZone 富哥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023205768741490690"
+          ]
+        },
+        "author_id": "1221617765519282176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023205782955938172",
+        "created_at": "2026-02-16T01:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T02:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023205782955938172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CH5OsuMLdv",
+              "end": 31,
+              "expanded_url": "https://x.com/AriXZone/status/2023205782955938172/photo/1",
+              "media_key": "3_2023205768741490690",
+              "start": 8,
+              "url": "https://t.co/CH5OsuMLdv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023205782955938172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2140,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抢到最后三只🤣 https://t.co/CH5OsuMLdv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "Tokyo，Japan",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 786,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 480
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-27T02:16:06.000Z",
+        "description": "Veteran Full-Stack Architect & CEO | Tech & Science Communicator | Sharing life's fun bits.全栈架构师＆CEO|科普|趣事分享",
+        "id": "1221617765519282176",
+        "name": "魔都老猿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748977294448955392/yYvT5hTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22967,
+          "following_count": 3729,
+          "like_count": 68785,
+          "listed_count": 79,
+          "media_count": 3084,
+          "tweet_count": 36783
+        },
+        "username": "AriXZone",
+        "verified": true
+      }
+    ]
+  }
+}

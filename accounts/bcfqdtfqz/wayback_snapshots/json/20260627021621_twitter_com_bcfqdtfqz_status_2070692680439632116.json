@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070678183842881856",
+    "created_at": "2026-06-27T02:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T03:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070692680439632116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1602328096622800896",
+          "start": 0,
+          "username": "dutyge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070692680439632116",
+    "in_reply_to_user_id": "1602328096622800896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070678183842881856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dutyge 这个问题跟航天差不多，火箭调个角度就是地对地导弹。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 659,
+        "media_key": "3_2070678181066178560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyG1bKaAAA62NA.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070678183842881856",
+        "created_at": "2026-06-27T02:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070692680439632116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1602328096622800896",
+              "start": 0,
+              "username": "dutyge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070692680439632116",
+        "in_reply_to_user_id": "1602328096622800896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070678183842881856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dutyge 这个问题跟航天差不多，火箭调个角度就是地对地导弹。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070678181066178560"
+          ]
+        },
+        "author_id": "1602328096622800896",
+        "conversation_id": "2070678183842881856",
+        "created_at": "2026-06-27T01:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070678183842881856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/toM3lwzlcR",
+              "end": 32,
+              "expanded_url": "https://x.com/dutyge/status/2070678183842881856/photo/1",
+              "media_key": "3_2070678181066178560",
+              "start": 9,
+              "url": "https://t.co/toM3lwzlcR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070678183842881856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1069,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "低空经济有戏吗？ https://t.co/toM3lwzlcR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 1375,
+          "like_count": 349,
+          "listed_count": 2,
+          "media_count": 772,
+          "tweet_count": 2433
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:42:59.000Z",
+        "description": "失业报道采集检索",
+        "id": "1602328096622800896",
+        "location": "颐和园路",
+        "name": "失业观察日报",
+        "pinned_tweet_id": "1704100809909080560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913529297802756096/Zhm8-Qqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57198,
+          "following_count": 100,
+          "like_count": 0,
+          "listed_count": 277,
+          "media_count": 9114,
+          "tweet_count": 15276
+        },
+        "url": "",
+        "username": "dutyge",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2062466755537334358",
+    "created_at": "2026-06-04T16:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062569595375067418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2059915206009204737",
+          "start": 0,
+          "username": "zhshs7414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062569595375067418",
+    "in_reply_to_user_id": "2059915206009204737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062466755537334358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhshs7414 说真的，有时我自个都感觉我炒作的像是家里缺了点什么。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2062466755537334358",
+        "created_at": "2026-06-04T16:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062569595375067418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2059915206009204737",
+              "start": 0,
+              "username": "zhshs7414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062569595375067418",
+        "in_reply_to_user_id": "2059915206009204737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062466755537334358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhshs7414 说真的，有时我自个都感觉我炒作的像是家里缺了点什么。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059915206009204737",
+        "conversation_id": "2062466755537334358",
+        "created_at": "2026-06-04T09:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062466755537334358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062466755537334358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "本来花了大价钱搞来的蓝v，但是说实话，第一种中推圈这个蓝v环境感到很失望。\n我只看到了一群为了流量变现而努力的人。除此之外，没有多余的内容。（金融方面另说）反正我看了我这几天关注的蓝v下来，基本上都是围绕变现，变现，变现这个点来，结果就是什么内容有可能获得流量，就围绕着什么内容来，结果就是首页上一堆尝试煽风点火的人，到头来都是重复输出自己的观点，观感太差了，说实话还不如搬东西过来呢"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来花了大价钱搞来的蓝v，但是说实话，第一种中推圈这个蓝v环境感到很失望。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 1343,
+          "like_count": 333,
+          "listed_count": 2,
+          "media_count": 751,
+          "tweet_count": 2153
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T08:31:18.000Z",
+        "description": "你好啊，我是一个普通人",
+        "id": "2059915206009204737",
+        "name": "⑨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060211131759935489/spQAtK-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 116,
+          "like_count": 798,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 98
+        },
+        "username": "zhshs7414",
+        "verified": true
+      }
+    ]
+  }
+}

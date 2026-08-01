@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2073237100594696638",
+    "created_at": "2026-07-04T07:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T08:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073305872772808961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2049811110199771136",
+          "start": 0,
+          "username": "Siqib5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073305872772808961",
+    "in_reply_to_user_id": "2049811110199771136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073237100594696638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Siqib5 可以的，加油qq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2073237100594696638",
+        "created_at": "2026-07-04T07:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073305872772808961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2049811110199771136",
+              "start": 0,
+              "username": "Siqib5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073305872772808961",
+        "in_reply_to_user_id": "2049811110199771136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073237100594696638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siqib5 可以的，加油qq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049811110199771136",
+        "conversation_id": "2073237100594696638",
+        "created_at": "2026-07-04T02:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073237100594696638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073237100594696638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 789,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个夏天Qq还能稳定掉3斤嘛！？\n我看难🙂‍↔️🙂‍↔️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 1387,
+          "like_count": 378,
+          "listed_count": 2,
+          "media_count": 784,
+          "tweet_count": 2651
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-30T11:21:48.000Z",
+        "description": "话多容易刷屏 不要美化陌生人\n祝您健康🙂‍↕️🙂‍↕️\n\nhttps://t.co/m5OQPimJ6M",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qq28475",
+                "end": 52,
+                "expanded_url": "https://ngl.link/qq28475",
+                "start": 29,
+                "url": "https://t.co/m5OQPimJ6M"
+              }
+            ]
+          }
+        },
+        "id": "2049811110199771136",
+        "name": "QQ",
+        "pinned_tweet_id": "2064719615641735645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050167568003141632/1Q-2sGxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 427,
+          "like_count": 4088,
+          "listed_count": 4,
+          "media_count": 102,
+          "tweet_count": 816
+        },
+        "url": "",
+        "username": "Siqib5",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2033534685440274696",
+    "created_at": "2026-03-17T06:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T07:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033791539248566763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1605171476881371136",
+          "start": 0,
+          "username": "haku_dabai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033791539248566763",
+    "in_reply_to_user_id": "1605171476881371136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033534685440274696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haku_dabai 实在不行就换一条路，人挤的地方肯定竞争压力大不好抬价，之前家里压力去过几个讲课的，50块一小时秒速抢光😴只能说现在大学生还是太嫩了认为跟高中一样努力狂卷就能高新"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2033534685440274696",
+        "created_at": "2026-03-17T06:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T07:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033791539248566763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1605171476881371136",
+              "start": 0,
+              "username": "haku_dabai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033791539248566763",
+        "in_reply_to_user_id": "1605171476881371136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033534685440274696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haku_dabai 实在不行就换一条路，人挤的地方肯定竞争压力大不好抬价，之前家里压力去过几个讲课的，50块一小时秒速抢光😴只能说现在大学生还是太嫩了认为跟高中一样努力狂卷就能高新"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605171476881371136",
+        "conversation_id": "2033534685440274696",
+        "created_at": "2026-03-16T13:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033534685440274696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haku_dabai/sta…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/haku_dabai/status/2033468916530561487",
+              "start": 141,
+              "url": "https://t.co/pLmwjqHffU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033534685440274696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 46434,
+          "like_count": 224,
+          "quote_count": 9,
+          "reply_count": 54,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033468916530561487",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回复一下评论区一些高高在上的人\n1.首先时薪50-80是包含讲课的费用和交通的，我就读大学的城市交通并不发达，很多地方只能打车，来回交通即为20左右，其次上课并不是只是上课，备课也要算入时间成本的，加上交通每讲一个学生至少得花4个小时，试问质疑的人，你们能接受20元不到的时薪吗？ https://t.co/pLmwjqHffU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 1101,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 453,
+          "tweet_count": 1272
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-20T12:01:24.000Z",
+        "description": "热爱和梦想，希望和勇气Ⅱ最爱@ptilopsis_xiao |里@haku_uchi | 可爱小中@dontbesadforit | 躁郁 | ENFP-T | 天才化学少女 | vup预备中 | N2备考中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "ptilopsis_xiao"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "haku_uchi"
+              },
+              {
+                "end": 64,
+                "start": 49,
+                "username": "dontbesadforit"
+              }
+            ]
+          }
+        },
+        "id": "1605171476881371136",
+        "location": "距你3.2km",
+        "name": "haku-大白",
+        "pinned_tweet_id": "1849401311860867118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018329763514085376/DRsKluvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2681,
+          "following_count": 1620,
+          "like_count": 21597,
+          "listed_count": 10,
+          "media_count": 1244,
+          "tweet_count": 18163
+        },
+        "username": "haku_dabai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2035216774183231914",
+    "created_at": "2026-03-21T11:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T12:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035317881882489130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1945211611972825088",
+          "start": 0,
+          "username": "Cuddles5566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035317881882489130",
+    "in_reply_to_user_id": "1945211611972825088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035311712249741346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cuddles5566 哎，最近摸摸你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2035216774183231914",
+        "created_at": "2026-03-21T11:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035317881882489130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1945211611972825088",
+              "start": 0,
+              "username": "Cuddles5566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035317881882489130",
+        "in_reply_to_user_id": "1945211611972825088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035311712249741346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cuddles5566 哎，最近摸摸你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945211611972825088",
+        "conversation_id": "2035216774183231914",
+        "created_at": "2026-03-21T11:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035311712249741346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035311712249741346",
+        "in_reply_to_user_id": "1945211611972825088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035216774183231914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "亲妈能怎么办，忍着唄。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 1109,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 474,
+          "tweet_count": 1315
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-15T19:59:33.000Z",
+        "description": "Acne Expert 开心快乐每一天",
+        "id": "1945211611972825088",
+        "name": "Cuddles",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005526132691718144/xvJh_SIv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 119,
+          "like_count": 1183,
+          "listed_count": 9,
+          "media_count": 24,
+          "tweet_count": 514
+        },
+        "username": "Cuddles5566",
+        "verified": true
+      }
+    ]
+  }
+}

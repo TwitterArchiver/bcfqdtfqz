@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2076202815983333440",
+    "created_at": "2026-07-12T12:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076275915517243704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2061870177466421248",
+          "start": 0,
+          "username": "PaperFogg2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076275915517243704",
+    "in_reply_to_user_id": "2061870177466421248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076202815983333440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaperFogg2007 这是好事啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1060,
+        "media_key": "3_2076202804151218176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAncz8acAAS7se.jpg",
+        "width": 1172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2076202815983333440",
+        "created_at": "2026-07-12T12:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076275915517243704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061870177466421248",
+              "start": 0,
+              "username": "PaperFogg2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076275915517243704",
+        "in_reply_to_user_id": "2061870177466421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076202815983333440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaperFogg2007 这是好事啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076202804151218176"
+          ]
+        },
+        "author_id": "2061870177466421248",
+        "conversation_id": "2076202815983333440",
+        "created_at": "2026-07-12T07:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076202815983333440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4LAQI3VOmx",
+              "end": 107,
+              "expanded_url": "https://x.com/PaperFogg2007/status/2076202815983333440/photo/1",
+              "media_key": "3_2076202804151218176",
+              "start": 84,
+              "url": "https://t.co/4LAQI3VOmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076202815983333440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "被海底捞了🥲😽\n虽然女讲师平常上课经常发火并且期中考试时还撕了很多人的试卷，但现在看来她是刀子嘴豆腐心。34分的福格能被她捞上来……我将誓死拥护她🥹谁反对她我跟谁急！\n这件事还告诉我们，高数是无法一晚上速成的，功在平时。前几天和鸭鸭吃饭的时候他也这么和我讲过……我发誓大二学线代和概统一定要重新做人😭"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6237,
+          "like_count": 80,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被海底捞了🥲😽\n虽然女讲师平常上课经常发火并且期中考试时还撕了很多人的试卷，但现在看来她是刀子嘴豆腐心。34分的福格能被她捞上来……我将誓死拥护她🥹谁反对她我跟谁急！ https://t.co/4LAQI3VOmx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 1418,
+          "like_count": 408,
+          "listed_count": 2,
+          "media_count": 799,
+          "tweet_count": 2895
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-02T17:59:32.000Z",
+        "description": "ᵕ̈喜欢您来！☮︎在下叫福格🌲🌳大一在读🌴🏔️平时喜欢一个人吃饭,旅行和远征📷🏕️喜欢森林,草甸,海洋,湖泊和雪山🚲🚉热爱音乐剧和模拟人生💃ENFP🏃🎾🧦期待熟人私信扩列！🏗️保留锋芒ʕ •ᴥ•ʔ前世🪦@PaperFoggYuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 101,
+                "username": "PaperFoggYuan"
+              }
+            ]
+          }
+        },
+        "id": "2061870177466421248",
+        "location": "🌊日落溪谷&柳溪🍁NKG&YTY🌸",
+        "name": "☻福格𐂂🌲",
+        "pinned_tweet_id": "2062769619069513982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061876257378439168/QLFkOOW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 490,
+          "like_count": 5445,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 2533
+        },
+        "url": "",
+        "username": "PaperFogg2007",
+        "verified": true
+      }
+    ]
+  }
+}

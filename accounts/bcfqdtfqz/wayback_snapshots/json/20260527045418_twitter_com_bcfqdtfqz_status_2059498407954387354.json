@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059498404125003777"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2059446329961754815",
+    "created_at": "2026-05-27T04:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059498407954387354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2497764032",
+          "start": 0,
+          "username": "TainiiMikan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TrDcSm8zNB",
+          "end": 45,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2059498407954387354/photo/1",
+          "media_key": "3_2059498404125003777",
+          "start": 22,
+          "url": "https://t.co/TrDcSm8zNB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059498407954387354",
+    "in_reply_to_user_id": "2497764032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059446329961754815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TainiiMikan 烧得没边了还清水 https://t.co/TrDcSm8zNB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2059498404125003777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTO4wla0AEgzso.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059498404125003777"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2059446329961754815",
+        "created_at": "2026-05-27T04:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059498407954387354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2497764032",
+              "start": 0,
+              "username": "TainiiMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TrDcSm8zNB",
+              "end": 45,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2059498407954387354/photo/1",
+              "media_key": "3_2059498404125003777",
+              "start": 22,
+              "url": "https://t.co/TrDcSm8zNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059498407954387354",
+        "in_reply_to_user_id": "2497764032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059446329961754815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TainiiMikan 烧得没边了还清水 https://t.co/TrDcSm8zNB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2497764032",
+        "conversation_id": "2059446329961754815",
+        "created_at": "2026-05-27T01:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059446329961754815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TainiiMikan/st…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/TainiiMikan/status/2058569431736070405",
+              "start": 66,
+              "url": "https://t.co/FzVRmxfTer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059446329961754815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2073,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058569431736070405",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天重新审视了一下我的大号，再次确定了是纯血清水男娘博主，而不是其他任何类型。若有人将我误认为其他品类，一定是错觉罢了（确信x）。 https://t.co/FzVRmxfTer"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n分享思考和个人生活\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 1349,
+          "like_count": 322,
+          "listed_count": 2,
+          "media_count": 740,
+          "tweet_count": 2035
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-16T05:06:00.000Z",
+        "description": "是一只，后面忘了，总之是杂鱼酱 || 女装号: @JanboMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "JanboMikan"
+              }
+            ]
+          }
+        },
+        "id": "2497764032",
+        "location": "鱼缸",
+        "name": "タイニー蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996230563334934528/UuZF-Uhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 126,
+          "like_count": 1116,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 954
+        },
+        "username": "TainiiMikan",
+        "verified": false
+      }
+    ]
+  }
+}

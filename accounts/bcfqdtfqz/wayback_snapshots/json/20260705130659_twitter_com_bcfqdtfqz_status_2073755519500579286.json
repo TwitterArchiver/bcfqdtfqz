@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2073720527496335620",
+    "created_at": "2026-07-05T13:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073755519500579286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "387147664",
+          "start": 0,
+          "username": "caizhenghai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073755519500579286",
+    "in_reply_to_user_id": "387147664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073720527496335620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caizhenghai 快进到不知道怎么的爆仓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073720513625726976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdV0fIaIAAPfum.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2073720527496335620",
+        "created_at": "2026-07-05T13:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073755519500579286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "387147664",
+              "start": 0,
+              "username": "caizhenghai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073755519500579286",
+        "in_reply_to_user_id": "387147664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073720527496335620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caizhenghai 快进到不知道怎么的爆仓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073720513625726976"
+          ]
+        },
+        "author_id": "387147664",
+        "conversation_id": "2073720527496335620",
+        "created_at": "2026-07-05T10:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073720527496335620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lEKksrCGsn",
+              "end": 55,
+              "expanded_url": "https://x.com/caizhenghai/status/2073720527496335620/photo/1",
+              "media_key": "3_2073720513625726976",
+              "start": 32,
+              "url": "https://t.co/lEKksrCGsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073720527496335620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8554,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难怪那么多人玩合约，充值了 100u，才半个月不到就 4 倍了 https://t.co/lEKksrCGsn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 1394,
+          "like_count": 384,
+          "listed_count": 2,
+          "media_count": 786,
+          "tweet_count": 2695
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2011-10-08T15:09:19.000Z",
+        "description": "8 年美股投资者，13 年程序开发。 - x 私信会漏看，联系我：https://t.co/TpEhIUOWf4 - 美股导航 https://t.co/hQXxFor1s6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/forecho",
+                "end": 56,
+                "expanded_url": "http://t.me/forecho",
+                "start": 33,
+                "url": "https://t.co/TpEhIUOWf4"
+              },
+              {
+                "display_url": "6url.net",
+                "end": 87,
+                "expanded_url": "http://6url.net",
+                "start": 64,
+                "url": "https://t.co/hQXxFor1s6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forecho.com",
+                "end": 23,
+                "expanded_url": "https://forecho.com",
+                "start": 0,
+                "url": "https://t.co/DT5QtW82cM"
+              }
+            ]
+          }
+        },
+        "id": "387147664",
+        "location": "China",
+        "name": "forecho📈",
+        "pinned_tweet_id": "2072521905404539358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/790007015783346178/tvajHHFE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43915,
+          "following_count": 3982,
+          "like_count": 55045,
+          "listed_count": 499,
+          "media_count": 3771,
+          "tweet_count": 15270
+        },
+        "url": "https://t.co/DT5QtW82cM",
+        "username": "caizhenghai",
+        "verified": true
+      }
+    ]
+  }
+}

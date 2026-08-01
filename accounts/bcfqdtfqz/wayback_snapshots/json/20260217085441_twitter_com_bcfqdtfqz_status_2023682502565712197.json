@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2023654239034032614",
+    "created_at": "2026-02-17T08:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T09:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023682502565712197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "28940967",
+          "start": 0,
+          "username": "lidangzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023682502565712197",
+    "in_reply_to_user_id": "28940967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023654239034032614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lidangzzz 他们都不厉害，最低点清空纳指厉害的那个才厉害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2023654239034032614",
+        "created_at": "2026-02-17T08:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023682502565712197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "28940967",
+              "start": 0,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023682502565712197",
+        "in_reply_to_user_id": "28940967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023654239034032614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidangzzz 他们都不厉害，最低点清空纳指厉害的那个才厉害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "28940967",
+        "conversation_id": "2023654239034032614",
+        "created_at": "2026-02-17T07:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T08:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023654239034032614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jiaxi_Cui/stat…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/Jiaxi_Cui/status/2023387919189479597",
+              "start": 153,
+              "url": "https://t.co/XqgxPJILp4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023654239034032614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "全世界最聪明的人，都选了CS并且在做AI，\n\n全世界所有不学计算机同时对机器人充满幻想、看科幻片看多了的EEME专业的聪明人，都被卷入了机器人的大坑。\n\n他们觉得宇树科技有一个神秘大模型，向上对接声音图像并且能深度reasoning，向下能控制20个关节、5000个传感器的所有信号，\n\n只要自己进去做， 就能一把梭造出超人一样强壮、爱因斯坦一样聪明的超级无敌全能机器人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 33086,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023387919189479597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全世界最聪明的人，都选了CS并且在做AI，\n\n全世界所有不学计算机同时对机器人充满幻想、看科幻片看多了的EEME专业的聪明人，都被卷入了机器人的大坑。\n\n他们觉得宇树科技有一个神秘大模型，向上对接声音图像并且能深度reasoning，向下能控制20个关节、5000个传感器的所有信号，\n\n只要自己进去做， https://t.co/XqgxPJILp4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "Tokyo，Japan",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 791,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 514
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinq.me/lidang",
+                "end": 23,
+                "expanded_url": "https://dinq.me/lidang",
+                "start": 0,
+                "url": "https://t.co/RcYK9nT6WO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602567,
+          "following_count": 2709,
+          "like_count": 27941,
+          "listed_count": 3781,
+          "media_count": 9274,
+          "tweet_count": 43993
+        },
+        "url": "https://t.co/RcYK9nT6WO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

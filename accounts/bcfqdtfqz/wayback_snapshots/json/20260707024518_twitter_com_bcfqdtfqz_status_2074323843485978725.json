@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2074220883250741386",
+    "created_at": "2026-07-07T02:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074323843485978725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815615010330275840",
+          "start": 0,
+          "username": "Fufu_chouette"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074323843485978725",
+    "in_reply_to_user_id": "1815615010330275840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074220883250741386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fufu_chouette 原来是炒股博主啊，那我得关注一下了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074220872815304704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkc5OXbYAAnM58.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2074220883250741386",
+        "created_at": "2026-07-07T02:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074323843485978725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815615010330275840",
+              "start": 0,
+              "username": "Fufu_chouette"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074323843485978725",
+        "in_reply_to_user_id": "1815615010330275840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074220883250741386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fufu_chouette 原来是炒股博主啊，那我得关注一下了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074220872815304704"
+          ]
+        },
+        "author_id": "1815615010330275840",
+        "conversation_id": "2074220883250741386",
+        "created_at": "2026-07-06T19:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074220883250741386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d80VDPO17C",
+              "end": 57,
+              "expanded_url": "https://x.com/Fufu_chouette/status/2074220883250741386/photo/1",
+              "media_key": "3_2074220872815304704",
+              "start": 34,
+              "url": "https://t.co/d80VDPO17C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074220883250741386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14261,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们别关注我了吧，我上推只是为了炒股+秀恩爱。谢谢好心人送的蓝v！ https://t.co/d80VDPO17C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 1408,
+          "like_count": 387,
+          "listed_count": 2,
+          "media_count": 789,
+          "tweet_count": 2761
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-23T05:08:53.000Z",
+        "description": "Pronoia/推广关评自辨",
+        "id": "1815615010330275840",
+        "location": "🚪99999",
+        "name": "心碎炒年糕",
+        "pinned_tweet_id": "1927193759642423411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059342065201504256/ALBRsmGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17610,
+          "following_count": 183,
+          "like_count": 1784,
+          "listed_count": 41,
+          "media_count": 387,
+          "tweet_count": 1887
+        },
+        "url": "",
+        "username": "Fufu_chouette",
+        "verified": true
+      }
+    ]
+  }
+}

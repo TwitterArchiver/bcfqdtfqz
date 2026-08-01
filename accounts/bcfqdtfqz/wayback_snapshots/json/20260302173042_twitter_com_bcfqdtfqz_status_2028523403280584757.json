@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2028421967716692354",
+    "created_at": "2026-03-02T17:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T18:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028523403280584757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1866810593526812675",
+          "start": 0,
+          "username": "jilin28881"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028523403280584757",
+    "in_reply_to_user_id": "1866810593526812675",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028517558593507590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jilin28881 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2028421967716692354",
+        "created_at": "2026-03-02T17:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028523403280584757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1866810593526812675",
+              "start": 0,
+              "username": "jilin28881"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028523403280584757",
+        "in_reply_to_user_id": "1866810593526812675",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028517558593507590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jilin28881 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866810593526812675",
+        "conversation_id": "2028421967716692354",
+        "created_at": "2026-03-02T17:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028517558593507590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028517558593507590",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028421967716692354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 当时刷到这个视频的时候，黄色的还摇来摇去🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 1021,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 945
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-11T11:42:34.000Z",
+        "description": "中文,EN,日本語|前巨型工程开发项目吹牛人员|互fo请私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitty.works/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://kitty.works/#/register?code=YgDTrfbz",
+                "start": 0,
+                "url": "https://t.co/82pUwJ9ERf"
+              }
+            ]
+          }
+        },
+        "id": "1866810593526812675",
+        "location": "⬇️台湾原生IP节点2¥/月谢谢支持🙏",
+        "name": "牵梦",
+        "pinned_tweet_id": "2027910789387198539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024743444435128320/pO-itMw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 22,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 690
+        },
+        "url": "https://t.co/82pUwJ9ERf",
+        "username": "jilin28881",
+        "verified": true
+      }
+    ]
+  }
+}

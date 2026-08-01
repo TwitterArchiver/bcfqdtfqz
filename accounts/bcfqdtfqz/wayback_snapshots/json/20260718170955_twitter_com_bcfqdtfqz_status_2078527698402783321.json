@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2078527698402783321",
+    "created_at": "2026-07-18T17:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T18:05:16.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078526529328611366",
+      "2078527698402783321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_FORAB/status/…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/_FORAB/status/2078371214264037863",
+          "start": 86,
+          "url": "https://t.co/xPy9A9lNNe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078527698402783321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "后续就是美国三巨头卷性能，国模卷价格，各有各的美。\n\nai大模型并不会像某专家说的性能强的赢家通吃，最后打淘汰赛决赛圈起码能剩下三四家不是性能优秀无法替代就是价格低廉的。\n\n现在ai的各种迭代速度是按照月计算的，所以也不好分析出接下来会是什么局面，但是有几家已经摆脱疯狂烧钱的模式并且逐步有了扭亏为盈的迹象，像anthropic和字节跳动\n\n真正能赢得ai大战的不仅仅是靠着烧各路投资人的钱，而是能变成可以看得见的利润。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078371214264037863",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后续就是美国三巨头卷性能，国模卷价格，各有各的美。\n\nai大模型并不会像某专家说的性能强的赢家通吃，最后打淘汰赛决赛圈起码能剩下三四家不是性能优秀无法替代就是价格低廉的。 https://t.co/xPy9A9lNNe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1484,
+        "media_key": "3_2078371028112396288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfbcDoaUAANT30.jpg",
+        "width": 1294
+      },
+      {
+        "height": 1348,
+        "media_key": "3_2078371038476570624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfbcqPbEAAF_Kh.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2078526529328611366",
+        "created_at": "2026-07-18T17:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:05:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078526529328611366",
+          "2078527698402783321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_FORAB/status/…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/_FORAB/status/2078371214264037863",
+              "start": 76,
+              "url": "https://t.co/xPy9A9lNNe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078526529328611366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078371214264037863",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续就是美国三巨头卷性能，国模卷价格，各有各的美。\nai大模型并不会性能强的赢家通吃，最后打淘汰赛决赛圈起码能剩下三四家不是性能优秀就是价格低廉耐操的 https://t.co/xPy9A9lNNe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2078527698402783321",
+        "created_at": "2026-07-18T17:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:05:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078526529328611366",
+          "2078527698402783321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_FORAB/status/…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/_FORAB/status/2078371214264037863",
+              "start": 86,
+              "url": "https://t.co/xPy9A9lNNe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078527698402783321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "后续就是美国三巨头卷性能，国模卷价格，各有各的美。\n\nai大模型并不会像某专家说的性能强的赢家通吃，最后打淘汰赛决赛圈起码能剩下三四家不是性能优秀无法替代就是价格低廉的。\n\n现在ai的各种迭代速度是按照月计算的，所以也不好分析出接下来会是什么局面，但是有几家已经摆脱疯狂烧钱的模式并且逐步有了扭亏为盈的迹象，像anthropic和字节跳动\n\n真正能赢得ai大战的不仅仅是靠着烧各路投资人的钱，而是能变成可以看得见的利润。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078371214264037863",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续就是美国三巨头卷性能，国模卷价格，各有各的美。\n\nai大模型并不会像某专家说的性能强的赢家通吃，最后打淘汰赛决赛圈起码能剩下三四家不是性能优秀无法替代就是价格低廉的。 https://t.co/xPy9A9lNNe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078371028112396288",
+            "3_2078371038476570624"
+          ]
+        },
+        "author_id": "4848269835",
+        "conversation_id": "2078371214264037863",
+        "created_at": "2026-07-18T06:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078371214264037863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/au5WRruMI0",
+              "end": 153,
+              "expanded_url": "https://x.com/_FORAB/status/2078371214264037863/photo/1",
+              "media_key": "3_2078371028112396288",
+              "start": 130,
+              "url": "https://t.co/au5WRruMI0"
+            },
+            {
+              "display_url": "pic.x.com/au5WRruMI0",
+              "end": 153,
+              "expanded_url": "https://x.com/_FORAB/status/2078371214264037863/photo/1",
+              "media_key": "3_2078371038476570624",
+              "start": 130,
+              "url": "https://t.co/au5WRruMI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078371214264037863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 46864,
+          "like_count": 282,
+          "quote_count": 9,
+          "reply_count": 97,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "AI 聚合平台 OpenRouter 发现，有越来越多美国企业，正在通过中转站，接入中国的 AI 模型，且 Token 消耗量还在持续攀升。\n\n虽然英文区不少从业者和用户，呼吁继续使用美国国产模型，但是美国企业们却很诚实，对中国 AI 模型需求还在持续扩大。 https://t.co/au5WRruMI0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号，梦到哪句发哪句\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 47,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 24,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 1432,
+          "like_count": 418,
+          "listed_count": 2,
+          "media_count": 812,
+          "tweet_count": 3075
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132956,
+          "following_count": 635,
+          "like_count": 10385,
+          "listed_count": 2064,
+          "media_count": 4082,
+          "tweet_count": 15571
+        },
+        "url": "",
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

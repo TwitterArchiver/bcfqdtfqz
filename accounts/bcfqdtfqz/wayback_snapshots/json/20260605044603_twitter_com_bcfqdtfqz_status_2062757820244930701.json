@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062757812644773888"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2062757820244930701",
+    "created_at": "2026-06-05T04:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062757820244930701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mfJQqXalu9",
+          "end": 114,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2062757820244930701/photo/1",
+          "media_key": "3_2062757812644773888",
+          "start": 91,
+          "url": "https://t.co/mfJQqXalu9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062757820244930701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有点好奇这位很多人嘴里的女股神实盘能力到底怎么样\n因为我翻了很多都是他写的研究报告而没有真正入场和出场的地方\n如果只是凭借自己50万粉丝就能够说自己是股神的话那么立党老师是股仙了 https://t.co/mfJQqXalu9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2062757812644773888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBjTThagAAa478.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062757812644773888"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2062757820244930701",
+        "created_at": "2026-06-05T04:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062757820244930701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mfJQqXalu9",
+              "end": 114,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2062757820244930701/photo/1",
+              "media_key": "3_2062757812644773888",
+              "start": 91,
+              "url": "https://t.co/mfJQqXalu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062757820244930701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有点好奇这位很多人嘴里的女股神实盘能力到底怎么样\n因为我翻了很多都是他写的研究报告而没有真正入场和出场的地方\n如果只是凭借自己50万粉丝就能够说自己是股神的话那么立党老师是股仙了 https://t.co/mfJQqXalu9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 1342,
+          "like_count": 333,
+          "listed_count": 2,
+          "media_count": 752,
+          "tweet_count": 2159
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2025040865681604862",
+    "created_at": "2026-02-22T05:03:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T06:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025436182059106655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1236661132942692352",
+          "start": 0,
+          "username": "semimiruku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025436182059106655",
+    "in_reply_to_user_id": "1236661132942692352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025040865681604862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@semimiruku 羡慕广door人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2025040858534543360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBpj7oSagAAJejT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2025040865681604862",
+        "created_at": "2026-02-22T05:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025436182059106655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1236661132942692352",
+              "start": 0,
+              "username": "semimiruku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025436182059106655",
+        "in_reply_to_user_id": "1236661132942692352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025040865681604862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@semimiruku 羡慕广door人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025040858534543360"
+          ]
+        },
+        "author_id": "1236661132942692352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025040865681604862",
+        "created_at": "2026-02-21T02:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T03:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025040865681604862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/exZaxTxdDN",
+              "end": 48,
+              "expanded_url": "https://x.com/semimiruku/status/2025040865681604862/photo/1",
+              "media_key": "3_2025040858534543360",
+              "start": 25,
+              "url": "https://t.co/exZaxTxdDN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025040865681604862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 26147,
+          "like_count": 274,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广东学生哥：去大学城读书 去琶洲变紧身衣塑料大头 https://t.co/exZaxTxdDN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 970,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 732
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-08T14:32:54.000Z",
+        "description": "着ぐるみコスプレイヤー ✧✦ 女装男子 ✧✦ 恋物人偶 · 属洋葱的 · ぴっちり ✧✦ 会按快门 ✧✦ zh/en/ja",
+        "id": "1236661132942692352",
+        "name": "低脂肪牛乳🥛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730212782489145344/PkcGO0GS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2943,
+          "following_count": 1760,
+          "like_count": 12741,
+          "listed_count": 31,
+          "media_count": 1504,
+          "tweet_count": 20647
+        },
+        "username": "semimiruku",
+        "verified": false
+      }
+    ]
+  }
+}

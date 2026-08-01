@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2028683748460626163",
+    "created_at": "2026-03-03T13:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T14:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028823019041477099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1580231517749465088",
+          "start": 0,
+          "username": "QikunXie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028823019041477099",
+    "in_reply_to_user_id": "1580231517749465088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028821105742622925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QikunXie 多健身"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2028683748460626163",
+        "created_at": "2026-03-03T13:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028823019041477099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1580231517749465088",
+              "start": 0,
+              "username": "QikunXie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028823019041477099",
+        "in_reply_to_user_id": "1580231517749465088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028821105742622925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QikunXie 多健身"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580231517749465088",
+        "conversation_id": "2028683748460626163",
+        "created_at": "2026-03-03T13:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028821105742622925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028821105742622925",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028813423761654015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 可是很虚咋办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa.bot",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 1026,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 976
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T16:19:15.000Z",
+        "description": "AI脑洞制造机 + 财经八卦收集者 + 薅羊毛艺术家 🎨💸\n好奇驱动一切：趣事首发、知识拆解、机会捕捉 🐑🚀\n点关注，学聪明点变富点 😎",
+        "id": "1580231517749465088",
+        "name": "Nickel-3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013849379988480001/N2VRlrv2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 933,
+          "like_count": 4354,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 3114
+        },
+        "username": "QikunXie",
+        "verified": true
+      }
+    ]
+  }
+}

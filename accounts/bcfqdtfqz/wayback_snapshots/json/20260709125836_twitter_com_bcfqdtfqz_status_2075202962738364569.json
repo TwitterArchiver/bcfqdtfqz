@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2075195168316428491",
+    "created_at": "2026-07-09T12:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075202962738364569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1956083750661718016",
+          "start": 0,
+          "username": "fly2_1M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075202962738364569",
+    "in_reply_to_user_id": "1956083750661718016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075195168316428491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fly2_1M 满手半导体etf吃爽了诶嘿😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2075195168316428491",
+        "created_at": "2026-07-09T12:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075202962738364569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1956083750661718016",
+              "start": 0,
+              "username": "fly2_1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075202962738364569",
+        "in_reply_to_user_id": "1956083750661718016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075195168316428491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fly2_1M 满手半导体etf吃爽了诶嘿😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956083750661718016",
+        "conversation_id": "2075195168316428491",
+        "created_at": "2026-07-09T12:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075195168316428491"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075195168316428491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 845,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天创下了入市以来单日最大盈利。\n😭😭😭\n\n感谢市场不杀之恩，上天不杀祈祷散户赚钱之人😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 1407,
+          "like_count": 398,
+          "listed_count": 2,
+          "media_count": 794,
+          "tweet_count": 2825
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T20:01:43.000Z",
+        "description": "不交易也是一种交易。\n重视趋势性机会，重仓国运级的机会。\n不提供任何财务建议，记录自己的每一笔交易。",
+        "id": "1956083750661718016",
+        "name": "从零爬上100wu",
+        "pinned_tweet_id": "2065104467012505949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050787841970728961/cAYAwg2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4588,
+          "following_count": 156,
+          "like_count": 12923,
+          "listed_count": 57,
+          "media_count": 1001,
+          "tweet_count": 6774
+        },
+        "url": "",
+        "username": "fly2_1M",
+        "verified": true
+      }
+    ]
+  }
+}

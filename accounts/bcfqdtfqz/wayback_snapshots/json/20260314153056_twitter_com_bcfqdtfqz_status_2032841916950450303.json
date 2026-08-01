@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2032723216523997302",
+    "created_at": "2026-03-14T15:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T16:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032841916950450303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1643517192955207680",
+          "start": 0,
+          "username": "GlassFoxowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032841916950450303",
+    "in_reply_to_user_id": "1643517192955207680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032723216523997302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlassFoxowo 吓哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1126,
+        "media_key": "3_2032723207543992320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDWu_MhaMAAy6_r.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2032723216523997302",
+        "created_at": "2026-03-14T15:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032841916950450303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643517192955207680",
+              "start": 0,
+              "username": "GlassFoxowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032841916950450303",
+        "in_reply_to_user_id": "1643517192955207680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032723216523997302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlassFoxowo 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032723207543992320"
+          ]
+        },
+        "author_id": "1643517192955207680",
+        "conversation_id": "2032723216523997302",
+        "created_at": "2026-03-14T07:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T08:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032723216523997302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQIjtDtgKU",
+              "end": 43,
+              "expanded_url": "https://x.com/GlassFoxowo/status/2032723216523997302/photo/1",
+              "media_key": "3_2032723207543992320",
+              "start": 20,
+              "url": "https://t.co/yQIjtDtgKU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032723216523997302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "喜欢Cloudflare算不算赋锐控？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 13927,
+          "like_count": 184,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢Cloudflare算不算赋锐控？ https://t.co/yQIjtDtgKU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 1083,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 443,
+          "tweet_count": 1244
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-05T07:33:48.000Z",
+        "description": "🏳️‍🌈 Gay | 22 | Furry | ✝ |\n🎵音乐日推Bot #玻狸日推歌单 | 🌏Base 深圳 |\n💻半吊子DevOps 前端运维网络什么都会一点 |\n❤️ 爱人 @realShellWen",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 37,
+                "tag": "玻狸日推歌单"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 90,
+                "username": "realShellWen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.glassfoxowo.com",
+                "end": 23,
+                "expanded_url": "https://note.glassfoxowo.com",
+                "start": 0,
+                "url": "https://t.co/g02SwVlQdr"
+              }
+            ]
+          }
+        },
+        "id": "1643517192955207680",
+        "location": "南通福瑞有限公司",
+        "name": "玻狸",
+        "pinned_tweet_id": "2019380592031461680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026080688454414336/S_dPrHrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4220,
+          "following_count": 496,
+          "like_count": 5079,
+          "listed_count": 0,
+          "media_count": 1028,
+          "tweet_count": 4266
+        },
+        "url": "https://t.co/g02SwVlQdr",
+        "username": "GlassFoxowo",
+        "verified": false
+      }
+    ]
+  }
+}

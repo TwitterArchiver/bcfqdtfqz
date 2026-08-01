@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2067589571865624578",
+    "created_at": "2026-06-18T12:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067589571865624578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bcfqdtfqz/stat…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/bcfqdtfqz/status/2067426282678485501",
+          "start": 44,
+          "url": "https://t.co/7d4eRSH10v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067589571865624578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067426282678485501",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接这件事，貌似盈透又不知道怎么的把我开仓限制解了。。。\n于是10$入了purr。。。。 https://t.co/7d4eRSH10v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2067589571865624578",
+        "created_at": "2026-06-18T12:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067589571865624578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bcfqdtfqz/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/bcfqdtfqz/status/2067426282678485501",
+              "start": 44,
+              "url": "https://t.co/7d4eRSH10v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067589571865624578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067426282678485501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接这件事，貌似盈透又不知道怎么的把我开仓限制解了。。。\n于是10$入了purr。。。。 https://t.co/7d4eRSH10v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2067426282678485501",
+        "created_at": "2026-06-18T01:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067426282678485501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067426282678485501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为盈透这个开仓限制，实在没有办法整了点子弹去大a梭哈半导体etf\n目前看上了purr，就是那个屯hype的，说真能把某安气的牙痒痒的项目一般不会差，而且hype本身也是做实事派的起码我在中文区刷了这么久推也没见他养水军在那里疯狂拉踩。。。\n因为管不住自己的手，所以不买币只入对应币股"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 1339,
+          "like_count": 340,
+          "listed_count": 2,
+          "media_count": 759,
+          "tweet_count": 2277
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      }
+    ]
+  }
+}

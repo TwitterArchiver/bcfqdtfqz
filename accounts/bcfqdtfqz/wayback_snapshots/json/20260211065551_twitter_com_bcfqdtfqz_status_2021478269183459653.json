@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2021476175336624180",
+    "created_at": "2026-02-11T06:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T07:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021478269183459653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1602478887505641473",
+          "start": 0,
+          "username": "Emma_zhy23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021478269183459653",
+    "in_reply_to_user_id": "1602478887505641473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021478081073119255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Emma_zhy23 害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2021476175336624180",
+        "created_at": "2026-02-11T06:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T07:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021478269183459653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1602478887505641473",
+              "start": 0,
+              "username": "Emma_zhy23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021478269183459653",
+        "in_reply_to_user_id": "1602478887505641473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021478081073119255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Emma_zhy23 害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1602478887505641473",
+        "conversation_id": "2021476175336624180",
+        "created_at": "2026-02-11T06:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T07:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021478081073119255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021478081073119255",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021477845885911532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 钱在谁手上，谁过年过的好！🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "🍅",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 696,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 295
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-13T01:41:57.000Z",
+        "description": "10年+高管招聘经验 | 创业心理学爱好者 | 好奇心驱动终身成长 | 拥抱AI❤️",
+        "id": "1602478887505641473",
+        "name": "Emma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015086577421291520/_9umqflw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 1387,
+          "like_count": 936,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1388
+        },
+        "username": "Emma_zhy23",
+        "verified": true
+      }
+    ]
+  }
+}

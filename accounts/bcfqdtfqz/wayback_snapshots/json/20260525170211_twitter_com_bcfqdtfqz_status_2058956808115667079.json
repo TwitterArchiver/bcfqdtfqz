@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2058875203464331514",
+    "created_at": "2026-05-25T17:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058956808115667079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1354198454541688833",
+          "start": 0,
+          "username": "realCaigu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058956808115667079",
+    "in_reply_to_user_id": "1354198454541688833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058875203464331514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realCaigu 那高学历,经历很简单,看上去很没生命力的就可以迷恋了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2058875203464331514",
+        "created_at": "2026-05-25T17:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058956808115667079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1354198454541688833",
+              "start": 0,
+              "username": "realCaigu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058956808115667079",
+        "in_reply_to_user_id": "1354198454541688833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058875203464331514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realCaigu 那高学历,经历很简单,看上去很没生命力的就可以迷恋了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1354198454541688833",
+        "conversation_id": "2058875203464331514",
+        "created_at": "2026-05-25T11:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058875203464331514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058875203464331514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 8445,
+          "like_count": 185,
+          "quote_count": 6,
+          "reply_count": 21,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "不要去迷恋低学历，经历很复杂，看上去很有生命力的人。\n\n教育系统其实是一个筛选工具，低学历大概率是没有专注力，没有抽象思维能力，容易受外界事物感染，英文有个词 susceptible 很贴切。\n\n这类人需要不断地获得及时满足来驱动生活，他们所谓的生命力也就是一种寻找及时满足的表现形式。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n分享思考和个人生活\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1712,
+          "following_count": 1347,
+          "like_count": 319,
+          "listed_count": 2,
+          "media_count": 737,
+          "tweet_count": 2023
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-26T22:45:04.000Z",
+        "description": "Web3 万倍，实盘 A8｜AI 赚钱效应 ｜中转站站长\n\n每天 100 条推特， AI 转型咨询 299/小时 ➕V： SaitaniPS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "berrycode.codes",
+                "end": 23,
+                "expanded_url": "http://berrycode.codes",
+                "start": 0,
+                "url": "https://t.co/ukNP33mBky"
+              }
+            ]
+          }
+        },
+        "id": "1354198454541688833",
+        "location": "纯血 CCMAX/GPTPro 中转战👉",
+        "name": "才谷 Saitani",
+        "pinned_tweet_id": "2042099172061651206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003737836701220864/1Ka4aB81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5049,
+          "following_count": 497,
+          "like_count": 1268,
+          "listed_count": 20,
+          "media_count": 238,
+          "tweet_count": 1361
+        },
+        "url": "https://t.co/ukNP33mBky",
+        "username": "realCaigu",
+        "verified": true
+      }
+    ]
+  }
+}

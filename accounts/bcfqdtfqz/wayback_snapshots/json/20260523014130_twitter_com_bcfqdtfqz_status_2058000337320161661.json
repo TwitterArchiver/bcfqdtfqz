@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2058000337320161661",
+    "created_at": "2026-05-23T01:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T02:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058000337320161661"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XI__LIU/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/XI__LIU/status/2057877487326314830",
+          "start": 4,
+          "url": "https://t.co/zMNNDTzzH2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058000337320161661",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057877487326314830",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "差不多 https://t.co/zMNNDTzzH2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2058000337320161661",
+        "created_at": "2026-05-23T01:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T02:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058000337320161661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XI__LIU/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/XI__LIU/status/2057877487326314830",
+              "start": 4,
+              "url": "https://t.co/zMNNDTzzH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058000337320161661",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057877487326314830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "差不多 https://t.co/zMNNDTzzH2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969767172563148802",
+        "conversation_id": "2057877487326314830",
+        "created_at": "2026-05-22T17:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057877487326314830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057877487326314830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道未来的本科大学生该何去何从，现在在本科阶段的大学不仅许多学生混，同时不乏许多老师也在混日子，那些好好学习知识刷题的，也不知道课本上的知识会不会已经被淘汰了，学出来后也是迷茫。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 1347,
+          "like_count": 312,
+          "listed_count": 1,
+          "media_count": 737,
+          "tweet_count": 1980
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-21T14:14:32.000Z",
+        "description": "…………(꒪⌓꒪)",
+        "id": "1969767172563148802",
+        "name": "XILIU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048047934873403392/Lzkmuzio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 414,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 167
+        },
+        "username": "XI__LIU",
+        "verified": true
+      }
+    ]
+  }
+}

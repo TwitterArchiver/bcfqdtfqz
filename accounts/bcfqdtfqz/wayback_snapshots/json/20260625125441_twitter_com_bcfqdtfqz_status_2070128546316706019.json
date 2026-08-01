@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070128546316706019",
+    "created_at": "2026-06-25T12:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070128546316706019"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070128546316706019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我也不排斥竞争，\n但是竞争分两种，\n一种的良性竞争，拼的是双方的为了某个目标的创新能力和实践能力\n一种是恶性竞争，拼的是如何不计后果的把对面直接卷烂\n这两种看起来差不多，但是两者的核心还是双方能否通过竞争进行可持续的发展而不是你死我活的零和博弈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070128546316706019",
+        "created_at": "2026-06-25T12:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070128546316706019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070128546316706019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我也不排斥竞争，\n但是竞争分两种，\n一种的良性竞争，拼的是双方的为了某个目标的创新能力和实践能力\n一种是恶性竞争，拼的是如何不计后果的把对面直接卷烂\n这两种看起来差不多，但是两者的核心还是双方能否通过竞争进行可持续的发展而不是你死我活的零和博弈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1673,
+          "following_count": 1351,
+          "like_count": 343,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 2348
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      }
+    ]
+  }
+}

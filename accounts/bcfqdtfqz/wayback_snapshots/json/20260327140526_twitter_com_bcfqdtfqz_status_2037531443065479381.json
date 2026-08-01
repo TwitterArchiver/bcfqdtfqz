@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2037474384089330058",
+    "created_at": "2026-03-27T14:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037531443065479381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "899470193776140289",
+          "start": 0,
+          "username": "hzqsns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037531443065479381",
+    "in_reply_to_user_id": "899470193776140289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037474384089330058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzqsns 就是你们在我刷微信短视频的时候突然来一个视频问我得了心脏病肺癌脑溢血怎么办是吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037474374824103936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaQJh5aEAAFNCP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037474374983528450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaQJifasAIS0uo.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037474374983520256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaQJifakAApKQc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2037474374849265664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaQJh_aAAA6_0i.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2037474384089330058",
+        "created_at": "2026-03-27T14:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037531443065479381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "899470193776140289",
+              "start": 0,
+              "username": "hzqsns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037531443065479381",
+        "in_reply_to_user_id": "899470193776140289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037474384089330058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzqsns 就是你们在我刷微信短视频的时候突然来一个视频问我得了心脏病肺癌脑溢血怎么办是吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037474374824103936",
+            "3_2037474374983528450",
+            "3_2037474374983520256",
+            "3_2037474374849265664"
+          ]
+        },
+        "author_id": "899470193776140289",
+        "conversation_id": "2037474384089330058",
+        "created_at": "2026-03-27T10:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037474384089330058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1TQcj2UrP",
+              "end": 147,
+              "expanded_url": "https://x.com/hzqsns/status/2037474384089330058/photo/1",
+              "media_key": "3_2037474374824103936",
+              "start": 124,
+              "url": "https://t.co/n1TQcj2UrP"
+            },
+            {
+              "display_url": "pic.x.com/n1TQcj2UrP",
+              "end": 147,
+              "expanded_url": "https://x.com/hzqsns/status/2037474384089330058/photo/1",
+              "media_key": "3_2037474374983528450",
+              "start": 124,
+              "url": "https://t.co/n1TQcj2UrP"
+            },
+            {
+              "display_url": "pic.x.com/n1TQcj2UrP",
+              "end": 147,
+              "expanded_url": "https://x.com/hzqsns/status/2037474384089330058/photo/1",
+              "media_key": "3_2037474374983520256",
+              "start": 124,
+              "url": "https://t.co/n1TQcj2UrP"
+            },
+            {
+              "display_url": "pic.x.com/n1TQcj2UrP",
+              "end": 147,
+              "expanded_url": "https://x.com/hzqsns/status/2037474384089330058/photo/1",
+              "media_key": "3_2037474374849265664",
+              "start": 124,
+              "url": "https://t.co/n1TQcj2UrP"
+            },
+            {
+              "display_url": "x.com/hzqsns/status/…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/hzqsns/status/2037408072419754147",
+              "start": 148,
+              "url": "https://t.co/LKZCrYocAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037474384089330058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "汗流浃背了居然是tx最年轻的科学家面我，聊了半天后面查资料才知道这么强，还跟\n我是校友x\n\n为啥这种还要面我这种小兵啊\n\n不过里面工位是真的新，薄纱我在ks和bd的工位喵\n\n而且感觉里面的人才是人，之前上班感觉周围都是螺丝钉，没有一点生机活力的😰\n\n而且那个ld还是湖北的跟我还算半个老乡人也看着挺年轻交流的也挺愉快的\n\n干脆别给我发offer了吧，已经有心仪的offer了后面要是过得不好又要后悔为啥没选这个"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10351,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037408072419754147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "汗流浃背了居然是tx最年轻的科学家面我，聊了半天后面查资料才知道这么强，还跟\n我是校友x\n\n为啥这种还要面我这种小兵啊\n\n不过里面工位是真的新，薄纱我在ks和bd的工位喵\n\n而且感觉里面的人才是人，之前上班感觉周围都是螺丝钉，没有一点生机活力的😰 https://t.co/n1TQcj2UrP https://t.co/LKZCrYocAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不知道包什么的番茄（私信互关）",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 1234,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 521,
+          "tweet_count": 1421
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-21T03:16:20.000Z",
+        "description": "奇迹和魔法并不是免费的。 一个满天星(maybe)",
+        "id": "899470193776140289",
+        "location": "M87",
+        "name": "Sakura🜃",
+        "pinned_tweet_id": "2014601533510545626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037298969299263488/nENfHmHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 382,
+          "like_count": 2614,
+          "listed_count": 2,
+          "media_count": 413,
+          "tweet_count": 1541
+        },
+        "username": "hzqsns",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073072899112796160"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2073072627057647907",
+    "created_at": "2026-07-03T15:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073072905668415988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1623691907032584193",
+          "start": 0,
+          "username": "Newton985985"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lkm9tYADjZ",
+          "end": 37,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2073072905668415988/photo/1",
+          "media_key": "3_2073072899112796160",
+          "start": 14,
+          "url": "https://t.co/Lkm9tYADjZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073072905668415988",
+    "in_reply_to_user_id": "1623691907032584193",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073072627057647907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Newton985985 https://t.co/Lkm9tYADjZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2073072899112796160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUI0XEbgAABVy0.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073072899112796160"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2073072627057647907",
+        "created_at": "2026-07-03T15:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073072905668415988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1623691907032584193",
+              "start": 0,
+              "username": "Newton985985"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lkm9tYADjZ",
+              "end": 37,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2073072905668415988/photo/1",
+              "media_key": "3_2073072899112796160",
+              "start": 14,
+              "url": "https://t.co/Lkm9tYADjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073072905668415988",
+        "in_reply_to_user_id": "1623691907032584193",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073072627057647907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Newton985985 https://t.co/Lkm9tYADjZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623691907032584193",
+        "conversation_id": "2073072627057647907",
+        "created_at": "2026-07-03T15:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073072627057647907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bcfqdtfqz/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/bcfqdtfqz/status/2073072298639364230",
+              "start": 6,
+              "url": "https://t.co/Cq76SwhDvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073072627057647907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073072298639364230",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这根本是窝 https://t.co/Cq76SwhDvp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "梦到哪句发哪句",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 1383,
+          "like_count": 376,
+          "listed_count": 2,
+          "media_count": 784,
+          "tweet_count": 2629
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-09T14:35:41.000Z",
+        "description": "一个哈基米bot/失败学苯嗑牲/抽象主义😕🧠",
+        "id": "1623691907032584193",
+        "location": "星球",
+        "name": "Newton🫠🧠（古希腊掌管哈基米的神）",
+        "pinned_tweet_id": "1739291624751194571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866148225784377345/ny85Opto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 351,
+          "like_count": 117560,
+          "listed_count": 2,
+          "media_count": 493,
+          "tweet_count": 12537
+        },
+        "url": "",
+        "username": "Newton985985",
+        "verified": false
+      }
+    ]
+  }
+}

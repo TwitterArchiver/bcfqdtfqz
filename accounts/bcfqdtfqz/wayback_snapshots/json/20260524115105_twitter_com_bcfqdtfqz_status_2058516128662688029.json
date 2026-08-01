@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2058462836016476400",
+    "created_at": "2026-05-24T11:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058516128662688029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1120712903886344200",
+          "start": 0,
+          "username": "Philo2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058516128662688029",
+    "in_reply_to_user_id": "1120712903886344200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058462836016476400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Philo2022 那么要是什么都不会的呢（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2058462836016476400",
+        "created_at": "2026-05-24T11:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058516128662688029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1120712903886344200",
+              "start": 0,
+              "username": "Philo2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058516128662688029",
+        "in_reply_to_user_id": "1120712903886344200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058462836016476400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Philo2022 那么要是什么都不会的呢（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1120712903886344200",
+        "conversation_id": "2058462836016476400",
+        "created_at": "2026-05-24T08:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058462836016476400"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058462836016476400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3188,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我说一个暴论，那些某领域特别牛逼的，多少有一些大毛病。\n\n因为各项指标都正常的人，无法成为异类，能力和水平的异常值，也必然意味着还有基因或者生理心理层面的异常值，这种异常可能是你显而易见能看到的，也可能是看不到的。而且大概率会给自己或者身边人带来痛苦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 1347,
+          "like_count": 315,
+          "listed_count": 2,
+          "media_count": 737,
+          "tweet_count": 2002
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-23T15:35:52.000Z",
+        "description": "Creator, Artist, Creator of @dopamindai & https://t.co/CiW3w1GiB2 & Art Gallery https://t.co/FbODek76Fh | Blog: https://t.co/b6PsjnsGoA | My Artwork: @PhiloArt2020 | En: @Philo1024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "dopamindai"
+              },
+              {
+                "end": 163,
+                "start": 150,
+                "username": "PhiloArt2020"
+              },
+              {
+                "end": 180,
+                "start": 170,
+                "username": "Philo1024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "GoShipFast.com",
+                "end": 65,
+                "expanded_url": "http://GoShipFast.com",
+                "start": 42,
+                "url": "https://t.co/CiW3w1GiB2"
+              },
+              {
+                "display_url": "philoart.io",
+                "end": 103,
+                "expanded_url": "http://philoart.io",
+                "start": 80,
+                "url": "https://t.co/FbODek76Fh"
+              },
+              {
+                "display_url": "philoli.com",
+                "end": 135,
+                "expanded_url": "http://philoli.com",
+                "start": 112,
+                "url": "https://t.co/b6PsjnsGoA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "philoli.com",
+                "end": 23,
+                "expanded_url": "https://philoli.com/",
+                "start": 0,
+                "url": "https://t.co/E4ytxr9zV2"
+              }
+            ]
+          }
+        },
+        "id": "1120712903886344200",
+        "name": "Philo",
+        "pinned_tweet_id": "1954486195519623328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432329882692767747/oX4paPF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28710,
+          "following_count": 563,
+          "like_count": 9804,
+          "listed_count": 182,
+          "media_count": 1621,
+          "tweet_count": 15180
+        },
+        "url": "https://t.co/E4ytxr9zV2",
+        "username": "Philo2022",
+        "verified": true
+      }
+    ]
+  }
+}

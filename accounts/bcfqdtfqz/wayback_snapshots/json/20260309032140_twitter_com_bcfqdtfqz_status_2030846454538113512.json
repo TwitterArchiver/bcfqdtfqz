@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2030844869418058123",
+    "created_at": "2026-03-09T03:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T04:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030846454538113512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1478273995128537089",
+          "start": 0,
+          "username": "davidzhangsuper"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030846454538113512",
+    "in_reply_to_user_id": "1478273995128537089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030844869418058123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@davidzhangsuper 加油还款，然后退圈吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1810,
+        "media_key": "3_2030824182938738691",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC7v1alWIAMiQiJ.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1441,
+        "media_key": "3_2030824202429730816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC7v2jMXEAAwlPX.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2670,
+        "media_key": "3_2030824221945786369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC7v3r5WcAE1je-.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2030844869418058123",
+        "created_at": "2026-03-09T03:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T04:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030846454538113512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1478273995128537089",
+              "start": 0,
+              "username": "davidzhangsuper"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030846454538113512",
+        "in_reply_to_user_id": "1478273995128537089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030844869418058123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@davidzhangsuper 加油还款，然后退圈吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030824182938738691",
+            "3_2030824202429730816",
+            "3_2030824221945786369"
+          ]
+        },
+        "author_id": "1478273995128537089",
+        "conversation_id": "2030844869418058123",
+        "created_at": "2026-03-09T03:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T04:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030844869418058123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCKOJhayux",
+              "end": 183,
+              "expanded_url": "https://x.com/davidzhangsuper/status/2030844869418058123/photo/1",
+              "media_key": "3_2030824182938738691",
+              "start": 160,
+              "url": "https://t.co/MCKOJhayux"
+            },
+            {
+              "display_url": "pic.x.com/MCKOJhayux",
+              "end": 183,
+              "expanded_url": "https://x.com/davidzhangsuper/status/2030844869418058123/photo/1",
+              "media_key": "3_2030824202429730816",
+              "start": 160,
+              "url": "https://t.co/MCKOJhayux"
+            },
+            {
+              "display_url": "pic.x.com/MCKOJhayux",
+              "end": 183,
+              "expanded_url": "https://x.com/davidzhangsuper/status/2030844869418058123/photo/1",
+              "media_key": "3_2030824221945786369",
+              "start": 160,
+              "url": "https://t.co/MCKOJhayux"
+            },
+            {
+              "display_url": "x.com/davidzhangsupe…",
+              "end": 207,
+              "expanded_url": "https://twitter.com/davidzhangsuper/status/2029761124619669638",
+              "start": 184,
+              "url": "https://t.co/SEQt2ZNpxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030844869418058123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "昨天把币圈负债欠款的家人、信用卡、花呗支付宝之类做了个汇总，招行剩余欠款67237.41，广发64311.76，支付宝35000，家人那边25000.合计起来19.1W左右，加上利息上的，总共超过20W了。首先我和老婆分析和整理了一下，弄了个负债还款计划，预计2-3年时间，期间希望能顺顺利利的。信用卡那边已经分期的，咋们就定时分期还款，支付宝的只能有点钱就还点了，兼职、撸毛啥的，能有点钱就还，尽量咱们能不逾期就不逾期，确实不想给年幼的女儿的未来搞到有问题。\n     坦白2天的时间，说实话，心里虽然已经接受了这个事实，但是心态还是会有个刺一样，扎在那里，时不时疼一下。从币圈之前挥金如土，到现在生活缝缝补补，以至于周末这个时间段，想着陪女儿和老婆去儿童公园散心，想吃根5块钱的烤肠都还要犹豫之后才买了一根。但我相信我的状态很快能回来。\n        目前整体环境都不是很好，身体是本钱，主力收入是你维持生活的根本。做好自己目前的财务规划，不要过度或者拒绝透支自己承担不起的金钱。把生活过好，把家人照顾好。希望你，我的朋友们，能早日过上自己想要的生活。我的5年币圈人生有很多点点滴滴，后续整理出来分享让更多的人警戒。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029761124619669638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天把币圈负债欠款的家人、信用卡、花呗支付宝之类做了个汇总，招行剩余欠款67237.41，广发64311.76，支付宝35000，家人那边25000.合计起来19.1W左右，加上利息上的，总共超过20W了。首先我和老婆分析和整理了一下，弄了个负债还款计划，预计2-3年时间，期间希望能顺顺利利的。信用卡那边已经分期的， https://t.co/MCKOJhayux https://t.co/SEQt2ZNpxc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 1039,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 1120
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-04T07:56:21.000Z",
+        "description": "币圈前土狗接盘侠｜透支信用卡网贷欠债20w+正在爬坑｜30岁破产重来中｜别学我，别透支未来｜送外卖/兼职/还债日记｜家庭是我最后的底线",
+        "id": "1478273995128537089",
+        "name": "毛债猿大D",
+        "pinned_tweet_id": "2029761124619669638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026495289788370944/01Tko2mx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 1545,
+          "like_count": 7673,
+          "listed_count": 5,
+          "media_count": 432,
+          "tweet_count": 4269
+        },
+        "username": "davidzhangsuper",
+        "verified": true
+      }
+    ]
+  }
+}

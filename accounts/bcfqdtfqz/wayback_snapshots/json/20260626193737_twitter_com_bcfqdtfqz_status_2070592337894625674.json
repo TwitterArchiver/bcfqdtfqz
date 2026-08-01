@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070504813692108914",
+    "created_at": "2026-06-26T19:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T20:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070592337894625674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1994720929709174784",
+          "start": 0,
+          "username": "bth95147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070592337894625674",
+    "in_reply_to_user_id": "1994720929709174784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070504813692108914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bth95147 这也破嘛……？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070504813692108914",
+        "created_at": "2026-06-26T19:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T20:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070592337894625674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1994720929709174784",
+              "start": 0,
+              "username": "bth95147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070592337894625674",
+        "in_reply_to_user_id": "1994720929709174784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070504813692108914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bth95147 这也破嘛……？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994720929709174784",
+        "conversation_id": "2070504813692108914",
+        "created_at": "2026-06-26T13:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070504813692108914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bth95147/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/bth95147/status/2070041456828678381",
+              "start": 14,
+              "url": "https://t.co/HzAoyMxBqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070504813692108914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070041456828678381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "山东这个破分能上啥学qwq https://t.co/HzAoyMxBqN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1368,
+          "like_count": 346,
+          "listed_count": 2,
+          "media_count": 771,
+          "tweet_count": 2415
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-29T10:53:09.000Z",
+        "description": "后端开发 | 前端不通 | 高中毕业 | 主人@NanoCatfish",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "NanoCatfish"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bth95147.github.io",
+                "end": 23,
+                "expanded_url": "http://bth95147.github.io",
+                "start": 0,
+                "url": "https://t.co/VQlRoNVhST"
+              }
+            ]
+          }
+        },
+        "id": "1994720929709174784",
+        "location": "SD",
+        "name": "BtH",
+        "pinned_tweet_id": "2066796313690374173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053865235799482368/awveBf2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 300,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/VQlRoNVhST",
+        "username": "bth95147",
+        "verified": false
+      }
+    ]
+  }
+}

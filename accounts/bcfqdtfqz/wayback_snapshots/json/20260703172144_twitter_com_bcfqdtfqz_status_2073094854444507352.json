@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2073033907638038891",
+    "created_at": "2026-07-03T17:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T18:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073094854444507352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970515784762859520",
+          "start": 0,
+          "username": "Semp1trnal_2345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073094854444507352",
+    "in_reply_to_user_id": "1970515784762859520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073033907638038891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Semp1trnal_2345 互联网魅力之发什么都能被人阴阳一顿，已经脸皮厚被骂习惯了就有些无所谓这个了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073033901875023872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTlWbCaUAAjBDa.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073033901866704896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTlWbAbYAAP2Yz.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2073033907638038891",
+        "created_at": "2026-07-03T17:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073094854444507352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073094854444507352",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073033907638038891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 互联网魅力之发什么都能被人阴阳一顿，已经脸皮厚被骂习惯了就有些无所谓这个了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073033901875023872",
+            "3_2073033901866704896"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073033907638038891",
+        "created_at": "2026-07-03T13:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073033907638038891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qHq4XALVbo",
+              "end": 102,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2073033907638038891/photo/1",
+              "media_key": "3_2073033901875023872",
+              "start": 79,
+              "url": "https://t.co/qHq4XALVbo"
+            },
+            {
+              "display_url": "pic.x.com/qHq4XALVbo",
+              "end": 102,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2073033907638038891/photo/1",
+              "media_key": "3_2073033901866704896",
+              "start": 79,
+              "url": "https://t.co/qHq4XALVbo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073033907638038891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1471,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们呢总是觉得自己非常善良非常纯良 总觉得你们比我更了解我列表的人 我当然是知道她是怎么样的人才会这么想 希望你们仇人这么对你们的时候你们也这么刻薄的对自己 https://t.co/qHq4XALVbo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 1386,
+          "like_count": 378,
+          "listed_count": 2,
+          "media_count": 784,
+          "tweet_count": 2637
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 51,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 28,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 76,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 53,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 101,
+          "like_count": 13644,
+          "listed_count": 1,
+          "media_count": 480,
+          "tweet_count": 4531
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

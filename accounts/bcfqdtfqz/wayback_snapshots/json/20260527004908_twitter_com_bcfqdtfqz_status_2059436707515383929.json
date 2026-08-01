@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059436578636976128"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2059436707515383929",
+    "created_at": "2026-05-27T00:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T01:48:40.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059436593157636187",
+      "2059436707515383929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uFRPLJ5IxU",
+          "end": 57,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2059436707515383929/photo/1",
+          "media_key": "3_2059436578636976128",
+          "start": 34,
+          "url": "https://t.co/uFRPLJ5IxU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059436707515383929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不知道小米你这个八败两胜怎么来的\n但是你财报确实比特斯拉拉。。。 https://t.co/uFRPLJ5IxU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_2059436578636976128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSWqCsaUAAgWSF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059436578636976128"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2059436593157636187",
+        "created_at": "2026-05-27T00:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:48:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059436593157636187",
+          "2059436707515383929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPlqT2lA20",
+              "end": 55,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2059436593157636187/photo/1",
+              "media_key": "3_2059436578636976128",
+              "start": 32,
+              "url": "https://t.co/jPlqT2lA20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059436593157636187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道你这个八败两胜怎么来的\n但是你财报确实比特斯拉拉。。。 https://t.co/jPlqT2lA20"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059436578636976128"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2059436707515383929",
+        "created_at": "2026-05-27T00:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:48:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059436593157636187",
+          "2059436707515383929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFRPLJ5IxU",
+              "end": 57,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2059436707515383929/photo/1",
+              "media_key": "3_2059436578636976128",
+              "start": 34,
+              "url": "https://t.co/uFRPLJ5IxU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059436707515383929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道小米你这个八败两胜怎么来的\n但是你财报确实比特斯拉拉。。。 https://t.co/uFRPLJ5IxU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n分享思考和个人生活\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 1349,
+          "like_count": 322,
+          "listed_count": 2,
+          "media_count": 740,
+          "tweet_count": 2033
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

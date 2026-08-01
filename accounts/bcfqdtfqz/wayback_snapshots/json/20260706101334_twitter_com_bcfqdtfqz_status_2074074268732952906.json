@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2074073083305185309",
+    "created_at": "2026-07-06T10:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T11:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074074268732952906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "899470193776140289",
+          "start": 0,
+          "username": "hzqsns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074074268732952906",
+    "in_reply_to_user_id": "899470193776140289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074073083305185309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzqsns 我复推的一个比较大的原因是我妈为了验证我的那套是错的然后给我转牢a的三通一达，然后更诡异的是她亲妹妹拿了英国绿卡🙂‍↔️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2074073083305185309",
+        "created_at": "2026-07-06T10:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074074268732952906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "899470193776140289",
+              "start": 0,
+              "username": "hzqsns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074074268732952906",
+        "in_reply_to_user_id": "899470193776140289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074073083305185309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzqsns 我复推的一个比较大的原因是我妈为了验证我的那套是错的然后给我转牢a的三通一达，然后更诡异的是她亲妹妹拿了英国绿卡🙂‍↔️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "899470193776140289",
+        "conversation_id": "2074073083305185309",
+        "created_at": "2026-07-06T10:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074073083305185309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074073083305185309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "怎么才能让我妈天天不要给我转发一堆抖音上的弱智视频啊🤣🤣\n\n打个比方，看到有人睡觉给手机充电烧了就跟我说千万睡觉的时候不能给手机充电🫪\n\n还有其他更弱智的比如日本相关的各种群情激奋的新闻啥的更不想说了，感觉现在中国人真的被洗脑洗的太严重了，他们只能看到有人想要他们看到的东西\n\n我现在都懒得理，感觉只能顺从他们就完事了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么才能让我妈天天不要给我转发一堆抖音上的弱智视频啊🤣🤣\n\n打个比方，看到有人睡觉给手机充电烧了就跟我说千万睡觉的时候不能给手机充电🫪\n\n还有其他更弱智的比如日本相关的各种群情激奋的新闻啥的更不想说了，感觉现在中国人真的被洗脑洗的太严重了，他们只能看到有人想要他们看到的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 1404,
+          "like_count": 390,
+          "listed_count": 2,
+          "media_count": 789,
+          "tweet_count": 2746
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-21T03:16:20.000Z",
+        "description": "ex-KS | ex-Baidu\nISFJ | mtx | 奇迹和魔法并不是免费的\n🐧：第40542075个质数\n欢迎和我交朋友ww\n自我介绍请看亮点置顶喵",
+        "id": "899470193776140289",
+        "location": "M87",
+        "name": "Sakura🜃",
+        "pinned_tweet_id": "2061076825389019435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060627202182651904/RO0pQWPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1610,
+          "following_count": 564,
+          "like_count": 3692,
+          "listed_count": 4,
+          "media_count": 560,
+          "tweet_count": 2433
+        },
+        "url": "",
+        "username": "hzqsns",
+        "verified": true
+      }
+    ]
+  }
+}

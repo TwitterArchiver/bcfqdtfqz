@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2059498938726772956",
+    "created_at": "2026-05-27T04:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059498938726772956"
+    ],
+    "entities": {
+      "cashtags": [
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "FLY"
+        },
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "RKLB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059498938726772956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "美股航天接着起飞啊啊啊啊啊啊\n$FLY $RKLB\n尤其是这俩真发射火箭的，这几天都在疯狂暴涨哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2059498938726772956",
+        "created_at": "2026-05-27T04:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059498938726772956"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "FLY"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "RKLB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059498938726772956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美股航天接着起飞啊啊啊啊啊啊\n$FLY $RKLB\n尤其是这俩真发射火箭的，这几天都在疯狂暴涨哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n分享思考和个人生活\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 1349,
+          "like_count": 322,
+          "listed_count": 2,
+          "media_count": 740,
+          "tweet_count": 2036
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

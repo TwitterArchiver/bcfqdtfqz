@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021431733875302400"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2021431743572766727",
+    "created_at": "2026-02-11T03:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T04:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021431743572766727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I1TP9yKJ1L",
+          "end": 50,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2021431743572766727/photo/1",
+          "media_key": "3_2021431733875302400",
+          "start": 27,
+          "url": "https://t.co/I1TP9yKJ1L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021431743572766727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那么给两部手机\n负负得正\n不就能拯救一个孩子了吗🤓🤓 https://t.co/I1TP9yKJ1L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2021431733875302400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA2Rc7NW4AAxalc.jpg",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021431733875302400"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2021431743572766727",
+        "created_at": "2026-02-11T03:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T04:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021431743572766727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1TP9yKJ1L",
+              "end": 50,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2021431743572766727/photo/1",
+              "media_key": "3_2021431733875302400",
+              "start": 27,
+              "url": "https://t.co/I1TP9yKJ1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021431743572766727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那么给两部手机\n负负得正\n不就能拯救一个孩子了吗🤓🤓 https://t.co/I1TP9yKJ1L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "🍅",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 693,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 283
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

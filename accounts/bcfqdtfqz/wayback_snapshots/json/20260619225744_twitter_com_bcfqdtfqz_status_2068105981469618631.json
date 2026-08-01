@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2067984815597744322",
+    "created_at": "2026-06-19T22:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T23:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068105981469618631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1999668646952730625",
+          "start": 0,
+          "username": "LyingOverDuckww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068105981469618631",
+    "in_reply_to_user_id": "1999668646952730625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067984815597744322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LyingOverDuckww 我真得向你学习了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1780,
+        "media_key": "3_2067984812649103360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLL1Ov7aQAA1tBX.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2067984815597744322",
+        "created_at": "2026-06-19T22:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T23:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068105981469618631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1999668646952730625",
+              "start": 0,
+              "username": "LyingOverDuckww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068105981469618631",
+        "in_reply_to_user_id": "1999668646952730625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067984815597744322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LyingOverDuckww 我真得向你学习了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067984812649103360"
+          ]
+        },
+        "author_id": "1999668646952730625",
+        "conversation_id": "2067984815597744322",
+        "created_at": "2026-06-19T14:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067984815597744322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fsq0qpJfdH",
+              "end": 144,
+              "expanded_url": "https://x.com/LyingOverDuckww/status/2067984815597744322/photo/1",
+              "media_key": "3_2067984812649103360",
+              "start": 121,
+              "url": "https://t.co/fsq0qpJfdH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067984815597744322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 18455,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于酒店价格...\n\n但是要知道一件事...\n小鸭的钱是自己赚出来的...\n并且一天能赚3000+...\n差不多我爸或者我妈一个月的工资...\n\n赚钱是因为我有两年的CMC国一...其中有一年成绩还比较靠前...所以给机构干活赚钱吃饭... https://t.co/fsq0qpJfdH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 1348,
+          "like_count": 342,
+          "listed_count": 2,
+          "media_count": 759,
+          "tweet_count": 2312
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T02:32:23.000Z",
+        "description": "好想谈恋爱 | 🏳️‍🌈 | 友跨 | Gemini全肯定bot | 数学 | INTJ-T | furry控 | 准美留 | 民谣摇滚重金属 | 备用 @LyingOver_Duck | 友链 @Boat_wind_moon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "LyingOver_Duck"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "Boat_wind_moon"
+              }
+            ]
+          }
+        },
+        "id": "1999668646952730625",
+        "location": "被流放到荒芜之地的人不会有幸福",
+        "name": "摆烂小鸭🦆（二代目）➡️大连🔜长春",
+        "pinned_tweet_id": "2031716798362697946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999670075301986305/SbikQVqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2575,
+          "following_count": 1683,
+          "like_count": 6382,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 2785
+        },
+        "url": "",
+        "username": "LyingOverDuckww",
+        "verified": false
+      }
+    ]
+  }
+}

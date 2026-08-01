@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2039183079391285731",
+    "created_at": "2026-04-01T14:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T15:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039355404325683285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841306675674075136",
+          "start": 0,
+          "username": "suishoucrystal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039355404325683285",
+    "in_reply_to_user_id": "1841306675674075136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039183079391285731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suishoucrystal 这个跟荐股悖论一样\n要是真能完全确定发财的话估计直接卖房卖车直接梭哈了不会开个space卖门票钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039178614030389248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEyeJTra0AA-dcS.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2039183079391285731",
+        "created_at": "2026-04-01T14:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T15:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039355404325683285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841306675674075136",
+              "start": 0,
+              "username": "suishoucrystal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039355404325683285",
+        "in_reply_to_user_id": "1841306675674075136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039183079391285731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suishoucrystal 这个跟荐股悖论一样\n要是真能完全确定发财的话估计直接卖房卖车直接梭哈了不会开个space卖门票钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039178614030389248"
+          ]
+        },
+        "author_id": "1841306675674075136",
+        "conversation_id": "2039183079391285731",
+        "created_at": "2026-04-01T03:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:11:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039178870403084771",
+          "2039183079391285731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xx7xoxyO2V",
+              "end": 153,
+              "expanded_url": "https://x.com/suishoucrystal/status/2039183079391285731/photo/1",
+              "media_key": "3_2039178614030389248",
+              "start": 130,
+              "url": "https://t.co/Xx7xoxyO2V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039183079391285731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 859,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "营销通常是做一个漏斗，\n比如给教人赚钱的社群设置入群费\n\n先让交199元打头阵，吸引目光\n\n再让交3999元，让外界认为产品真的有含金量\n\n最后让交5999元，用天价噱头搞出流量，吸引住被唬到的人\n\n之后愿意交5999的就是最绿的那一茬韭菜\n\n那我还能说啥了 https://t.co/Xx7xoxyO2V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅@__fanqie__日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "__fanqie__"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不知道包什么的番茄",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 1283,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 576,
+          "tweet_count": 1546
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "東亜観察家🇯🇵🇹🇼🇨🇳🇭🇰     　                                                  　           　\n毎日面白い東アジア情報をお届けします\n         👾我有内容才值得你fo我👾",
+        "id": "1841306675674075136",
+        "location": "台湾　金門県",
+        "name": "水晶クリスタル",
+        "pinned_tweet_id": "2039016210462032190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 1021,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 2070
+        },
+        "username": "suishoucrystal",
+        "verified": true
+      }
+    ]
+  }
+}

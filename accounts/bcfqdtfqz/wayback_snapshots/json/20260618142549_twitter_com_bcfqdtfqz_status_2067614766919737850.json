@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2067562242296697213",
+    "created_at": "2026-06-18T14:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067614766919737850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "5869832",
+          "start": 0,
+          "username": "dexteryy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067614766919737850",
+    "in_reply_to_user_id": "5869832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067562242296697213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dexteryy 你大a别买etf进个个股试试。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1935,
+        "media_key": "3_2067562229210460160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF05J8asAACsaB.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067562229202067456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF05J6aoAA4Ari.jpg",
+        "width": 822
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067562229210472448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF05J8a4AAQXlm.jpg",
+        "width": 1106
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067562229210468352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF05J8a0AAHZLV.jpg",
+        "width": 274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2067562242296697213",
+        "created_at": "2026-06-18T14:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067614766919737850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "5869832",
+              "start": 0,
+              "username": "dexteryy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067614766919737850",
+        "in_reply_to_user_id": "5869832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067562242296697213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dexteryy 你大a别买etf进个个股试试。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067562229210460160",
+            "3_2067562229202067456",
+            "3_2067562229210472448",
+            "3_2067562229210468352"
+          ]
+        },
+        "author_id": "5869832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1486467051363258370",
+              "name": "IPOs"
+            }
+          }
+        ],
+        "conversation_id": "2067562242296697213",
+        "created_at": "2026-06-18T10:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067562242296697213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZLLcHZwk4",
+              "end": 91,
+              "expanded_url": "https://x.com/dexteryy/status/2067562242296697213/photo/1",
+              "media_key": "3_2067562229210460160",
+              "start": 68,
+              "url": "https://t.co/2ZLLcHZwk4"
+            },
+            {
+              "display_url": "pic.x.com/2ZLLcHZwk4",
+              "end": 91,
+              "expanded_url": "https://x.com/dexteryy/status/2067562242296697213/photo/1",
+              "media_key": "3_2067562229202067456",
+              "start": 68,
+              "url": "https://t.co/2ZLLcHZwk4"
+            },
+            {
+              "display_url": "pic.x.com/2ZLLcHZwk4",
+              "end": 91,
+              "expanded_url": "https://x.com/dexteryy/status/2067562242296697213/photo/1",
+              "media_key": "3_2067562229210472448",
+              "start": 68,
+              "url": "https://t.co/2ZLLcHZwk4"
+            },
+            {
+              "display_url": "pic.x.com/2ZLLcHZwk4",
+              "end": 91,
+              "expanded_url": "https://x.com/dexteryy/status/2067562242296697213/photo/1",
+              "media_key": "3_2067562229210468352",
+              "start": 68,
+              "url": "https://t.co/2ZLLcHZwk4"
+            },
+            {
+              "display_url": "x.com/dexteryy/statu…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/dexteryy/status/2054511214265569640",
+              "start": 92,
+              "url": "https://t.co/gwwVWZKcc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067562242296697213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很多人厌恶止损但特别喜欢止盈同时还觉得A股港股不赚钱，可参考下我港股（今年年初为做实验建立的公开实盘组合）和A股（几个主力仓位）的现状\n\n关于「止盈」是不是一种散户陋习，其实关键在于要区分非生息资产和生息资产，也要区分有成长趋势的生息资产和没成长趋势的生息资产，让AI帮我写了一段解释，见图4"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 8670,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054511214265569640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多人厌恶止损但特别喜欢止盈同时还觉得A股港股不赚钱，可参考下我港股（今年年初为做实验建立的公开实盘组合）和A股（几个主力仓位）的现状 https://t.co/2ZLLcHZwk4 https://t.co/gwwVWZKcc6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 1342,
+          "like_count": 340,
+          "listed_count": 2,
+          "media_count": 759,
+          "tweet_count": 2288
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2007-05-08T17:14:26.000Z",
+        "description": "English account: @dexteryy_en | Web、JS、XR、元宇宙、AI、Web3/crypto、游戏方向的软件开发者和产品设计者。追求用软件技术超越生物进化和物理现实的局限。平时也是硬核游戏玩家和金融投资者。热爱奇幻科幻文化。既注重效率推崇技术加速主义和自由市场，又支持去中心化技术平权和UBI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "dexteryy_en"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jike.city/dexteryy",
+                "end": 23,
+                "expanded_url": "https://jike.city/dexteryy",
+                "start": 0,
+                "url": "https://t.co/gLW3hDaplJ"
+              }
+            ]
+          }
+        },
+        "id": "5869832",
+        "location": "Beijing, China",
+        "name": "Dexter Yang ᯅノ🌐🔗🧙🏻‍♂️👾🦋",
+        "pinned_tweet_id": "1996802667889545694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913241418526765056/5Jyy53Fr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21216,
+          "following_count": 3014,
+          "like_count": 6564,
+          "listed_count": 339,
+          "media_count": 1179,
+          "tweet_count": 3742
+        },
+        "url": "https://t.co/gLW3hDaplJ",
+        "username": "dexteryy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2040381662002049316",
+    "created_at": "2026-04-05T03:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T04:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040630792674742474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1143809352773582849",
+          "start": 0,
+          "username": "NyaRlP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040630792674742474",
+    "in_reply_to_user_id": "1143809352773582849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040381662002049316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyaRlP 对不起🧎‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2040381662002049316",
+        "created_at": "2026-04-05T03:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T04:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040630792674742474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1143809352773582849",
+              "start": 0,
+              "username": "NyaRlP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040630792674742474",
+        "in_reply_to_user_id": "1143809352773582849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040381662002049316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaRlP 对不起🧎‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1143809352773582849",
+        "conversation_id": "2040381662002049316",
+        "created_at": "2026-04-04T10:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040381662002049316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040381662002049316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1302,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是这怎么回复里还有装正常人互动的机器人啊\n我还开开心心回复了\n欺骗我感情\n我恨你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "原番茄🍅日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa（私信互关）",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 1308,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 605,
+          "tweet_count": 1604
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-26T09:12:55.000Z",
+        "description": "正在输入…",
+        "id": "1143809352773582849",
+        "name": "苯纪日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739317362720137216/CT_hm-kh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 995,
+          "like_count": 89397,
+          "listed_count": 5,
+          "media_count": 335,
+          "tweet_count": 6429
+        },
+        "username": "NyaRlP",
+        "verified": false
+      }
+    ]
+  }
+}

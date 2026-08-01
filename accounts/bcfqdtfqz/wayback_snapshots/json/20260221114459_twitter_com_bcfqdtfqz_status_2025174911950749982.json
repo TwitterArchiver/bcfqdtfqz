@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2025174911950749982",
+    "created_at": "2026-02-21T11:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T12:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025174911950749982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bcfqdtfqz/stat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/bcfqdtfqz/status/2025062704692822095",
+          "start": 21,
+          "url": "https://t.co/YuYL1CCLWd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025174911950749982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025062704692822095",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不容易千fo了，开始新征程😉感谢大家支持 https://t.co/YuYL1CCLWd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 684,
+        "media_key": "3_2025062696799141890",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBp3yyKbgAIrNwo.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2025174911950749982",
+        "created_at": "2026-02-21T11:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025174911950749982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bcfqdtfqz/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/bcfqdtfqz/status/2025062704692822095",
+              "start": 21,
+              "url": "https://t.co/YuYL1CCLWd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025174911950749982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025062704692822095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不容易千fo了，开始新征程😉感谢大家支持 https://t.co/YuYL1CCLWd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025062696799141890"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2025062704692822095",
+        "created_at": "2026-02-21T04:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025062704692822095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0t84wT0jcV",
+              "end": 34,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2025062704692822095/photo/1",
+              "media_key": "3_2025062696799141890",
+              "start": 11,
+              "url": "https://t.co/0t84wT0jcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025062704692822095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我离千fo还有多久🧐 https://t.co/0t84wT0jcV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主｜里推@_with_tomato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "_with_tomato"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 967,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 715
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

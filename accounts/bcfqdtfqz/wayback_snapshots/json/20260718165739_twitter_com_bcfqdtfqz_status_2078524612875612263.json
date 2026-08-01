@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2078400613679820900",
+    "created_at": "2026-07-18T16:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T17:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078524612875612263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1956083750661718016",
+          "start": 0,
+          "username": "fly2_1M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078524612875612263",
+    "in_reply_to_user_id": "1956083750661718016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078400613679820900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fly2_1M 那么如果跌停没平仓把保证金补上了是不是就不用平了……？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2078400613679820900",
+        "created_at": "2026-07-18T16:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078524612875612263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1956083750661718016",
+              "start": 0,
+              "username": "fly2_1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078524612875612263",
+        "in_reply_to_user_id": "1956083750661718016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078400613679820900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fly2_1M 那么如果跌停没平仓把保证金补上了是不是就不用平了……？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956083750661718016",
+        "conversation_id": "2078400613679820900",
+        "created_at": "2026-07-18T08:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078400613679820900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fly2_1M/status…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/fly2_1M/status/2078074854759403630",
+              "start": 92,
+              "url": "https://t.co/f2AuQurF1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078400613679820900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "浅谈中国券商“虚假”描述：\n\n未出现大规模平仓\n\n1. 原因一：大规模平仓正在排队中，目前的主动买单极少极少，跌停龙头们都是一字封单跌停，大规模平仓自然还在爆仓清算队列中，并未平仓。\n\n事实：一旦出现连续杀跌后的放量开板，那一天会吧所有强平队列里面的早已被清算的仓位完全平仓。如德明利，顶部融资盘早已穿过平仓线，只是目前无法计算亏损。\n\n2. 原因二：两融余额从6·23破3万亿的历史高点11连降到2.86万亿，降幅5.7%，被解读为良性降低杠杆率。\n\n事实：这里面的融资余额下降平仓止损率奇高，6.23到现在创业板指跌幅超过20%，而大面积的个股在周一已经出现当天跌停封死四百家跌停后，第二日个股融资余额显著减少，良性降低杠杆率却发生了400家跌停，难以置信。此外融资余额难以在上涨中止盈撤离，实际爆仓/止损人数应该超乎市场预期，几个跌停龙头只是在排队清算，而非没有杠杆。\n\n3. 原因三：担保比例为全市场均值，不代表拥挤板块尾部风险，拥挤板块的杠杆资金更多，趋势性量化多头策略通常带有一定的杠杆率，待强平比例更高，实际爆仓人数测算已经超过2635低点时的微盘股策略拥挤，融资盘无人可接触发连续强平清算。\n\n敬畏杠杆，正确理解市场新闻，在新闻反复透露没有大量强制平仓的标题之下，到底是没有强平，还是强平队列已经长到无法一次清算？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 17509,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078074854759403630",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "浅谈中国券商“虚假”描述：\n\n未出现大规模平仓\n\n1. 原因一：大规模平仓正在排队中，目前的主动买单极少极少，跌停龙头们都是一字封单跌停，大规模平仓自然还在爆仓清算队列中，并未平仓。 https://t.co/f2AuQurF1O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号，梦到哪句发哪句\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 47,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 24,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 1432,
+          "like_count": 418,
+          "listed_count": 2,
+          "media_count": 812,
+          "tweet_count": 3071
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T20:01:43.000Z",
+        "description": "不交易也是一种交易。\n重视趋势性机会，重仓国运级的机会。\n不提供任何财务建议，记录自己的每一笔交易。",
+        "id": "1956083750661718016",
+        "name": "从零爬上100wu",
+        "pinned_tweet_id": "2065104467012505949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050787841970728961/cAYAwg2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5812,
+          "following_count": 162,
+          "like_count": 14366,
+          "listed_count": 70,
+          "media_count": 1155,
+          "tweet_count": 7978
+        },
+        "url": "",
+        "username": "fly2_1M",
+        "verified": true
+      }
+    ]
+  }
+}

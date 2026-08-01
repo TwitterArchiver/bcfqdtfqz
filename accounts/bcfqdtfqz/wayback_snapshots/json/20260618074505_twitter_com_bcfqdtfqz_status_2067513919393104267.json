@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2067508403107508472",
+    "created_at": "2026-06-18T07:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067513919393104267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1780028117920444416",
+          "start": 0,
+          "username": "moonouox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067513919393104267",
+    "in_reply_to_user_id": "1780028117920444416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067508403107508472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonouox 不对啊，我听人说擦边只有亏了才会擦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067508393364074496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFD7fyasAAKk34.jpg",
+        "width": 1474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2067508403107508472",
+        "created_at": "2026-06-18T07:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067513919393104267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780028117920444416",
+              "start": 0,
+              "username": "moonouox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067513919393104267",
+        "in_reply_to_user_id": "1780028117920444416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067508403107508472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonouox 不对啊，我听人说擦边只有亏了才会擦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067508393364074496"
+          ]
+        },
+        "author_id": "1780028117920444416",
+        "conversation_id": "2067508403107508472",
+        "created_at": "2026-06-18T07:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067508403107508472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pXyXtYoUs6",
+              "end": 41,
+              "expanded_url": "https://x.com/moonouox/status/2067508403107508472/photo/1",
+              "media_key": "3_2067508393364074496",
+              "start": 18,
+              "url": "https://t.co/pXyXtYoUs6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067508403107508472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难道真的要在大A回合约的本吗。。。 https://t.co/pXyXtYoUs6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 1340,
+          "like_count": 340,
+          "listed_count": 2,
+          "media_count": 759,
+          "tweet_count": 2275
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T00:19:17.000Z",
+        "description": "嘴贱我的人三分钟之内会死",
+        "id": "1780028117920444416",
+        "name": "我需要三个亿",
+        "pinned_tweet_id": "1953051015600591211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065371447036633088/NnxXLS3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 408,
+          "like_count": 179,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 996
+        },
+        "username": "moonouox",
+        "verified": true
+      }
+    ]
+  }
+}

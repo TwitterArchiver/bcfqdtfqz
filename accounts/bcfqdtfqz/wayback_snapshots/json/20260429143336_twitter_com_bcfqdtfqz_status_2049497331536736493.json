@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2049494686419796156",
+    "created_at": "2026-04-29T14:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049497331536736493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1172834693730861056",
+          "start": 0,
+          "username": "uncleTakeaway"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049497331536736493",
+    "in_reply_to_user_id": "1172834693730861056",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049494686419796156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uncleTakeaway just for fun"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2049494686419796156",
+        "created_at": "2026-04-29T14:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049497331536736493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1172834693730861056",
+              "start": 0,
+              "username": "uncleTakeaway"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049497331536736493",
+        "in_reply_to_user_id": "1172834693730861056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049494686419796156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uncleTakeaway just for fun"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1172834693730861056",
+        "conversation_id": "2049494686419796156",
+        "created_at": "2026-04-29T14:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049494686419796156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049494686419796156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果不能赚钱，我发帖子的意义何在？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄包着番茄籽炒蛋",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 1345,
+          "like_count": 271,
+          "listed_count": 1,
+          "media_count": 708,
+          "tweet_count": 1827
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-14T11:29:36.000Z",
+        "description": "文字直播。信息秒回言语犀利，不喜欢直接拉黑我，不拉黑任何一个人最爱不同观点付费用户，拒绝垃圾文章，交朋友心态做账户，点赞必回，评论必回，关注必回只关注2000个蓝标朋友，全仓英伟达特斯拉，热爱投资，生活，有趣，永远热血沸腾，永远热泪盈眶，每天特斯拉F sd特斯拉自动驾驶外卖300公里在加拿大-30度经常更新状况",
+        "id": "1172834693730861056",
+        "location": "Canada",
+        "name": "特斯拉送外卖中年大叔日记-移民火星中",
+        "pinned_tweet_id": "2048885763824370057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026517100307906560/Owxi52zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4732,
+          "following_count": 2400,
+          "like_count": 29416,
+          "listed_count": 5,
+          "media_count": 1070,
+          "tweet_count": 23477
+        },
+        "username": "uncleTakeaway",
+        "verified": true
+      }
+    ]
+  }
+}

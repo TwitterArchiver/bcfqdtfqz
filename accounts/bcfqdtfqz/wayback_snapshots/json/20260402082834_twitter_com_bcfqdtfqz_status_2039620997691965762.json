@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039620990737739776"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2039620997691965762",
+    "created_at": "2026-04-02T08:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T09:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039620997691965762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/amgu6jm8wL",
+          "end": 31,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2039620997691965762/photo/1",
+          "media_key": "3_2039620990737739776",
+          "start": 8,
+          "url": "https://t.co/amgu6jm8wL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039620997691965762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草猫这个尾巴😨 https://t.co/amgu6jm8wL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 443,
+        "media_key": "3_2039620990737739776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4wfBVacAA3asI.jpg",
+        "width": 571
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039620990737739776"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2039620997691965762",
+        "created_at": "2026-04-02T08:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039620997691965762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/amgu6jm8wL",
+              "end": 31,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2039620997691965762/photo/1",
+              "media_key": "3_2039620990737739776",
+              "start": 8,
+              "url": "https://t.co/amgu6jm8wL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039620997691965762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草猫这个尾巴😨 https://t.co/amgu6jm8wL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅@__fanqie__日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "__fanqie__"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不知道包什么的番茄",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1633,
+          "following_count": 1282,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 577,
+          "tweet_count": 1548
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

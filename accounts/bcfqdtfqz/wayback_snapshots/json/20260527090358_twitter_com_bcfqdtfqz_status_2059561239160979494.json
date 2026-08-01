@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2059509973328257349",
+    "created_at": "2026-05-27T09:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059561239160979494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1227700161465344000",
+          "start": 0,
+          "username": "XiaoBaiLongXBL"
+        },
+        {
+          "end": 28,
+          "id": "1536277123085660161",
+          "start": 16,
+          "username": "sky27867843"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059561239160979494",
+    "in_reply_to_user_id": "1227700161465344000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059528278705426444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoBaiLongXBL @sky27867843 ？这比群兴玩具还几把扯淡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 312,
+        "media_key": "3_2059528273852583936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTqDZ_bUAAxirs.jpg",
+        "width": 452
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2059509973328257349",
+        "created_at": "2026-05-27T09:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059561239160979494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1227700161465344000",
+              "start": 0,
+              "username": "XiaoBaiLongXBL"
+            },
+            {
+              "end": 28,
+              "id": "1536277123085660161",
+              "start": 16,
+              "username": "sky27867843"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059561239160979494",
+        "in_reply_to_user_id": "1227700161465344000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059528278705426444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoBaiLongXBL @sky27867843 ？这比群兴玩具还几把扯淡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059528273852583936"
+          ]
+        },
+        "author_id": "1227700161465344000",
+        "conversation_id": "2059509973328257349",
+        "created_at": "2026-05-27T06:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059528278705426444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1536277123085660161",
+              "start": 0,
+              "username": "sky27867843"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dJDnaJMOu7",
+              "end": 46,
+              "expanded_url": "https://x.com/XiaoBaiLongXBL/status/2059528278705426444/photo/1",
+              "media_key": "3_2059528273852583936",
+              "start": 23,
+              "url": "https://t.co/dJDnaJMOu7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059528278705426444",
+        "in_reply_to_user_id": "1536277123085660161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 855,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059509973328257349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sky27867843 因为白酒出小作文了 https://t.co/dJDnaJMOu7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n分享思考和个人生活\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 1348,
+          "like_count": 324,
+          "listed_count": 2,
+          "media_count": 740,
+          "tweet_count": 2046
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-12T21:05:13.000Z",
+        "description": "",
+        "id": "1227700161465344000",
+        "name": "小白龙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1379091175060037633/y8rvRg81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 731,
+          "like_count": 1064,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 2053
+        },
+        "username": "XiaoBaiLongXBL",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T09:19:51.000Z",
+        "description": "靠谱的经济与时政分析分析师\n提供有价值的黄金、币圈、股票建议\n关注我，为你带来好运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chuoxuechaobi",
+                "end": 23,
+                "expanded_url": "https://t.me/chuoxuechaobi",
+                "start": 0,
+                "url": "https://t.co/sTrJKupmhK"
+              }
+            ]
+          }
+        },
+        "id": "1536277123085660161",
+        "name": "0x辍学炒币",
+        "pinned_tweet_id": "2037460500519489704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889516823500169218/7i9YHsLt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13391,
+          "following_count": 417,
+          "like_count": 3335,
+          "listed_count": 91,
+          "media_count": 386,
+          "tweet_count": 5018
+        },
+        "url": "https://t.co/sTrJKupmhK",
+        "username": "sky27867843",
+        "verified": true
+      }
+    ]
+  }
+}

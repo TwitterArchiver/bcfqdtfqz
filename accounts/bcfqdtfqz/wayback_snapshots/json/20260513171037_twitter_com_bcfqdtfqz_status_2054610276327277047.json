@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2054610276327277047",
+    "created_at": "2026-05-13T17:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054610276327277047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bkingfilm/stat…",
+          "end": 144,
+          "expanded_url": "https://twitter.com/bkingfilm/status/2054535335946997996",
+          "start": 121,
+          "url": "https://t.co/aJk5Vs9kjJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054610276327277047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054535335946997996",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "用着一股老登味道写出来一篇漏洞百出的文章来论证这一大堆书读的没我课本厚大字不识几个只会刷抖音的废物中登刷几个沉迷网络游戏后面只能啃老的视频就误以为自己家的儿子也是这样\n另外国内禁了差不多四五年了未成年人进游戏了也没见人人过上了自己想要的人生 https://t.co/aJk5Vs9kjJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1683,
+        "media_key": "3_2054535326962716672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMs_pYakAAbHUP.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2054610276327277047",
+        "created_at": "2026-05-13T17:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054610276327277047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bkingfilm/stat…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/bkingfilm/status/2054535335946997996",
+              "start": 121,
+              "url": "https://t.co/aJk5Vs9kjJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054610276327277047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054535335946997996",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用着一股老登味道写出来一篇漏洞百出的文章来论证这一大堆书读的没我课本厚大字不识几个只会刷抖音的废物中登刷几个沉迷网络游戏后面只能啃老的视频就误以为自己家的儿子也是这样\n另外国内禁了差不多四五年了未成年人进游戏了也没见人人过上了自己想要的人生 https://t.co/aJk5Vs9kjJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054535326962716672"
+          ]
+        },
+        "author_id": "1632061450712944641",
+        "conversation_id": "2054535335946997996",
+        "created_at": "2026-05-13T12:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054535335946997996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6kkSonqGae",
+              "end": 57,
+              "expanded_url": "https://x.com/bkingfilm/status/2054535335946997996/photo/1",
+              "media_key": "3_2054535326962716672",
+              "start": 34,
+              "url": "https://t.co/6kkSonqGae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054535335946997996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 12688,
+          "like_count": 59,
+          "quote_count": 7,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "因为电子游戏的确毁了很多人的前途，这没什么好否认的，我遇到太多了… https://t.co/6kkSonqGae"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 1353,
+          "like_count": 293,
+          "listed_count": 1,
+          "media_count": 725,
+          "tweet_count": 1920
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-04T16:52:50.000Z",
+        "description": "拍了150+游戏纪录片\n游戏行业幕后20年\n每天更新中国游戏行业幕后\nGame documentaries | China Dev stories\n\n《中国电竞幕后史》作者\nAuthor of China’s Esports History\n\nhttps://t.co/aSTwNq907L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.com/invite/uT6xryB…",
+                "end": 145,
+                "expanded_url": "http://discord.com/invite/uT6xryBX9w",
+                "start": 122,
+                "url": "https://t.co/aSTwNq907L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/10500463",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/10500463",
+                "start": 0,
+                "url": "https://t.co/1XiDWIzQrg"
+              }
+            ]
+          }
+        },
+        "id": "1632061450712944641",
+        "location": "Shanghai | Game Industry",
+        "name": "导演BK｜游戏行业幕后",
+        "pinned_tweet_id": "2048837282027950534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029416657576443910/rXBxsKHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15832,
+          "following_count": 603,
+          "like_count": 2625,
+          "listed_count": 54,
+          "media_count": 1088,
+          "tweet_count": 2732
+        },
+        "url": "https://t.co/1XiDWIzQrg",
+        "username": "bkingfilm",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2075828267119235202",
+    "created_at": "2026-07-11T06:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T07:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075835777926439416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1894548093905084416",
+          "start": 0,
+          "username": "oooodjdjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075835777926439416",
+    "in_reply_to_user_id": "1894548093905084416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075828267119235202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oooodjdjd 我印象中南山也算是富人区吧……？虽然那一片生活设施没那么完善"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2075828267119235202",
+        "created_at": "2026-07-11T06:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075835777926439416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1894548093905084416",
+              "start": 0,
+              "username": "oooodjdjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075835777926439416",
+        "in_reply_to_user_id": "1894548093905084416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075828267119235202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oooodjdjd 我印象中南山也算是富人区吧……？虽然那一片生活设施没那么完善"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894548093905084416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2075828267119235202",
+        "created_at": "2026-07-11T06:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075828267119235202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075828267119235202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "月薪两万，在深圳算不错了。但你干了什么？7000块租了个南山区的一居室。\n\n占比35%什么概念？国际上有个通用标准叫房租收入比——\n\n30%以内：健康\n30%-40%：压力边缘\n40%以上：危险\n\n你直接干到35%，相当于你每天一睁眼，先欠房东233块钱，然后才能喘气吃饭。\n\n你问为什么存不下钱？大头都被房东收走了，你拿什么存？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "月薪两万，在深圳算不错了。但你干了什么？7000块租了个南山区的一居室。\n\n占比35%什么概念？国际上有个通用标准叫房租收入比——\n\n30%以内：健康\n30%-40%：压力边缘\n40%以上：危险\n\n你直接干到35%，相当于你每天一睁眼，先欠房东233块钱，然后才能喘气吃饭。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 1409,
+          "like_count": 399,
+          "listed_count": 2,
+          "media_count": 797,
+          "tweet_count": 2861
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-26T00:40:49.000Z",
+        "description": "🐱职业打工人，欢迎跟我一起进入web3 \n5年区块链经验丨投研分析丨知识成长分享丨专业HR/web3求职 \n\n🐾欢迎合作（小作文100%回复）：froussimis@gmail.com",
+        "id": "1894548093905084416",
+        "location": "Canyon Rim, UT",
+        "name": "meme",
+        "pinned_tweet_id": "2075128071536189854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949422290019790848/6cIshmX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17754,
+          "following_count": 449,
+          "like_count": 9080,
+          "listed_count": 65,
+          "media_count": 951,
+          "tweet_count": 5357
+        },
+        "url": "",
+        "username": "oooodjdjd",
+        "verified": true
+      }
+    ]
+  }
+}

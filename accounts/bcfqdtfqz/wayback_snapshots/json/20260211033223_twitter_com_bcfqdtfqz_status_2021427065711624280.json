@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2021168484688838823",
+    "created_at": "2026-02-11T03:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T04:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021427065711624280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2572155504",
+          "start": 0,
+          "username": "YingeAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021427065711624280",
+    "in_reply_to_user_id": "2572155504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021168484688838823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YingeAI 但是跟张一鸣聊两句眼见什么肯定和普通人不一样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 331,
+        "media_key": "3_2021168245005484034",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAyhz2raAAIy576.png",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2021168484688838823",
+        "created_at": "2026-02-11T03:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T04:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021427065711624280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2572155504",
+              "start": 0,
+              "username": "YingeAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021427065711624280",
+        "in_reply_to_user_id": "2572155504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021168484688838823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YingeAI 但是跟张一鸣聊两句眼见什么肯定和普通人不一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021168245005484034"
+          ]
+        },
+        "author_id": "2572155504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2021168484688838823",
+        "created_at": "2026-02-10T10:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021168484688838823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Td3B8fMkfM",
+              "end": 70,
+              "expanded_url": "https://x.com/YingeAI/status/2021168484688838823/photo/1",
+              "media_key": "3_2021168245005484034",
+              "start": 47,
+              "url": "https://t.co/Td3B8fMkfM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021168484688838823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 241932,
+          "like_count": 813,
+          "quote_count": 6,
+          "reply_count": 124,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "这个时候的张一鸣去追女孩子的话，大部分女孩子是看不上他的，大部分女孩子都想找一个眼前的富人。 https://t.co/Td3B8fMkfM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "🍅",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 693,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 280
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2014-06-17T04:01:24.000Z",
+        "description": "交易股票和期权，不交易加密货币。 加入我的社群——AI银哥美股研究社：https://t.co/6ZTvphKVDy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/DkEQ2Xtq9g",
+                "end": 58,
+                "expanded_url": "https://discord.gg/DkEQ2Xtq9g",
+                "start": 35,
+                "url": "https://t.co/6ZTvphKVDy"
+              }
+            ]
+          }
+        },
+        "id": "2572155504",
+        "name": "AI银哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020775177718743040/1i-xIjVE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32487,
+          "following_count": 464,
+          "like_count": 8876,
+          "listed_count": 335,
+          "media_count": 2217,
+          "tweet_count": 18886
+        },
+        "username": "YingeAI",
+        "verified": true
+      }
+    ]
+  }
+}

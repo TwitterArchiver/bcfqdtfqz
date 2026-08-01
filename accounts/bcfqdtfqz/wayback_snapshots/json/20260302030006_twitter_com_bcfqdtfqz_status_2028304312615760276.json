@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2028037756585443803",
+    "created_at": "2026-03-02T03:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T04:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028304312615760276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        },
+        {
+          "end": 28,
+          "id": "1868785269362900993",
+          "start": 17,
+          "username": "aaloesssss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028304312615760276",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028041239782994245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar @aaloesssss 这我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2028037756585443803",
+        "created_at": "2026-03-02T03:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T04:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028304312615760276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            },
+            {
+              "end": 28,
+              "id": "1868785269362900993",
+              "start": 17,
+              "username": "aaloesssss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028304312615760276",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028041239782994245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar @aaloesssss 这我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868205822511288320",
+        "conversation_id": "2028037756585443803",
+        "created_at": "2026-03-01T09:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T10:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028041239782994245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868785269362900993",
+              "start": 0,
+              "username": "aaloesssss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028041239782994245",
+        "in_reply_to_user_id": "1868785269362900993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028037756585443803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaloesssss 撸管后的见证男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 1014,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 930
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "口误是潜意识的真正流露 真正想做的是不抛弃是非而获得认同感和归属感 /爱你宝宝@valentina748264",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "valentina748264"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "demo",
+        "name": "vicoOci",
+        "pinned_tweet_id": "2026241131324084508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019382394135232512/gryjflOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4380,
+          "following_count": 338,
+          "like_count": 22955,
+          "listed_count": 15,
+          "media_count": 1062,
+          "tweet_count": 14637
+        },
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T22:28:31.000Z",
+        "description": "这个主播好有意思，我好喜欢，大家快关注快关注，什么，你看，这个人居然回follow了，好爱好爱好爱啊😘\n小tip:\n只混上流圈子，关注我一起上流，互fo(惬意) 🥰\ntip2:只与姐姐和巨帅的哥哥聊天（雾）",
+        "id": "1868785269362900993",
+        "location": "向往Japan",
+        "name": "aloes",
+        "pinned_tweet_id": "2028151470873514370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870805671450464257/6ns7iaR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 766,
+          "like_count": 1425,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 675
+        },
+        "username": "aaloesssss",
+        "verified": false
+      }
+    ]
+  }
+}

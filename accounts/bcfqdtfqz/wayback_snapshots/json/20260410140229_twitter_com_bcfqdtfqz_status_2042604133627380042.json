@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042604124743897088"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2042604133627380042",
+    "created_at": "2026-04-10T14:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042604133627380042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9gKDaB8Ex9",
+          "end": 31,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2042604133627380042/photo/1",
+          "media_key": "3_2042604124743897088",
+          "start": 8,
+          "url": "https://t.co/9gKDaB8Ex9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042604133627380042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我当时就震惊了 https://t.co/9gKDaB8Ex9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_2042604124743897088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjJoRgbkAArauN.jpg",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042604124743897088"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2042604133627380042",
+        "created_at": "2026-04-10T14:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042604133627380042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9gKDaB8Ex9",
+              "end": 31,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2042604133627380042/photo/1",
+              "media_key": "3_2042604124743897088",
+              "start": 8,
+              "url": "https://t.co/9gKDaB8Ex9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042604133627380042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我当时就震惊了 https://t.co/9gKDaB8Ex9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042598112297127936/-qFuRQwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1701,
+          "following_count": 1331,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 646,
+          "tweet_count": 1694
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070843809760739743",
+    "created_at": "2026-06-27T12:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070843809760739743"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070843809760739743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "今天晚上做课程设计，实验室的门锁了，有个玩的还行的让我去问管钥匙的要开门，\n\n之前学校有个合唱团活动，我和同组的这哥们抓去做壮丁唱歌，然后合唱落榜，有个负责排练的学姐说看我们没拿到名次在群里阴阳我们说我们不努力，那会没管这么多直接怼回去一句，然后这个管钥匙的直接群里疯狂问候我，火了直接退群\n\n这个管钥匙的平常也是天天在百人大群各种舔辅导员有事没事还跟着导员at他班上的，别的不说这个去体制内是一把好手但是办的事情确实恶心到我了。\n\n但是我同组的那个说要我来他社恐，百般推脱没用，最后我实在没办法捏着鼻子让他给我一句文案我复制扔大群里，办完事以后对他语音半分钟输出了几段。\n\n刚出来吃饭想了想说确实要重新理一下目前的一般的关系并且划分出某种标准的准则估计可以节省我的某些社交时间"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天晚上做课程设计，实验室的门锁了，有个玩的还行的让我去问管钥匙的要开门，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070843809760739743",
+        "created_at": "2026-06-27T12:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070843809760739743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070843809760739743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天晚上做课程设计，实验室的门锁了，有个玩的还行的让我去问管钥匙的要开门，\n\n之前学校有个合唱团活动，我和同组的这哥们抓去做壮丁唱歌，然后合唱落榜，有个负责排练的学姐说看我们没拿到名次在群里阴阳我们说我们不努力，那会没管这么多直接怼回去一句，然后这个管钥匙的直接群里疯狂问候我，火了直接退群\n\n这个管钥匙的平常也是天天在百人大群各种舔辅导员有事没事还跟着导员at他班上的，别的不说这个去体制内是一把好手但是办的事情确实恶心到我了。\n\n但是我同组的那个说要我来他社恐，百般推脱没用，最后我实在没办法捏着鼻子让他给我一句文案我复制扔大群里，办完事以后对他语音半分钟输出了几段。\n\n刚出来吃饭想了想说确实要重新理一下目前的一般的关系并且划分出某种标准的准则估计可以节省我的某些社交时间"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天晚上做课程设计，实验室的门锁了，有个玩的还行的让我去问管钥匙的要开门，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1739,
+          "following_count": 1376,
+          "like_count": 351,
+          "listed_count": 2,
+          "media_count": 774,
+          "tweet_count": 2443
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

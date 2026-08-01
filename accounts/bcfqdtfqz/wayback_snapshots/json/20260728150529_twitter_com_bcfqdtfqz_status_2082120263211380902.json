@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2082027969296699584",
+    "created_at": "2026-07-28T15:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T16:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082120263211380902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765989284275007488",
+          "start": 0,
+          "username": "yiming9876"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082120263211380902",
+    "in_reply_to_user_id": "1765989284275007488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082027969296699584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiming9876 这是什么网站"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 422,
+        "media_key": "3_2082025422469181440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTXFzebsAAix9L.jpg",
+        "width": 1398
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2082027969296699584",
+        "created_at": "2026-07-28T15:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082120263211380902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765989284275007488",
+              "start": 0,
+              "username": "yiming9876"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082120263211380902",
+        "in_reply_to_user_id": "1765989284275007488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082027969296699584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiming9876 这是什么网站"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082025422469181440"
+          ]
+        },
+        "author_id": "1765989284275007488",
+        "conversation_id": "2082027969296699584",
+        "created_at": "2026-07-28T08:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082027969296699584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ltUoCeDmIv",
+              "end": 64,
+              "expanded_url": "https://x.com/yiming9876/status/2082027969296699584/photo/1",
+              "media_key": "3_2082025422469181440",
+              "start": 41,
+              "url": "https://t.co/ltUoCeDmIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082027969296699584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1160,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果莫名其妙被别人拉黑 可能只是被MXGA误判了\n可以前往管理面板保护自己的账号 https://t.co/ltUoCeDmIv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 1427,
+          "like_count": 429,
+          "listed_count": 2,
+          "media_count": 824,
+          "tweet_count": 3193
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T06:33:58.000Z",
+        "description": "One of the core maintainers 👉 @CherryStudioHQ 🍒\nCSAI undergraduate student 👉 @UniofNottingham\nISTJ / https://t.co/zTQuCdSRQO\nhttps://t.co/wpRb8tCCp4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "CherryStudioHQ"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "UniofNottingham"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/Pleasurecruise",
+                "end": 124,
+                "expanded_url": "https://github.com/Pleasurecruise",
+                "start": 101,
+                "url": "https://t.co/zTQuCdSRQO"
+              },
+              {
+                "display_url": "yiming1234.cn",
+                "end": 148,
+                "expanded_url": "https://yiming1234.cn",
+                "start": 125,
+                "url": "https://t.co/wpRb8tCCp4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "you-find.me",
+                "end": 23,
+                "expanded_url": "https://you-find.me",
+                "start": 0,
+                "url": "https://t.co/yGqCGYmerC"
+              }
+            ]
+          }
+        },
+        "id": "1765989284275007488",
+        "location": "Nottingham, United Kingdom",
+        "name": "Pleasure1234",
+        "pinned_tweet_id": "2052830658683179211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052853273955028994/iCIWpxuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 180,
+          "like_count": 5077,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 768
+        },
+        "url": "https://t.co/yGqCGYmerC",
+        "username": "yiming9876",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2073066998251331640",
+    "created_at": "2026-07-03T16:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073075915693904172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1610289819053330432",
+          "start": 0,
+          "username": "water_life147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073075915693904172",
+    "in_reply_to_user_id": "1610289819053330432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073066998251331640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@water_life147 好好休息算吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2073066998251331640].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2073066998251331640",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2073066998251331640"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2073066998251331640",
+        "created_at": "2026-07-03T16:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073075915693904172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1610289819053330432",
+              "start": 0,
+              "username": "water_life147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073075915693904172",
+        "in_reply_to_user_id": "1610289819053330432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073066998251331640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@water_life147 好好休息算吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 1384,
+          "like_count": 377,
+          "listed_count": 2,
+          "media_count": 784,
+          "tweet_count": 2633
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-03T15:00:04.000Z",
+        "description": "每天发表一些暴论希望能通通实现\n一定会人头落地的～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=FH9bwaSK",
+                "start": 0,
+                "url": "https://t.co/b8VVSKDH85"
+              }
+            ]
+          }
+        },
+        "id": "1610289819053330432",
+        "location": "自用梯 ",
+        "name": "陨石坑",
+        "pinned_tweet_id": "2010789039281225885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020514563524079616/NBsFX9jw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8736,
+          "following_count": 147,
+          "like_count": 10393,
+          "listed_count": 19,
+          "media_count": 1703,
+          "tweet_count": 19622
+        },
+        "url": "https://t.co/b8VVSKDH85",
+        "username": "water_life147",
+        "verified": false
+      }
+    ]
+  }
+}

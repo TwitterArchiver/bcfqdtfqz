@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1486271512655003652",
+          "name": "Web3"
+        }
+      }
+    ],
+    "conversation_id": "2059564739664154996",
+    "created_at": "2026-05-27T09:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059564739664154996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AlonaSheri1960…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/AlonaSheri19605/status/2059445866092785681",
+          "start": 49,
+          "url": "https://t.co/miy0AG8H3t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059564739664154996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059445866092785681",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你在老虎富通玩赢了最次叫你叫20%点个人所得\n但是你在web3玩链上美股赢了有概率本金都给你收完 https://t.co/miy0AG8H3t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          }
+        ],
+        "conversation_id": "2059564739664154996",
+        "created_at": "2026-05-27T09:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059564739664154996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AlonaSheri1960…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/AlonaSheri19605/status/2059445866092785681",
+              "start": 49,
+              "url": "https://t.co/miy0AG8H3t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059564739664154996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059445866092785681",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你在老虎富通玩赢了最次叫你叫20%点个人所得\n但是你在web3玩链上美股赢了有概率本金都给你收完 https://t.co/miy0AG8H3t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755272895691927552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          }
+        ],
+        "conversation_id": "2059445866092785681",
+        "created_at": "2026-05-27T01:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059445866092785681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059445866092785681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 605,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "美股又又又涨了！\n国内能够真正买到美股的人有多少呢？\n\nweb3的人才是最聪明的，不会被国家影响\n哪里有钱就往哪里去\n\n对不是web3的人太不公平了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n分享思考和个人生活\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 1350,
+          "like_count": 324,
+          "listed_count": 2,
+          "media_count": 740,
+          "tweet_count": 2050
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-07T16:50:55.000Z",
+        "description": "INTJ  波段小吃家   爆仓小能手   知识传递  线条小狗忠实粉丝！！！\n小白很谦虚的，希望能有人跟我絮絮叨叨讲很多知识",
+        "id": "1755272895691927552",
+        "location": "US",
+        "name": "小白",
+        "pinned_tweet_id": "2059092713379889238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058533875014656000/DVQ0QBFw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 145,
+          "like_count": 1389,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 805
+        },
+        "username": "AlonaSheri19605",
+        "verified": true
+      }
+    ]
+  }
+}

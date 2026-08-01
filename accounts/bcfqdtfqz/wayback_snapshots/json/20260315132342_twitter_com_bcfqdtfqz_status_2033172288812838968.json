@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2033108357809053822",
+    "created_at": "2026-03-15T13:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T14:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033172288812838968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1194641568478593024",
+          "start": 0,
+          "username": "sukie234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033172288812838968",
+    "in_reply_to_user_id": "1194641568478593024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033108357809053822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sukie234 对也不对，如果是新兴行业的话这种人就容易失灵，因为规则弱，弱肉强食效应严重，再加上地区保护和大而不倒的问题要想成功难如登天。就跟17世纪殖民时代最成功的那帮人反而是规则感不强的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2033108357809053822",
+        "created_at": "2026-03-15T13:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033172288812838968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1194641568478593024",
+              "start": 0,
+              "username": "sukie234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033172288812838968",
+        "in_reply_to_user_id": "1194641568478593024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033108357809053822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sukie234 对也不对，如果是新兴行业的话这种人就容易失灵，因为规则弱，弱肉强食效应严重，再加上地区保护和大而不倒的问题要想成功难如登天。就跟17世纪殖民时代最成功的那帮人反而是规则感不强的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1194641568478593024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2033108357809053822",
+        "created_at": "2026-03-15T09:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033108357809053822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sukie234/statu…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/sukie234/status/2033104898003447821",
+              "start": 126,
+              "url": "https://t.co/8nK5xKRtvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033108357809053822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "所以学历高、进大厂、拿高薪，不等于这个人真的很厉害，我承认这些人里面肯定有很多大佬，但是仍然有一些人只是更早看到规则，有privilege让他们更早看到规则，比如读超级中学，或者在比较好的信息圈层。又或者运气踩对了风口，碰巧执行力够强，把套路走通了。\n\n而在传统路径，我是指已经运行了所有超过3年以上的，有成熟的筛选机制的竞争游戏，绝大多数人的成功，只是把标准化游戏玩熟练。\n\n而很多人看似努力却一直上不了岸，其实是他在看不见规则的黑屋里瞎撞。\n\n这种意义上，懂得研究规则的人还是比只知道努力的人强很多的，因为他们可以一眼看透底层逻辑，有逆向拆解系统的能力，再围绕目标搜集情报，有执行力。\n\n这种人做相似的事情也都能成功的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 15148,
+          "like_count": 158,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033104898003447821",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以学历高、进大厂、拿高薪，不等于这个人真的很厉害，我承认这些人里面肯定有很多大佬，但是仍然有一些人只是更早看到规则，有privilege让他们更早看到规则，比如读超级中学，或者在比较好的信息圈层。又或者运气踩对了风口，碰巧执行力够强，把套路走通了。 https://t.co/8nK5xKRtvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 1096,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 448,
+          "tweet_count": 1259
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-13T15:42:11.000Z",
+        "description": "",
+        "id": "1194641568478593024",
+        "location": "San Jose, CA",
+        "name": "sukie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655829356835659777/zYMkeYhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31942,
+          "following_count": 6972,
+          "like_count": 14779,
+          "listed_count": 485,
+          "media_count": 275,
+          "tweet_count": 4152
+        },
+        "username": "sukie234",
+        "verified": true
+      }
+    ]
+  }
+}

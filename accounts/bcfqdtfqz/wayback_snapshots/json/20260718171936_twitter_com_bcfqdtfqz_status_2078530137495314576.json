@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2078014366675509639",
+    "created_at": "2026-07-18T17:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T18:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078530137495314576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1221006551915356161",
+          "start": 0,
+          "username": "bobllipop"
+        },
+        {
+          "end": 23,
+          "id": "968162828568862720",
+          "start": 11,
+          "username": "henghaer123"
+        },
+        {
+          "end": 32,
+          "id": "2026329439685259264",
+          "start": 24,
+          "username": "rjy4587"
+        },
+        {
+          "end": 38,
+          "id": "1720665183188922368",
+          "start": 33,
+          "username": "grok"
+        },
+        {
+          "end": 50,
+          "id": "1436726203310821380",
+          "start": 39,
+          "username": "SoloTe2193"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078530137495314576",
+    "in_reply_to_user_id": "1221006551915356161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078134983932387422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bobllipop @henghaer123 @rjy4587 @grok @SoloTe2193 黄仁勋都说还差起码十年你这2-3年的数据怎么来的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2078014366675509639",
+        "created_at": "2026-07-18T17:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078530137495314576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1221006551915356161",
+              "start": 0,
+              "username": "bobllipop"
+            },
+            {
+              "end": 23,
+              "id": "968162828568862720",
+              "start": 11,
+              "username": "henghaer123"
+            },
+            {
+              "end": 32,
+              "id": "2026329439685259264",
+              "start": 24,
+              "username": "rjy4587"
+            },
+            {
+              "end": 38,
+              "id": "1720665183188922368",
+              "start": 33,
+              "username": "grok"
+            },
+            {
+              "end": 50,
+              "id": "1436726203310821380",
+              "start": 39,
+              "username": "SoloTe2193"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078530137495314576",
+        "in_reply_to_user_id": "1221006551915356161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078134983932387422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bobllipop @henghaer123 @rjy4587 @grok @SoloTe2193 黄仁勋都说还差起码十年你这2-3年的数据怎么来的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1221006551915356161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2078014366675509639",
+        "created_at": "2026-07-17T15:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078134983932387422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "968162828568862720",
+              "start": 0,
+              "username": "henghaer123"
+            },
+            {
+              "end": 21,
+              "id": "2026329439685259264",
+              "start": 13,
+              "username": "rjy4587"
+            },
+            {
+              "end": 27,
+              "id": "1720665183188922368",
+              "start": 22,
+              "username": "grok"
+            },
+            {
+              "end": 39,
+              "id": "1436726203310821380",
+              "start": 28,
+              "username": "SoloTe2193"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078134983932387422",
+        "in_reply_to_user_id": "968162828568862720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 677,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078127323124297887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@henghaer123 @rjy4587 @grok @SoloTe2193 已公布的华为韬定律v2，论文可以去看看，差距从5年缩短到2-3年，按华为的做事风格，存在夸大的可能性很小"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号，梦到哪句发哪句\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 47,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 24,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 1432,
+          "like_count": 418,
+          "listed_count": 2,
+          "media_count": 812,
+          "tweet_count": 3077
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-25T09:47:09.000Z",
+        "description": "Ten years of experience in the lithium-ion battery industry, with a deep focus on manufacturing equipment.",
+        "id": "1221006551915356161",
+        "location": "Zhuhai/Guangdong/China",
+        "name": "Anfenpo Villager-安份坡村民",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068363102358470657/XXje2jUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 85,
+          "like_count": 98,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 273
+        },
+        "url": "",
+        "username": "bobllipop",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-26T16:36:20.000Z",
+        "description": "你以为买半导体是在投资AI科技革命\n实际上是怕其他产业被AI革命\n没有任何群，只有X一个账号",
+        "id": "968162828568862720",
+        "name": "加州旅馆",
+        "pinned_tweet_id": "2078514678763045347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921460819264483328/Q-2MEMte_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18270,
+          "following_count": 182,
+          "like_count": 420,
+          "listed_count": 302,
+          "media_count": 73,
+          "tweet_count": 2358
+        },
+        "url": "",
+        "username": "henghaer123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-24T16:12:52.000Z",
+        "description": "AI + Investing + Global Tech",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/flow/convert…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/flow/convert_to_professional",
+                "start": 0,
+                "url": "https://t.co/QwBkCPo8EN"
+              }
+            ]
+          }
+        },
+        "id": "2026329439685259264",
+        "location": "Shanghai ",
+        "name": "4587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058810270454071296/o149SHbn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 166,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/QwBkCPo8EN",
+        "username": "rjy4587",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8863999,
+          "following_count": 5,
+          "like_count": 121,
+          "listed_count": 7217,
+          "media_count": 9166614,
+          "tweet_count": 131720955
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-11T16:20:03.000Z",
+        "description": "Highest temperature ever recorded:\n​World: 56.7°C (134°F)\n​Japan: 4,000°C (7,232°F)",
+        "id": "1436726203310821380",
+        "name": "Land of Rising Mushroom",
+        "pinned_tweet_id": "2054252172355817846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078269911202226176/6USU5-9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 77,
+          "like_count": 44124,
+          "listed_count": 4,
+          "media_count": 999,
+          "tweet_count": 13907
+        },
+        "url": "",
+        "username": "SoloTe2193",
+        "verified": false
+      }
+    ]
+  }
+}

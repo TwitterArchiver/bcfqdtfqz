@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055914218369769472"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2055914229421814147",
+    "created_at": "2026-05-17T07:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055914229421814147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fevsbIHuk1",
+          "end": 43,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2055914229421814147/photo/1",
+          "media_key": "3_2055914218369769472",
+          "start": 20,
+          "url": "https://t.co/fevsbIHuk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055914229421814147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个白人一个黑人，唯独没有()()() https://t.co/fevsbIHuk1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2055914218369769472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgTFsKa4AA7vqX.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055914218369769472"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2055914229421814147",
+        "created_at": "2026-05-17T07:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055914229421814147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fevsbIHuk1",
+              "end": 43,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2055914229421814147/photo/1",
+              "media_key": "3_2055914218369769472",
+              "start": 20,
+              "url": "https://t.co/fevsbIHuk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055914229421814147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个白人一个黑人，唯独没有()()() https://t.co/fevsbIHuk1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1350,
+          "like_count": 300,
+          "listed_count": 1,
+          "media_count": 730,
+          "tweet_count": 1942
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

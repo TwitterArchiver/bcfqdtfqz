@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2076507849585483875",
+    "created_at": "2026-07-13T04:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076520227161153606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1111541486200356864",
+          "start": 0,
+          "username": "M4A1_SSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076520227161153606",
+    "in_reply_to_user_id": "1111541486200356864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076507849585483875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M4A1_SSS 这么多手机？！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_2076506979355553792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNE8GI4bcAAz2ck.jpg",
+        "width": 2264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2076507849585483875",
+        "created_at": "2026-07-13T04:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076520227161153606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1111541486200356864",
+              "start": 0,
+              "username": "M4A1_SSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076520227161153606",
+        "in_reply_to_user_id": "1111541486200356864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076507849585483875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M4A1_SSS 这么多手机？！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076506979355553792"
+          ]
+        },
+        "author_id": "1111541486200356864",
+        "conversation_id": "2076507849585483875",
+        "created_at": "2026-07-13T03:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076507849585483875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8O5FPwuopC",
+              "end": 36,
+              "expanded_url": "https://x.com/M4A1_SSS/status/2076507849585483875/photo/1",
+              "media_key": "3_2076506979355553792",
+              "start": 13,
+              "url": "https://t.co/8O5FPwuopC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076507849585483875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "apple 你的优雅呢？ https://t.co/8O5FPwuopC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号，梦到哪句发哪句\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 47,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 24,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 1423,
+          "like_count": 412,
+          "listed_count": 2,
+          "media_count": 801,
+          "tweet_count": 2936
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-29T08:11:56.000Z",
+        "description": "CTFer | Gamer @PlayOverwatch Pilled | ⚽ fans | 99% life account with 1% 💩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "PlayOverwatch"
+              }
+            ]
+          }
+        },
+        "id": "1111541486200356864",
+        "location": "🐘 jack1e@m.somincola.org",
+        "name": "Jack1e",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055586995448303616/VW_ewO2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 800,
+          "like_count": 10295,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1185
+        },
+        "url": "",
+        "username": "M4A1_SSS",
+        "verified": false
+      }
+    ]
+  }
+}

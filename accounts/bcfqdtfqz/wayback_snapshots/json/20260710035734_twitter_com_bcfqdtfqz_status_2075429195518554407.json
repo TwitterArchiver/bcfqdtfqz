@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2075400177494696051",
+    "created_at": "2026-07-10T03:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075429195518554407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1528798633168347137",
+          "start": 0,
+          "username": "TomoriNao2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075429195518554407",
+    "in_reply_to_user_id": "1528798633168347137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075400177494696051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TomoriNao2022 一个不进行任何内容封禁的社交媒体其实无论是哪个国家正面内容应该跟负面内容五五开的\n当然因为一些特有的审核机制原因，把黑的降权和直接审核失败，并且还会对一些不看具体逻辑只要所谓正能量内容进行主动推流，所以红的比重严重拉高"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 134,
+        "media_key": "3_2075399607484600320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1M8nMa0AAD4d9.png",
+        "width": 461
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2075400177494696051",
+        "created_at": "2026-07-10T03:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075429195518554407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1528798633168347137",
+              "start": 0,
+              "username": "TomoriNao2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075429195518554407",
+        "in_reply_to_user_id": "1528798633168347137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075400177494696051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TomoriNao2022 一个不进行任何内容封禁的社交媒体其实无论是哪个国家正面内容应该跟负面内容五五开的\n当然因为一些特有的审核机制原因，把黑的降权和直接审核失败，并且还会对一些不看具体逻辑只要所谓正能量内容进行主动推流，所以红的比重严重拉高"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075399607484600320"
+          ]
+        },
+        "author_id": "1528798633168347137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075400177494696051",
+        "created_at": "2026-07-10T02:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075400177494696051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ty3GUMG7Mz",
+              "end": 148,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2075400177494696051/photo/1",
+              "media_key": "3_2075399607484600320",
+              "start": 125,
+              "url": "https://t.co/Ty3GUMG7Mz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075400177494696051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "b站还真不是粉红站，只是推送机制定制化非常严重。\n\n比如你看几个LOL视频，首页上就全是lol的比赛和回放\n。\n\n比如你多看几个南梁视频，首页上基本就只有南梁和mtf。\n\n你再多看几个讲房地产，应届生就业，劳动法的，首页就是全是不利于团结的视频了。 https://t.co/Ty3GUMG7Mz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 1408,
+          "like_count": 397,
+          "listed_count": 2,
+          "media_count": 796,
+          "tweet_count": 2839
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！",
+        "id": "1528798633168347137",
+        "location": "神奈川県",
+        "name": "なおNaO",
+        "pinned_tweet_id": "2073983646399365630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16705,
+          "following_count": 835,
+          "like_count": 10825,
+          "listed_count": 58,
+          "media_count": 2492,
+          "tweet_count": 10459
+        },
+        "url": "",
+        "username": "TomoriNao2022",
+        "verified": true
+      }
+    ]
+  }
+}

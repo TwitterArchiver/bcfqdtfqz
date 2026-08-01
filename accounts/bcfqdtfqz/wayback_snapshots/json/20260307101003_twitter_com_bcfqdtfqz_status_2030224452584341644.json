@@ -1,0 +1,138 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2030224451321892864"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2030224452584341644",
+    "created_at": "2026-03-07T10:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T11:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030224452584341644"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030224452584341644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大选择\n参加六年的中高考还是选择为期一个月的饥饿游戏？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 4320,
+        "end_datetime": "2026-03-10T10:10:03.000Z",
+        "id": "2030224451321892864",
+        "options": [
+          {
+            "label": "中高考",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "饥饿游戏",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2030224451321892864"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2030224452584341644",
+        "created_at": "2026-03-07T10:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T11:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030224452584341644"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030224452584341644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大选择\n参加六年的中高考还是选择为期一个月的饥饿游戏？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 1035,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 1070
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

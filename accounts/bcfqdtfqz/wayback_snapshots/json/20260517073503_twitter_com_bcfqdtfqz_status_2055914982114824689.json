@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2055914982114824689",
+    "created_at": "2026-05-17T07:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055914982114824689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055914982114824689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055913018626818157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @CyberKanjousen: 環状線双手赞成这一更改👍\n\n一是可以遏制 spam bot 回复。spam bot 的生命周期一般最长只有 1 天（从发出第一条 spam 回复算起），这一限制使得 bot 总共只能发出 200 条 spam 回复（以前可能是上千条）…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2055914982114824689",
+        "created_at": "2026-05-17T07:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055914982114824689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055914982114824689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055913018626818157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @CyberKanjousen: 環状線双手赞成这一更改👍\n\n一是可以遏制 spam bot 回复。spam bot 的生命周期一般最长只有 1 天（从发出第一条 spam 回复算起），这一限制使得 bot 总共只能发出 200 条 spam 回复（以前可能是上千条）…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2055913018626818157",
+        "created_at": "2026-05-17T07:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055913018626818157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rkmonochrome_c…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/rkmonochrome_cn/status/2055885931606061250",
+              "start": 172,
+              "url": "https://t.co/WPWtQg2oEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055913018626818157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "環状線双手赞成这一更改👍\n\n一是可以遏制 spam bot 回复。spam bot 的生命周期一般最长只有 1 天（从发出第一条 spam 回复算起），这一限制使得 bot 总共只能发出 200 条 spam 回复（以前可能是上千条）\n\n二是对绝大多数正常用户，包括非 Premium 用户，几乎都没有影响。50 条推文、200 条回复已经非 常多了，環状線一天最多也只能发 23 条推文和 77 条回复，平时的发推量和回复量绝大多数在 20 条和 60 条以下。也就是说，即使環状線不是 Premium 用户，对環状線也毫无影响。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055885931606061250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "環状線双手赞成这一更改👍\n\n一是可以遏制 spam bot 回复。spam bot 的生命周期一般最长只有 1 天（从发出第一条 spam 回复算起），这一限制使得 bot 总共只能发出 200 条 spam 回复（以前可能是上千条）\n\n二是对绝大多数正常用户，包括非 Premium 用户，几乎都没有影响。50 条推文、200 条回复已经非 https://t.co/WPWtQg2oEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1350,
+          "like_count": 301,
+          "listed_count": 1,
+          "media_count": 730,
+          "tweet_count": 1943
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3511,
+          "following_count": 834,
+          "like_count": 20305,
+          "listed_count": 8,
+          "media_count": 1078,
+          "tweet_count": 6039
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

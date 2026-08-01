@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2037326880089792789",
+    "created_at": "2026-03-27T10:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T11:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037480114318184942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1220307954726916096",
+          "start": 0,
+          "username": "Midoki8"
+        },
+        {
+          "end": 23,
+          "id": "1413151000567771146",
+          "start": 9,
+          "username": "Windy_Skyline"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/bcfqdtfqz/stat…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/bcfqdtfqz/status/2036434573840593309",
+          "start": 112,
+          "url": "https://t.co/SU5N9giC5R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037480114318184942",
+    "in_reply_to_user_id": "1220307954726916096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036434573840593309",
+        "type": "quoted"
+      },
+      {
+        "id": "2037471748120351174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Midoki8 @Windy_Skyline 很好笑，我爹18年以后因为上游资金疯狂挪用天天被人讨债然后去公司玩偶然见到工人上门打砸来讨钱，我伯办公室至今应该还有根铁棒球棍用来防身我就很好奇张雪峰推荐土木工程底气在哪里🤓 https://t.co/SU5N9giC5R"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2037326880089792789",
+        "created_at": "2026-03-27T10:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037480114318184942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1220307954726916096",
+              "start": 0,
+              "username": "Midoki8"
+            },
+            {
+              "end": 23,
+              "id": "1413151000567771146",
+              "start": 9,
+              "username": "Windy_Skyline"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bcfqdtfqz/stat…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/bcfqdtfqz/status/2036434573840593309",
+              "start": 112,
+              "url": "https://t.co/SU5N9giC5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037480114318184942",
+        "in_reply_to_user_id": "1220307954726916096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036434573840593309",
+            "type": "quoted"
+          },
+          {
+            "id": "2037471748120351174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Midoki8 @Windy_Skyline 很好笑，我爹18年以后因为上游资金疯狂挪用天天被人讨债然后去公司玩偶然见到工人上门打砸来讨钱，我伯办公室至今应该还有根铁棒球棍用来防身我就很好奇张雪峰推荐土木工程底气在哪里🤓 https://t.co/SU5N9giC5R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2036434573840593309",
+        "created_at": "2026-03-24T13:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:25:02.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036434113062924312",
+          "2036434337323704784",
+          "2036434573840593309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036434573840593309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "先发暴论，张雪峰好似\n对他的所报的立场我不评价，\n但是2018年国内房地产体系已经开始出现崩盘的情况下这位神人还敢收动辄几千甚至一两万的圆梦卡疯狂推荐人去土木工程，然后自个骗劳保家长和一堆学校老师然后开各种机构赚得盆满钵满，光是去年就是千万级别\n虽然死者为大，但是这些被他坑的学生的四年光阴就不是时间了吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3913,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "先发暴论，张雪峰好似\n对他的所报的立场我不评价，\n但是2018年国内房地产体系已经开始出现崩盘的情况下这位神人还敢收动辄几千甚至一两万的圆梦卡疯狂推荐人去土木工程，然后自个骗劳保家长和一堆学校老师然后开各种机构赚得盆满钵满，光是去年就是千万级别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1220307954726916096",
+        "conversation_id": "2037326880089792789",
+        "created_at": "2026-03-27T10:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037471748120351174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1413151000567771146",
+              "start": 0,
+              "username": "Windy_Skyline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037471748120351174",
+        "in_reply_to_user_id": "1413151000567771146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037326880089792789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Windy_Skyline 21年、20年房企资金链断裂他还给人往土木建筑赶，就这风险感知水平，还预测四年后呢，能看清本年都够呛。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不知道包什么的番茄（私信互关）",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 1226,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 511,
+          "tweet_count": 1406
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-23T11:31:25.000Z",
+        "description": "Let the vantage begin!\n美德和恐怖。",
+        "id": "1220307954726916096",
+        "location": "川陀",
+        "name": "Kiodim",
+        "pinned_tweet_id": "1950541926052335989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582803506729484288/J2Vckcxx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 157,
+          "like_count": 3059,
+          "listed_count": 2,
+          "media_count": 270,
+          "tweet_count": 3789
+        },
+        "username": "Midoki8",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1949,
+          "following_count": 243,
+          "like_count": 2429,
+          "listed_count": 10,
+          "media_count": 3780,
+          "tweet_count": 12840
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

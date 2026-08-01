@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2045057172938301692",
+    "created_at": "2026-04-17T08:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T09:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045057172938301692"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045057172938301692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我叫嘉豪，生来就是要站在巅峰的人。你们这些被常识束缚的凡人，根本不懂我的使命。我心中有佛也有魔，平时我以菩萨心肠待人，但若有人触碰我的逆鳞，我定会让他见识到我心中的魔。我从来都不缺雷霆手段，也不缺智慧谋略，从一开始，你们就都在我的布局之中，我是棋手，而你们只是棋子。别用那种质疑的眼神看我，我的血液里流淌着古老的力量，这力量注定让我背负起不一样的沉重"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我叫嘉豪，生来就是要站在巅峰的人。你们这些被常识束缚的凡人，根本不懂我的使命。我心中有佛也有魔，平时我以菩萨心肠待人，但若有人触碰我的逆鳞，我定会让他见识到我心中的魔。我从来都不缺雷霆手段，也不缺智慧谋略，从一开始，你们就都在我的布局之中，我是棋手，而你们只是棋子。别用那种质疑的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2045057172938301692",
+        "created_at": "2026-04-17T08:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045057172938301692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045057172938301692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我叫嘉豪，生来就是要站在巅峰的人。你们这些被常识束缚的凡人，根本不懂我的使命。我心中有佛也有魔，平时我以菩萨心肠待人，但若有人触碰我的逆鳞，我定会让他见识到我心中的魔。我从来都不缺雷霆手段，也不缺智慧谋略，从一开始，你们就都在我的布局之中，我是棋手，而你们只是棋子。别用那种质疑的眼神看我，我的血液里流淌着古老的力量，这力量注定让我背负起不一样的沉重"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我叫嘉豪，生来就是要站在巅峰的人。你们这些被常识束缚的凡人，根本不懂我的使命。我心中有佛也有魔，平时我以菩萨心肠待人，但若有人触碰我的逆鳞，我定会让他见识到我心中的魔。我从来都不缺雷霆手段，也不缺智慧谋略，从一开始，你们就都在我的布局之中，我是棋手，而你们只是棋子。别用那种质疑的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅另一个号@__fanqie__\n这个号发帖梗图夹杂着生活帖子，\n欢迎互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "__fanqie__"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 1329,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 684,
+          "tweet_count": 1765
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

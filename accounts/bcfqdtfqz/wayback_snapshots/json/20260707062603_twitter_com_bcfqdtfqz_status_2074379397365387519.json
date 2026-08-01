@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2074379397365387519",
+    "created_at": "2026-07-07T06:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074379397365387519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Word251884/sta…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/Word251884/status/2074374482760749423",
+          "start": 66,
+          "url": "https://t.co/gyVGzUQ9jP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074379397365387519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "一个月前去上海，偶然路过漕河泾，我骑车兜了一圈看了下招牌，国内主流的互联网公司和上海本地的实业很多都在那，有的是总部最起码有办事点\n\n我当时就有一个疑惑，如果一个员工因为某些原因从a公司跳到b公司，换个工牌也就是半径两三公里的事情，哪天要是去隔壁商场吃饭了隔壁桌碰到前同事不尴尬吗。。。？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074374482760749423",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个月前去上海，偶然路过漕河泾，我骑车兜了一圈看了下招牌，国内主流的互联网公司和上海本地的实业很多都在那，有的是总部最起码有办事点 https://t.co/gyVGzUQ9jP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2074379397365387519",
+        "created_at": "2026-07-07T06:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074379397365387519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Word251884/sta…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/Word251884/status/2074374482760749423",
+              "start": 66,
+              "url": "https://t.co/gyVGzUQ9jP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074379397365387519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个月前去上海，偶然路过漕河泾，我骑车兜了一圈看了下招牌，国内主流的互联网公司和上海本地的实业很多都在那，有的是总部最起码有办事点\n\n我当时就有一个疑惑，如果一个员工因为某些原因从a公司跳到b公司，换个工牌也就是半径两三公里的事情，哪天要是去隔壁商场吃饭了隔壁桌碰到前同事不尴尬吗。。。？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074374482760749423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个月前去上海，偶然路过漕河泾，我骑车兜了一圈看了下招牌，国内主流的互联网公司和上海本地的实业很多都在那，有的是总部最起码有办事点 https://t.co/gyVGzUQ9jP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994315888020082688",
+        "conversation_id": "2074329591880274156",
+        "created_at": "2026-07-07T06:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074374482760749423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "972290099349082112",
+              "start": 0,
+              "username": "joeyx103"
+            },
+            {
+              "end": 20,
+              "id": "157550302",
+              "start": 10,
+              "username": "ShoryuPaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074374482760749423",
+        "in_reply_to_user_id": "972290099349082112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074359569631871386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joeyx103 @ShoryuPaw 真尼玛傻逼，你以为个个公司都是小红书这种木钩？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 1408,
+          "like_count": 390,
+          "listed_count": 2,
+          "media_count": 789,
+          "tweet_count": 2764
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-28T08:02:48.000Z",
+        "description": "Ann",
+        "id": "1994315888020082688",
+        "name": "Caspian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015038871852261376/oc5bcwPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 14,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "Word251884",
+        "verified": false
+      }
+    ]
+  }
+}

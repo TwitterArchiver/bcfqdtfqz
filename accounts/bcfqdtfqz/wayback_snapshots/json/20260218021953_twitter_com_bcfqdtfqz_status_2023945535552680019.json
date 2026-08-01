@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2023791744064848259",
+    "created_at": "2026-02-18T02:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T03:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023945535552680019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1015887376122404864",
+          "start": 0,
+          "username": "Study_DKY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023945535552680019",
+    "in_reply_to_user_id": "1015887376122404864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023944311172120807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Study_DKY 额🤥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2023791744064848259",
+        "created_at": "2026-02-18T02:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T03:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023945535552680019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1015887376122404864",
+              "start": 0,
+              "username": "Study_DKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023945535552680019",
+        "in_reply_to_user_id": "1015887376122404864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023944311172120807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Study_DKY 额🤥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1015887376122404864",
+        "conversation_id": "2023791744064848259",
+        "created_at": "2026-02-18T02:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T03:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023944311172120807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023944311172120807",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023935409303298462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 什麼意思，不理解退退退，你也沒說你沉迷爸媽和網黃你說對吧😀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "New York, USA",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 796,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 544
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-08T09:16:39.000Z",
+        "description": "#keep4o And #keep4oforever",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              },
+              {
+                "end": 26,
+                "start": 12,
+                "tag": "keep4oforever"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCA2OS…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCA2OSUmcZA409_SV1dgfKSQ",
+                "start": 0,
+                "url": "https://t.co/3EsIUqj36C"
+              }
+            ]
+          }
+        },
+        "id": "1015887376122404864",
+        "location": "Internet or something else",
+        "name": "Kolkrabe",
+        "pinned_tweet_id": "2023072882969252316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490634330074271745/nC9rsqx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 515,
+          "like_count": 7413,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 2974
+        },
+        "url": "https://t.co/3EsIUqj36C",
+        "username": "Study_DKY",
+        "verified": true
+      }
+    ]
+  }
+}

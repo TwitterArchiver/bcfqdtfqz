@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2021945934100431042",
+    "created_at": "2026-02-12T18:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T19:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022009261237457388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "yqua_"
+        },
+        {
+          "end": 12,
+          "id": "228380252",
+          "start": 7,
+          "username": "Wise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022009261237457388",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021945934100431042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yqua_ @Wise 名字叠的比我血条还长足以见得wise求生欲拉满"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021945930979979272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9lHIsbsAgNSsY.jpg",
+        "width": 839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2021945934100431042",
+        "created_at": "2026-02-12T18:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T19:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022009261237457388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "yqua_"
+            },
+            {
+              "end": 12,
+              "id": "228380252",
+              "start": 7,
+              "username": "Wise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022009261237457388",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021945934100431042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqua_ @Wise 名字叠的比我血条还长足以见得wise求生欲拉满"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021945930979979272"
+          ]
+        },
+        "author_id": "1908086926391033856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2021945934100431042",
+        "created_at": "2026-02-12T13:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021945934100431042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "228380252",
+              "start": 4,
+              "username": "Wise"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/puMz7Hepm4",
+              "end": 73,
+              "expanded_url": "https://x.com/yqua_/status/2021945934100431042/photo/1",
+              "media_key": "3_2021945930979979272",
+              "start": 50,
+              "url": "https://t.co/puMz7Hepm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021945934100431042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3991,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事实上 @Wise 有自己的中文名\n\n叫《港币汇款转账留学缴费投资理财》\n\n感觉不如直接叫Wise https://t.co/puMz7Hepm4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 751,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 386
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "Analyst Coach｜@BI3BXI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "BI3BXI"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "name": "铨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013607388050272257/50GECfB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 588,
+          "like_count": 10422,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 194
+        },
+        "username": "yqua_",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-19T15:09:16.000Z",
+        "description": "160+ countries. 40+ currencies. Money for here, there and everywhere.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wi.se/linkinbio",
+                "end": 23,
+                "expanded_url": "https://wi.se/linkinbio",
+                "start": 0,
+                "url": "https://t.co/WiCccMuisM"
+              }
+            ]
+          }
+        },
+        "id": "228380252",
+        "location": "Global",
+        "name": "Wise",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630843158387892224/S9qBPG_P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171984,
+          "following_count": 3257,
+          "like_count": 18305,
+          "listed_count": 1415,
+          "media_count": 4633,
+          "tweet_count": 175383
+        },
+        "url": "https://t.co/WiCccMuisM",
+        "username": "Wise",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2076215491715277111",
+    "created_at": "2026-07-12T15:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076334759693967481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1375288283425435651",
+          "start": 0,
+          "username": "NomadJBL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076334759693967481",
+    "in_reply_to_user_id": "1375288283425435651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076215491715277111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NomadJBL 别的不说起码吸引到女的而不是只有黑色蚯蚓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076215482039128064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAy-wwb0AAt8BT.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2076215491715277111",
+        "created_at": "2026-07-12T15:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076334759693967481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1375288283425435651",
+              "start": 0,
+              "username": "NomadJBL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076334759693967481",
+        "in_reply_to_user_id": "1375288283425435651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076215491715277111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NomadJBL 别的不说起码吸引到女的而不是只有黑色蚯蚓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076215482039128064"
+          ]
+        },
+        "author_id": "1375288283425435651",
+        "conversation_id": "2076215491715277111",
+        "created_at": "2026-07-12T08:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076215491715277111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XY4Ult4cgA",
+              "end": 33,
+              "expanded_url": "https://x.com/NomadJBL/status/2076215491715277111/photo/1",
+              "media_key": "3_2076215482039128064",
+              "start": 10,
+              "url": "https://t.co/XY4Ult4cgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076215491715277111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 113558,
+          "like_count": 219,
+          "quote_count": 5,
+          "reply_count": 200,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我的私信真的很难看 https://t.co/XY4Ult4cgA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 1420,
+          "like_count": 410,
+          "listed_count": 2,
+          "media_count": 799,
+          "tweet_count": 2909
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-26T03:27:46.000Z",
+        "description": "计算机PHD在读，当朋友圈玩\n不回没有礼貌没有任何内容的人🙏straight",
+        "id": "1375288283425435651",
+        "name": "Nomad",
+        "pinned_tweet_id": "1738815673021992996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672642351179894784/IpQK3ule_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2588,
+          "following_count": 223,
+          "like_count": 686,
+          "listed_count": 9,
+          "media_count": 73,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "NomadJBL",
+        "verified": false
+      }
+    ]
+  }
+}

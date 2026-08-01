@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2037485782022427036",
+    "created_at": "2026-03-27T13:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037528280052670522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1721095893821136896",
+          "start": 0,
+          "username": "xrxrrdx18360"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037528280052670522",
+    "in_reply_to_user_id": "1721095893821136896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037513525640507631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xrxrrdx18360 我还想买部17的话说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2037485782022427036",
+        "created_at": "2026-03-27T13:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037528280052670522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1721095893821136896",
+              "start": 0,
+              "username": "xrxrrdx18360"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037528280052670522",
+        "in_reply_to_user_id": "1721095893821136896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037513525640507631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xrxrrdx18360 我还想买部17的话说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721095893821136896",
+        "conversation_id": "2037485782022427036",
+        "created_at": "2026-03-27T12:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037513525640507631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037513525640507631",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037485782022427036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 15pm用户吓哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不知道包什么的番茄（私信互关）",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 1229,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 521,
+          "tweet_count": 1417
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-05T09:23:43.000Z",
+        "description": "大学1年生/18歳/INTJ/言語愛好者·English·Deutsch·日本語/タルパ保持者（アリんナちゃん）/旅行/Keil5 MDK/STM32CUBE\n政治絶対ダメ/TwitterのDMは利用できません\nSchlafenlieber118@gmail.com",
+        "id": "1721095893821136896",
+        "location": "Winternight",
+        "name": "冬夜❄️Schlafenlieber",
+        "pinned_tweet_id": "1811347162137330013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857761832124948480/nFNGlhbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 241,
+          "like_count": 431,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 802
+        },
+        "username": "xrxrrdx18360",
+        "verified": false
+      }
+    ]
+  }
+}

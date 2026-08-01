@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056606365431582720"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2056606371274281401",
+    "created_at": "2026-05-19T05:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T06:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056606371274281401"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VZJ66EOwub",
+          "end": 31,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2056606371274281401/photo/1",
+          "media_key": "3_2056606365431582720",
+          "start": 8,
+          "url": "https://t.co/VZJ66EOwub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056606371274281401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "到底发生过什么 https://t.co/VZJ66EOwub"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 442,
+        "media_key": "3_2056606365431582720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqIl85bUAAIjLG.jpg",
+        "width": 766
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056606365431582720"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2056606371274281401",
+        "created_at": "2026-05-19T05:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056606371274281401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VZJ66EOwub",
+              "end": 31,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2056606371274281401/photo/1",
+              "media_key": "3_2056606365431582720",
+              "start": 8,
+              "url": "https://t.co/VZJ66EOwub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056606371274281401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底发生过什么 https://t.co/VZJ66EOwub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1713,
+          "following_count": 1344,
+          "like_count": 306,
+          "listed_count": 1,
+          "media_count": 733,
+          "tweet_count": 1955
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

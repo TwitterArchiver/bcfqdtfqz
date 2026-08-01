@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2037485782022427036",
+    "created_at": "2026-03-28T01:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T02:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037709792865910964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1253566691654561792",
+          "start": 0,
+          "username": "ZIK000001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037709792865910964",
+    "in_reply_to_user_id": "1253566691654561792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037704244414099518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZIK000001 账号消失术罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2037485782022427036",
+        "created_at": "2026-03-28T01:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037709792865910964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1253566691654561792",
+              "start": 0,
+              "username": "ZIK000001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037709792865910964",
+        "in_reply_to_user_id": "1253566691654561792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037704244414099518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZIK000001 账号消失术罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253566691654561792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2037485782022427036",
+        "created_at": "2026-03-28T01:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037704244414099518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037704244414099518",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037485782022427036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 那华为呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不知道包什么的番茄（私信互关）",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 1240,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 521,
+          "tweet_count": 1429
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-24T06:09:33.000Z",
+        "description": "05后中的老年人，xNxP-T，mtx（f），家暴党，断糖中...双相情感障碍混合性发作+强迫症，随时可能被家里人扭送到精神病院...车万人/BA玩家，喜欢幻想美好的事，追求开放与包容，不鉴政。愿对生活永远保持好奇与热情，唯一掌握的语言是现代汉语。看成分互fo，欢迎大家一起求同存异，友善交流！👋😇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "achouzik.com",
+                "end": 23,
+                "expanded_url": "http://achouzik.com",
+                "start": 0,
+                "url": "https://t.co/xEQjOpbqpT"
+              }
+            ]
+          }
+        },
+        "id": "1253566691654561792",
+        "location": "能一直看着你的地方",
+        "name": "なし 🏳️‍⚧️",
+        "pinned_tweet_id": "2034210378343968883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605028647844188160/Jxn2kgsj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 262,
+          "like_count": 6767,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 848
+        },
+        "url": "https://t.co/xEQjOpbqpT",
+        "username": "ZIK000001",
+        "verified": true
+      }
+    ]
+  }
+}

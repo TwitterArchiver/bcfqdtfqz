@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076513271218331648"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2076513332195184703",
+    "created_at": "2026-07-13T03:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T04:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076513332195184703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EaRIPx3tTl",
+          "end": 86,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2076513332195184703/photo/1",
+          "media_key": "3_2076513271218331648",
+          "start": 63,
+          "url": "https://t.co/EaRIPx3tTl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076513332195184703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在的记忆力感觉也支撑不了我强制性死记硬背，\n只能让gpt给我整个静态网站挖空让我背，可能会稍微好点\n\n关键词belike： https://t.co/EaRIPx3tTl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 236,
+        "media_key": "3_2076513271218331648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFB0X5aYAAfw-h.png",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076513271218331648"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2076513332195184703",
+        "created_at": "2026-07-13T03:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076513332195184703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EaRIPx3tTl",
+              "end": 86,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2076513332195184703/photo/1",
+              "media_key": "3_2076513271218331648",
+              "start": 63,
+              "url": "https://t.co/EaRIPx3tTl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076513332195184703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的记忆力感觉也支撑不了我强制性死记硬背，\n只能让gpt给我整个静态网站挖空让我背，可能会稍微好点\n\n关键词belike： https://t.co/EaRIPx3tTl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号，梦到哪句发哪句\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 47,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 24,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 1422,
+          "like_count": 412,
+          "listed_count": 2,
+          "media_count": 800,
+          "tweet_count": 2928
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

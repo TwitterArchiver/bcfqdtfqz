@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2075989692835917998",
+    "created_at": "2026-07-12T03:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T04:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076150080542064857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1516582189772644352",
+          "start": 0,
+          "username": "Master_HanChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076150080542064857",
+    "in_reply_to_user_id": "1516582189772644352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076008865376993508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Master_HanChan 快进业绩造假先吃五个跌停先"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2075989692835917998",
+        "created_at": "2026-07-12T03:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076150080542064857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1516582189772644352",
+              "start": 0,
+              "username": "Master_HanChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076150080542064857",
+        "in_reply_to_user_id": "1516582189772644352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076008865376993508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Master_HanChan 快进业绩造假先吃五个跌停先"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516582189772644352",
+        "conversation_id": "2075989692835917998",
+        "created_at": "2026-07-11T18:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076008865376993508"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076008865376993508",
+        "in_reply_to_user_id": "1516582189772644352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075989692835917998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梭哈失败🤓\n\n不要怕，抗一会仓了兄弟，不行就爆仓等着被删了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 1418,
+          "like_count": 408,
+          "listed_count": 2,
+          "media_count": 799,
+          "tweet_count": 2889
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-20T00:59:14.000Z",
+        "description": "在职安全运营渗透工程师 | 国内某安全厂商离职员工 | 网络安全学徒 | 恶意程序开发学徒 | 二级市场合约新韭菜 | 定投纳斯达克100 | 定投标普500 | PriceAction价格行为交易学者 | 日内交易持续亏损者 | 喜欢DIY各类板子 安卓搞机爱好者 | 2025新的梦想:成为日内稳定盈利交易者💤",
+        "id": "1516582189772644352",
+        "location": "id;whoami;pwd",
+        "name": "Master_寒蝉",
+        "pinned_tweet_id": "2048027053765849271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619947570385784833/LH3Y7mSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3151,
+          "following_count": 1018,
+          "like_count": 18791,
+          "listed_count": 19,
+          "media_count": 263,
+          "tweet_count": 3965
+        },
+        "url": "",
+        "username": "Master_HanChan",
+        "verified": false
+      }
+    ]
+  }
+}

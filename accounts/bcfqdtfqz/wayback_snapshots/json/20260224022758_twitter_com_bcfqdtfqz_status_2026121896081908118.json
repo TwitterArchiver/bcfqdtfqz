@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2026081721947689350",
+    "created_at": "2026-02-24T02:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T03:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026121896081908118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1239883054245728256",
+          "start": 0,
+          "username": "marco49205757"
+        },
+        {
+          "end": 24,
+          "id": "1828632343680294916",
+          "start": 15,
+          "username": "jianlvya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026121896081908118",
+    "in_reply_to_user_id": "1239883054245728256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026112445740400796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marco49205757 @jianlvya 不敢测，🌹的粉丝群体比其他家更会扣帽子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2026081721947689350",
+        "created_at": "2026-02-24T02:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T03:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026121896081908118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1239883054245728256",
+              "start": 0,
+              "username": "marco49205757"
+            },
+            {
+              "end": 24,
+              "id": "1828632343680294916",
+              "start": 15,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026121896081908118",
+        "in_reply_to_user_id": "1239883054245728256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026112445740400796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marco49205757 @jianlvya 不敢测，🌹的粉丝群体比其他家更会扣帽子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239883054245728256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2026081721947689350",
+        "created_at": "2026-02-24T01:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T02:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026112445740400796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            },
+            {
+              "end": 20,
+              "id": "1828632343680294916",
+              "start": 11,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026112445740400796",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026106262052852147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz @jianlvya 就华为那个soc都拉不上台面，连测试的人都没有，你看有人说华为吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 1004,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 783
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-17T11:55:39.000Z",
+        "description": "",
+        "id": "1239883054245728256",
+        "name": "marco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1239883554194161670/SEoG_nFD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 40,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 865
+        },
+        "username": "marco49205757",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 \n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律（私信互fo）",
+        "pinned_tweet_id": "2025710643622645786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2844,
+          "following_count": 765,
+          "like_count": 7897,
+          "listed_count": 4,
+          "media_count": 312,
+          "tweet_count": 620
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

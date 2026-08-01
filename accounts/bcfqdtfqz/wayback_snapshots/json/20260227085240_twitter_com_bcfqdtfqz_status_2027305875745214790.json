@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2026977794958213128",
+    "created_at": "2026-02-27T08:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T09:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027305875745214790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620444821340176386",
+          "start": 0,
+          "username": "HiFurryOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027305875745214790",
+    "in_reply_to_user_id": "1620444821340176386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026977794958213128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HiFurryOfficial 我以为图里的是股票。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 218,
+        "media_key": "3_2026977784455647232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFFjjoWUAAFFpL.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2026977794958213128",
+        "created_at": "2026-02-27T08:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027305875745214790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620444821340176386",
+              "start": 0,
+              "username": "HiFurryOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027305875745214790",
+        "in_reply_to_user_id": "1620444821340176386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026977794958213128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiFurryOfficial 我以为图里的是股票。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026977784455647232"
+          ]
+        },
+        "author_id": "1620444821340176386",
+        "conversation_id": "2026977794958213128",
+        "created_at": "2026-02-26T11:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026977794958213128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iqBXEZfBPD",
+              "end": 131,
+              "expanded_url": "https://x.com/HiFurryOfficial/status/2026977794958213128/photo/1",
+              "media_key": "3_2026977784455647232",
+              "start": 108,
+              "url": "https://t.co/iqBXEZfBPD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026977794958213128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8161,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "尊敬的游客，您好！\n\n今日18:00开票时段内，你好兽聚票务服务平台遭遇持续大规模境内外网络攻击，导致服务器停服。技术团队已启动紧急响应机制，正全力排查网络攻击源、固定相关证据并修复系统漏洞，争取尽快恢复网站服务。 https://t.co/iqBXEZfBPD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 1006,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 865
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T15:32:36.000Z",
+        "description": "生命轮回的炽烈，如流光织就云霞，万物皆沾染赤金之焰。「你好兽聚 · 赤羽逐光」期待与您线下相聚！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hi-furry.cn",
+                "end": 23,
+                "expanded_url": "https://hi-furry.cn/",
+                "start": 0,
+                "url": "https://t.co/oEJAB0XizV"
+              }
+            ]
+          }
+        },
+        "id": "1620444821340176386",
+        "location": "Guangdong",
+        "name": "你好兽聚丨Hi Furry",
+        "pinned_tweet_id": "2027235220068643117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008020510366728192/HZugwgEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2220,
+          "following_count": 126,
+          "like_count": 566,
+          "listed_count": 8,
+          "media_count": 222,
+          "tweet_count": 243
+        },
+        "url": "https://t.co/oEJAB0XizV",
+        "username": "HiFurryOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

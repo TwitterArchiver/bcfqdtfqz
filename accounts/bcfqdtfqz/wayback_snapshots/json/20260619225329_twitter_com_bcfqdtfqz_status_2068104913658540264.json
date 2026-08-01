@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2067528599809520093",
+    "created_at": "2026-06-19T22:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T23:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068104913658540264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1443901077196214273",
+          "start": 0,
+          "username": "TraderYgcyeah"
+        },
+        {
+          "end": 29,
+          "id": "1722003022530629632",
+          "start": 15,
+          "username": "Jeffson772010"
+        },
+        {
+          "end": 40,
+          "id": "1220290277056897025",
+          "start": 30,
+          "username": "pangyusio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068104913658540264",
+    "in_reply_to_user_id": "1443901077196214273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067611954727080141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TraderYgcyeah @Jeffson772010 @pangyusio 错了，ai方面这俩繁荣只是因为他俩流通股极少，一解禁估计就暴跌。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2067528599809520093",
+        "created_at": "2026-06-19T22:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T23:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068104913658540264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1443901077196214273",
+              "start": 0,
+              "username": "TraderYgcyeah"
+            },
+            {
+              "end": 29,
+              "id": "1722003022530629632",
+              "start": 15,
+              "username": "Jeffson772010"
+            },
+            {
+              "end": 40,
+              "id": "1220290277056897025",
+              "start": 30,
+              "username": "pangyusio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068104913658540264",
+        "in_reply_to_user_id": "1443901077196214273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067611954727080141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TraderYgcyeah @Jeffson772010 @pangyusio 错了，ai方面这俩繁荣只是因为他俩流通股极少，一解禁估计就暴跌。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443901077196214273",
+        "conversation_id": "2067528599809520093",
+        "created_at": "2026-06-18T14:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067611954727080141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1722003022530629632",
+              "start": 0,
+              "username": "Jeffson772010"
+            },
+            {
+              "end": 25,
+              "id": "1220290277056897025",
+              "start": 15,
+              "username": "pangyusio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067611954727080141",
+        "in_reply_to_user_id": "1722003022530629632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067548279684870606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jeffson772010 @pangyusio 就挑不行的说也没啥意义，新能源海外不断扩张，ai方面minimax是因为模型能力不行，智谱看看涨成啥样了，两长存储也是实打实的成功"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 1348,
+          "like_count": 341,
+          "listed_count": 2,
+          "media_count": 759,
+          "tweet_count": 2310
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-01T11:30:35.000Z",
+        "description": "Trader of US/China market; Optimist",
+        "id": "1443901077196214273",
+        "location": "Queens, NY",
+        "name": "Ygcyeah",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830764641988886529/JWZBAbYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 120,
+          "like_count": 54435,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1567
+        },
+        "url": "",
+        "username": "TraderYgcyeah",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-07T21:28:24.000Z",
+        "description": "",
+        "id": "1722003022530629632",
+        "name": "Jeffson77",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726211139581755392/oP6SUM3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 979,
+          "like_count": 1760,
+          "listed_count": 6,
+          "media_count": 62,
+          "tweet_count": 20428
+        },
+        "url": "",
+        "username": "Jeffson772010",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-23T10:20:59.000Z",
+        "description": "CS PhD  |  LLM Engineer  |   \nAI · 科技 · 财经 · 社会 · 历史  |  \n观察与思考",
+        "id": "1220290277056897025",
+        "location": "Singapore",
+        "name": "Pangyu 胖鱼 🐠",
+        "pinned_tweet_id": "1816822960780673479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1220290486516228096/TwYdOfQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32153,
+          "following_count": 3730,
+          "like_count": 63637,
+          "listed_count": 197,
+          "media_count": 520,
+          "tweet_count": 10907
+        },
+        "url": "",
+        "username": "pangyusio",
+        "verified": true
+      }
+    ]
+  }
+}

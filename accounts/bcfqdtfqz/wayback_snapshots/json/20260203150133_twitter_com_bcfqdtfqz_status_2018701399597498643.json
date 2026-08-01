@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018701388960989184"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2018701399597498643",
+    "created_at": "2026-02-03T15:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T16:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018701399597498643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1GVg2OgOi0",
+          "end": 37,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2018701399597498643/photo/1",
+          "media_key": "3_2018701388960989184",
+          "start": 14,
+          "url": "https://t.co/1GVg2OgOi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018701399597498643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神秘推测题把医生都整不会了 https://t.co/1GVg2OgOi0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2018701388960989184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPeN7ybgAA2dff.jpg",
+        "width": 954
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018701388960989184"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2018701399597498643",
+        "created_at": "2026-02-03T15:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T16:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018701399597498643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1GVg2OgOi0",
+              "end": 37,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2018701399597498643/photo/1",
+              "media_key": "3_2018701388960989184",
+              "start": 14,
+              "url": "https://t.co/1GVg2OgOi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018701399597498643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神秘推测题把医生都整不会了 https://t.co/1GVg2OgOi0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄二代目 请不要转帖回墙内谢谢 本账仅供娱乐，真假自辨，图源来自墙内，有侵权内容私信删除",
+        "id": "2018306514549972992",
+        "name": "吃番茄不吐番茄籽",
+        "pinned_tweet_id": "2018360937804444012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 81,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 38
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

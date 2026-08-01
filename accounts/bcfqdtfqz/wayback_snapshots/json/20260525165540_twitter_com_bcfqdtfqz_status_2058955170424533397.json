@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2058955170424533397",
+    "created_at": "2026-05-25T16:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058955170424533397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_FORAB/status/…",
+          "end": 117,
+          "expanded_url": "https://twitter.com/_FORAB/status/2058903335638593817",
+          "start": 94,
+          "url": "https://t.co/3jyltUHniV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058955170424533397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058903335638593817",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就这点业绩八成股价上市即巅峰，一泻千里估计是回不来到那种，\n再加上这一两年都开始耍人形机器人有不小概率三到五年内直接快进披星戴月光速退市\n当然你要是想寒武纪和摩尔纯玩理财学大师那当我没说 https://t.co/3jyltUHniV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_2058902527538769921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKw8LUaMAE2oc4.jpg",
+        "width": 1576
+      },
+      {
+        "height": 1048,
+        "media_key": "3_2058902923128745984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKxTNAaMAAlU40.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2058955170424533397",
+        "created_at": "2026-05-25T16:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058955170424533397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_FORAB/status/…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/_FORAB/status/2058903335638593817",
+              "start": 94,
+              "url": "https://t.co/3jyltUHniV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058955170424533397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058903335638593817",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就这点业绩八成股价上市即巅峰，一泻千里估计是回不来到那种，\n再加上这一两年都开始耍人形机器人有不小概率三到五年内直接快进披星戴月光速退市\n当然你要是想寒武纪和摩尔纯玩理财学大师那当我没说 https://t.co/3jyltUHniV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058902527538769921",
+            "3_2058902923128745984"
+          ]
+        },
+        "author_id": "4848269835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1486467051363258370",
+              "name": "IPOs"
+            }
+          }
+        ],
+        "conversation_id": "2058903335638593817",
+        "created_at": "2026-05-25T13:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058903335638593817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sQdpxyjkxb",
+              "end": 159,
+              "expanded_url": "https://x.com/_FORAB/status/2058903335638593817/photo/1",
+              "media_key": "3_2058902527538769921",
+              "start": 136,
+              "url": "https://t.co/sQdpxyjkxb"
+            },
+            {
+              "display_url": "pic.x.com/sQdpxyjkxb",
+              "end": 159,
+              "expanded_url": "https://x.com/_FORAB/status/2058903335638593817/photo/1",
+              "media_key": "3_2058902923128745984",
+              "start": 136,
+              "url": "https://t.co/sQdpxyjkxb"
+            },
+            {
+              "display_url": "x.com/_FORAB/status/…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/_FORAB/status/2034968063137939933",
+              "start": 160,
+              "url": "https://t.co/eSsW0FIjQa"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "4ad3383e25ac98d9"
+        },
+        "id": "2058903335638593817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 57171,
+          "like_count": 138,
+          "quote_count": 7,
+          "reply_count": 101,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034968063137939933",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国机器人公司宇树科技，正式被上交所在 6 月 1 日审核上会，数据显示公司 26 年 1 到 3 月，实现营收 4.23 亿元人民币，上半年净利润预计 2.36 亿到 2.83 亿元。\n\n其中最可怕的是，这玩意毛利率有 60%。\n\n我对后续的特斯拉机器人，开始乐观了。 https://t.co/sQdpxyjkxb https://t.co/eSsW0FIjQa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄🍅\n分享思考和个人生活\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1712,
+          "following_count": 1347,
+          "like_count": 319,
+          "listed_count": 2,
+          "media_count": 737,
+          "tweet_count": 2021
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125127,
+          "following_count": 618,
+          "like_count": 10229,
+          "listed_count": 1956,
+          "media_count": 3517,
+          "tweet_count": 14745
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

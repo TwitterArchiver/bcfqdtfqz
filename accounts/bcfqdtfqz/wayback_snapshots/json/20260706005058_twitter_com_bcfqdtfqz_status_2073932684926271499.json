@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2073662881225437351",
+    "created_at": "2026-07-06T00:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T01:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073932684926271499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1693450364341948416",
+          "start": 0,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073932684926271499",
+    "in_reply_to_user_id": "1693450364341948416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073662881225437351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igeekbb 早十到十五年前某券商直接用储户钱去做庄然后翻车了，大幅度亏损以后爆出来才知道挪用的事情"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 73119,
+        "height": 1280,
+        "media_key": "13_2073661578071949313",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073661578071949313/img/GUbncAZLZ2RXgA_O.jpg",
+        "public_metrics": {
+          "view_count": 34755
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073661578071949313/vid/avc1/320x568/I3eZ33EhWd4k-A1f.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073661578071949313/vid/avc1/480x852/SOW3nH1UvWt-Hqrw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073661578071949313/vid/avc1/720x1280/o4wJj--Ye_zDWfBh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073661578071949313/pl/CqvSevjaqGmgZHaH.m3u8?v=bb0"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2073662881225437351",
+        "created_at": "2026-07-06T00:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073932684926271499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1693450364341948416",
+              "start": 0,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073932684926271499",
+        "in_reply_to_user_id": "1693450364341948416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073662881225437351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igeekbb 早十到十五年前某券商直接用储户钱去做庄然后翻车了，大幅度亏损以后爆出来才知道挪用的事情"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073661578071949313"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "2073662881225437351",
+        "created_at": "2026-07-05T06:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073662881225437351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gVEaxT5lM6",
+              "end": 92,
+              "expanded_url": "https://x.com/igeekbb/status/2073662881225437351/video/1",
+              "media_key": "13_2073661578071949313",
+              "start": 69,
+              "url": "https://t.co/gVEaxT5lM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073662881225437351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 68800,
+          "like_count": 161,
+          "quote_count": 1,
+          "reply_count": 56,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "已经刷到好几个视频称，现金保管的最佳方式是存入证券账户，尤其是大额资金，应该首先追求的是安全，但也有网友表示：这就没有绝对安全一说。。。 https://t.co/gVEaxT5lM6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 1397,
+          "like_count": 385,
+          "listed_count": 2,
+          "media_count": 786,
+          "tweet_count": 2713
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84337,
+          "following_count": 1,
+          "like_count": 16830,
+          "listed_count": 339,
+          "media_count": 8678,
+          "tweet_count": 13455
+        },
+        "url": "",
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

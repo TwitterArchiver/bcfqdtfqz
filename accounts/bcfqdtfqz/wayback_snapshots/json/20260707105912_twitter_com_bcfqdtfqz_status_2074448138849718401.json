@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2074435863711515116",
+    "created_at": "2026-07-07T10:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074448138849718401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1894548093905084416",
+          "start": 0,
+          "username": "oooodjdjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074448138849718401",
+    "in_reply_to_user_id": "1894548093905084416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074435863711515116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oooodjdjd 关注一下，嗯以后或许还能用的上"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1323,
+        "media_key": "3_2074435839615229952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMngZ8Ga4AA4n8b.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2074435863711515116",
+        "created_at": "2026-07-07T10:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074448138849718401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1894548093905084416",
+              "start": 0,
+              "username": "oooodjdjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074448138849718401",
+        "in_reply_to_user_id": "1894548093905084416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074435863711515116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oooodjdjd 关注一下，嗯以后或许还能用的上"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074435839615229952"
+          ]
+        },
+        "author_id": "1894548093905084416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          }
+        ],
+        "conversation_id": "2074435863711515116",
+        "created_at": "2026-07-07T10:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074435863711515116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kvoDlGFguv",
+              "end": 163,
+              "expanded_url": "https://x.com/oooodjdjd/status/2074435863711515116/photo/1",
+              "media_key": "3_2074435839615229952",
+              "start": 140,
+              "url": "https://t.co/kvoDlGFguv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074435863711515116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "背调公司统计\n在现在新型行业中，web3简历造假的比例是最高的\n\n有些造假，一发现后果还是挺严重的\n\n当然，越高级的岗位后果越严重\n\nmeme这边写的是第一部分\n\n那么为什么简历合并很难瞒过去。以及三方背调公司具体怎么发现。背调到底怎么核实你的工作时间？\n\n1. 证明人交叉访谈\n\n基础背调需要您本人授权2-3名证明人核实工作履历的真实性，但针对一些特定岗位甲方公司会要求候选人签署自主寻访的授权书\n\n背调员会绕过候选人提供的证明人，直接找第三方证明人核实工作履历的真实性，这里不集中阐述了，有需要小伙伴我单独出一期解释一下自主寻访的途径有哪些。\n\n2. 查询社保或个税缴纳记录，这个属于需要您本人签字授权。社保记录清楚记录了离职时间，由哪家公司缴纳。一旦出现缴纳记录与你声称的工作时间段对不上，就暴露了。\n\n二、合并简历，三方机构如何核查？\n\n很多咨询者面临合并简历的问题，大致分为两者，一种是延长工作履历，另一种是隐藏短期工作，把空窗期合并到前后公司，总的来说也就是把A公司和B公司两段经历，合并成在A公司的一段长经历。看似简历天衣无缝，实则不然。\n\n比如你在A公司干了1个月，因团队氛围不好果然离职，你试图把1个月延长至B公司。首先B公司系统里没有这段记录；而B公司社保记录又会显示延长1个月，而这一个月正是A公司给缴纳了社保。\n\n两者都有问题，被查出的后果也非常直接——基本会被取消Offer，并纳入公司永久黑名单。\n\n那正确做法应该是什么？其实针对空窗期或某段极短的工作（1-3月），背调前坦诚地解释（职业规划、家庭变故等原因），不得不因为客观因素中断眼前这份工作\n\n非主观因素导致，并详细阐述目前职业规划怎样的，给出合理解释，一个成熟的HRBP也是能够站在候选人的角度考虑问题的。\n\n三、 那么针对跳槽频繁或空窗期长，怎么办？\n\n1. 简历上可以优化，但警惕虚构\n\n对不足1年且拥有多段类似短期工作，可参考设计或自由职业类，把其提炼成行业综合实践期并需在简历上注明项目制，在背调过程中能够经得起背景交叉验证，其实说到底简历面试背调是一条线。\n\n2. 短期跳槽，背调前坦诚相待\n\n针对空窗期或某段极短的工作，背调前和HR坦诚沟通，询问是否可以在信息采集表中不背调此段工作履历，阐明其离职原因是因家庭或者职业规划问题，有过一段极短的履历。\n\n很多HR本身有自己的招人指标，背调的核心是核查你写在简历上并授权核查的内容，不一定要把你的全部履历翻个底朝天。但前提是你提交的信息必须真实。\n\n总结：隐瞒和造假是下下策，坦然处理往往最靠谱"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 457,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "背调公司统计\n在现在新型行业中，web3简历造假的比例是最高的\n\n有些造假，一发现后果还是挺严重的\n\n当然，越高级的岗位后果越严重\n\nmeme这边写的是第一部分\n\n那么为什么简历合并很难瞒过去。以及三方背调公司具体怎么发现。背调到底怎么核实你的工作时间？\n\n1. 证明人交叉访谈 https://t.co/kvoDlGFguv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 1409,
+          "like_count": 389,
+          "listed_count": 2,
+          "media_count": 789,
+          "tweet_count": 2772
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-26T00:40:49.000Z",
+        "description": "🐱职业打工人，欢迎跟我一起进入web3 \n5年区块链经验丨投研分析丨知识成长分享丨专业HR/web3求职 \n\n🐾欢迎合作（小作文100%回复）：froussimis@gmail.com",
+        "id": "1894548093905084416",
+        "location": "Canyon Rim, UT",
+        "name": "meme",
+        "pinned_tweet_id": "2053432101819843063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949422290019790848/6cIshmX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17579,
+          "following_count": 437,
+          "like_count": 8846,
+          "listed_count": 64,
+          "media_count": 939,
+          "tweet_count": 5252
+        },
+        "url": "",
+        "username": "oooodjdjd",
+        "verified": true
+      }
+    ]
+  }
+}

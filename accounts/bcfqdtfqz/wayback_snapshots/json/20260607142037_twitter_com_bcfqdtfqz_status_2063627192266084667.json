@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2063463823978205439",
+    "created_at": "2026-06-07T14:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063627192266084667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2033549131797733376",
+          "start": 0,
+          "username": "nini_incrypto_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063627192266084667",
+    "in_reply_to_user_id": "2033549131797733376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063463823978205439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nini_incrypto_ 你做空可以试试看看你能不能一己之力血战华尔街"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2063463823978205439",
+        "created_at": "2026-06-07T14:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063627192266084667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2033549131797733376",
+              "start": 0,
+              "username": "nini_incrypto_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063627192266084667",
+        "in_reply_to_user_id": "2033549131797733376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063463823978205439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nini_incrypto_ 你做空可以试试看看你能不能一己之力血战华尔街"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033549131797733376",
+        "conversation_id": "2063463823978205439",
+        "created_at": "2026-06-07T03:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063463823978205439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063463823978205439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "互联网最大的阳谋：就是炒股娱乐化\n\n天天吹美股，事实上美股早就没多少散户了，很多散户的钱都在ETF、养老金和基金里，是美国散户不爱炒股吗，是散户都被市场教育过了\n\n天天吹T+0，但交易是T+0，结算不是T+0，互联网老是把糖给你看，毒药包裹的严严实实\n\n现在高盛预测韩国股市要12000点，关键是韩国股市现在8000点还是翻倍的结果，黄仁勋落地就喊出下半年股市更加疯狂，\n\n韩国这么高的杠杠率，海力士和三星占韩国股市份额差不多50%，做空这两个公司可以收割所有韩国人的财富，我不相信美国的资本家会这么好心"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 30823,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互联网最大的阳谋：就是炒股娱乐化\n\n天天吹美股，事实上美股早就没多少散户了，很多散户的钱都在ETF、养老金和基金里，是美国散户不爱炒股吗，是散户都被市场教育过了\n\n天天吹T+0，但交易是T+0，结算不是T+0，互联网老是把糖给你看，毒药包裹的严严实实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 1342,
+          "like_count": 334,
+          "listed_count": 2,
+          "media_count": 754,
+          "tweet_count": 2183
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:26:02.000Z",
+        "description": "07大二在读｜crypto➕ai\nWeb3 创作者｜@CHAINISLE_ZH 生态成员\n网红孵化机构/商务合作\n付费交易群/流量增长陪跑/咨询 私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "CHAINISLE_ZH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nini.onchain",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nini.onchain",
+                "start": 0,
+                "url": "https://t.co/8nWRHsGEY6"
+              }
+            ]
+          }
+        },
+        "id": "2033549131797733376",
+        "name": "nini",
+        "pinned_tweet_id": "2062125935252390372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035875407359262720/qVUpg1XW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8093,
+          "following_count": 936,
+          "like_count": 17101,
+          "listed_count": 33,
+          "media_count": 158,
+          "tweet_count": 4549
+        },
+        "url": "https://t.co/8nWRHsGEY6",
+        "username": "nini_incrypto_",
+        "verified": true
+      }
+    ]
+  }
+}

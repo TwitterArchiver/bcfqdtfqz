@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030486042500022272"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2030162165483852103",
+    "created_at": "2026-03-08T03:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T04:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030486051350061476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1543808514820173825",
+          "start": 0,
+          "username": "kivi888888"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oX7kpZeglN",
+          "end": 42,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2030486051350061476/photo/1",
+          "media_key": "3_2030486042500022272",
+          "start": 19,
+          "url": "https://t.co/oX7kpZeglN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030486051350061476",
+    "in_reply_to_user_id": "1543808514820173825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030162165483852103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kivi888888 基本结论如上 https://t.co/oX7kpZeglN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 473,
+        "media_key": "3_2030486042500022272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC28TDSaQAAf_SJ.jpg",
+        "width": 716
+      },
+      {
+        "height": 1095,
+        "media_key": "3_2030162156898156544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCyVubZbAAAeosP.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030486042500022272"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2030162165483852103",
+        "created_at": "2026-03-08T03:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T04:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030486051350061476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1543808514820173825",
+              "start": 0,
+              "username": "kivi888888"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oX7kpZeglN",
+              "end": 42,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2030486051350061476/photo/1",
+              "media_key": "3_2030486042500022272",
+              "start": 19,
+              "url": "https://t.co/oX7kpZeglN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030486051350061476",
+        "in_reply_to_user_id": "1543808514820173825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030162165483852103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kivi888888 基本结论如上 https://t.co/oX7kpZeglN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030162156898156544"
+          ]
+        },
+        "author_id": "1543808514820173825",
+        "conversation_id": "2030162165483852103",
+        "created_at": "2026-03-07T06:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T07:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030162165483852103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vlr8Iuxx01",
+              "end": 39,
+              "expanded_url": "https://x.com/kivi888888/status/2030162165483852103/photo/1",
+              "media_key": "3_2030162156898156544",
+              "start": 16,
+              "url": "https://t.co/vlr8Iuxx01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030162165483852103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 45062,
+          "like_count": 579,
+          "quote_count": 1,
+          "reply_count": 46,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "为什么很多大公司重视第一学历？ https://t.co/vlr8Iuxx01"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 1037,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 376,
+          "tweet_count": 1090
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-04T04:07:06.000Z",
+        "description": "发点自己喜欢的段子/聊点人间百态",
+        "id": "1543808514820173825",
+        "name": "ki v i",
+        "pinned_tweet_id": "2029876785291350522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912669894648500224/8WAIr4oU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2319,
+          "following_count": 1013,
+          "like_count": 3561,
+          "listed_count": 9,
+          "media_count": 101,
+          "tweet_count": 1129
+        },
+        "username": "kivi888888",
+        "verified": true
+      }
+    ]
+  }
+}

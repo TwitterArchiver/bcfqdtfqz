@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2052705884229542071",
+    "created_at": "2026-05-08T11:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052712399778759110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "550293513",
+          "start": 0,
+          "username": "Ranoooosh_55"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052712399778759110",
+    "in_reply_to_user_id": "550293513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052705884229542071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ranoooosh_55 那要是出个黑天鹅的话算再多的概率不就没用了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2052704728640036865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHysEzNaoAETNRd.png",
+        "width": 217
+      },
+      {
+        "height": 360,
+        "media_key": "3_2052704759250141184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHysGlPbwAA57_A.png",
+        "width": 219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2052705884229542071",
+        "created_at": "2026-05-08T11:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052712399778759110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "550293513",
+              "start": 0,
+              "username": "Ranoooosh_55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052712399778759110",
+        "in_reply_to_user_id": "550293513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052705884229542071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ranoooosh_55 那要是出个黑天鹅的话算再多的概率不就没用了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052704728640036865",
+            "3_2052704759250141184"
+          ]
+        },
+        "author_id": "550293513",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "2052705884229542071",
+        "created_at": "2026-05-08T11:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052705884229542071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aHtMY0VfEI",
+              "end": 168,
+              "expanded_url": "https://x.com/Ranoooosh_55/status/2052705884229542071/photo/1",
+              "media_key": "3_2052704728640036865",
+              "start": 145,
+              "url": "https://t.co/aHtMY0VfEI"
+            },
+            {
+              "display_url": "pic.x.com/aHtMY0VfEI",
+              "end": 168,
+              "expanded_url": "https://x.com/Ranoooosh_55/status/2052705884229542071/photo/1",
+              "media_key": "3_2052704759250141184",
+              "start": 145,
+              "url": "https://t.co/aHtMY0VfEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052705884229542071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有一位体育交易员，赌博输了430万美元。\n另一位，把数学变成了几百万美金的利润。\n第一个哥们觉得“这把我肯定赢”，就冲进去了。\n另一位先建概率模型，算期望值，然后用做市商那套管风险。\n\n第一个老是追那些热门的、赔率夸张的选项。\n另一位只找市场定价出错的地方。\n一个活像个赌场里的散财童子。\n另一位像量化基金里那种冷静的交易员。\n\n所以一个账户慢慢把自己玩没了。\n另一个持续从市场里搬走几百万。\n亏钱的：4,369,120美元\n\n赚钱的：2,154,534美元\n\n最逗的是，他俩看的是完全一样的比赛。\n但一个靠心情做决定。\n另一个靠数据。\n\n在体育竞猜里头，最后赢的人不是“最懂体育”的那个。\n而是最懂概率的那个。\n你要是没有自己的体系、不会管风险、没有数学上的优势，那你就是给那些有这些东西的人打工。\n\n这就是顶尖体育交易员的玩法。\n存下来慢慢看。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一位体育交易员，赌博输了430万美元。\n另一位，把数学变成了几百万美金的利润。\n第一个哥们觉得“这把我肯定赢”，就冲进去了。\n另一位先建概率模型，算期望值，然后用做市商那套管风险。\n\n第一个老是追那些热门的、赔率夸张的选项。\n另一位只找市场定价出错的地方。\n一个活像个赌场里的散财童子。 https://t.co/aHtMY0VfEI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 1346,
+          "like_count": 279,
+          "listed_count": 1,
+          "media_count": 718,
+          "tweet_count": 1872
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2012-04-10T15:40:56.000Z",
+        "description": "PolyMarket官方注册链接：https://t.co/nn8j4qkoFm 预测市场最快的跟单平台PolyCop：https://t.co/PtKP0SN4pG 加入我的PolyMarket电报群：https://t.co/LI9qXcoThK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "polymarket.com/zh/?r=PM888",
+                "end": 40,
+                "expanded_url": "https://polymarket.com/zh/?r=PM888",
+                "start": 17,
+                "url": "https://t.co/nn8j4qkoFm"
+              },
+              {
+                "display_url": "t.me/PolyCop_BOT?st…",
+                "end": 83,
+                "expanded_url": "https://t.me/PolyCop_BOT?start=ref_YINGGE888",
+                "start": 60,
+                "url": "https://t.co/PtKP0SN4pG"
+              },
+              {
+                "display_url": "t.me/PM13168",
+                "end": 125,
+                "expanded_url": "https://t.me/PM13168",
+                "start": 102,
+                "url": "https://t.co/LI9qXcoThK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "990n.acvk.shop/ok168",
+                "end": 23,
+                "expanded_url": "https://990n.acvk.shop/ok168",
+                "start": 0,
+                "url": "https://t.co/RflKveMTOl"
+              }
+            ]
+          }
+        },
+        "id": "550293513",
+        "location": "币圈你需要的全部工具👉",
+        "name": "钱包幽灵",
+        "pinned_tweet_id": "2052571822055719335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960643121307418624/VEm3kglD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9480,
+          "following_count": 4748,
+          "like_count": 4398,
+          "listed_count": 19,
+          "media_count": 13039,
+          "tweet_count": 24900
+        },
+        "url": "https://t.co/RflKveMTOl",
+        "username": "Ranoooosh_55",
+        "verified": true
+      }
+    ]
+  }
+}

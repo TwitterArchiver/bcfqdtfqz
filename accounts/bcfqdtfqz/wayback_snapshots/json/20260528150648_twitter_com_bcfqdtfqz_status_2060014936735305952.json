@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2060014936735305952",
+    "created_at": "2026-05-28T15:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060014936735305952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sionn100percen…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/sionn100percent/status/2059951764338876849",
+          "start": 13,
+          "url": "https://t.co/Hrdc6tUT0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060014936735305952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059951764338876849",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是我说话很多时候像人机 https://t.co/Hrdc6tUT0n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2060014936735305952",
+        "created_at": "2026-05-28T15:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060014936735305952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sionn100percen…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/sionn100percent/status/2059951764338876849",
+              "start": 13,
+              "url": "https://t.co/Hrdc6tUT0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060014936735305952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059951764338876849",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是我说话很多时候像人机 https://t.co/Hrdc6tUT0n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468153903384756230",
+        "conversation_id": "2059951764338876849",
+        "created_at": "2026-05-28T10:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059951764338876849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059951764338876849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说给刚来推特玩的人听吧，尤其是金融圈的，推特的算法跟国内app完全不同，别把国内app那一套带进来，推特讲究的就是真诚，简单来说就是别搞得像机器人，推特很忌讳这一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n分享思考和个人生活\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1353,
+          "like_count": 327,
+          "listed_count": 2,
+          "media_count": 746,
+          "tweet_count": 2091
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-07T09:42:39.000Z",
+        "description": "男娘｜En_name：Luna ruri｜femboy｜backup｜EN CN JP｜ally of justice and fairness｜cute things｜168cm50kg｜ACG culture｜Beauty share｜thanks",
+        "id": "1468153903384756230",
+        "location": "main account：moonlight_ruri",
+        "name": "月璃_LunaRuri_V2",
+        "pinned_tweet_id": "2057795759194685752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059948074538340352/3PjIS8w-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 353,
+          "like_count": 758,
+          "listed_count": 8,
+          "media_count": 152,
+          "tweet_count": 3792
+        },
+        "username": "sionn100percent",
+        "verified": false
+      }
+    ]
+  }
+}

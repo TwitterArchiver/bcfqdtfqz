@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2024087216633630905",
+    "created_at": "2026-02-18T13:49:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T14:49:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024119103917863302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882369277178863616",
+          "start": 0,
+          "username": "luvuhateu0123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024119103917863302",
+    "in_reply_to_user_id": "1882369277178863616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024087216633630905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luvuhateu0123 好听"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51334,
+        "height": 1278,
+        "media_key": "7_2024087069275111424",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2024087069275111424/pu/img/sx8O8biycy1HnJTA.jpg",
+        "public_metrics": {
+          "view_count": 110
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024087069275111424/pu/vid/avc1/320x692/WXYtIe240njywRmM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024087069275111424/pu/vid/avc1/480x1038/NIoFYXl9ez4zWzF2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024087069275111424/pu/vid/avc1/590x1278/vMEppsqMfs5JOLTs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2024087069275111424/pu/pl/g8CkaXAv5c6nwMC2.m3u8?tag=12"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2024087216633630905",
+        "created_at": "2026-02-18T13:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024119103917863302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882369277178863616",
+              "start": 0,
+              "username": "luvuhateu0123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024119103917863302",
+        "in_reply_to_user_id": "1882369277178863616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024087216633630905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luvuhateu0123 好听"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2024087069275111424"
+          ]
+        },
+        "author_id": "1882369277178863616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2024087216633630905",
+        "created_at": "2026-02-18T11:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024087216633630905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mq8UveK8QS",
+              "end": 33,
+              "expanded_url": "https://x.com/luvuhateu0123/status/2024087216633630905/video/1",
+              "media_key": "7_2024087069275111424",
+              "start": 10,
+              "url": "https://t.co/Mq8UveK8QS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024087216633630905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 571,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新年了给你们唱首歌 https://t.co/Mq8UveK8QS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "New York, USA",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 811,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 575
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-23T10:06:31.000Z",
+        "description": "淡淡的 我當日记发了啦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hateuluvu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hateuluvu",
+                "start": 0,
+                "url": "https://t.co/87BNIOreDM"
+              }
+            ]
+          }
+        },
+        "id": "1882369277178863616",
+        "location": "是誰住在深海的大鳳梨里",
+        "name": "喵",
+        "pinned_tweet_id": "1900220244767236534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018406089533104129/3REpPK3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3573,
+          "following_count": 162,
+          "like_count": 494,
+          "listed_count": 8,
+          "media_count": 50,
+          "tweet_count": 272
+        },
+        "url": "https://t.co/87BNIOreDM",
+        "username": "luvuhateu0123",
+        "verified": false
+      }
+    ]
+  }
+}

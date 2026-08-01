@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018947549315620865"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2018947556227875308",
+    "created_at": "2026-02-04T07:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T08:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018947556227875308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bRNGsCSRQ2",
+          "end": 33,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2018947556227875308/photo/1",
+          "media_key": "3_2018947549315620865",
+          "start": 10,
+          "url": "https://t.co/bRNGsCSRQ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018947556227875308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "居然还说的真没毛病 https://t.co/bRNGsCSRQ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_2018947549315620865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAS-GWkaYAEyO1_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018947549315620865"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2018947556227875308",
+        "created_at": "2026-02-04T07:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T08:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018947556227875308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bRNGsCSRQ2",
+              "end": 33,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2018947556227875308/photo/1",
+              "media_key": "3_2018947549315620865",
+              "start": 10,
+              "url": "https://t.co/bRNGsCSRQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018947556227875308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "居然还说的真没毛病 https://t.co/bRNGsCSRQ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄二代目 请不要转帖回墙内谢谢 本账仅供娱乐，真假自辨，图源来自墙内，有侵权内容私信删除",
+        "id": "2018306514549972992",
+        "name": "吃番茄不吐番茄籽",
+        "pinned_tweet_id": "2018360937804444012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 159,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 66
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

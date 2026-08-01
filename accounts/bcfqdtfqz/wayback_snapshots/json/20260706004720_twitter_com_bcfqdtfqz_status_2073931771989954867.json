@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2073868531175915874",
+    "created_at": "2026-07-06T00:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T01:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073931771989954867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1120712903886344200",
+          "start": 0,
+          "username": "Philo2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073931771989954867",
+    "in_reply_to_user_id": "1120712903886344200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073868531175915874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Philo2022 那要是单纯的只是失语呢……？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2073868531175915874",
+        "created_at": "2026-07-06T00:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073931771989954867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1120712903886344200",
+              "start": 0,
+              "username": "Philo2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073931771989954867",
+        "in_reply_to_user_id": "1120712903886344200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073868531175915874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Philo2022 那要是单纯的只是失语呢……？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1120712903886344200",
+        "conversation_id": "2073868531175915874",
+        "created_at": "2026-07-05T20:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T21:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073868531175915874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/doveywancn/sta…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/doveywancn/status/2035704834750558226",
+              "start": 52,
+              "url": "https://t.co/Nh6mwGtUj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073868531175915874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 818,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035704834750558226",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "表达与输出体现的也是思维能力，沟通能力也是思维能力，思维不清晰的两个都做不好，思维清晰的两个都不会差。 https://t.co/Nh6mwGtUj5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 1397,
+          "like_count": 384,
+          "listed_count": 2,
+          "media_count": 786,
+          "tweet_count": 2710
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-23T15:35:52.000Z",
+        "description": "Creator, Artist, Creator of @dopamindai & https://t.co/CiW3w1GiB2 & Art Gallery https://t.co/FbODek76Fh | Blog: https://t.co/b6PsjnsGoA | My Artwork: @PhiloArt2020 | En: @Philo1024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "dopamindai"
+              },
+              {
+                "end": 163,
+                "start": 150,
+                "username": "PhiloArt2020"
+              },
+              {
+                "end": 180,
+                "start": 170,
+                "username": "Philo1024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "GoShipFast.com",
+                "end": 65,
+                "expanded_url": "http://GoShipFast.com",
+                "start": 42,
+                "url": "https://t.co/CiW3w1GiB2"
+              },
+              {
+                "display_url": "philoart.io",
+                "end": 103,
+                "expanded_url": "http://philoart.io",
+                "start": 80,
+                "url": "https://t.co/FbODek76Fh"
+              },
+              {
+                "display_url": "philoli.com",
+                "end": 135,
+                "expanded_url": "http://philoli.com",
+                "start": 112,
+                "url": "https://t.co/b6PsjnsGoA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "philoli.com",
+                "end": 23,
+                "expanded_url": "https://philoli.com/",
+                "start": 0,
+                "url": "https://t.co/E4ytxr9zV2"
+              }
+            ]
+          }
+        },
+        "id": "1120712903886344200",
+        "name": "Philo",
+        "pinned_tweet_id": "1954486195519623328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432329882692767747/oX4paPF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28674,
+          "following_count": 570,
+          "like_count": 10127,
+          "listed_count": 178,
+          "media_count": 1649,
+          "tweet_count": 15483
+        },
+        "url": "https://t.co/E4ytxr9zV2",
+        "username": "Philo2022",
+        "verified": true
+      }
+    ]
+  }
+}

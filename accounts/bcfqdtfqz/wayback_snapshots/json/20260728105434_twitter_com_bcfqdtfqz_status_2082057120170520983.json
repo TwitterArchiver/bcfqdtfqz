@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2082033361879494711",
+    "created_at": "2026-07-28T10:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082057120170520983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "941899828501430273",
+          "start": 0,
+          "username": "RunnerOfPhil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082057120170520983",
+    "in_reply_to_user_id": "941899828501430273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082033361879494711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RunnerOfPhil 找贺建奎基因编辑一波的难度都比正儿八经逆天改命的难度小"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2082033361879494711",
+        "created_at": "2026-07-28T10:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082057120170520983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "941899828501430273",
+              "start": 0,
+              "username": "RunnerOfPhil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082057120170520983",
+        "in_reply_to_user_id": "941899828501430273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082033361879494711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RunnerOfPhil 找贺建奎基因编辑一波的难度都比正儿八经逆天改命的难度小"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "941899828501430273",
+        "conversation_id": "2082033361879494711",
+        "created_at": "2026-07-28T09:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082033361879494711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082033361879494711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 168,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果加上55分流，独生子女，那么中国就是200个家庭中有一个家庭能出一个985，平均下来一个3孩家族5代人，100年才会出一个。清北大概是1万个家庭中有一个\n\n然后家长们都希望自己孩子能考985改变命运，有这运气抽18年才兑奖的彩票，咋不去赌4年一次的世界杯改变命运呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 1427,
+          "like_count": 429,
+          "listed_count": 2,
+          "media_count": 823,
+          "tweet_count": 3179
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-16T05:16:33.000Z",
+        "description": "伊利诺伊大学克莱登分校（ICCU）PhR",
+        "id": "941899828501430273",
+        "name": "润学博导 疾走飞升",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667110608389668866/sFBmI9hq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3986,
+          "following_count": 719,
+          "like_count": 8916,
+          "listed_count": 26,
+          "media_count": 244,
+          "tweet_count": 4378
+        },
+        "url": "",
+        "username": "RunnerOfPhil",
+        "verified": false
+      }
+    ]
+  }
+}

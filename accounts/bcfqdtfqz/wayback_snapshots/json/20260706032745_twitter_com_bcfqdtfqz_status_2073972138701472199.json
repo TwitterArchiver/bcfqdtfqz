@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073972126139502592"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2073972138701472199",
+    "created_at": "2026-07-06T03:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T04:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073972138701472199"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QS5TBXKnFE",
+          "end": 63,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2073972138701472199/photo/1",
+          "media_key": "3_2073972126139502592",
+          "start": 40,
+          "url": "https://t.co/QS5TBXKnFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073972138701472199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好不容易逃离了dickboy，为什么又刷到很多女推这照片穿的快跟没穿差不多了 https://t.co/QS5TBXKnFE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2073972126139502592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMg6qQybUAAEOlg.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073972126139502592"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2073972138701472199",
+        "created_at": "2026-07-06T03:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073972138701472199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QS5TBXKnFE",
+              "end": 63,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2073972138701472199/photo/1",
+              "media_key": "3_2073972126139502592",
+              "start": 40,
+              "url": "https://t.co/QS5TBXKnFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073972138701472199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好不容易逃离了dickboy，为什么又刷到很多女推这照片穿的快跟没穿差不多了 https://t.co/QS5TBXKnFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 1398,
+          "like_count": 387,
+          "listed_count": 2,
+          "media_count": 789,
+          "tweet_count": 2732
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

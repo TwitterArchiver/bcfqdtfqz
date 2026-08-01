@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2054386284462797260",
+    "created_at": "2026-05-13T17:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054618271522132208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1492458781636136961",
+          "start": 0,
+          "username": "AlbertCoinGlass"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054618271522132208",
+    "in_reply_to_user_id": "1492458781636136961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054386284462797260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlbertCoinGlass 买corz都比这后三个强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2054386284462797260",
+        "created_at": "2026-05-13T17:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054618271522132208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492458781636136961",
+              "start": 0,
+              "username": "AlbertCoinGlass"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054618271522132208",
+        "in_reply_to_user_id": "1492458781636136961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054386284462797260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlbertCoinGlass 买corz都比这后三个强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492458781636136961",
+        "conversation_id": "2054386284462797260",
+        "created_at": "2026-05-13T02:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054386284462797260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054386284462797260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 12864,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去玩美股的兄弟们不要忘记来时路啊😭😭😭👊👊👊\n\n一定要买点CRCL，MSTR，COIN，BMNR\n\n忆苦思甜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 1354,
+          "like_count": 294,
+          "listed_count": 1,
+          "media_count": 725,
+          "tweet_count": 1924
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-12T11:21:28.000Z",
+        "description": "Marketing Director @coinglass_com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "coinglass_com"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "CoinGlass.com",
+                "end": 23,
+                "expanded_url": "https://www.CoinGlass.com",
+                "start": 0,
+                "url": "https://t.co/iT6O4U71Lk"
+              }
+            ]
+          }
+        },
+        "id": "1492458781636136961",
+        "name": "Albert丨 CoinGlass",
+        "pinned_tweet_id": "2004039404801716291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869990073090936832/7LTPGdHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8152,
+          "following_count": 443,
+          "like_count": 14600,
+          "listed_count": 150,
+          "media_count": 939,
+          "tweet_count": 4528
+        },
+        "url": "https://t.co/iT6O4U71Lk",
+        "username": "AlbertCoinGlass",
+        "verified": true
+      }
+    ]
+  }
+}

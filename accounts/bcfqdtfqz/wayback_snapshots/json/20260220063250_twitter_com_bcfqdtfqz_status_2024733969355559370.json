@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2024672624618721661",
+    "created_at": "2026-02-20T06:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T07:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024733969355559370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "5967912",
+          "start": 0,
+          "username": "tinyfool"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024733969355559370",
+    "in_reply_to_user_id": "5967912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024672624618721661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tinyfool 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2024672624618721661",
+        "created_at": "2026-02-20T06:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024733969355559370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "5967912",
+              "start": 0,
+              "username": "tinyfool"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024733969355559370",
+        "in_reply_to_user_id": "5967912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024672624618721661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tinyfool 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "5967912",
+        "conversation_id": "2024672624618721661",
+        "created_at": "2026-02-20T02:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T03:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024672624618721661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024672624618721661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8115,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "正式47岁了 ：）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主｜里推@_with_tomato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "_with_tomato"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 882,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 644
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2007-05-11T17:10:33.000Z",
+        "description": "Youtuber\n20年老程序员，业已退休，不以写代码为主业。\n不是英语老师，但开发了\"英语轻松读\"，做了广受好评的学习英语的视频。\n心在日本，人目前在天津\nYoutube：\n英语学习之路 https://t.co/fY05anVN8r\n胡说八道 https://t.co/FQLaNWFD5j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/tinyfoolgmail",
+                "end": 118,
+                "expanded_url": "http://youtube.com/c/tinyfoolgmail",
+                "start": 95,
+                "url": "https://t.co/fY05anVN8r"
+              },
+              {
+                "display_url": "tinyurl.com/2j928ecm",
+                "end": 147,
+                "expanded_url": "http://tinyurl.com/2j928ecm",
+                "start": 124,
+                "url": "https://t.co/FQLaNWFD5j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "codechina.org",
+                "end": 23,
+                "expanded_url": "https://codechina.org/",
+                "start": 0,
+                "url": "https://t.co/h65nactS6S"
+              }
+            ]
+          }
+        },
+        "id": "5967912",
+        "location": "Tianjin",
+        "name": "Tinyfool",
+        "pinned_tweet_id": "1529730373789179909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634730992278839297/vZg4HnAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187919,
+          "following_count": 916,
+          "like_count": 6682,
+          "listed_count": 1442,
+          "media_count": 4883,
+          "tweet_count": 105509
+        },
+        "url": "https://t.co/h65nactS6S",
+        "username": "tinyfool",
+        "verified": true
+      }
+    ]
+  }
+}

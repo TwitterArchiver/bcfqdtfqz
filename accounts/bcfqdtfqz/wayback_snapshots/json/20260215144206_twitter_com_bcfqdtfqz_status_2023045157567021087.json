@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2022725737246265714",
+    "created_at": "2026-02-15T14:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T15:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023045157567021087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1419506450",
+          "start": 0,
+          "username": "YangYcat"
+        },
+        {
+          "end": 19,
+          "id": "1994235613273575430",
+          "start": 10,
+          "username": "ALA666AL"
+        },
+        {
+          "end": 28,
+          "id": "2262723812",
+          "start": 20,
+          "username": "abskoop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023045157567021087",
+    "in_reply_to_user_id": "1419506450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022877479413911663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangYcat @ALA666AL @abskoop 中芯国际没那精度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2022725737246265714",
+        "created_at": "2026-02-15T14:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023045157567021087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1419506450",
+              "start": 0,
+              "username": "YangYcat"
+            },
+            {
+              "end": 19,
+              "id": "1994235613273575430",
+              "start": 10,
+              "username": "ALA666AL"
+            },
+            {
+              "end": 28,
+              "id": "2262723812",
+              "start": 20,
+              "username": "abskoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023045157567021087",
+        "in_reply_to_user_id": "1419506450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022877479413911663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangYcat @ALA666AL @abskoop 中芯国际没那精度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419506450",
+        "conversation_id": "2022725737246265714",
+        "created_at": "2026-02-15T03:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022877479413911663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1994235613273575430",
+              "start": 0,
+              "username": "ALA666AL"
+            },
+            {
+              "end": 18,
+              "id": "2262723812",
+              "start": 10,
+              "username": "abskoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022877479413911663",
+        "in_reply_to_user_id": "1994235613273575430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022726350281339191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ALA666AL @abskoop 咋不找中芯国际"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 779,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 461
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2013-05-11T01:43:16.000Z",
+        "description": "",
+        "id": "1419506450",
+        "location": "Melbourne, Victoria",
+        "name": "Mark Y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3642270065/8d2068ddcc73eaab4497e142bf65bf9f_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 356,
+          "like_count": 80,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 3716
+        },
+        "username": "YangYcat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T02:43:48.000Z",
+        "description": "Yin Yin Yin",
+        "id": "1994235613273575430",
+        "name": "Miki Miko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020934279757434880/Y89lI8_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 707,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1873
+        },
+        "username": "ALA666AL",
+        "verified": true
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "AI"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "Tech"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "Tools"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "tag": "InternetTools"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "tag": "Learning"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 72,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 49,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743892,
+          "following_count": 1233,
+          "like_count": 26081,
+          "listed_count": 2691,
+          "media_count": 23761,
+          "tweet_count": 60822
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

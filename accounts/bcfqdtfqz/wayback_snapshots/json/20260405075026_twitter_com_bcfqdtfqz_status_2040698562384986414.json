@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2040698562384986414",
+    "created_at": "2026-04-05T07:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T08:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040698562384986414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/circle1811801/…",
+          "end": 150,
+          "expanded_url": "https://twitter.com/circle1811801/status/2040451124550156317",
+          "start": 127,
+          "url": "https://t.co/DAisf6Uoou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040698562384986414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040451124550156317",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日本我不知道，但是中国高中剃寸头和蘑菇头，上课早6晚11，然后再偶然碰上神人老师搞搞小团体，你要是用这想拍什么鬼片那我没意见，当然你要是想拿某些地区头部高中和国际部或者什么特长班的宣传片来举例说什么在中国上高中都是这样的那你建议直接把我block掉谢谢 https://t.co/DAisf6Uoou"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2040698562384986414",
+        "created_at": "2026-04-05T07:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040698562384986414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/circle1811801/…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/circle1811801/status/2040451124550156317",
+              "start": 127,
+              "url": "https://t.co/DAisf6Uoou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040698562384986414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040451124550156317",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本我不知道，但是中国高中剃寸头和蘑菇头，上课早6晚11，然后再偶然碰上神人老师搞搞小团体，你要是用这想拍什么鬼片那我没意见，当然你要是想拿某些地区头部高中和国际部或者什么特长班的宣传片来举例说什么在中国上高中都是这样的那你建议直接把我block掉谢谢 https://t.co/DAisf6Uoou"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872722735643893760",
+        "conversation_id": "2040351426506113165",
+        "created_at": "2026-04-04T15:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040451124550156317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040451124550156317",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1030,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040351426506113165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 这下真是看二次元看的了。我见过无数中国人觉得中国不好，但起码都是些可以理解的理由，因为文娱产业一个分支欠发达这种理由我真的第一次见。你不会觉得只要你在日本上高中就会有染着rgb头发的偶像颜女同桌在情人节送你本命巧克力，在圣诞节的雪夜和你深情表白，最后在修学旅行中偷尝禁果命定终身吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa（私信互关）",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 1314,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 609,
+          "tweet_count": 1615
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-27T19:14:39.000Z",
+        "description": "间歇性左倾发作，猝发性爱国的日子人。    挑战正常人类能在推特维持多久理性",
+        "id": "1872722735643893760",
+        "name": "circle",
+        "pinned_tweet_id": "1910529689468518624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910401404625375232/kvwwda9A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 5,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 274
+        },
+        "username": "circle1811801",
+        "verified": false
+      }
+    ]
+  }
+}

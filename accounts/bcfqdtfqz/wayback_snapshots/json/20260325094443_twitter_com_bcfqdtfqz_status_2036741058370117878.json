@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2036424532454678834",
+    "created_at": "2026-03-25T09:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T10:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036741058370117878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1356514988223918080",
+          "start": 0,
+          "username": "StarrySkyOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036741058370117878",
+    "in_reply_to_user_id": "1356514988223918080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036424532454678834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarrySkyOvO 国内app基本都是霸王条款，不给权限直接闪退回主界面该怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2036424532454678834",
+        "created_at": "2026-03-25T09:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T10:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036741058370117878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1356514988223918080",
+              "start": 0,
+              "username": "StarrySkyOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036741058370117878",
+        "in_reply_to_user_id": "1356514988223918080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036424532454678834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarrySkyOvO 国内app基本都是霸王条款，不给权限直接闪退回主界面该怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356514988223918080",
+        "conversation_id": "2036424532454678834",
+        "created_at": "2026-03-24T12:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T13:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036424532454678834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realnyarime/st…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/realnyarime/status/2036378924213747939",
+              "start": 115,
+              "url": "https://t.co/FDkn8IW2Vb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036424532454678834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于美团这个删照片的事我倒觉得这么闹一下也挺好的，能提醒用安卓机的普通用户注意权限管控，众所周知国内app喜欢乱要权限，我的看法一直是：\n你用得到的就给有限权限，你用不到的就别想要权限\n虽然麻烦了点但总比遇到类似这种事情要来的好"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1115,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036378924213747939",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于美团这个删照片的事我倒觉得这么闹一下也挺好的，能提醒用安卓机的普通用户注意权限管控，众所周知国内app喜欢乱要权限，我的看法一直是：\n你用得到的就给有限权限，你用不到的就别想要权限\n虽然麻烦了点但总比遇到类似这种事情要来的好 https://t.co/FDkn8IW2Vb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄🍅@__fanqie__， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "__fanqie__"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不知道包什么的番茄（私信互关）",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 1222,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 500,
+          "tweet_count": 1383
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-02T08:09:33.000Z",
+        "description": " EN/漢語/日本語 INFP-T Dev. 💻+📷微单+🎧重度发烧友 05后 友🏳️‍🌈 常驻027 接场照正片📷接旅拍私房 逃生舱@StarrySkyUS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "StarrySkyUS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarrySkyOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarrySkyOvO",
+                "start": 0,
+                "url": "https://t.co/qZoRN6lZ5h"
+              }
+            ]
+          }
+        },
+        "id": "1356514988223918080",
+        "location": "🚪0 欢迎扩列",
+        "name": "StarrySky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005986133562605569/Z0ysuDeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4487,
+          "following_count": 3430,
+          "like_count": 85901,
+          "listed_count": 29,
+          "media_count": 2357,
+          "tweet_count": 21894
+        },
+        "url": "https://t.co/qZoRN6lZ5h",
+        "username": "StarrySkyOvO",
+        "verified": true
+      }
+    ]
+  }
+}

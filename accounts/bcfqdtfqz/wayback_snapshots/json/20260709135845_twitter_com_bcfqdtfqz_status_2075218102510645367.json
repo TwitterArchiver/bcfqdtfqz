@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2075189425613480105",
+    "created_at": "2026-07-09T13:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T14:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075218102510645367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291546300735827968",
+          "start": 0,
+          "username": "skyworship2"
+        },
+        {
+          "end": 23,
+          "id": "2063073064758157312",
+          "start": 13,
+          "username": "BabybusFL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075218102510645367",
+    "in_reply_to_user_id": "1291546300735827968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075216469022192111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skyworship2 @BabybusFL 没08金融危机大的事情美股也不会大幅度回调把"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2075189425613480105",
+        "created_at": "2026-07-09T13:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075218102510645367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291546300735827968",
+              "start": 0,
+              "username": "skyworship2"
+            },
+            {
+              "end": 23,
+              "id": "2063073064758157312",
+              "start": 13,
+              "username": "BabybusFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075218102510645367",
+        "in_reply_to_user_id": "1291546300735827968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075216469022192111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyworship2 @BabybusFL 没08金融危机大的事情美股也不会大幅度回调把"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291546300735827968",
+        "conversation_id": "2075189425613480105",
+        "created_at": "2026-07-09T13:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075216469022192111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063073064758157312",
+              "start": 0,
+              "username": "BabybusFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075216469022192111",
+        "in_reply_to_user_id": "2063073064758157312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075189425613480105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabybusFL 求之不得 😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 1407,
+          "like_count": 398,
+          "listed_count": 2,
+          "media_count": 796,
+          "tweet_count": 2832
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-07T01:26:59.000Z",
+        "description": "Your sincere exploitation/malware developer, Cloud Hacking Helper and golang developer. Do what noone has ever done. https://t.co/osZJNlSsF5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sponsors/Esonh…",
+                "end": 140,
+                "expanded_url": "https://github.com/sponsors/Esonhugh",
+                "start": 117,
+                "url": "https://t.co/osZJNlSsF5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sponsors/Esonh…",
+                "end": 23,
+                "expanded_url": "https://github.com/sponsors/Esonhugh",
+                "start": 0,
+                "url": "https://t.co/osZJNlSsF5"
+              }
+            ]
+          }
+        },
+        "id": "1291546300735827968",
+        "location": "eson.ninja",
+        "name": "Wordless Esonhugh",
+        "pinned_tweet_id": "1742751529269084483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642456804021116928/mcTuO6lQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3839,
+          "following_count": 1647,
+          "like_count": 23703,
+          "listed_count": 23,
+          "media_count": 714,
+          "tweet_count": 8435
+        },
+        "url": "https://t.co/osZJNlSsF5",
+        "username": "skyworship2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T01:39:26.000Z",
+        "description": "单挑马斯克失败复活归来。复活币减1。发布所有信息仅供参考 评论所有言论皆为梦话。十倍做多spxc",
+        "id": "2063073064758157312",
+        "name": "Babybus",
+        "pinned_tweet_id": "2065267236265189742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064355295338352641/X9Ten-32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4221,
+          "following_count": 148,
+          "like_count": 290,
+          "listed_count": 96,
+          "media_count": 71,
+          "tweet_count": 496
+        },
+        "url": "",
+        "username": "BabybusFL",
+        "verified": true
+      }
+    ]
+  }
+}

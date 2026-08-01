@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070790870576906518",
+    "created_at": "2026-06-27T08:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:46:05.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070790759377469562",
+      "2070790870576906518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/__fanqie__",
+          "end": 56,
+          "expanded_url": "https://ngl.link/__fanqie__",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2070790822472396802/px41e2ZK?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2070790822472396802/px41e2ZK?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 33,
+          "status": 200,
+          "title": "@__fanqie__: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/__fanqie__",
+          "url": "https://t.co/hJHQ9FO1Yy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070790870576906518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家伙来提问我，我尽量回答试试……？\n不知道是不是这个，我试一下\nhttps://t.co/hJHQ9FO1Yy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070790759377469562",
+        "created_at": "2026-06-27T08:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:46:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070790759377469562",
+          "2070790870576906518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/__fanqie__",
+              "end": 37,
+              "expanded_url": "https://ngl.link/__fanqie__",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2070790822472396802/px41e2ZK?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070790822472396802/px41e2ZK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "@__fanqie__: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/__fanqie__",
+              "url": "https://t.co/hJHQ9FO1Yy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070790759377469562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道是不是这个，我试一下\nhttps://t.co/hJHQ9FO1Yy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070790870576906518",
+        "created_at": "2026-06-27T08:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:46:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070790759377469562",
+          "2070790870576906518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/__fanqie__",
+              "end": 56,
+              "expanded_url": "https://ngl.link/__fanqie__",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2070790822472396802/px41e2ZK?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070790822472396802/px41e2ZK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 33,
+              "status": 200,
+              "title": "@__fanqie__: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/__fanqie__",
+              "url": "https://t.co/hJHQ9FO1Yy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070790870576906518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家伙来提问我，我尽量回答试试……？\n不知道是不是这个，我试一下\nhttps://t.co/hJHQ9FO1Yy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 1375,
+          "like_count": 350,
+          "listed_count": 2,
+          "media_count": 772,
+          "tweet_count": 2438
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

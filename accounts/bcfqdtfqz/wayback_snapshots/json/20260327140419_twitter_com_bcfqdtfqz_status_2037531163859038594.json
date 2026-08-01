@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2037508418483925259",
+    "created_at": "2026-03-27T14:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037531163859038594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1623691907032584193",
+          "start": 0,
+          "username": "Newton985985"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037531163859038594",
+    "in_reply_to_user_id": "1623691907032584193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037508418483925259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Newton985985 张雪峰在报志愿这一块类似于鲍威尔在美联储"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2037508418483925259",
+        "created_at": "2026-03-27T14:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037531163859038594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1623691907032584193",
+              "start": 0,
+              "username": "Newton985985"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037531163859038594",
+        "in_reply_to_user_id": "1623691907032584193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037508418483925259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Newton985985 张雪峰在报志愿这一块类似于鲍威尔在美联储"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623691907032584193",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2037508418483925259",
+        "created_at": "2026-03-27T12:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037508418483925259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nohomework0/st…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/nohomework0/status/2037408919887425857",
+              "start": 66,
+              "url": "https://t.co/kEj7xKBYjF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037508418483925259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037408919887425857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "张雪峰就是山河四省监狱式垃圾高中每年固定高考冲刺感恩父母节目请的那位教育专家的Pro Max版\n有一个很有名的叫张飞励志\n难绷死了 https://t.co/kEj7xKBYjF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄🍅日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不知道包什么的番茄（私信互关）",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 1234,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 521,
+          "tweet_count": 1420
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-09T14:35:41.000Z",
+        "description": "一个哈基米bot/失败学苯嗑牲/抽象主义😕🧠",
+        "id": "1623691907032584193",
+        "location": "星球",
+        "name": "Newton🫠🧠（古希腊掌管哈基米的神）",
+        "pinned_tweet_id": "1739291624751194571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866148225784377345/ny85Opto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 325,
+          "like_count": 107724,
+          "listed_count": 2,
+          "media_count": 450,
+          "tweet_count": 11172
+        },
+        "username": "Newton985985",
+        "verified": false
+      }
+    ]
+  }
+}

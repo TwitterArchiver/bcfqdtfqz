@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062560852012834816"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2062452453778559415",
+    "created_at": "2026-06-04T15:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062560863232589967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1998647355839754240",
+          "start": 0,
+          "username": "VonJu0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pdbti6y7j1",
+          "end": 41,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2062560863232589967/photo/1",
+          "media_key": "3_2062560852012834816",
+          "start": 18,
+          "url": "https://t.co/Pdbti6y7j1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062560863232589967",
+    "in_reply_to_user_id": "1998647355839754240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062452453778559415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VonJu0 有时候咱俩其实绝配 https://t.co/Pdbti6y7j1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1306,
+        "media_key": "3_2062560852012834816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-wKr_aIAA4YuM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062560852012834816"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2062452453778559415",
+        "created_at": "2026-06-04T15:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062560863232589967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1998647355839754240",
+              "start": 0,
+              "username": "VonJu0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pdbti6y7j1",
+              "end": 41,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2062560863232589967/photo/1",
+              "media_key": "3_2062560852012834816",
+              "start": 18,
+              "url": "https://t.co/Pdbti6y7j1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062560863232589967",
+        "in_reply_to_user_id": "1998647355839754240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062452453778559415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VonJu0 有时候咱俩其实绝配 https://t.co/Pdbti6y7j1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998647355839754240",
+        "conversation_id": "2062452453778559415",
+        "created_at": "2026-06-04T08:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062452453778559415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062452453778559415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2004,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大学生一定要干的事情\n1.每节课都按时去 平时分拉满\n2.绩点卷卷卷 别人卷就比他们更卷\n3.积极参加学生会 校园活动 \n4.每次上课要抢到第一排\n5.年轻人消费无所谓 不要攒钱 把生活费用来充游戏 购买化妆品 轻奢产品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 1340,
+          "like_count": 333,
+          "listed_count": 2,
+          "media_count": 751,
+          "tweet_count": 2151
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T06:54:05.000Z",
+        "description": "06大学生  211在读 沉默的观察者\n\n真实思考 观点输出 人生讨论 社会热点 美股投资",
+        "id": "1998647355839754240",
+        "location": "Los Angeles, CA",
+        "name": "vonju",
+        "pinned_tweet_id": "2059557556637651274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050137749106425856/cHbj5-zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 269,
+          "like_count": 2210,
+          "listed_count": 6,
+          "media_count": 91,
+          "tweet_count": 2132
+        },
+        "username": "VonJu0",
+        "verified": true
+      }
+    ]
+  }
+}

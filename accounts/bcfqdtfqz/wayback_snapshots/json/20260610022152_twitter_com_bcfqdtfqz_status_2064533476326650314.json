@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2063584505336910231",
+    "created_at": "2026-06-10T02:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064533476326650314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1738139955514474496",
+          "start": 0,
+          "username": "ShenzhenUni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064533476326650314",
+    "in_reply_to_user_id": "1738139955514474496",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064298007697465609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShenzhenUni wow"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2063584505336910231",
+        "created_at": "2026-06-10T02:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064533476326650314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1738139955514474496",
+              "start": 0,
+              "username": "ShenzhenUni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064533476326650314",
+        "in_reply_to_user_id": "1738139955514474496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064298007697465609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShenzhenUni wow"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738139955514474496",
+        "conversation_id": "2063584505336910231",
+        "created_at": "2026-06-09T10:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064298007697465609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064298007697465609",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063645319892746423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz Yes."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 1344,
+          "like_count": 339,
+          "listed_count": 2,
+          "media_count": 757,
+          "tweet_count": 2209
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T10:10:50.000Z",
+        "description": "This is the official X account of Shenzhen University.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.szu.edu.cn",
+                "end": 23,
+                "expanded_url": "https://en.szu.edu.cn/",
+                "start": 0,
+                "url": "https://t.co/snSABO6jKl"
+              }
+            ]
+          }
+        },
+        "id": "1738139955514474496",
+        "location": "3688 Nanhai Avenue, Nanshan",
+        "name": "Shenzhen University",
+        "pinned_tweet_id": "2062863397885223289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738140191746080770/f3kW4P0y_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 505,
+          "like_count": 635,
+          "listed_count": 13,
+          "media_count": 399,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/snSABO6jKl",
+        "username": "ShenzhenUni",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070393169938878663",
+    "created_at": "2026-06-26T06:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070395145518973243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070395145518973243",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070393169938878663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar ……？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7777,
+        "height": 1280,
+        "media_key": "13_2070393100233736192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070393100233736192/img/5WJkSjt7etuKsmrF.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070393100233736192/vid/avc1/320x568/as0YeWCjjFEpkyZP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070393100233736192/vid/avc1/480x852/k9ZL-T2VThCS3_AG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070393100233736192/vid/avc1/720x1280/E7yiJ417iE5Y0i-E.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070393100233736192/pl/H4YM_-B9UsdYUTHe.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070393169938878663",
+        "created_at": "2026-06-26T06:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070395145518973243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070395145518973243",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070393169938878663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar ……？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070393100233736192"
+          ]
+        },
+        "author_id": "1868205822511288320",
+        "conversation_id": "2070393169938878663",
+        "created_at": "2026-06-26T06:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070393169938878663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZtAWsjqaG",
+              "end": 23,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/2070393169938878663/video/1",
+              "media_key": "13_2070393100233736192",
+              "start": 0,
+              "url": "https://t.co/AZtAWsjqaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070393169938878663",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AZtAWsjqaG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1363,
+          "like_count": 344,
+          "listed_count": 2,
+          "media_count": 768,
+          "tweet_count": 2393
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "當我感到最幸福時我會把五顆星星都塗滿★ ★ ★ ☆ ☆ ｜刷了半天的X就她的主頁能打✈️了@D_D_ovO_｜cutie🌻：@saksamalah2nd｜v的媽媽們@misakinae8964 @rinko_zero8964｜歡迎視奸｜asd/gad｜我想成為你的翅膀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 76,
+                "start": 62,
+                "username": "saksamalah2nd"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "vico的羽毛",
+        "name": "我就要胃口嘔呲和ねね　因為我配",
+        "pinned_tweet_id": "2065030827835289833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4651,
+          "following_count": 404,
+          "like_count": 24867,
+          "listed_count": 19,
+          "media_count": 1416,
+          "tweet_count": 17911
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

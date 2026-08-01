@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2073700547518201902",
+    "created_at": "2026-07-06T00:54:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T01:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073933527121633584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2033872094493347843",
+          "start": 0,
+          "username": "Chiqyuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073933527121633584",
+    "in_reply_to_user_id": "2033872094493347843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073700547518201902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiqyuna 对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2073700547518201902",
+        "created_at": "2026-07-06T00:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073933527121633584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2033872094493347843",
+              "start": 0,
+              "username": "Chiqyuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073933527121633584",
+        "in_reply_to_user_id": "2033872094493347843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073700547518201902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiqyuna 对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033872094493347843",
+        "conversation_id": "2073700547518201902",
+        "created_at": "2026-07-05T09:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073700547518201902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073700547518201902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 441,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我建议禁止脱产学生上网"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 1397,
+          "like_count": 385,
+          "listed_count": 2,
+          "media_count": 786,
+          "tweet_count": 2715
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-17T11:44:39.000Z",
+        "description": "良言一句三冬暖，恶语伤人真好玩。二号机，好像储存着不为人知的过往。Love&Peace-@Qyunachii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "Qyunachii"
+              }
+            ]
+          }
+        },
+        "id": "2033872094493347843",
+        "location": "八十稻羽",
+        "name": "ッ",
+        "pinned_tweet_id": "2060587537987764394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073429410200616960/8BVpsJpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 32,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "Chiqyuna",
+        "verified": false
+      }
+    ]
+  }
+}

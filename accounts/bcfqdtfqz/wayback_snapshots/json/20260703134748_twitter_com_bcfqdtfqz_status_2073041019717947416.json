@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2072988817645338829",
+    "created_at": "2026-07-03T13:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073041019717947416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1971850577106948097",
+          "start": 0,
+          "username": "Sino_nime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073041019717947416",
+    "in_reply_to_user_id": "1971850577106948097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073039109439041807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sino_nime 邮寄吗……？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2072988817645338829",
+        "created_at": "2026-07-03T13:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073041019717947416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1971850577106948097",
+              "start": 0,
+              "username": "Sino_nime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073041019717947416",
+        "in_reply_to_user_id": "1971850577106948097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073039109439041807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sino_nime 邮寄吗……？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971850577106948097",
+        "conversation_id": "2072988817645338829",
+        "created_at": "2026-07-03T13:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073039109439041807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073039109439041807",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072988817645338829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 不要给我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "梦到哪句发哪句",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 1383,
+          "like_count": 376,
+          "listed_count": 2,
+          "media_count": 783,
+          "tweet_count": 2624
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-27T08:13:16.000Z",
+        "description": "收藏日常和碎碎念 To collect daily items and jabber.                                                         medical student",
+        "id": "1971850577106948097",
+        "location": "Hong Kong",
+        "name": "Sinonime Sora",
+        "pinned_tweet_id": "2068006003904508275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979907907404570624/XqtDX02C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 108,
+          "like_count": 1493,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1074
+        },
+        "url": "",
+        "username": "Sino_nime",
+        "verified": false
+      }
+    ]
+  }
+}

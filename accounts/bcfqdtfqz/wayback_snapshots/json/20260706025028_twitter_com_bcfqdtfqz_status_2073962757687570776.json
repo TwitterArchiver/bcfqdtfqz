@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2073939492843761710",
+    "created_at": "2026-07-06T02:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T03:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073962757687570776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342135083252105216",
+          "start": 0,
+          "username": "xixikawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073962757687570776",
+    "in_reply_to_user_id": "1342135083252105216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073939492843761710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikawaii 这几个狗不得不打了，我指的是打狗不是打狗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073939486346768384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgc-YFa8AABYXf.jpg",
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2073939492843761710",
+        "created_at": "2026-07-06T02:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073962757687570776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073962757687570776",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073939492843761710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii 这几个狗不得不打了，我指的是打狗不是打狗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073939486346768384"
+          ]
+        },
+        "author_id": "1342135083252105216",
+        "conversation_id": "2073939492843761710",
+        "created_at": "2026-07-06T01:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T02:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073939492843761710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lPvD5A0a9i",
+              "end": 33,
+              "expanded_url": "https://x.com/xixikawaii/status/2073939492843761710/photo/1",
+              "media_key": "3_2073939486346768384",
+              "start": 10,
+              "url": "https://t.co/lPvD5A0a9i"
+            },
+            {
+              "display_url": "x.com/xixikawaii/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/xixikawaii/status/2073718737249984722",
+              "start": 34,
+              "url": "https://t.co/iFGOvIkXHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073939492843761710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2055,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073718737249984722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请选择你的英雄🫪🤗 https://t.co/lPvD5A0a9i https://t.co/iFGOvIkXHz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 1397,
+          "like_count": 386,
+          "listed_count": 2,
+          "media_count": 788,
+          "tweet_count": 2725
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "infp 童话都是骗小孩子的（可能我们都疯了叭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_QXw2uGWZ",
+                "start": 0,
+                "url": "https://t.co/p8Rr4RFzRt"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "location": "Disney",
+        "name": "汐",
+        "pinned_tweet_id": "2060911463414522230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073727110225817600/Hxl4H3XT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34164,
+          "following_count": 1193,
+          "like_count": 15232,
+          "listed_count": 450,
+          "media_count": 4877,
+          "tweet_count": 24517
+        },
+        "url": "https://t.co/p8Rr4RFzRt",
+        "username": "xixikawaii",
+        "verified": true
+      }
+    ]
+  }
+}

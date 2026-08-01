@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070320173282947277",
+    "created_at": "2026-06-26T01:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T02:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070320173282947277"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070320173282947277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有时候我感觉自己真的像是个长不大的小孩\n主要还是因为我在14岁以前被家里老登打的时候只会开始哭，但是这几年泪腺有点退化了可能，导致说现在一碰上一些很难受到事情眼泪就开始打转但是又不完全哭得出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070320173282947277",
+        "created_at": "2026-06-26T01:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070320173282947277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070320173282947277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候我感觉自己真的像是个长不大的小孩\n主要还是因为我在14岁以前被家里老登打的时候只会开始哭，但是这几年泪腺有点退化了可能，导致说现在一碰上一些很难受到事情眼泪就开始打转但是又不完全哭得出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1701,
+          "following_count": 1353,
+          "like_count": 343,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 2359
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

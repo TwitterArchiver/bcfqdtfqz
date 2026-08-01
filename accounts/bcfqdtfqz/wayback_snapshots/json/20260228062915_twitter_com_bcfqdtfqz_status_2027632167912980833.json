@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2027628610681712988",
+    "created_at": "2026-02-28T06:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T07:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027632167912980833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "156961481",
+          "start": 0,
+          "username": "ouchaiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027632167912980833",
+    "in_reply_to_user_id": "156961481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027628610681712988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouchaiya 所以收益有啥好晒的就。。。原号2000粉和4000粉时候跟我现在这个号1000份的收入都差不多，关键是发的内容还大差不差。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2027628610681712988",
+        "created_at": "2026-02-28T06:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027632167912980833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "156961481",
+              "start": 0,
+              "username": "ouchaiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027632167912980833",
+        "in_reply_to_user_id": "156961481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027628610681712988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouchaiya 所以收益有啥好晒的就。。。原号2000粉和4000粉时候跟我现在这个号1000份的收入都差不多，关键是发的内容还大差不差。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "156961481",
+        "conversation_id": "2027628610681712988",
+        "created_at": "2026-02-28T06:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027628610681712988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027628610681712988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怀疑很多人拿别人的图来晒收益，很多晒收益的人点进去看他们的贴子，基本没什么互动的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 1009,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 294,
+          "tweet_count": 891
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2010-06-18T12:30:43.000Z",
+        "description": "毒舌。杠精。喜欢说尖酸刻薄的话。总是忍不住想要吐槽。无恶意，纯娱乐，别太当真，开心就好。正在学习日语中。\n日本語勉強中。たまに日本語でポスト（呟き）するけど、変な日本語だったら突っ込んでね！繋がれると嬉しいです 📌",
+        "id": "156961481",
+        "location": "Tokyo, Japan",
+        "name": "アイヤ＠毒舌評論家",
+        "pinned_tweet_id": "2022185260935684423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021866135596232704/LEYZQ2zm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 1674,
+          "like_count": 1304,
+          "listed_count": 8,
+          "media_count": 143,
+          "tweet_count": 99098
+        },
+        "username": "ouchaiya",
+        "verified": true
+      }
+    ]
+  }
+}

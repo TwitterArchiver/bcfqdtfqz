@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025010523541307392"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2025010532181573978",
+    "created_at": "2026-02-21T00:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T01:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025010532181573978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kj32eI9hz9",
+          "end": 32,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2025010532181573978/photo/1",
+          "media_key": "3_2025010523541307392",
+          "start": 9,
+          "url": "https://t.co/Kj32eI9hz9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025010532181573978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吴京你在看什么？ https://t.co/Kj32eI9hz9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2025010523541307392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBpIV5obgAAOkF8.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025010523541307392"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2025010532181573978",
+        "created_at": "2026-02-21T00:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T01:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025010532181573978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kj32eI9hz9",
+              "end": 32,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2025010532181573978/photo/1",
+              "media_key": "3_2025010523541307392",
+              "start": 9,
+              "url": "https://t.co/Kj32eI9hz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025010532181573978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吴京你在看什么？ https://t.co/Kj32eI9hz9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主｜里推@_with_tomato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "_with_tomato"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 924,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 683
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2032336635371934008",
+    "created_at": "2026-03-14T03:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T04:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032653483036561746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1611582713550770177",
+          "start": 0,
+          "username": "sanbuphy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032653483036561746",
+    "in_reply_to_user_id": "1611582713550770177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032336635371934008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanbuphy 这个用来战术决策会不会降维打击了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1041,
+        "media_key": "3_2032336626819743746",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDRPZPGbQAIPGuZ.png",
+        "width": 1737
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2032336635371934008",
+        "created_at": "2026-03-14T03:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T04:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032653483036561746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1611582713550770177",
+              "start": 0,
+              "username": "sanbuphy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032653483036561746",
+        "in_reply_to_user_id": "1611582713550770177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032336635371934008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanbuphy 这个用来战术决策会不会降维打击了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032336626819743746"
+          ]
+        },
+        "author_id": "1611582713550770177",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2032336635371934008",
+        "created_at": "2026-03-13T06:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T07:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032336635371934008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 - 666ghj/MiroFish",
+              "display_url": "github.com/666ghj/MiroFish",
+              "end": 127,
+              "expanded_url": "https://github.com/666ghj/MiroFish",
+              "images": [
+                {
+                  "height": 1478,
+                  "url": "https://pbs.twimg.com/news_img/2031943560623517696/NDjKw4iA?format=png&name=orig",
+                  "width": 2960
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2031943560623517696/NDjKw4iA?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "GitHub - 666ghj/MiroFish: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+              "unwound_url": "https://github.com/666ghj/MiroFish",
+              "url": "https://t.co/Ea0uPjrSyY"
+            },
+            {
+              "display_url": "pic.x.com/jb2cmpkN7v",
+              "end": 151,
+              "expanded_url": "https://x.com/sanbuphy/status/2032336635371934008/photo/1",
+              "media_key": "3_2032336626819743746",
+              "start": 128,
+              "url": "https://t.co/jb2cmpkN7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032336635371934008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 973,
+          "impression_count": 85137,
+          "like_count": 871,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "一个做预测的多智能体项目在GitHub上攒近2万多star。。。 有人拿它推演红楼梦丢失的结局 有人拿它预测金融走势 有人拿它模拟舆情发酵 未来能不能被预测不知道 但star是真多🤡 UI 界面也挺帅的！  https://t.co/Ea0uPjrSyY https://t.co/jb2cmpkN7v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 1069,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 435,
+          "tweet_count": 1226
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-07T04:37:24.000Z",
+        "description": "散步 ｜ Agentic AI, Product, LLM Tutorial\n用简单的话写简单的教程，做简单的产品，喜欢简单的分享。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sanbuphy",
+                "end": 23,
+                "expanded_url": "https://github.com/sanbuphy",
+                "start": 0,
+                "url": "https://t.co/ybvN9uWrDS"
+              }
+            ]
+          }
+        },
+        "id": "1611582713550770177",
+        "location": "Mars",
+        "name": "Sanbu",
+        "pinned_tweet_id": "2027970593136775569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969603128329977862/CVeuIDhN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2725,
+          "following_count": 335,
+          "like_count": 371,
+          "listed_count": 22,
+          "media_count": 47,
+          "tweet_count": 273
+        },
+        "url": "https://t.co/ybvN9uWrDS",
+        "username": "sanbuphy",
+        "verified": false
+      }
+    ]
+  }
+}

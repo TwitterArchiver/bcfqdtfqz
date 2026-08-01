@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2067406245473169704",
+    "created_at": "2026-06-18T02:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T03:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067429129306468541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1420205241404772352",
+          "start": 0,
+          "username": "yanbo2004"
+        },
+        {
+          "end": 22,
+          "id": "1657726063806660609",
+          "start": 11,
+          "username": "XiaoZhi443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067429129306468541",
+    "in_reply_to_user_id": "1420205241404772352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067419229838627121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanbo2004 @XiaoZhi443 像是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2067406245473169704",
+        "created_at": "2026-06-18T02:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067429129306468541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1420205241404772352",
+              "start": 0,
+              "username": "yanbo2004"
+            },
+            {
+              "end": 22,
+              "id": "1657726063806660609",
+              "start": 11,
+              "username": "XiaoZhi443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067429129306468541",
+        "in_reply_to_user_id": "1420205241404772352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067419229838627121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanbo2004 @XiaoZhi443 像是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420205241404772352",
+        "conversation_id": "2067406245473169704",
+        "created_at": "2026-06-18T01:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067419229838627121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657726063806660609",
+              "start": 0,
+              "username": "XiaoZhi443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067419229838627121",
+        "in_reply_to_user_id": "1657726063806660609",
+        "lang": "nl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067406245473169704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoZhi443 ikbr？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 1340,
+          "like_count": 340,
+          "listed_count": 2,
+          "media_count": 759,
+          "tweet_count": 2270
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-28T02:11:40.000Z",
+        "description": "21 yo.｜prev. DevRel & Now building @WorkWorkOrg｜Drop out｜Digital Nomad & Ordinary Trader & Writer & Photoghapher｜Backpacking trip to 20 countries & all of China",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "WorkWorkOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yanbowa.ng",
+                "end": 23,
+                "expanded_url": "http://yanbowa.ng",
+                "start": 0,
+                "url": "https://t.co/LIctNgXeI8"
+              }
+            ]
+          }
+        },
+        "id": "1420205241404772352",
+        "location": "Remote everywhere, Born in 延边.",
+        "name": "烟波 Yanbo🍡",
+        "pinned_tweet_id": "2047564211480351043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058876241566928896/lTiQJnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6402,
+          "following_count": 1887,
+          "like_count": 113460,
+          "listed_count": 42,
+          "media_count": 2836,
+          "tweet_count": 22984
+        },
+        "url": "https://t.co/LIctNgXeI8",
+        "username": "yanbo2004",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-14T12:35:41.000Z",
+        "description": "Seeking the meaning of existence",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaozhi10098",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaozhi10098",
+                "start": 0,
+                "url": "https://t.co/Y13S1qCDt7"
+              }
+            ]
+          }
+        },
+        "id": "1657726063806660609",
+        "location": "東京",
+        "name": "小智",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061045248206483456/gP5HIbAc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 395,
+          "like_count": 22252,
+          "listed_count": 1,
+          "media_count": 884,
+          "tweet_count": 7253
+        },
+        "url": "https://t.co/Y13S1qCDt7",
+        "username": "XiaoZhi443",
+        "verified": false
+      }
+    ]
+  }
+}

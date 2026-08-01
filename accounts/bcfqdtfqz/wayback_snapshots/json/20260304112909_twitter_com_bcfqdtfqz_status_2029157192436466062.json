@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2028894075081080926",
+    "created_at": "2026-03-04T11:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T12:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029157192436466062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999007250829230080",
+          "start": 0,
+          "username": "DDaquaforever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029157192436466062",
+    "in_reply_to_user_id": "1999007250829230080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028894075081080926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDaquaforever u1s1有的研究的课题意义甚至还不如shit里上文章。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1111,
+        "media_key": "3_2028893880595431425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgUPB_awAEJxb3.jpg",
+        "width": 640
+      },
+      {
+        "height": 1192,
+        "media_key": "3_2028893932055347200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgUSBsawAAjIPp.jpg",
+        "width": 640
+      },
+      {
+        "height": 640,
+        "media_key": "3_2028893954339676160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgUTUtaoAAVf8z.png",
+        "width": 880
+      },
+      {
+        "height": 665,
+        "media_key": "3_2028893982273716224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgUU8xaQAAtQA4.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2028894075081080926",
+        "created_at": "2026-03-04T11:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029157192436466062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999007250829230080",
+              "start": 0,
+              "username": "DDaquaforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029157192436466062",
+        "in_reply_to_user_id": "1999007250829230080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028894075081080926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDaquaforever u1s1有的研究的课题意义甚至还不如shit里上文章。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028893880595431425",
+            "3_2028893932055347200",
+            "3_2028893954339676160",
+            "3_2028893982273716224"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2028894075081080926",
+        "created_at": "2026-03-03T18:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T19:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028894075081080926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X5ni4BdFei",
+              "end": 140,
+              "expanded_url": "https://x.com/DDaquaforever/status/2028894075081080926/photo/1",
+              "media_key": "3_2028893880595431425",
+              "start": 117,
+              "url": "https://t.co/X5ni4BdFei"
+            },
+            {
+              "display_url": "pic.x.com/X5ni4BdFei",
+              "end": 140,
+              "expanded_url": "https://x.com/DDaquaforever/status/2028894075081080926/photo/1",
+              "media_key": "3_2028893932055347200",
+              "start": 117,
+              "url": "https://t.co/X5ni4BdFei"
+            },
+            {
+              "display_url": "pic.x.com/X5ni4BdFei",
+              "end": 140,
+              "expanded_url": "https://x.com/DDaquaforever/status/2028894075081080926/photo/1",
+              "media_key": "3_2028893954339676160",
+              "start": 117,
+              "url": "https://t.co/X5ni4BdFei"
+            },
+            {
+              "display_url": "pic.x.com/X5ni4BdFei",
+              "end": 140,
+              "expanded_url": "https://x.com/DDaquaforever/status/2028894075081080926/photo/1",
+              "media_key": "3_2028893982273716224",
+              "start": 117,
+              "url": "https://t.co/X5ni4BdFei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028894075081080926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 46016,
+          "like_count": 886,
+          "quote_count": 12,
+          "reply_count": 24,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "我真的笑死了，求你们快去看SHIT勾史期刊的网站，比sci更权威，比知网更广泛，比nature更贴近生活，真正能给学术界带来大变的期刊网，只要注册就可以投递论文自定义研究机构与论文类型，快来给自己的简历加上一点都不光彩的一笔吧（？） https://t.co/X5ni4BdFei"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 1023,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 993
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3384,
+          "following_count": 3767,
+          "like_count": 5603,
+          "listed_count": 9,
+          "media_count": 2104,
+          "tweet_count": 9345
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

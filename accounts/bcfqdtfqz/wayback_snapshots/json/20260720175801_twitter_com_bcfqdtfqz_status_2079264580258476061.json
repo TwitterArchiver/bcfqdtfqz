@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2079257366542110927",
+    "created_at": "2026-07-20T17:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079264580258476061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1861307534721851395",
+          "start": 0,
+          "username": "Wester21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079264580258476061",
+    "in_reply_to_user_id": "1861307534721851395",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079257366542110927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wester21 雾（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2079257366542110927",
+        "created_at": "2026-07-20T17:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079264580258476061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1861307534721851395",
+              "start": 0,
+              "username": "Wester21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079264580258476061",
+        "in_reply_to_user_id": "1861307534721851395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079257366542110927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wester21 雾（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861307534721851395",
+        "conversation_id": "2079257366542110927",
+        "created_at": "2026-07-20T17:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079257366542110927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079257366542110927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是柚子社大贤宗师绫地宁宁的纪念日07.21，将这条消息转发到十个群，将会在图书馆遇到一位正在打磨桌角的宁宁，我试过了，是假的，还会被骂柚子厨退群，但是今天真的是绫地宁宁的纪念日07.21日，让我们一起为宁宁庆祝！Ciallo～(∠・ω&lt; )⌒☆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号，梦到哪句发哪句\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 47,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 24,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 1430,
+          "like_count": 424,
+          "listed_count": 2,
+          "media_count": 814,
+          "tweet_count": 3111
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-26T07:15:02.000Z",
+        "description": "♂ | 喜欢摄影 | 喜欢露出\n会不定期拍一些符合自己审美的露出视频\n以及分享一些碎碎念（其实大部分都是碎碎念）",
+        "id": "1861307534721851395",
+        "location": "大概是在户外",
+        "name": "汐",
+        "pinned_tweet_id": "2074994950236930421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050544902891790336/gBkMKsIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2600,
+          "following_count": 186,
+          "like_count": 8305,
+          "listed_count": 12,
+          "media_count": 72,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "Wester21",
+        "verified": true
+      }
+    ]
+  }
+}

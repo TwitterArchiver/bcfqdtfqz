@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2042973292462772483",
+    "created_at": "2026-04-12T13:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T14:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043316981252882645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1902890461607698432",
+          "start": 0,
+          "username": "HoodyLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043316981252882645",
+    "in_reply_to_user_id": "1902890461607698432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042973292462772483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoodyLiu 你是前字节老兵就没机会问问你家hr来这问？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2042973292462772483",
+        "created_at": "2026-04-12T13:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043316981252882645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1902890461607698432",
+              "start": 0,
+              "username": "HoodyLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043316981252882645",
+        "in_reply_to_user_id": "1902890461607698432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042973292462772483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoodyLiu 你是前字节老兵就没机会问问你家hr来这问？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902890461607698432",
+        "conversation_id": "2042973292462772483",
+        "created_at": "2026-04-11T14:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042973292462772483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042973292462772483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3930,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么很多大公司重视第一学历？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄🍅另一个号@__fanqie__\n这个号发帖梗图夹杂着生活帖子，\n欢迎互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "__fanqie__"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 1335,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 663,
+          "tweet_count": 1737
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-21T01:10:32.000Z",
+        "description": "前字节老兵，亿级 DAU 国民剪辑工具用户增长服务端负责人\n现 All in AI，持续关注 AI 创业方向",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoodyliu.carrd.co",
+                "end": 23,
+                "expanded_url": "https://hoodyliu.carrd.co",
+                "start": 0,
+                "url": "https://t.co/ut2BAHykxk"
+              }
+            ]
+          }
+        },
+        "id": "1902890461607698432",
+        "name": "Hoody",
+        "pinned_tweet_id": "2041124067345146345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980535780192706560/RvE29C5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 304,
+          "like_count": 2247,
+          "listed_count": 8,
+          "media_count": 176,
+          "tweet_count": 1520
+        },
+        "url": "https://t.co/ut2BAHykxk",
+        "username": "HoodyLiu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2032321706019471459",
+    "created_at": "2026-03-13T08:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T09:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032372327024054292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1017604796042211330",
+          "start": 0,
+          "username": "Evenin_eko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032372327024054292",
+    "in_reply_to_user_id": "1017604796042211330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032321706019471459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evenin_eko 国科大好像退学率不低我印象中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2032321706019471459",
+        "created_at": "2026-03-13T08:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T09:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032372327024054292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1017604796042211330",
+              "start": 0,
+              "username": "Evenin_eko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032372327024054292",
+        "in_reply_to_user_id": "1017604796042211330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032321706019471459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evenin_eko 国科大好像退学率不低我印象中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1017604796042211330",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2032321706019471459",
+        "created_at": "2026-03-13T05:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032321706019471459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Evenin_eko/sta…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/Evenin_eko/status/2032298202406535533",
+              "start": 83,
+              "url": "https://t.co/axKhk79guV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032321706019471459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032298202406535533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是真事，有的老中家长就为了那么个985的名头把自家孩子往军校送。\n就你国做题家的体质，两天跑一次5公里都受不了，更何况准军事化管理，手机都固定时间收发的国防科大。 https://t.co/axKhk79guV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 1056,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 433,
+          "tweet_count": 1221
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-13T03:01:04.000Z",
+        "description": "DTMer&Coder｜东大情理备考中｜Founder of Cocomilk_Lab / Member of PASAU SOUND｜最爱的小女友 @eggtartqwq｜个人交流群：929518731",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "eggtartqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shiori-net.work",
+                "end": 23,
+                "expanded_url": "https://shiori-net.work/",
+                "start": 0,
+                "url": "https://t.co/wKiADpYai2"
+              }
+            ]
+          }
+        },
+        "id": "1017604796042211330",
+        "location": "Hokkaidō, Japan",
+        "name": "淺川 曦✨ 詩織網路 Shiori Networks",
+        "pinned_tweet_id": "2023338451878506907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950168958138740736/cICoLDtw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3160,
+          "following_count": 1180,
+          "like_count": 171058,
+          "listed_count": 13,
+          "media_count": 2883,
+          "tweet_count": 30635
+        },
+        "url": "https://t.co/wKiADpYai2",
+        "username": "Evenin_eko",
+        "verified": false
+      }
+    ]
+  }
+}

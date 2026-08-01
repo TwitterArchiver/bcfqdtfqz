@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047016820067209216"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2047016825620406506",
+    "created_at": "2026-04-22T18:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T19:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047016825620406506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GnXOFmsNkH",
+          "end": 32,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2047016825620406506/photo/1",
+          "media_key": "3_2047016820067209216",
+          "start": 9,
+          "url": "https://t.co/GnXOFmsNkH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047016825620406506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "命中注定要在一起 https://t.co/GnXOFmsNkH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 826,
+        "media_key": "3_2047016820067209216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGh288lbEAA5xS3.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047016820067209216"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2047016825620406506",
+        "created_at": "2026-04-22T18:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T19:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047016825620406506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GnXOFmsNkH",
+              "end": 32,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2047016825620406506/photo/1",
+              "media_key": "3_2047016820067209216",
+              "start": 9,
+              "url": "https://t.co/GnXOFmsNkH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047016825620406506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "命中注定要在一起 https://t.co/GnXOFmsNkH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图夹杂着生活帖子，\n欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 1332,
+          "like_count": 264,
+          "listed_count": 1,
+          "media_count": 699,
+          "tweet_count": 1788
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

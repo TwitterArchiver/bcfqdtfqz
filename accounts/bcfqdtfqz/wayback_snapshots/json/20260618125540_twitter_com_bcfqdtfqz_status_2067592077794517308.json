@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2067270501823607112",
+    "created_at": "2026-06-18T12:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067592077794517308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033569052665524225",
+          "start": 0,
+          "username": "ssuixinsuoyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067592077794517308",
+    "in_reply_to_user_id": "2033569052665524225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067270501823607112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ssuixinsuoyu 建议四千块去北上广深穷游，多走走多看看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1614,
+        "media_key": "3_2067270488590553089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBrjncWkAEwfC3.jpg",
+        "width": 971
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2067270501823607112",
+        "created_at": "2026-06-18T12:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067592077794517308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033569052665524225",
+              "start": 0,
+              "username": "ssuixinsuoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067592077794517308",
+        "in_reply_to_user_id": "2033569052665524225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067270501823607112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssuixinsuoyu 建议四千块去北上广深穷游，多走走多看看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067270488590553089"
+          ]
+        },
+        "author_id": "2033569052665524225",
+        "conversation_id": "2067270501823607112",
+        "created_at": "2026-06-17T15:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067270501823607112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8avCGYk7rb",
+              "end": 104,
+              "expanded_url": "https://x.com/ssuixinsuoyu/status/2067270501823607112/photo/1",
+              "media_key": "3_2067270488590553089",
+              "start": 81,
+              "url": "https://t.co/8avCGYk7rb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067270501823607112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 537,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这我表妹，刚复读高考完\n成绩估计二本上下\n手里有4K想买手机\n不知道买啥\n她爸妈想让她去打暑假工\nX上的各位大神\n平时这么能说会道\n这次有没有个具体的看法和建议 https://t.co/8avCGYk7rb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 1342,
+          "like_count": 340,
+          "listed_count": 2,
+          "media_count": 759,
+          "tweet_count": 2283
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T15:43:53.000Z",
+        "description": "大三休学 \n佛理｜哲学｜AI\n不玩互关不玩流量，关注你说明我和你同频\n喜欢qrq画师的作品\n无法停下前行的脚步\nFor human",
+        "id": "2033569052665524225",
+        "name": "Zede",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060730694507307008/qOmOZxcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 105,
+          "like_count": 9207,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1470
+        },
+        "username": "ssuixinsuoyu",
+        "verified": true
+      }
+    ]
+  }
+}

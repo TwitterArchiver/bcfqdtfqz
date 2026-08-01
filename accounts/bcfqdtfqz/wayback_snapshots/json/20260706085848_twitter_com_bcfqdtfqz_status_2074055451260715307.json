@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2073982209078468735",
+    "created_at": "2026-07-06T08:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074055451260715307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1921065617479921670",
+          "start": 0,
+          "username": "TradercBTC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074055451260715307",
+    "in_reply_to_user_id": "1921065617479921670",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073982209078468735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "@TradercBTC 恭喜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2073982209078468735",
+        "created_at": "2026-07-06T08:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074055451260715307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1921065617479921670",
+              "start": 0,
+              "username": "TradercBTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074055451260715307",
+        "in_reply_to_user_id": "1921065617479921670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073982209078468735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "@TradercBTC 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921065617479921670",
+        "conversation_id": "2073982209078468735",
+        "created_at": "2026-07-06T04:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:07:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073982171606634557",
+          "2073982209078468735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TradercBTC/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/TradercBTC/status/2073980131656569322",
+              "start": 34,
+              "url": "https://t.co/Hsqs0kq2eB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073982209078468735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3731,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073980131656569322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "omg，没录上\n\n一个同济大学，一个华中科技大学\n\n还是很棒，芜湖 https://t.co/Hsqs0kq2eB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771,
+          "following_count": 1403,
+          "like_count": 389,
+          "listed_count": 2,
+          "media_count": 789,
+          "tweet_count": 2743
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-10T04:52:06.000Z",
+        "description": "已退休的二级市场交易员（职业赌徒🎲）\n现世界探索家，社会学者，宗教学\n【用一年时间学习并改变自己的交易/加入优秀交易社区】当然是吹牛逼的，不优秀，但是确实是交易社区\n\n爱美女/油管 or 小红书：trader-c丨免费的交易成长社区 discord：https://t.co/7b0DmkL25b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/Yfk4SCNYWu",
+                "end": 148,
+                "expanded_url": "https://discord.gg/Yfk4SCNYWu",
+                "start": 125,
+                "url": "https://t.co/7b0DmkL25b"
+              }
+            ]
+          }
+        },
+        "id": "1921065617479921670",
+        "name": "trader-c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12555,
+          "following_count": 494,
+          "like_count": 16524,
+          "listed_count": 179,
+          "media_count": 1423,
+          "tweet_count": 4788
+        },
+        "url": "",
+        "username": "TradercBTC",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2049393742864584963",
+    "created_at": "2026-04-29T07:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T08:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049393742864584963"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049393742864584963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "4月30号随便找一个不认识的水课老师进去上课，上十分钟直接假装接电话大声说“水课而已旷就旷了。”，然后直接大摇大摆走出教室，老师问你叫什么名就说“你点个名不就知道了，我赶车，赶时间。”的来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2049393742864584963",
+        "created_at": "2026-04-29T07:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049393742864584963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049393742864584963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "4月30号随便找一个不认识的水课老师进去上课，上十分钟直接假装接电话大声说“水课而已旷就旷了。”，然后直接大摇大摆走出教室，老师问你叫什么名就说“你点个名不就知道了，我赶车，赶时间。”的来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄包着番茄籽炒蛋",
+        "pinned_tweet_id": "2048391956037017963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 1344,
+          "like_count": 271,
+          "listed_count": 1,
+          "media_count": 706,
+          "tweet_count": 1814
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

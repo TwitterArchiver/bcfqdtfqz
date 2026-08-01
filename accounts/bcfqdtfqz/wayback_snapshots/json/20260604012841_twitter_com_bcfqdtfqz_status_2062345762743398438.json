@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062345750802206720"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2062345762743398438",
+    "created_at": "2026-06-04T01:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T02:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062345762743398438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ghwW1vYT5w",
+          "end": 35,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2062345762743398438/photo/1",
+          "media_key": "3_2062345750802206720",
+          "start": 12,
+          "url": "https://t.co/ghwW1vYT5w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062345762743398438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "华科要嘲讽武大一辈子了 https://t.co/ghwW1vYT5w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1583,
+        "media_key": "3_2062345750802206720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7siJiaEAAF4-R.jpg",
+        "width": 844
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062345750802206720"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2062345762743398438",
+        "created_at": "2026-06-04T01:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062345762743398438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghwW1vYT5w",
+              "end": 35,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2062345762743398438/photo/1",
+              "media_key": "3_2062345750802206720",
+              "start": 12,
+              "url": "https://t.co/ghwW1vYT5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062345762743398438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "华科要嘲讽武大一辈子了 https://t.co/ghwW1vYT5w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 1341,
+          "like_count": 332,
+          "listed_count": 2,
+          "media_count": 751,
+          "tweet_count": 2140
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      }
+    ]
+  }
+}

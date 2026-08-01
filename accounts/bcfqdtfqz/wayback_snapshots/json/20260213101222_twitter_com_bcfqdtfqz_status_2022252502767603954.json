@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2022248494921359612",
+    "created_at": "2026-02-13T10:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T11:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022252502767603954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3150623335",
+          "start": 0,
+          "username": "himself65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022252502767603954",
+    "in_reply_to_user_id": "3150623335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022248494921359612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@himself65 按照这个汇率用一百块怕是买不下追觅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2022248494921359612",
+        "created_at": "2026-02-13T10:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022252502767603954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3150623335",
+              "start": 0,
+              "username": "himself65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022252502767603954",
+        "in_reply_to_user_id": "3150623335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022248494921359612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@himself65 按照这个汇率用一百块怕是买不下追觅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3150623335",
+        "conversation_id": "2022248494921359612",
+        "created_at": "2026-02-13T09:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T10:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022248494921359612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022248494921359612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 549,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一觉醒来全世界财富缩水万亿倍，我花1刀巨款买下美国"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 754,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 401
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2015-04-12T00:07:21.000Z",
+        "description": "Not a trader, not a programmer. All posts are not financial advice nor tech insight.",
+        "id": "3150623335",
+        "location": "California, USA",
+        "name": "面包🍞",
+        "pinned_tweet_id": "2019886969992671513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883626401947136000/k8x5k3f8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59981,
+          "following_count": 225,
+          "like_count": 111037,
+          "listed_count": 326,
+          "media_count": 1401,
+          "tweet_count": 17043
+        },
+        "username": "himself65",
+        "verified": true
+      }
+    ]
+  }
+}

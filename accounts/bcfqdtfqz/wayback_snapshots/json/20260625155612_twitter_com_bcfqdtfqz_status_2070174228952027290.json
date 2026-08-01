@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070132529223655911",
+    "created_at": "2026-06-25T15:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070174228952027290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2051647981666123776",
+          "start": 0,
+          "username": "Lavainmybrain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070174228952027290",
+    "in_reply_to_user_id": "2051647981666123776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070132529223655911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lavainmybrain 这个我怕是直招枪手。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070132501239255040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqWirZbUAA5f36.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070132529223655911",
+        "created_at": "2026-06-25T15:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070174228952027290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2051647981666123776",
+              "start": 0,
+              "username": "Lavainmybrain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070174228952027290",
+        "in_reply_to_user_id": "2051647981666123776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070132529223655911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lavainmybrain 这个我怕是直招枪手。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070132501239255040"
+          ]
+        },
+        "author_id": "2051647981666123776",
+        "conversation_id": "2070132529223655911",
+        "created_at": "2026-06-25T13:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070132529223655911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wGHxvJYSi4",
+              "end": 35,
+              "expanded_url": "https://x.com/Lavainmybrain/status/2070132529223655911/photo/1",
+              "media_key": "3_2070132501239255040",
+              "start": 12,
+              "url": "https://t.co/wGHxvJYSi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070132529223655911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁说学习好没用的。。。 https://t.co/wGHxvJYSi4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 1352,
+          "like_count": 343,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 2353
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-05T13:08:37.000Z",
+        "description": "相信我，你并不孤独\n100%人类｜自媒体感悟｜弱智梗图\n互挂铃铛可变熟，喜欢评论和引用熟人",
+        "id": "2051647981666123776",
+        "location": "宇宙的中心",
+        "name": "Lava🐈‍⬛🔥",
+        "pinned_tweet_id": "2069697573997486274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063287610106433536/7jM7gq1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 373,
+          "like_count": 8393,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 1699
+        },
+        "url": "",
+        "username": "Lavainmybrain",
+        "verified": true
+      }
+    ]
+  }
+}

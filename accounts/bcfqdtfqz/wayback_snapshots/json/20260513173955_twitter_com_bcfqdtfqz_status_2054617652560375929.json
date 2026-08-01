@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2054617652560375929",
+    "created_at": "2026-05-13T17:39:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054617652560375929"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054617652560375929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说起罗永浩我想起来之前上马院课（具体名字忘了）的时候有个老师讲课讲罗永浩造锤子手机的事情，说的那叫一个心潮澎湃。那会反正我是在台下玩手机我是没咋注意听\n然后过了一年半载据传我也成了马院老师口中的“素材”，只不过可能和罗老师相反，我是负面素材🫩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2054617652560375929",
+        "created_at": "2026-05-13T17:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054617652560375929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054617652560375929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起罗永浩我想起来之前上马院课（具体名字忘了）的时候有个老师讲课讲罗永浩造锤子手机的事情，说的那叫一个心潮澎湃。那会反正我是在台下玩手机我是没咋注意听\n然后过了一年半载据传我也成了马院老师口中的“素材”，只不过可能和罗老师相反，我是负面素材🫩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "番茄🍅\n这个号发帖梗图生活帖子，\n生活帖子偏多\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 1354,
+          "like_count": 294,
+          "listed_count": 1,
+          "media_count": 725,
+          "tweet_count": 1922
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

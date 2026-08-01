@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2026277379753308213",
+    "created_at": "2026-02-24T12:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T13:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026277379753308213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xrxrrdx18360/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/xrxrrdx18360/status/2026250301448278147",
+          "start": 8,
+          "url": "https://t.co/iUH1U4U2jI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026277379753308213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026250301448278147",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "666还有联名 https://t.co/iUH1U4U2jI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026250292627755008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6v59Yb0AANu4U.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2026277379753308213",
+        "created_at": "2026-02-24T12:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026277379753308213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xrxrrdx18360/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/xrxrrdx18360/status/2026250301448278147",
+              "start": 8,
+              "url": "https://t.co/iUH1U4U2jI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026277379753308213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026250301448278147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "666还有联名 https://t.co/iUH1U4U2jI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026250292627755008"
+          ]
+        },
+        "author_id": "1721095893821136896",
+        "conversation_id": "2026250301448278147",
+        "created_at": "2026-02-24T10:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026250301448278147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/arP7tE7txP",
+              "end": 50,
+              "expanded_url": "https://x.com/xrxrrdx18360/status/2026250301448278147/photo/1",
+              "media_key": "3_2026250292627755008",
+              "start": 27,
+              "url": "https://t.co/arP7tE7txP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026250301448278147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢鸠子大佬送的牢大，同事恭喜草莓即将拿到我送的牢大 https://t.co/arP7tE7txP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 1003,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 798
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-05T09:23:43.000Z",
+        "description": "大学1年生/18歳/INTJ/言語愛好者·English·Deutsch·日本語/タルパ保持者（アリんナちゃん）/旅行/Keil5 MDK/STM32CUBE\n政治絶対ダメ/TwitterのDMは利用できません\nh2o2111@qq.com",
+        "id": "1721095893821136896",
+        "location": "Winternight",
+        "name": "冬夜❄️Schlafenlieber",
+        "pinned_tweet_id": "1811347162137330013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857761832124948480/nFNGlhbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 227,
+          "like_count": 400,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 697
+        },
+        "username": "xrxrrdx18360",
+        "verified": false
+      }
+    ]
+  }
+}

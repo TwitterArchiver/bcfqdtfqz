@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042939492542353409"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2042939502076060003",
+    "created_at": "2026-04-11T12:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T13:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042939502076060003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S4KW3s17DJ",
+          "end": 35,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2042939502076060003/photo/1",
+          "media_key": "3_2042939492542353409",
+          "start": 12,
+          "url": "https://t.co/S4KW3s17DJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042939502076060003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又是一个家庭的悲剧，害 https://t.co/S4KW3s17DJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2042939492542353409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFn6pP6akAETgru.jpg",
+        "width": 725
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042939492542353409"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2042939502076060003",
+        "created_at": "2026-04-11T12:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042939502076060003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S4KW3s17DJ",
+              "end": 35,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2042939502076060003/photo/1",
+              "media_key": "3_2042939492542353409",
+              "start": 12,
+              "url": "https://t.co/S4KW3s17DJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042939502076060003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又是一个家庭的悲剧，害 https://t.co/S4KW3s17DJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 1325,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 649,
+          "tweet_count": 1698
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

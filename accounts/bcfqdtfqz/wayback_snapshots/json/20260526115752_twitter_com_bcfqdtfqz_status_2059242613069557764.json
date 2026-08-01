@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2059242613069557764",
+    "created_at": "2026-05-26T11:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059242613069557764"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YesterdayOrang…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/YesterdayOrange/status/2058752911698718940",
+          "start": 75,
+          "url": "https://t.co/FhpVCKMYq8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059242613069557764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058752911698718940",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我为什么一直拿荐股跟你张雪峰报志愿说呢\n都是花钱，荐股亏了证监会还会抓人罚钱，但是你老张报志愿歪了总会有人给他洗地说是这个行业不景气他看不了这么远。 https://t.co/FhpVCKMYq8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_2058752904912367616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIo2_ma8AA0VhD.jpg",
+        "width": 663
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2059242613069557764",
+        "created_at": "2026-05-26T11:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059242613069557764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/2058752911698718940",
+              "start": 75,
+              "url": "https://t.co/FhpVCKMYq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059242613069557764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058752911698718940",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我为什么一直拿荐股跟你张雪峰报志愿说呢\n都是花钱，荐股亏了证监会还会抓人罚钱，但是你老张报志愿歪了总会有人给他洗地说是这个行业不景气他看不了这么远。 https://t.co/FhpVCKMYq8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058752904912367616"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2058752911698718940",
+        "created_at": "2026-05-25T03:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058752911698718940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4MufJIU4H",
+              "end": 157,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2058752911698718940/photo/1",
+              "media_key": "3_2058752904912367616",
+              "start": 134,
+              "url": "https://t.co/x4MufJIU4H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058752911698718940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1596,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "那些家长们要是真的相信张圣‘对行业的判断，觉得它能预见4年到7年后哪个行业会景气，甚至能维持几十年的景气以支持他们的子女在大城市买房还贷扎根，那他们应该做的不是不顾孩子意愿逼着孩子苦哈哈地冒着读不出退学或抑郁了跳楼的风险去读这个专业，而是应该直接梭哈这个行业的股票。 https://t.co/x4MufJIU4H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄🍅\n分享思考和个人生活\n互不互关都行",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 1349,
+          "like_count": 320,
+          "listed_count": 2,
+          "media_count": 737,
+          "tweet_count": 2028
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2059129992366452940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12078,
+          "following_count": 5098,
+          "like_count": 92455,
+          "listed_count": 22,
+          "media_count": 2264,
+          "tweet_count": 20113
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

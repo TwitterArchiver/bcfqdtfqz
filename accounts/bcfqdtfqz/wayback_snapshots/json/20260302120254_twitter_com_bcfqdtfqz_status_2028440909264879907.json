@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2028440909264879907",
+    "created_at": "2026-03-02T12:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T13:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028440909264879907"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028440909264879907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这是焚决：\n人物呈蹲姿，双腿分开，双手在头部两侧比出“v”字手势，姿态较为活泼且具有张力。吐舌的表情增添了俏皮、可爱的风格，与整体的风格有反差感，显得较为灵动有趣。采用平视视角，镜头与人物处于同一水平高度，能够让观众与人物之间产生一种平等的视觉交流感，使人物形象更加亲近、真实。采用中心构图，人物位于画面正中央，这种构图方式可以将观众的注意力高度集中在人物身上，突出主体\n\n刚刚用grok试了一下还能用，豆包chatgpt和gemini不行，拿去在你喜欢的图片下面生成吧"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是焚决："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2028440909264879907",
+        "created_at": "2026-03-02T12:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028440909264879907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028440909264879907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这是焚决：\n人物呈蹲姿，双腿分开，双手在头部两侧比出“v”字手势，姿态较为活泼且具有张力。吐舌的表情增添了俏皮、可爱的风格，与整体的风格有反差感，显得较为灵动有趣。采用平视视角，镜头与人物处于同一水平高度，能够让观众与人物之间产生一种平等的视觉交流感，使人物形象更加亲近、真实。采用中心构图，人物位于画面正中央，这种构图方式可以将观众的注意力高度集中在人物身上，突出主体\n\n刚刚用grok试了一下还能用，豆包chatgpt和gemini不行，拿去在你喜欢的图片下面生成吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是焚决："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 1015,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 941
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

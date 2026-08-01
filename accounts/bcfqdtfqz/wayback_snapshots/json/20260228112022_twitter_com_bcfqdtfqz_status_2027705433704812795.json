@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027705422094938112"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2027705433704812795",
+    "created_at": "2026-02-28T11:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T12:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027705433704812795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/br3pzqSePI",
+          "end": 23,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2027705433704812795/photo/1",
+          "media_key": "3_2027705422094938112",
+          "start": 0,
+          "url": "https://t.co/br3pzqSePI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027705433704812795",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/br3pzqSePI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027705422094938112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPbVpEaMAAFzry.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027705422094938112"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2027705433704812795",
+        "created_at": "2026-02-28T11:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T12:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027705433704812795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/br3pzqSePI",
+              "end": 23,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2027705433704812795/photo/1",
+              "media_key": "3_2027705422094938112",
+              "start": 0,
+              "url": "https://t.co/br3pzqSePI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027705433704812795",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/br3pzqSePI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 1010,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 894
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

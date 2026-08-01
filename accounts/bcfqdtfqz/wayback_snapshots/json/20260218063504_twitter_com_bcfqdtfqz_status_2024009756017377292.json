@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2023993869424120112",
+    "created_at": "2026-02-18T06:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T07:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024009756017377292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3016570321",
+          "start": 0,
+          "username": "wojiushiwo010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024009756017377292",
+    "in_reply_to_user_id": "3016570321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023993869424120112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wojiushiwo010 这东西不好玩，炸一下石头到处都是炸完了还不好扫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2023993825568411648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBarqSiW0AAjb_i.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2023993869424120112",
+        "created_at": "2026-02-18T06:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T07:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024009756017377292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3016570321",
+              "start": 0,
+              "username": "wojiushiwo010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024009756017377292",
+        "in_reply_to_user_id": "3016570321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023993869424120112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wojiushiwo010 这东西不好玩，炸一下石头到处都是炸完了还不好扫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023993825568411648"
+          ]
+        },
+        "author_id": "3016570321",
+        "conversation_id": "2023993869424120112",
+        "created_at": "2026-02-18T05:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:31:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023993837589348604",
+          "2023993869424120112"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "摔炮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RT4uKt9gHG",
+              "end": 53,
+              "expanded_url": "https://x.com/wojiushiwo010/status/2023993869424120112/photo/1",
+              "media_key": "3_2023993825568411648",
+              "start": 30,
+              "url": "https://t.co/RT4uKt9gHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023993869424120112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像我们这样的3岁小孩，最喜欢玩这个⬇️⬇️⬇️⬇️\n#摔炮 https://t.co/RT4uKt9gHG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "New York, USA",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 798,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 555
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-10T14:39:10.000Z",
+        "description": "喜欢折腾的一个人",
+        "id": "3016570321",
+        "name": "籐隆御楓",
+        "pinned_tweet_id": "2016447325514739925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765907917847334912/HAFztzvH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2052,
+          "following_count": 2523,
+          "like_count": 982,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 1762
+        },
+        "username": "wojiushiwo010",
+        "verified": true
+      }
+    ]
+  }
+}

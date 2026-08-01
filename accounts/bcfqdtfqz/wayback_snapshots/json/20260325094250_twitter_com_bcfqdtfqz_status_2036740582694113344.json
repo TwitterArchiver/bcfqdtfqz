@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2036656419622322353",
+    "created_at": "2026-03-25T09:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T10:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036740582694113344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761423076850589696",
+          "start": 0,
+          "username": "nakamori222"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/bcfqdtfqz/stat…",
+          "end": 39,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2036434573840593309?s=46",
+          "start": 16,
+          "url": "https://t.co/jvj1vJJgGs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036740582694113344",
+    "in_reply_to_user_id": "1761423076850589696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036434573840593309",
+        "type": "quoted"
+      },
+      {
+        "id": "2036656419622322353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nakamori222 已骂\nhttps://t.co/jvj1vJJgGs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2036656419622322353",
+        "created_at": "2026-03-25T09:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T10:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036740582694113344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761423076850589696",
+              "start": 0,
+              "username": "nakamori222"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bcfqdtfqz/stat…",
+              "end": 39,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2036434573840593309?s=46",
+              "start": 16,
+              "url": "https://t.co/jvj1vJJgGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036740582694113344",
+        "in_reply_to_user_id": "1761423076850589696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036434573840593309",
+            "type": "quoted"
+          },
+          {
+            "id": "2036656419622322353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakamori222 已骂\nhttps://t.co/jvj1vJJgGs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2036434573840593309",
+        "created_at": "2026-03-24T13:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:25:02.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036434113062924312",
+          "2036434337323704784",
+          "2036434573840593309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036434573840593309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "先发暴论，张雪峰好似\n对他的所报的立场我不评价，\n但是2018年国内房地产体系已经开始出现崩盘的情况下这位神人还敢收动辄几千甚至一两万的圆梦卡疯狂推荐人去土木工程，然后自个骗劳保家长和一堆学校老师然后开各种机构赚得盆满钵满，光是去年就是千万级别\n虽然死者为大，但是这些被他坑的学生的四年光阴就不是时间了吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 926,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "先发暴论，张雪峰好似\n对他的所报的立场我不评价，\n但是2018年国内房地产体系已经开始出现崩盘的情况下这位神人还敢收动辄几千甚至一两万的圆梦卡疯狂推荐人去土木工程，然后自个骗劳保家长和一堆学校老师然后开各种机构赚得盆满钵满，光是去年就是千万级别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761423076850589696",
+        "conversation_id": "2036656419622322353",
+        "created_at": "2026-03-25T04:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:05:22.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036655656779002339",
+          "2036656419622322353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036656419622322353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你不需要知道张雪峰是谁，你只需要知道他贩卖给你父母的焦虑，被揠苗助长的虎爸狼妈放大十倍强加给了你，而躲过了猝死和自杀的你昨晚最该做的是好好吃饭做喜欢的事然后好好睡觉。\n\n至于谁死了，最不该共情的就是你，最多提醒一下自己：“这种生活方式真不健康，以前踩过坑了，现在可不能学他，平庸且松弛没啥不好的，活得长才是赢。”\n\n如果你觉得不对，你说得对。\n\n松平竹千代东照神君德川大狸子家康给你点赞。\n\n就这样。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 8570,
+          "like_count": 286,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "你不需要知道张雪峰是谁，你只需要知道他贩卖给你父母的焦虑，被揠苗助长的虎爸狼妈放大十倍强加给了你，而躲过了猝死和自杀的你昨晚最该做的是好好吃饭做喜欢的事然后好好睡觉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄🍅@__fanqie__， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "__fanqie__"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不知道包什么的番茄（私信互关）",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 1222,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 500,
+          "tweet_count": 1381
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T16:09:42.000Z",
+        "description": "不键政，只记录碎碎念，小号 @kaze2077",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "kaze2077"
+              }
+            ]
+          }
+        },
+        "id": "1761423076850589696",
+        "location": "宛平南路599号",
+        "name": "Nakamori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014567492958466048/HPcQxWxZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3911,
+          "following_count": 108,
+          "like_count": 50058,
+          "listed_count": 22,
+          "media_count": 238,
+          "tweet_count": 6413
+        },
+        "username": "nakamori222",
+        "verified": true
+      }
+    ]
+  }
+}

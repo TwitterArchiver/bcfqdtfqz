@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075203971871023104"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2075204467100946643",
+    "created_at": "2026-07-09T13:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T14:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075204467100946643"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 55,
+          "tag": "茄的炒股"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ELPZ5ErWqf",
+          "end": 84,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2075204467100946643/photo/1",
+          "media_key": "3_2075203971871023104",
+          "start": 61,
+          "url": "https://t.co/ELPZ5ErWqf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075204467100946643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是，你跟我说就夸张到etf涨停了吗\n备注：这个基金明天1拆2，年内已经拆了两次了，也就是说年内差不多四倍🫪\n#茄的炒股 https://t.co/ELPZ5ErWqf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1948,
+        "media_key": "3_2075203971871023104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMybBHvaIAAhpzn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075203971871023104"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2075204467100946643",
+        "created_at": "2026-07-09T13:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075204467100946643"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "茄的炒股"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ELPZ5ErWqf",
+              "end": 84,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2075204467100946643/photo/1",
+              "media_key": "3_2075203971871023104",
+              "start": 61,
+              "url": "https://t.co/ELPZ5ErWqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075204467100946643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是，你跟我说就夸张到etf涨停了吗\n备注：这个基金明天1拆2，年内已经拆了两次了，也就是说年内差不多四倍🫪\n#茄的炒股 https://t.co/ELPZ5ErWqf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 1407,
+          "like_count": 398,
+          "listed_count": 2,
+          "media_count": 796,
+          "tweet_count": 2830
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

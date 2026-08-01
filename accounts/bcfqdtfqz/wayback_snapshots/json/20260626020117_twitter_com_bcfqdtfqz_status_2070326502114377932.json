@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070007946558447674",
+    "created_at": "2026-06-26T02:01:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070326502114377932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1830179006463033345",
+          "start": 0,
+          "username": "xiyangfacai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070326502114377932",
+    "in_reply_to_user_id": "1830179006463033345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070007946558447674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiyangfacai 找个环境好点的一本去了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 581,
+        "media_key": "3_2070007937784012801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLolQIXa4AEUS8X.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070007946558447674",
+        "created_at": "2026-06-26T02:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070326502114377932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1830179006463033345",
+              "start": 0,
+              "username": "xiyangfacai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070326502114377932",
+        "in_reply_to_user_id": "1830179006463033345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070007946558447674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiyangfacai 找个环境好点的一本去了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070007937784012801"
+          ]
+        },
+        "author_id": "1830179006463033345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070007946558447674",
+        "created_at": "2026-06-25T04:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070007946558447674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y4LVIXtymw",
+              "end": 50,
+              "expanded_url": "https://x.com/xiyangfacai/status/2070007946558447674/photo/1",
+              "media_key": "3_2070007937784012801",
+              "start": 27,
+              "url": "https://t.co/Y4LVIXtymw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070007946558447674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 22065,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 90,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "复读了一年得到的这个结果，怎么说呢，还是有点不甘心。 https://t.co/Y4LVIXtymw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 1357,
+          "like_count": 343,
+          "listed_count": 2,
+          "media_count": 765,
+          "tweet_count": 2366
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-01T09:41:06.000Z",
+        "description": "疯狗\n\ntg:https://t.co/hjZFQRkgUf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiyang2333",
+                "end": 30,
+                "expanded_url": "http://t.me/xiyang2333",
+                "start": 7,
+                "url": "https://t.co/hjZFQRkgUf"
+              }
+            ]
+          }
+        },
+        "id": "1830179006463033345",
+        "location": "距离100米内",
+        "name": "汐阳",
+        "pinned_tweet_id": "2059895425231163528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068387929827991552/FiP3IhOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 28,
+          "like_count": 23,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "xiyangfacai",
+        "verified": false
+      }
+    ]
+  }
+}

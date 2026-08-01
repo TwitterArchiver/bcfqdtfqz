@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2073677868010537191",
+    "created_at": "2026-07-05T10:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073715316908269650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1552280881917739008",
+          "start": 0,
+          "username": "upx9t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073715316908269650",
+    "in_reply_to_user_id": "1552280881917739008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073677868010537191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@upx9t 我上了十几年男厕所看到的几把也没见过多少14-的啊。。。\n你要说18一抓一大把我可能不信但是14-也没多少啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073677859357704192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcvBrmbwAATBgB.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2073677868010537191",
+        "created_at": "2026-07-05T10:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073715316908269650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1552280881917739008",
+              "start": 0,
+              "username": "upx9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073715316908269650",
+        "in_reply_to_user_id": "1552280881917739008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073677868010537191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@upx9t 我上了十几年男厕所看到的几把也没见过多少14-的啊。。。\n你要说18一抓一大把我可能不信但是14-也没多少啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073677859357704192"
+          ]
+        },
+        "author_id": "1552280881917739008",
+        "conversation_id": "2073677868010537191",
+        "created_at": "2026-07-05T07:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073677868010537191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UXDmuCkspN",
+              "end": 35,
+              "expanded_url": "https://x.com/upx9t/status/2073677868010537191/photo/1",
+              "media_key": "3_2073677859357704192",
+              "start": 12,
+              "url": "https://t.co/UXDmuCkspN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073677868010537191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3856,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特上的傻逼赔我点钱吧 https://t.co/UXDmuCkspN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "梦到哪句发哪句\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 35,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 12,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 1393,
+          "like_count": 383,
+          "listed_count": 2,
+          "media_count": 786,
+          "tweet_count": 2691
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T13:13:09.000Z",
+        "description": "纯分享日常 此账号发表的所有言论 意在取悦自己 如果你读之后出现生理不适等症状 恭喜你你怀了我的孩子 29元包年千G流量VPN👉🏻https://t.co/HU1C1cSS06",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register?cod…",
+                "end": 88,
+                "expanded_url": "https://www.yy.tz69.vip/#/register?code=AtOXZfc7",
+                "start": 65,
+                "url": "https://t.co/HU1C1cSS06"
+              }
+            ]
+          }
+        },
+        "id": "1552280881917739008",
+        "name": "❄️",
+        "pinned_tweet_id": "2068941807518699936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926358547563974656/QPGtdDIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38917,
+          "following_count": 356,
+          "like_count": 46441,
+          "listed_count": 57,
+          "media_count": 289,
+          "tweet_count": 10636
+        },
+        "url": "",
+        "username": "upx9t",
+        "verified": false
+      }
+    ]
+  }
+}

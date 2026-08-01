@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2070855450384584893",
+    "created_at": "2026-06-27T13:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070855450384584893"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070855450384584893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "有些问题的答案其实很简单\n打个比方，就比如我大学有个观影活动全校招80号人看电影，观影后有那种观影券，然后这个券凑两张的学分能够抵一张市级比赛的奖状，整点放出来基本秒抢一空，并且当时拉志愿表格的拉出来前几个数据甚至只有六七秒（这六七秒包括填写你姓名班级学院性别手机号，懂得都懂）\n然后当时我去的有个部门，当时办个娱乐活动，也不发奖状，就纯娱乐，让我们转发。然后转了以后见没啥人来，后面被老师开刷一顿问为啥没人来，我边上坐的有个学姐有点绷不住了，就回了老师：“老师他们有奖状有讲座卡我们没有啊”"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有些问题的答案其实很简单\n打个比方，就比如我大学有个观影活动全校招80号人看电影，观影后有那种观影券，然后这个券凑两张的学分能够抵一张市级比赛的奖状，整点放出来基本秒抢一空，并且当时拉志愿表格的拉出来前几个数据甚至只有六七秒（这六七秒包括填写你姓名班级学院性别手机号，懂得都懂）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2070855450384584893",
+        "created_at": "2026-06-27T13:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070855450384584893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070855450384584893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有些问题的答案其实很简单\n打个比方，就比如我大学有个观影活动全校招80号人看电影，观影后有那种观影券，然后这个券凑两张的学分能够抵一张市级比赛的奖状，整点放出来基本秒抢一空，并且当时拉志愿表格的拉出来前几个数据甚至只有六七秒（这六七秒包括填写你姓名班级学院性别手机号，懂得都懂）\n然后当时我去的有个部门，当时办个娱乐活动，也不发奖状，就纯娱乐，让我们转发。然后转了以后见没啥人来，后面被老师开刷一顿问为啥没人来，我边上坐的有个学姐有点绷不住了，就回了老师：“老师他们有奖状有讲座卡我们没有啊”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些问题的答案其实很简单\n打个比方，就比如我大学有个观影活动全校招80号人看电影，观影后有那种观影券，然后这个券凑两张的学分能够抵一张市级比赛的奖状，整点放出来基本秒抢一空，并且当时拉志愿表格的拉出来前几个数据甚至只有六七秒（这六七秒包括填写你姓名班级学院性别手机号，懂得都懂）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 1378,
+          "like_count": 351,
+          "listed_count": 2,
+          "media_count": 774,
+          "tweet_count": 2449
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

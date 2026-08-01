@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2070778289959149991",
+    "created_at": "2026-06-27T16:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070908263185703172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "811900622169468929",
+          "start": 0,
+          "username": "Leecheng_"
+        },
+        {
+          "end": 18,
+          "id": "1998647355839754240",
+          "start": 11,
+          "username": "VonJu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070908263185703172",
+    "in_reply_to_user_id": "811900622169468929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070897608256827619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leecheng_ @VonJu0 大概多久退款……？我号也没了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2070778289959149991",
+        "created_at": "2026-06-27T16:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070908263185703172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "811900622169468929",
+              "start": 0,
+              "username": "Leecheng_"
+            },
+            {
+              "end": 18,
+              "id": "1998647355839754240",
+              "start": 11,
+              "username": "VonJu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070908263185703172",
+        "in_reply_to_user_id": "811900622169468929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070897608256827619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leecheng_ @VonJu0 大概多久退款……？我号也没了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "811900622169468929",
+        "conversation_id": "2070778289959149991",
+        "created_at": "2026-06-27T15:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070897608256827619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1998647355839754240",
+              "start": 0,
+              "username": "VonJu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070897608256827619",
+        "in_reply_to_user_id": "1998647355839754240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070897325703389411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VonJu0 我估计是付款导致的 换了卡付2天就封了 你可能是网络封的 买的梯子不行 要自己去搭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "不知道写啥了，战略留白先",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 1382,
+          "like_count": 358,
+          "listed_count": 2,
+          "media_count": 774,
+          "tweet_count": 2474
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2016-12-22T11:46:07.000Z",
+        "description": "全球科技成长资产研究者｜美股 AI / 算力 / 太空科技方向投研\n美股与加密市场趋势交易者｜宏观流动性观察\nAI 产业链与下一代科技周期研究\n长期关注：AI、半导体、算力基础设施、Space Economy",
+        "id": "811900622169468929",
+        "location": "Hongkong",
+        "name": "添财的投资日记",
+        "pinned_tweet_id": "2065477279099285600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059527550087675904/ysem77uN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 907,
+          "like_count": 1534,
+          "listed_count": 12,
+          "media_count": 190,
+          "tweet_count": 1196
+        },
+        "url": "",
+        "username": "Leecheng_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-10T06:54:05.000Z",
+        "description": "06大学生 沉默的观察者 纳指 标普定投\n\n真实思考 观点输出 人生讨论 社会热点 美股投资",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+92_OUL2K9Kk5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+92_OUL2K9Kk5NWM9",
+                "start": 0,
+                "url": "https://t.co/zL0iRQ1aay"
+              }
+            ]
+          }
+        },
+        "id": "1998647355839754240",
+        "location": "Los Angeles, CA",
+        "name": "vonju",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050137749106425856/cHbj5-zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2344,
+          "following_count": 452,
+          "like_count": 4003,
+          "listed_count": 8,
+          "media_count": 189,
+          "tweet_count": 3338
+        },
+        "url": "https://t.co/zL0iRQ1aay",
+        "username": "VonJu0",
+        "verified": true
+      }
+    ]
+  }
+}

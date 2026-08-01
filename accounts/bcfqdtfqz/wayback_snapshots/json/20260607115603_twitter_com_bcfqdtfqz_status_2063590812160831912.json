@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2063257213804708129",
+    "created_at": "2026-06-07T11:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063590812160831912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1882637113",
+          "start": 0,
+          "username": "Desvl_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063590812160831912",
+    "in_reply_to_user_id": "1882637113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063257213804708129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Desvl_ 问题是我真绩点1.8。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2063257213804708129",
+        "created_at": "2026-06-07T11:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063590812160831912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1882637113",
+              "start": 0,
+              "username": "Desvl_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063590812160831912",
+        "in_reply_to_user_id": "1882637113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063257213804708129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Desvl_ 问题是我真绩点1.8。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882637113",
+        "conversation_id": "2063257213804708129",
+        "created_at": "2026-06-06T13:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063257213804708129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063257213804708129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 18966,
+          "like_count": 191,
+          "quote_count": 4,
+          "reply_count": 48,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大学生be like\n一定要反向装逼，说自己是xx男子职业技术学院、yy培训基地、zz养殖中心，写在自己个人介绍里，甚至认真对待这些。\n一定要把病态的自谦当作礼貌：“本学弱垃圾3.9低绩点”，“大佬带带我~~~”，“膜拜膜拜~~~”\n后来就在社交网络发出疑问，为什么不能把账号和学信网绑定（方便自己正向装b）？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 1342,
+          "like_count": 334,
+          "listed_count": 2,
+          "media_count": 754,
+          "tweet_count": 2180
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-19T09:56:48.000Z",
+        "description": "- La terre est ronde et non plate\n- Grok, est-ce que c'est vrai ?\n\nVague poster",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "desvl.xyz",
+                "end": 23,
+                "expanded_url": "https://desvl.xyz",
+                "start": 0,
+                "url": "https://t.co/Fruonij57W"
+              }
+            ]
+          }
+        },
+        "id": "1882637113",
+        "location": "Île-de-France, France ",
+        "name": "Desvl",
+        "pinned_tweet_id": "1921357447853191324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915553113164898304/DxTkTyLg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7560,
+          "following_count": 1069,
+          "like_count": 30849,
+          "listed_count": 41,
+          "media_count": 3855,
+          "tweet_count": 34756
+        },
+        "url": "https://t.co/Fruonij57W",
+        "username": "Desvl_",
+        "verified": false
+      }
+    ]
+  }
+}

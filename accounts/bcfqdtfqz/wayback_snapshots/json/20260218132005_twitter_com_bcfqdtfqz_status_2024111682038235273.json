@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10025257871",
+          "name": "Yves Saint Laurent"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion Brand",
+          "id": "846427983237672960",
+          "name": "Fashion Brand"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10025257871",
+          "name": "Yves Saint Laurent"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1255950086699315200",
+          "name": "Designer fashion"
+        }
+      }
+    ],
+    "conversation_id": "2023975975134904340",
+    "created_at": "2026-02-18T13:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T14:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024111682038235273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1878799432956702720",
+          "start": 0,
+          "username": "x77227711"
+        },
+        {
+          "end": 20,
+          "id": "1327780623319064577",
+          "start": 11,
+          "username": "nekoIoI1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024111682038235273",
+    "in_reply_to_user_id": "1878799432956702720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024072291701637368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x77227711 @nekoIoI1 我感觉男的可能是不知道看抖音或者什么平台然后买给女的，然后女生也不知道\n但是楼主那种直接给人挂网上趾高气昂的在那说ysl和ys的区别就有点那啥。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1255950086699315200",
+              "name": "Designer fashion"
+            }
+          }
+        ],
+        "conversation_id": "2023975975134904340",
+        "created_at": "2026-02-18T13:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024111682038235273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "x77227711"
+            },
+            {
+              "end": 20,
+              "id": "1327780623319064577",
+              "start": 11,
+              "username": "nekoIoI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024111682038235273",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024072291701637368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x77227711 @nekoIoI1 我感觉男的可能是不知道看抖音或者什么平台然后买给女的，然后女生也不知道\n但是楼主那种直接给人挂网上趾高气昂的在那说ysl和ys的区别就有点那啥。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2023975975134904340",
+        "created_at": "2026-02-18T10:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024072291701637368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1327780623319064577",
+              "start": 0,
+              "username": "nekoIoI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024072291701637368",
+        "in_reply_to_user_id": "1327780623319064577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4872,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024071840251904460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoIoI1 最应该抨击的其实就是那个男的🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "New York, USA",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 807,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 568
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "🩵 infp 金牛 祝你天天开心 如果被爱我就退推 碎碎念主播。纯绿！可以和我互动！私信有喜欢的会回！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/x772277112",
+                "end": 23,
+                "expanded_url": "https://ngl.link/x772277112",
+                "start": 0,
+                "url": "https://t.co/GszxkfN4UK"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "匿名提问→",
+        "name": "饺子大王",
+        "pinned_tweet_id": "1999892326165209467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016056645080543233/uA8tFDjE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 80,
+          "like_count": 1347,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/GszxkfN4UK",
+        "username": "x77227711",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-15T01:09:12.000Z",
+        "description": "18⬇️ /高中在读",
+        "id": "1327780623319064577",
+        "name": "桃绘0v0",
+        "pinned_tweet_id": "2021491715543269442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021409617608392704/561y8S2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 529,
+          "like_count": 4278,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 646
+        },
+        "username": "nekoIoI1",
+        "verified": false
+      }
+    ]
+  }
+}

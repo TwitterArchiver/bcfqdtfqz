@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2027229342536024398",
+    "created_at": "2026-02-27T04:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T05:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027237683165294663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799331977205796864",
+          "start": 0,
+          "username": "Xxxxx62778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027237683165294663",
+    "in_reply_to_user_id": "1799331977205796864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027229342536024398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxxx62778 《边角料》"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2027229210138603520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIqOdSbcAAAR71.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2027229210193063937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIqOdfacAEgrh_.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2027229264345800704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIqRnOboAAi9Ee.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2027229342536024398",
+        "created_at": "2026-02-27T04:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027237683165294663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799331977205796864",
+              "start": 0,
+              "username": "Xxxxx62778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027237683165294663",
+        "in_reply_to_user_id": "1799331977205796864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027229342536024398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxxx62778 《边角料》"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027229210138603520",
+            "3_2027229210193063937",
+            "3_2027229264345800704"
+          ]
+        },
+        "author_id": "1799331977205796864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027229342536024398",
+        "created_at": "2026-02-27T03:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027229342536024398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJqKBR8mVw",
+              "end": 39,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2027229342536024398/photo/1",
+              "media_key": "3_2027229210138603520",
+              "start": 16,
+              "url": "https://t.co/bJqKBR8mVw"
+            },
+            {
+              "display_url": "pic.x.com/bJqKBR8mVw",
+              "end": 39,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2027229342536024398/photo/1",
+              "media_key": "3_2027229210193063937",
+              "start": 16,
+              "url": "https://t.co/bJqKBR8mVw"
+            },
+            {
+              "display_url": "pic.x.com/bJqKBR8mVw",
+              "end": 39,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2027229342536024398/photo/1",
+              "media_key": "3_2027229264345800704",
+              "start": 16,
+              "url": "https://t.co/bJqKBR8mVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027229342536024398",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 285,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老板我给你跪下了啊啊啊啊啊啊！ https://t.co/bJqKBR8mVw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "这里是番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 1005,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 855
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-08T06:45:56.000Z",
+        "description": "°. ⑅♡⑅ °. +. °. ⑅♡⑅ °. +. °.\n希望你因为拥有小咪的陪伴而幸福",
+        "id": "1799331977205796864",
+        "location": "⌯^⑅˶º ᵕ º˶^",
+        "name": "/•᷅‎‎•᷄\\୭⋆°✩ ๋࣭",
+        "pinned_tweet_id": "2013542676201967753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002547322463600640/hm5xe4nX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2279,
+          "following_count": 33,
+          "like_count": 31733,
+          "listed_count": 3,
+          "media_count": 3672,
+          "tweet_count": 12355
+        },
+        "username": "Xxxxx62778",
+        "verified": false
+      }
+    ]
+  }
+}

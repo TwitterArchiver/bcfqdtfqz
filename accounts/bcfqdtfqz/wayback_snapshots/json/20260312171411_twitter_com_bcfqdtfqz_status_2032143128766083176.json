@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2032143063959945219"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2032143128766083176",
+    "created_at": "2026-03-12T17:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T18:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032143128766083176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bFHuL746rx",
+          "end": 43,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2032143128766083176/video/1",
+          "media_key": "13_2032143063959945219",
+          "start": 20,
+          "url": "https://t.co/bFHuL746rx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032143128766083176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所以校园恋爱最终都会被以家暴为结局吗？ https://t.co/bFHuL746rx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14766,
+        "height": 1024,
+        "media_key": "13_2032143063959945219",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032143063959945219/img/Qnas4ajF8APvpzp0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032143063959945219/vid/avc1/320x568/clDlniPPsojD-ZE6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032143063959945219/vid/avc1/480x852/bGfJieN2tr_pAvZx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032143063959945219/vid/avc1/576x1024/73kiyL5oOZNQ7tKf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032143063959945219/pl/vRWvwCPb4ce6hWUX.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032143063959945219"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2032143128766083176",
+        "created_at": "2026-03-12T17:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032143128766083176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bFHuL746rx",
+              "end": 43,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2032143128766083176/video/1",
+              "media_key": "13_2032143063959945219",
+              "start": 20,
+              "url": "https://t.co/bFHuL746rx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032143128766083176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以校园恋爱最终都会被以家暴为结局吗？ https://t.co/bFHuL746rx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "原番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "Mikasa",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 1044,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 422,
+          "tweet_count": 1201
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

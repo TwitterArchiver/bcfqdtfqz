@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2065504261690274167",
+    "created_at": "2026-06-12T20:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T21:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065534041118351438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1987885638038036480",
+          "start": 0,
+          "username": "mizorewww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065534041118351438",
+    "in_reply_to_user_id": "1987885638038036480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065504261690274167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizorewww 辛苦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2065504261690274167",
+        "created_at": "2026-06-12T20:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T21:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065534041118351438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987885638038036480",
+              "start": 0,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065534041118351438",
+        "in_reply_to_user_id": "1987885638038036480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065504261690274167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizorewww 辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987885638038036480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1527725622948077568",
+              "name": "Starlink"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1527725622948077568",
+              "name": "Starlink"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "SpaceX is the only company building the infrastructure of the future across space, connectivity, and AI\n\n$SPCX | spacexipo.com\n\n",
+              "id": "2062294933059334145",
+              "name": "SpaceX IPO"
+            }
+          }
+        ],
+        "conversation_id": "2065504261690274167",
+        "created_at": "2026-06-12T18:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065504261690274167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065504261690274167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么我在 175usd 做空了 SpaceX？\n\n我不是做空 SpaceX 的火箭能力，也不是说 Starlink 是假业务。恰恰相反，SpaceX 是全球最强的商业航天公司之一，Starlink 也是极少数已经跑出来的低轨通信网络。\n\n我做空的是175 美元这个价格。\n\n因为这个价格已经不是在买“优秀公司”，而是在买“未来几年所有关键业务都顺利兑现”。这两者差别很大。\n\n一家伟大的公司，也可以是一只很贵的股票。伟大解决的是“公司有没有价值”，价格解决的是“这个价值有没有被提前透支”。我认为 175 美元附近，SPCX 已经把太多未来成功提前算进去了。\n\n先看最基础的估值。\n\nSPCX IPO 发行价是 135 美元，发行 5.5556 亿股，募资 750 亿美元；按上市后约 130.76 亿股总股本估算，如果股价到 175 美元，公司市值大约是 2.29 万亿美元。\n\n市值是什么？就是市场认为这家公司股权总共值多少钱。\n\n那 SpaceX 2025 年收入是多少？186.74 亿美元。\n\n所以 2.29 万亿美元市值 ÷ 186.74 亿美元收入，得到一个数字：约 122 倍 P/S。\n\nP/S 是什么？中文叫市销率，就是“市值除以收入”。它表示市场愿意为公司每 1 美元收入付多少钱。P/S 122 倍的意思是：SpaceX 现在每做 1 美元收入，市场给它定价 122 美元市值。\n\n这个数字为什么危险？\n\n因为收入不是利润。你开一家店，一年卖了 100 万，不代表你赚了 100 万。扣掉进货、工资、房租、设备、利息、税，最后可能还亏钱。公司也一样。\n\nSpaceX 2025 年收入 186.74 亿美元，但 GAAP 净亏损 49.37 亿美元。GAAP 是美国通用会计准则，净利润就是按正式会计规则把所有成本、费用、折旧、利息、税、投资损益都算完后，公司到底赚了还是亏了。\n\n也就是说，SpaceX 不是“收入 186.74 亿、利润很多”的公司，而是“收入 186.74 亿、最后亏了 49.37 亿”的公司。\n\n2026 年一季度更激进：单季收入 46.94 亿美元，但净亏损 42.76 亿美元。净利率约 -91%。净利率就是净利润除以收入，意思是：每做 100 美元收入，账面最后亏 91 美元。\n\n这时候有人会说：不能只看净亏损，要看 EBITDA。\n\n那 EBITDA 是什么？\n\nEBITDA 全称是 Earnings Before Interest, Taxes, Depreciation and Amortization，中文通常叫息税折旧摊销前利润。拆开说，就是在计算利润时，先不扣利息、不扣税、不扣折旧、不扣摊销。它的作用是粗略观察一个公司“业务本身在扣除资产损耗之前，有没有赚钱能力”。\n\n但问题来了：为什么 EBITDA 对 SpaceX 这种公司特别危险？\n\n因为 SpaceX 不是一个纯软件公司。它要造火箭、造卫星、建地面站、买 GPU、建数据中心、铺电力设施。这些东西都是真金白银买来的资产。会计上，这些资产不会一次性全部计入当期费用，而是以后通过“折旧”和“摊销”慢慢进入利润表。\n\n折旧是什么？比如一颗卫星造出来能用 5 年，那它不是第一年亏完，而是分 5 年慢慢把成本算进费用。摊销也类似，是把一些长期资产或无形资产的成本分期计入费用。\n\n所以 EBITDA 把折旧摊销先拿掉，会让重资产公司看起来更好看。但对 SpaceX 来说，折旧不是“假成本”。卫星会老化，火箭要维护，GPU 会过时，数据中心要持续更新。这些资产损耗都是真实的。\n\n这就是为什么 2025 年 SpaceX 调整后 EBITDA 有 65.84 亿美元，看起来不错；但 GAAP 净亏损仍然是 49.37 亿美元，自由现金流更是约 -139.52 亿美元。\n\n自由现金流是什么？\n\n自由现金流可以简单理解为：公司经营业务赚到的现金，扣掉为了维持和扩大业务必须投入的长期资产支出后，还剩多少钱。常用粗略公式是：经营现金流 - 资本开支。\n\n2025 年 SpaceX 经营现金流 67.85 亿美元。经营现金流的意思是，公司日常业务实际流进来的现金。这个数字为正，说明 SpaceX 不是完全没造血能力。\n\n但同年资本开支高达 207.37 亿美元。资本开支，英文 capex，就是买火箭生产线、卫星、GPU、数据中心、发射场、地面网络这些长期资产花的钱。\n\n所以 67.85 亿经营现金流 - 207.37 亿资本开支 = 自由现金流约 -139.52 亿美元。\n\n这就是核心问题：SpaceX 不是没有业务，而是业务赚到的现金，远远不够它现在的扩张烧钱速度。\n\n理解了这些财务概念，再看 SpaceX 现在到底是什么公司。\n\n很多人以为 SPCX 就是“SpaceX 火箭公司上市”。这是错的。\n\n现在这个上市主体不是旧 SpaceX 单体，而是一个重组后的混合平台：它包括 Space，也就是火箭发射和 Starship；Connectivity，也就是 Starlink 和 Starshield；AI，也就是 xAI、Grok、X、数据中心和算力基础设施。\n\n这三个部门完全不是一回事。\n\n第一个部门叫 Space。\n\nSpace 部门干什么？主要是 Falcon 火箭、Dragon 飞船、Starship、NASA 合同、国防发射、商业客户发射。你可以把它理解成 SpaceX 的“物理运输部门”：负责把卫星、飞船、货物、人，送到轨道甚至更远的地方。\n\n这个部门强不强？非常强。\n\n2025 年 SpaceX 完成约 170 次成功发射/飞行测试，送入轨道质量 2213 吨。mass to orbit，也就是“送入轨道的总质量”，是衡量火箭公司硬实力的核心指标。你说自己航天技术牛，最后要看能不能高频、稳定、低成本地把东西送上天。报告里还提到，SpaceX 2025 年完成了全球 80% 以上的 mass to orbit。这个级别基本是行业碾压。\n\n但问题是，Space 部门现在在财报里赚了多少钱？\n\n2025 年 Space 部门收入 40.86 亿美元，只占集团收入 21.9%。其中 Launch Services，也就是发射服务收入 25.76 亿美元；Launch & Development，也就是发射与研发相关收入 15.10 亿美元。\n\n更重要的是，这个部门 2025 年营业亏损 6.57 亿美元。\n\n营业利润是什么？就是收入减掉直接成本、研发、销售、管理等经营费用后，业务本身赚不赚钱。还没算利息、税和投资损益。营业亏损说明：按经营口径看，Space 部门还不是当前利润发动机。\n\n虽然 Space 部门 Segment Adjusted EBITDA 是正的，约 6.53 亿美元，说明它在比较宽松的 EBITDA 口径下不是完全失血。但你不能因为 EBITDA 为正，就说它支撑了 2 万亿美元估值。\n\n所以 Space 部门的真实含义是什么？\n\n它不是当下的利润主力，而是一个长期成本曲线期权。\n\n什么意思？真正让市场兴奋的不是 Falcon 9 已经很成功，而是 Starship 如果能成熟复用，未来每公斤入轨成本可能大幅下降。这样 Starlink 可以更便宜地部署卫星，轨道数据中心、深空运输、月球/火星叙事才有物理基础。\n\n报告里提到 Starship 已完成 12 次测试飞行，并验证了 booster reusability，也就是助推器复用。但关键的 ship catch and re-flight，也就是飞船本体捕获和重复飞行，仍是决定性工程节点。Starlink V3 方案里，Starship 单次可部署 60 颗 V3 卫星，对应 61,000 Gbps bandwidth per launch。bandwidth per launch 可以理解成“每次发射能带上天多少网络容量”。这个数字如果兑现，确实会改变 Starlink 的单位成本。\n\n但是注意：这是“如果”。\n\n175 美元的股价，不是在给 Falcon 9 的历史成功定价，而是在把 Starship 未来成熟商业化提前当成事实定价。我的做空逻辑就在这里：工程期权还没兑现，市场已经按兑现后的财务效果给价了。\n\n第二个部门叫 Connectivity。\n\nConnectivity 干什么？主要是 Starlink 消费宽带、企业宽带、政府安全通信 Starshield、航空/海事/移动通信服务。你可以把它理解成 SpaceX 的“全球卫星互联网部门”。\n\n这个部门是 SpaceX 现在最硬的基本盘。\n\n2025 年 Connectivity 收入 113.87 亿美元，占集团收入 61%。也就是说，今天 SpaceX 财报里最大的一块，不是火箭发射，而是 Starlink 连接业务。\n\n利润更关键。2025 年 Connectivity 营业利润 44.23 亿美元，Segment Adjusted EBITDA 71.68 亿美元。用 71.68 亿除以 113.87 亿，EBITDA 利润率约 63%。\n\nEBITDA 利润率是什么意思？就是 EBITDA 除以收入。它反映一个部门在比较宽松的经营口径下，每 1 美元收入能产生多少经营利润。63% 非常强，说明 Starlink 不是纯 PPT，也不是纯烧钱，它确实是集团里面的现金牛。\n\n再看用户数。Starlink 订阅用户从 2023 年 230 万，到 2025 年 890 万，再到 2026 年一季度 1030 万。两年多时间增长 4 倍多，这非常强。\n\n但重点是 ARPU。\n\nARPU 是 Average Revenue Per User，中文叫每用户平均收入。你可以理解成：平均每个用户每个月给公司交多少钱。\n\nStarlink ARPU 从 2023 年 99 美元/月，降到 2025 年 81 美元/月，再降到 2026 年一季度 66 美元/月。\n\n这个数据非常重要，因为它告诉你：用户数增长很快，但单个用户贡献的钱在下降。\n\n为什么会这样？通常有几个原因：进入更便宜的国家和地区、推低价套餐、给硬件补贴、争夺价格敏感用户、从高端用户扩张到大众用户。\n\n这不是一定坏。很多平台都是先降价拿规模。但它会带来一个问题：如果用户增长靠降价换来，那么收入质量就没有用户数看起来那么漂亮。\n\n2025 年 Connectivity 内部，Consumer 收入 72.08 亿美元，Enterprise & Government 收入 41.79 亿美元。Consumer 是普通消费者宽带，Enterprise & Government 是企业和政府客户。后者通常更稳定、价格更高、合同更长，是更优质收入。\n\n所以 Starlink 要支撑更高估值，不能只说“用户破千万”。它必须证明：用户继续涨的同时，ARPU 不再快速下滑；或者企业/政府业务占比提升，能抵消消费者 ARPU 下滑。\n\n报告里还有几个运营数据很强：Starlink 覆盖 164 个国家/地区/市场，有 9600+ 颗可机动在轨卫星，平均 uptime 99.9%，中位下载速度约 225 Mbps，中位往返时延约 25ms。uptime 是网络可用时间，99.9% 说明稳定性不错；25ms 时延说明低轨卫星在交互体验上明显优于传统高轨卫星。\n\n所以我的判断不是“Starlink 不行”。\n\n我的判断是：Starlink 是好业务，是 SpaceX 估值的底座。但它救不了 175 美元的全部估值。因为 175 美元要求 Starlink 不仅继续高增长，还要 ARPU 企稳，还要企业政府业务放大，还要继续给 AI 和 Starship 输血。这个假设太满。\n\n第三个部门叫 AI。\n\nAI 部门干什么？它包括 xAI、Grok、X 平台、广告、订阅、企业 AI、政府 AI、数据中心、GPU 算力基础设施，以及向外部客户出租算力。\n\n这部分是我最反感的地方。不是说它技术一定不行，而是说作为上市公司的财务资产，现在质量很差。\n\n先看 2025 年数据：AI 部门收入 32.01 亿美元，占集团收入 17.1%。但同年 AI 部门营业亏损 63.55 亿美元。\n\n这句话翻译成人话就是：AI 部门一年做了 32.01 亿美元收入，但经营层面亏了 63.55 亿美元。相当于每做 1 美元收入，经营上亏将近 2 美元。\n\n这不是好 AI 资产的样子。\n\n再看 AI 部门 Adjusted EBITDA：2025 年是 -12.37 亿美元。注意，EBITDA 已经是把折旧摊销先拿掉的宽松口径了，结果还是负的。这说明它不是“会计上亏损，但经营上很好”，而是连宽松口径下都还没证明赚钱能力。\n\n最严重的是 capex，也就是资本开支。\n\n2025 年集团总 capex 207.37 亿美元，其中 AI capex 127.27 亿美元，占集团 61%。也就是说，AI 部门只贡献 17.1% 收入，却吃掉 61% 的资本开支。\n\n2026 年一季度更夸张：集团 capex 101.07 亿美元，其中 AI capex 77.23 亿美元，占比约 76%。同季度 AI 单季营业亏损 24.70 亿美元。\n\n这是什么结构？\n\n这是一个把集团现金流大量吸进去，但还没有输出利润的部门。\n\n如果一个部门贡献 17% 收入、亏损最大、capex 占 61% 到 76%，那它就不是现金牛，而是现金黑洞。\n\n再看 AI 数据中心的电力指标。报告里写，AI 数据中心 nameplate compute draw 从 2024 年 0.3GW，升到 2025 年 0.8GW，2026 年一季度到 1.0GW。\n\nGW 是吉瓦，是电力规模单位。1.0GW 是非常大的电力负荷。为什么这个数据重要？因为 AI 算力不是凭空来的，它要 GPU、机房、冷却、电力、网络、土地、运维。这些东西都是钱，而且会折旧。\n\n这就是为什么我说 SpaceX AI 对比很多 AI 公司，财务质量很差。\n\nNvidia 为什么能拿高估值？因为它卖 GPU，处在算力产业链最稀缺的位置，高毛利，客户抢着买。\n\nMicrosoft 为什么能讲 AI？因为它背后有 Azure、Office、Windows、企业客户关系和巨额自由现金流，AI 是在成熟现金流平台上加一层能力。\n\nPalantir 为什么能给高倍数？因为它本质是软件和数据平台，边际成本低。软件公司每多卖一份服务，不需要每次都重新建一个数据中心。\n\nCoreWeave 即使也有风险，至少它的逻辑很清楚：就是 AI 云算力基础设施，客户租 GPU，收入和资产的关系直接。\n\nSpaceX AI 呢？\n\n它是 X 广告、Grok、xAI、数据中心、算力租赁混在一起。报告还提到，X 在 2023 和 2024 年代表了 AI 分部绝大部分收入。那这就很关键了：所谓 AI 收入，并不完全证明 Grok 或 AI 产品已经商业化成功，其中相当部分是 X 平台并表带来的收入。\n\n所以市场如果按顶级 AI 公司给 SpaceX AI 溢价，我认为是不合理的。它目前证明的不是“高毛利 AI 软件平台”，而是“高 capex、负 EBITDA、大额经营亏损、收入口径混杂的重资产 AI 基建”。\n\n这就是我说它财务质量差的原因。\n\n再看那个最容易迷惑人的 260 亿美元算力合同。\n\n报告里提到，Anthropic 每月向 SpaceX 支付 12.5 亿美元，年化约 150 亿美元，租用孟菲斯 Colossus 1 数据中心全部产能，包括超过 22 万张 Nvidia GPU 和超过 300MW 电力。\n\nGoogle 每月支付 9.2 亿美元，年化约 110 亿美元，租约 11 万张 GPU 及相关底层资源。\n\n两份合同合计每月 21.7 亿美元，年化约 260 亿美元。\n\n这数字当然大。它为什么对估值重要？因为它可以把 SpaceX 的 forward revenue run-rate 拉高。\n\nForward revenue run-rate 是什么？就是把已经签下或正在运行的收入按年化速度推算，假设它持续一年，会对应多少收入。它不是已经审计确认的历史收入，而是“未来收入速度”的估计。\n\n如果把 260 亿美元算力合同，加上 Starlink 当前运行收入、发射收入、X/Grok 等收入，投行就可以说 SpaceX 未来年化收入速度在 420 亿到 460 亿美元之间。\n\n这样一来，P/S 看起来就没那么吓人了。\n\n比如静态看，2025 年收入 186.74 亿美元，175 美元股价附近 P/S 约 122 倍。可如果用 420–460 亿美元的 forward run-rate 来算，forward P/S 就可能被压到 40 倍左右。\n\nForward P/S 是什么？就是用“未来年化收入”而不是“过去一年收入”来算市销率。\n\n但问题是：run-rate 不是利润，合同也不是永久护城河。\n\nAnthropic 合同到 2029 年 5 月，但 2026 年 12 月 31 日后，任何一方可以提前 90 天无责解约。Google 合同到 2029 年 6 月，但 SpaceX 必须在 2026 年 9 月前完成交付，否则 Google 可以立即终止；2027 年起也可以 90 天提前解约。\n\n这意味着什么？这意味着这两份合同看起来很长，实际存在明确退出窗口。\n\n更关键的是，报告里还提到 Colossus 1 因为混合了 H100、H200、GB200 等不同架构 GPU，训练效率低，实际资源利用率曾跌到约 11%。xAI 核心研发已经迁到 Colossus 2。\n\n如果这个说法成立，那把 Colossus 1 租给 Anthropic 不是“Grok 太强导致算力溢出”，而更像“闲置算力资产需要盘活”。\n\n商业上这很聪明。闲置 GPU 本来会折旧，现在能租出去收钱，当然比放着吃灰好。\n\n但投资上不能搞错：这是资产盘活，不是 AI 产品护城河。它证明 SpaceX 会做融资和资产重组，不证明 Grok 已经赢了。\n\n更讽刺的是，Anthropic 和 Google 都是 AI 竞争对手。SpaceX 把算力租给 Claude 和 Gemini，短期增加现金流，长期却可能帮助竞争对手扩大模型能力。这不是典型护城河，更像 IPO 前修复估值模型的急救包。\n\n所以我对 260 亿美元合同的判断是：短期利好，长期有疑问。它改善收入口径，但没有解决 AI 部门的核心问题：高 capex、重折旧、合同可解约、客户可能自建、利润率未知。\n\n最后回到 175 美元为什么适合做空。\n\n报告里有一个情景估值很直观。\n\n乐观情景：2027 年收入 350 亿美元，EV/Sales 给 75 倍，隐含估值 2.63 万亿美元，对应股价约 201 美元。\n\nEV/Sales 是什么？EV 是 enterprise value，企业价值。简单理解，EV = 市值 + 债务 - 现金。它比市值更像“买下整家公司真正要付多少钱”。EV/Sales 就是企业价值除以收入。这个指标比 P/S 更适合比较债务和现金结构不同的公司。\n\n75 倍 EV/Sales 已经非常激进，因为它意味着市场不只是相信公司增长，还相信公司未来能长期享受超级平台级别的估值。\n\n基准情景：2027 年收入 300 亿美元，EV/Sales 45 倍，隐含估值 1.35 万亿美元，对应股价约 103 美元。\n\n悲观情景：2027 年收入 240 亿美元，EV/Sales 25 倍，隐含估值 6000 亿美元，对应股价约 46 美元。\n\n把 175 放进去看，数学很简单。\n\n从 175 到乐观情景 201，上行大约 15%。\n\n从 175 到基准情景 103，下行大约 41%。\n\n从 175 到悲观情景 46，下行大约 74%。\n\n这就是我做空的核心：不是赌 SpaceX 破产，而是赌当前股价已经太接近乐观情景，上行空间相对有限，下行空间很厚。\n\n当然，短期它可能继续涨。为什么？\n\n因为 IPO 募资 750 亿美元，认购接近 4 倍，散户配售约 30%，自由流通盘约 4%，大量内部人士还有禁售期。自由流通盘就是上市后真正能在市场上自由买卖的股票比例。比例越低，越容易出现“想买的人很多，愿意卖的股票很少”，股价短期被挤上去。\n\n这叫流动性驱动，不叫基本面便宜。\n\n所以我不会否认短期 squeeze 风险。做空这种股票，最危险的不是你逻辑错，而是市场在短期不讲逻辑。\n\n但如果拉到 3 到 12 个月，我认为市场会重新看五个问题。\n\n第一，Starlink 用户继续涨的时候，ARPU 能不能别继续从 66 美元往下掉？\n\n第二，AI 部门能不能从 2025 年营业亏损 63.55 亿美元、2026Q1 单季亏损 24.70 亿美元的状态里收敛？\n\n第三，AI capex 能不能从集团 capex 的 61% 到 76% 这种恐怖占比往下降？\n\n第四，260 亿美元算力合同能不能真实确认收入，而不是变成带退出条款的桥接容量？\n\n第五，Starship 能不能从测试飞行进入稳定商业复用，而不是停留在宏大叙事里？\n\n我的最终判断是：\n\nSpaceX 作为公司，是顶级资产。\n\nStarlink 是真实现金牛。\n\n发射能力是世界级护城河。\n\nStarship 是巨大期权。\n\n但 SPCX 在 175 美元附近，不是安全边际价格，而是乐观剧本价格。\n\n这个价格要求：Starlink 高增长但 ARPU 不崩，AI 巨额资本开支转化为利润，算力合同稳定续约，Starship 商业化提前落地，监管不出大问题，马斯克治理风险不被折价。\n\n这些事情单独看都可能发生，但同时顺利发生，概率没有股价暗示得那么高。\n\n所以我在 175usd 做空 SpaceX，不是因为它不伟大，而是因为市场已经把伟大卖成了确定性。\n我不愿意为一个 2025 年亏 49.37 亿美元、2026Q1 单季亏 42.76 亿美元、2025 年自由现金流 -139.52 亿美元、AI 部门营业亏损 63.55 亿美元的公司，支付 122 倍收入。\n\n梦想可以很贵，但不能贵到默认所有风险都不存在。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 561,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我在 175usd 做空了 SpaceX？\n\n我不是做空 SpaceX 的火箭能力，也不是说 Starlink 是假业务。恰恰相反，SpaceX 是全球最强的商业航天公司之一，Starlink 也是极少数已经跑出来的低轨通信网络。\n\n我做空的是175 美元这个价格。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "分享思考和个人生活\n专注碎碎念",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 1341,
+          "like_count": 339,
+          "listed_count": 2,
+          "media_count": 757,
+          "tweet_count": 2231
+        },
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 高三 中国上海高中生 开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\n\n联系方式：\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtAyza",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 114,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 91,
+                "url": "https://t.co/yRGqdtAyza"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "location": "Crazy Universe ",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2049113964022501793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 889,
+          "like_count": 16668,
+          "listed_count": 4,
+          "media_count": 697,
+          "tweet_count": 3889
+        },
+        "username": "mizorewww",
+        "verified": true
+      }
+    ]
+  }
+}

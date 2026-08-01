@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2076248108514922732",
+    "created_at": "2026-07-12T18:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T19:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076369689505345779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1999668646952730625",
+          "start": 0,
+          "username": "LyingOverDuckww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076369689505345779",
+    "in_reply_to_user_id": "1999668646952730625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076248108514922732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LyingOverDuckww 不如考场刺青和做长颈鹿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2076248108514922732",
+        "created_at": "2026-07-12T18:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076369689505345779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1999668646952730625",
+              "start": 0,
+              "username": "LyingOverDuckww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076369689505345779",
+        "in_reply_to_user_id": "1999668646952730625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076248108514922732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LyingOverDuckww 不如考场刺青和做长颈鹿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999668646952730625",
+        "conversation_id": "2076248108514922732",
+        "created_at": "2026-07-12T10:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076248108514922732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PaperFogg2007/…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/PaperFogg2007/status/2076202815983333440",
+              "start": 62,
+              "url": "https://t.co/0Kl1DA1p7s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076248108514922732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2718,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076202815983333440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "福格其实会错意了！\n我的意思是突击数学课一天很容易学的不够牢固！\n所以需要提前3~5天开始学！\n我认为3~5天应该就够了！ https://t.co/0Kl1DA1p7s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号，梦到哪句发哪句\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 47,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 24,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 1420,
+          "like_count": 410,
+          "listed_count": 2,
+          "media_count": 799,
+          "tweet_count": 2919
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-13T02:32:23.000Z",
+        "description": "我们生来就是孤独 | 🏳️‍🌈 | 友跨 | Gemini全肯定bot | 数学 | INTJ-T | furry控 | 准美留 | 民谣摇滚重金属 | 备用 @LyingOver_Duck | 健身舟舟 @Boat_wind_moon | 空空弟弟 @foxzhukong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "LyingOver_Duck"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "Boat_wind_moon"
+              },
+              {
+                "end": 137,
+                "start": 126,
+                "username": "foxzhukong"
+              }
+            ]
+          }
+        },
+        "id": "1999668646952730625",
+        "location": "被流放到荒芜之地的人不会有幸福",
+        "name": "摆烂小鸭🦆（二代目）🔜南京🔜郑州🔜武汉🔜重庆🔜成都🔜?🔜广州🔜深圳",
+        "pinned_tweet_id": "2068496091352572034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999670075301986305/SbikQVqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2819,
+          "following_count": 1767,
+          "like_count": 7820,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 3274
+        },
+        "url": "",
+        "username": "LyingOverDuckww",
+        "verified": false
+      }
+    ]
+  }
+}

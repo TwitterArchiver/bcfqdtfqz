@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2023777536715657521",
+    "created_at": "2026-02-18T01:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T02:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023929445103661538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757630242288541696",
+          "start": 0,
+          "username": "Zhixiang_312145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023929445103661538",
+    "in_reply_to_user_id": "1757630242288541696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023777536715657521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhixiang_312145 福州人？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2023777536715657521",
+        "created_at": "2026-02-18T01:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T02:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023929445103661538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757630242288541696",
+              "start": 0,
+              "username": "Zhixiang_312145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023929445103661538",
+        "in_reply_to_user_id": "1757630242288541696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023777536715657521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhixiang_312145 福州人？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757630242288541696",
+        "conversation_id": "2023777536715657521",
+        "created_at": "2026-02-17T15:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T16:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023777536715657521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023777536715657521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "滚啊\n初七回仓山初九返校\n回老家之前 Zhixiang 还想着好好享受这个假期把作业全做了\n合着这个破假期不是在做作业就是在老家忍受令人烦躁的日子嘛……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "Point"
+              },
+              "region": "New York"
+            }
+          ]
+        },
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，，支持投稿，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "New York, USA",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 796,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 538
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T04:58:13.000Z",
+        "description": "Chinese 🇨🇳 / Male / Student / 17 years old / See you in every world, if possible. / No NSFW / No political content / Backup account: @Phoeversum / EN or ZH-CN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Phoeversum"
+              }
+            ]
+          }
+        },
+        "id": "1757630242288541696",
+        "location": "China Mainland",
+        "name": "Zhixiang Huang",
+        "pinned_tweet_id": "2022209412203749618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757630635047280640/bkSrQETY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 1934,
+          "like_count": 106282,
+          "listed_count": 4,
+          "media_count": 1633,
+          "tweet_count": 14212
+        },
+        "username": "Zhixiang_312145",
+        "verified": false
+      }
+    ]
+  }
+}
