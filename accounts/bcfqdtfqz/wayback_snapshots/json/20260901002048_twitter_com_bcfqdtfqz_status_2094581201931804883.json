@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2094161680884441442",
+    "created_at": "2026-09-01T00:20:48.000Z",
+    "display_text_range": [
+      10,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T01:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094581201931804883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1670319832716447745",
+          "start": 0,
+          "username": "Babymlnr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094581201931804883",
+    "in_reply_to_user_id": "1670319832716447745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094161680884441442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Babymlnr 还好你不是艾伦，不然别人对你说句没钱直接发动地鸣了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2094161680884441442",
+        "created_at": "2026-09-01T00:20:48.000Z",
+        "display_text_range": [
+          10,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T01:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094581201931804883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1670319832716447745",
+              "start": 0,
+              "username": "Babymlnr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094581201931804883",
+        "in_reply_to_user_id": "1670319832716447745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094161680884441442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Babymlnr 还好你不是艾伦，不然别人对你说句没钱直接发动地鸣了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670319832716447745",
+        "conversation_id": "2094161680884441442",
+        "created_at": "2026-08-30T20:33:47.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T21:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094161680884441442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094161680884441442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 33584,
+          "like_count": 454,
+          "quote_count": 27,
+          "reply_count": 150,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "男人哭穷我真的会应激。我听到“没钱”两个字，有一种想把世界毁灭的冲动。你说你没钱，意思就是不想给我花钱，意思就是我不配花你的钱，意思就是我价值不够，就是在贬低我。如果我们在暧昧或者恋爱，你敢说你没钱，我必须送你上西天。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2094581201931804883",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 1433,
+          "like_count": 509,
+          "listed_count": 4,
+          "media_count": 891,
+          "tweet_count": 3885
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-18T06:37:46.000Z",
+        "description": "骂我的全家死绝了 不收门槛不闲聊不约炮操你妈的如果是给我带来麻烦和糟糕情绪的话麻烦把嘴闭上吧",
+        "id": "1670319832716447745",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094501208820007123",
+        "name": "仙女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670319832716447745/1774801411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038290873486811136/W-InLkVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 135,
+          "like_count": 165,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "Babymlnr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

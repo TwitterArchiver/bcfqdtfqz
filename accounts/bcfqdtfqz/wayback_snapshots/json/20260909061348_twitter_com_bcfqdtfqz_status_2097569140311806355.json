@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2097561029626736708",
+    "created_at": "2026-09-09T06:13:48.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T07:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097569140311806355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1528798633168347137",
+          "start": 0,
+          "username": "TomoriNao2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097569140311806355",
+    "in_reply_to_user_id": "1528798633168347137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097561029626736708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TomoriNao2022 已炸肛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 139,
+        "media_key": "3_2097560922453868544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwIi62agAAOOZZ.png",
+        "width": 377
+      },
+      {
+        "height": 270,
+        "media_key": "3_2097560981216100352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwImVwbAAAXnBg.png",
+        "width": 595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2097561029626736708",
+        "created_at": "2026-09-09T06:13:48.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T07:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097569140311806355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1528798633168347137",
+              "start": 0,
+              "username": "TomoriNao2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097569140311806355",
+        "in_reply_to_user_id": "1528798633168347137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097561029626736708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TomoriNao2022 已炸肛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097560922453868544",
+            "3_2097560981216100352"
+          ]
+        },
+        "author_id": "1528798633168347137",
+        "conversation_id": "2097561029626736708",
+        "created_at": "2026-09-09T05:41:34.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T06:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097561029626736708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yCDmnuiUNJ",
+              "end": 42,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2097561029626736708/photo/1",
+              "media_key": "3_2097560922453868544",
+              "start": 19,
+              "url": "https://t.co/yCDmnuiUNJ"
+            },
+            {
+              "display_url": "pic.x.com/yCDmnuiUNJ",
+              "end": 42,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2097561029626736708/photo/1",
+              "media_key": "3_2097560981216100352",
+              "start": 19,
+              "url": "https://t.co/yCDmnuiUNJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097561029626736708",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097560922453868544"
+          },
+          {
+            "media_key": "3_2097560981216100352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "效率这么高吗，申请几个小时就通过了🤔 https://t.co/yCDmnuiUNJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n年龄未知，性别未知，身高未知，体重未知\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 114,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 91,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2097569140311806355",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 1460,
+          "like_count": 529,
+          "listed_count": 4,
+          "media_count": 918,
+          "tweet_count": 4123
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！\ntelegram：https://t.co/K8jioEkL4s\ndiscord：https://t.co/ZFHCRnHUMK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+wVgo88kx8FphN…",
+                "end": 48,
+                "expanded_url": "https://t.me/+wVgo88kx8FphNjdl",
+                "start": 25,
+                "url": "https://t.co/K8jioEkL4s"
+              },
+              {
+                "display_url": "discord.gg/RXmHUMUdGN",
+                "end": 80,
+                "expanded_url": "https://discord.gg/RXmHUMUdGN",
+                "start": 57,
+                "url": "https://t.co/ZFHCRnHUMK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wVgo88kx8FphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wVgo88kx8FphNjdl",
+                "start": 0,
+                "url": "https://t.co/K8jioEkL4s"
+              }
+            ]
+          }
+        },
+        "id": "1528798633168347137",
+        "is_identity_verified": false,
+        "location": "神奈川県",
+        "most_recent_tweet_id": "2097563056121520460",
+        "name": "なおNaO",
+        "pinned_tweet_id": "2073983646399365630",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1528798633168347137/1653500269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22029,
+          "following_count": 4587,
+          "like_count": 12834,
+          "listed_count": 68,
+          "media_count": 3473,
+          "tweet_count": 12252
+        },
+        "url": "https://t.co/K8jioEkL4s",
+        "username": "TomoriNao2022",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2097675943762698263",
+    "created_at": "2026-09-09T17:35:54.000Z",
+    "display_text_range": [
+      11,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T18:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097740794644087261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1495741137193435140",
+          "start": 0,
+          "username": "klarkxy01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097740794644087261",
+    "in_reply_to_user_id": "1495741137193435140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097675943762698263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@klarkxy01 什么是我的女频赛道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2097675943762698263",
+        "created_at": "2026-09-09T17:35:54.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097740794644087261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1495741137193435140",
+              "start": 0,
+              "username": "klarkxy01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097740794644087261",
+        "in_reply_to_user_id": "1495741137193435140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097675943762698263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@klarkxy01 什么是我的女频赛道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495741137193435140",
+        "conversation_id": "2097675943762698263",
+        "created_at": "2026-09-09T13:18:12.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097675943762698263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/klarkxy01/stat…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/klarkxy01/status/2097258079922585799",
+              "start": 107,
+              "url": "https://t.co/Tk0DCaamQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097675943762698263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2346,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097258079922585799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Astra大人挣钱日记#1 \n\n经过我和Astra大人的“友好”讨论，以及不断的催促，Astra大人最终决定选择番茄女频赛道，然后写出了一篇让我感觉“我不懂，但我大受震撼”的雌文。\n作者审核还没通过，等明天继续。 https://t.co/Tk0DCaamQt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n年龄未知，性别未知，身高未知，体重未知\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 114,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 91,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2097740794644087261",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 1466,
+          "like_count": 532,
+          "listed_count": 4,
+          "media_count": 921,
+          "tweet_count": 4151
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T12:44:22.000Z",
+        "description": "欢迎来到，这行将终结，匆忙纷扰，并且完全看不到救赎的世界！\n\n🌼近期有发帖的会互fo\n🏆不万能的许愿机\n🦉左翼加速主义",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/klarkxy",
+                "end": 23,
+                "expanded_url": "https://github.com/klarkxy",
+                "start": 0,
+                "url": "https://t.co/wbSGgkGFxS"
+              }
+            ]
+          }
+        },
+        "id": "1495741137193435140",
+        "is_identity_verified": false,
+        "location": "68番岛の妖精仓库",
+        "most_recent_tweet_id": "2097699567009718620",
+        "name": "无能的艾薇娜",
+        "pinned_tweet_id": "2094906288237060279",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495741137193435140/1788299057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091464264754380800/mFogn0wp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 688,
+          "like_count": 7163,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 2813
+        },
+        "url": "https://t.co/wbSGgkGFxS",
+        "username": "klarkxy01",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2096539507889971623",
+    "created_at": "2026-09-06T14:52:49.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096612589421879674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1628794781257302016",
+          "start": 0,
+          "username": "DLKFZWilliam2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096612589421879674",
+    "in_reply_to_user_id": "1628794781257302016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096539507889971623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DLKFZWilliam2 做脚本就五万啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2096539507889971623",
+        "created_at": "2026-09-06T14:52:49.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096612589421879674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1628794781257302016",
+              "start": 0,
+              "username": "DLKFZWilliam2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096612589421879674",
+        "in_reply_to_user_id": "1628794781257302016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096539507889971623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DLKFZWilliam2 做脚本就五万啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628794781257302016",
+        "conversation_id": "2096539507889971623",
+        "created_at": "2026-09-06T10:02:25.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096539507889971623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096539507889971623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近拒绝了不少外包的单子。\n可能不少推友比较年轻，对接项目的风险不太了解，我给大家一个情景，大家可以自己测试下自己，看看你会不会接：\n\n1.一个朋友介绍，跟你聊的是AI自动化的单子，预算5万，你会不会心动有兴趣聊？\n\n你可能会觉得预算还可以。你一个人现在有AI，应该能很迅速地去搞定，可能就会去聊了。 \n\n2.聊了聊你发现是跟游戏相关，是 做自动化的程序实现游戏辅助， 虽然最开始说的是自动化，再一看是游戏自动化,你接不接？\n\n你可能会觉得没事儿，反正再具体看看。如果不行就不做呗。毕竟是自动化，也不是说修改。 你可能就继续往下做了。 \n\n3.做着做着，对方开始加功能。 对方开始说“就是做个智能一点的挂机脚本,”或者是什么通过 AI 获取游戏画面，然后在游戏外面去做自动按键。 帮玩家自动刷、自动捡、自动交易，用AI优化路径和判断”。听到这里，很多人可能还觉得：不就是自动化嘛， 毕竟，并没有实现修改，只是通过抓取游戏画面，对游戏的源码、通讯等等没有任何影响，是在外部实现的。 这些功能加就加吧。 \n\n4.如果你看到这里，你还是选择继续往下做，那么恭喜你。 接下来1-3年的伙食住宿无忧了🌚甚至还有健身的缝纫机给你，健身卡都不用办了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 9641,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "最近拒绝了不少外包的单子。\n可能不少推友比较年轻，对接项目的风险不太了解，我给大家一个情景，大家可以自己测试下自己，看看你会不会接：\n\n1.一个朋友介绍，跟你聊的是AI自动化的单子，预算5万，你会不会心动有兴趣聊？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 94,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 71,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2096612589421879674",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 1455,
+          "like_count": 524,
+          "listed_count": 4,
+          "media_count": 906,
+          "tweet_count": 4067
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-23T16:32:36.000Z",
+        "description": "Hi,☺️.我是一个温柔又有点古怪的有趣中年大叔,一直沉浸在自己的世界里｜原投行打工｜半路出家的退休 Dev｜全职Comedian｜养成系变装跳绳up主｜主持No.1 US Biz & Tax 播客｜写代码（技术很菜）| 玩游戏,玩音乐,搞点艺术｜搞抽象是为了给你带来欢笑和流量，对任何人无恶意，笔芯🫰 商务合作私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "indiedevwilliam.com",
+                "end": 23,
+                "expanded_url": "https://indiedevwilliam.com",
+                "start": 0,
+                "url": "https://t.co/Uoo9BwFeFl"
+              }
+            ]
+          }
+        },
+        "id": "1628794781257302016",
+        "is_identity_verified": false,
+        "location": "USA",
+        "most_recent_tweet_id": "2096607755188711708",
+        "name": "独立开发者William",
+        "pinned_tweet_id": "2054941029367980284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628794781257302016/1778763551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093857619001946112/dStigFVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12345,
+          "following_count": 1933,
+          "like_count": 13100,
+          "listed_count": 118,
+          "media_count": 968,
+          "tweet_count": 5533
+        },
+        "url": "https://t.co/Uoo9BwFeFl",
+        "username": "DLKFZWilliam2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

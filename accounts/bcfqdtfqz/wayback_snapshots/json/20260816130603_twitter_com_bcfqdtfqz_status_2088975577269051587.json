@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2088951640644870182",
+    "created_at": "2026-08-16T13:06:03.000Z",
+    "display_text_range": [
+      37,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088975577269051587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        },
+        {
+          "end": 23,
+          "id": "1484296250",
+          "start": 14,
+          "username": "0xBCD18E"
+        },
+        {
+          "end": 36,
+          "id": "2049848092460249088",
+          "start": 24,
+          "username": "suliaodaioo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088975577269051587",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088970387061084358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 @0xBCD18E @suliaodaioo 😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2088951640644870182",
+        "created_at": "2026-08-16T13:06:03.000Z",
+        "display_text_range": [
+          37,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088975577269051587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            },
+            {
+              "end": 23,
+              "id": "1484296250",
+              "start": 14,
+              "username": "0xBCD18E"
+            },
+            {
+              "end": 36,
+              "id": "2049848092460249088",
+              "start": 24,
+              "username": "suliaodaioo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088975577269051587",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088970387061084358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 @0xBCD18E @suliaodaioo 😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "conversation_id": "2088951640644870182",
+        "created_at": "2026-08-16T12:45:26.000Z",
+        "display_text_range": [
+          34,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088970387061084358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            },
+            {
+              "end": 20,
+              "id": "1484296250",
+              "start": 11,
+              "username": "0xBCD18E"
+            },
+            {
+              "end": 33,
+              "id": "2049848092460249088",
+              "start": 21,
+              "username": "suliaodaioo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088970387061084358",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088959948881604917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz @0xBCD18E @suliaodaioo 干死你👿"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2088975577269051587",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 1428,
+          "like_count": 467,
+          "listed_count": 2,
+          "media_count": 849,
+          "tweet_count": 3483
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。LOL游戏主播。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/liujiayi1111/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/liujiayi1111/status/2058900883270758469",
+                "start": 0,
+                "url": "https://t.co/er9WmJIcnW"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088973941960294499",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1876613242887282688/1780369791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10980,
+          "following_count": 122,
+          "like_count": 15637,
+          "listed_count": 31,
+          "media_count": 357,
+          "tweet_count": 4310
+        },
+        "url": "https://t.co/er9WmJIcnW",
+        "username": "liujiayi1111",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-06-05T06:59:26.000Z",
+        "description": "•日常分享观察发现，偶尔记录事实核查\n•蛋头视奸新号加列表激进民族主义钢印入脑者勿fo会b",
+        "id": "1484296250",
+        "is_identity_verified": false,
+        "location": "距您2.6公里   IP归属地：球外势力",
+        "most_recent_tweet_id": "2088955257258987686",
+        "name": "花​贝（名字搞长一点可以搞长一点）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1484296250/1640325005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041095743625457664/V_o7iIxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 2036,
+          "like_count": 204462,
+          "listed_count": 4,
+          "media_count": 3267,
+          "tweet_count": 35626
+        },
+        "url": "",
+        "username": "0xBCD18E",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-30T13:47:33.000Z",
+        "description": "大家好！这里是塑料袋小姐。\n171/55。\n喜欢变得更好看，喜欢被大家喜欢。\n可以推荐我分享一些自己的生活和自己。\n【爱】和【美】是我的性癖。\n心愿是世界和平。\n清水，不收门槛，生活清贫，志向高远，欢迎自愿赞助。\ntg群https://t.co/vWJUNvTnXH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+-5oz3w6zpHQwN…",
+                "end": 133,
+                "expanded_url": "https://t.me/+-5oz3w6zpHQwNjUx",
+                "start": 110,
+                "url": "https://t.co/vWJUNvTnXH"
+              }
+            ]
+          }
+        },
+        "id": "2049848092460249088",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2088868477331448162",
+        "name": "塑料袋小姐",
+        "pinned_tweet_id": "2084311079514144986",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049848092460249088/1777557909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049849756298432512/iYANnj8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11535,
+          "following_count": 54,
+          "like_count": 615,
+          "listed_count": 19,
+          "media_count": 117,
+          "tweet_count": 652
+        },
+        "url": "",
+        "username": "suliaodaioo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

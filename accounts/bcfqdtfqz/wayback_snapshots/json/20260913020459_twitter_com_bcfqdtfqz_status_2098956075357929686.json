@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2098739308157116548",
+    "created_at": "2026-09-13T02:04:59.000Z",
+    "display_text_range": [
+      8,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T03:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098956075357929686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2041146061750956032",
+          "start": 0,
+          "username": "Liqwfe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098956075357929686",
+    "in_reply_to_user_id": "2041146061750956032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098739308157116548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liqwfe 细节余承东"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2098739308157116548",
+        "created_at": "2026-09-13T02:04:59.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T03:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098956075357929686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2041146061750956032",
+              "start": 0,
+              "username": "Liqwfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098956075357929686",
+        "in_reply_to_user_id": "2041146061750956032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098739308157116548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liqwfe 细节余承东"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041146061750956032",
+        "conversation_id": "2098739308157116548",
+        "created_at": "2026-09-12T11:43:38.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098739308157116548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cuimao/status/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/cuimao/status/2098677631696994814",
+              "start": 19,
+              "url": "https://t.co/NPmUBstUPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098739308157116548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098677631696994814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "omg 好糟糕的对话，公共场合不要听 https://t.co/NPmUBstUPc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n年龄未知，性别未知，身高未知，体重未知\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 114,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 91,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2098956075357929686",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116,
+          "following_count": 1465,
+          "like_count": 535,
+          "listed_count": 4,
+          "media_count": 923,
+          "tweet_count": 4193
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T13:29:04.000Z",
+        "description": "=00/林林｜07 intj ｜特别特别多碎碎念\n偶尔分享一些有趣的AI小玩具！😙\n欢迎互fo(｡ì _ í｡)\n请随意称呼🫶非常非常非常欢迎私联",
+        "id": "2041146061750956032",
+        "is_identity_verified": false,
+        "location": "潇湘",
+        "most_recent_tweet_id": "2098888567259078680",
+        "name": "林刻雪（薄肌版）",
+        "pinned_tweet_id": "2097734198580945196",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041146061750956032/1785952011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086787459048964096/qdP_sb56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 325,
+          "like_count": 6405,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1645
+        },
+        "url": "",
+        "username": "Liqwfe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

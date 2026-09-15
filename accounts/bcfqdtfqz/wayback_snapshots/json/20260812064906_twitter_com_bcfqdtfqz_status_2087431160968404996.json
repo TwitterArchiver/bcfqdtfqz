@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087431152202358784"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2087431160968404996",
+    "created_at": "2026-08-12T06:49:06.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T07:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087431160968404996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/54ZifQk5li",
+          "end": 68,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2087431160968404996/photo/1",
+          "media_key": "3_2087431152202358784",
+          "start": 45,
+          "url": "https://t.co/54ZifQk5li"
+        },
+        {
+          "display_url": "x.com/meiyisi456/sta…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/meiyisi456/status/2087143854835392659",
+          "start": 69,
+          "url": "https://t.co/trPCc4bHke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087431160968404996",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087431152202358784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087143854835392659",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我实在无法理解都是聊天软件的凭什么QQ能40个G\n关键加的tg很多群不是看片就是广告。。 https://t.co/54ZifQk5li https://t.co/trPCc4bHke"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1002,
+        "media_key": "3_2087431152202358784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgLksAbIAAwNif.jpg",
+        "width": 1049
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087431152202358784"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2087431160968404996",
+        "created_at": "2026-08-12T06:49:06.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087431160968404996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/54ZifQk5li",
+              "end": 68,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2087431160968404996/photo/1",
+              "media_key": "3_2087431152202358784",
+              "start": 45,
+              "url": "https://t.co/54ZifQk5li"
+            },
+            {
+              "display_url": "x.com/meiyisi456/sta…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/meiyisi456/status/2087143854835392659",
+              "start": 69,
+              "url": "https://t.co/trPCc4bHke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087431160968404996",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087431152202358784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087143854835392659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我实在无法理解都是聊天软件的凭什么QQ能40个G\n关键加的tg很多群不是看片就是广告。。 https://t.co/54ZifQk5li https://t.co/trPCc4bHke"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1344757688845160450",
+        "conversation_id": "2087143854835392659",
+        "created_at": "2026-08-11T11:47:26.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087143854835392659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087143854835392659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 268641,
+          "like_count": 2159,
+          "quote_count": 7,
+          "reply_count": 233,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "我真的要批评一下国内的软件，推特用了这么多年才一个多g，那微信抖音各种游戏动辄三四十G，你们到底想干啥？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2087431160968404996",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 1428,
+          "like_count": 454,
+          "listed_count": 2,
+          "media_count": 843,
+          "tweet_count": 3394
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-31T21:29:59.000Z",
+        "description": "",
+        "id": "1344757688845160450",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087145116528210071",
+        "name": "350234",
+        "pinned_tweet_id": "2058236210460622856",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344757688845160450/1756074517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082481774807109632/8cP5JAe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9988,
+          "following_count": 351,
+          "like_count": 2362,
+          "listed_count": 13,
+          "media_count": 60,
+          "tweet_count": 2241
+        },
+        "url": "",
+        "username": "meiyisi456",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

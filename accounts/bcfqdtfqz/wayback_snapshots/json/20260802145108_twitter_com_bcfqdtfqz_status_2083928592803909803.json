@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2083725645289492979",
+    "created_at": "2026-08-02T14:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083928592803909803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342135083252105216",
+          "start": 0,
+          "username": "xixikawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083928592803909803",
+    "in_reply_to_user_id": "1342135083252105216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083725645289492979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikawaii 问题来了，你也是萝莉吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17467,
+        "height": 1920,
+        "media_key": "13_2083725148327469056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083725148327469056/img/xJT7EOZCqjE0EjiW.jpg",
+        "public_metrics": {
+          "view_count": 18873
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083725148327469056/vid/avc1/320x568/GcrIo9FvXnNqJxCG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083725148327469056/vid/avc1/720x1280/i3yv8Rg8m10aM7Dl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083725148327469056/pl/oTaYLuQoQM_pjG25.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083725148327469056/vid/avc1/480x852/AexTQn8cXRj4D_k0.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083725148327469056/vid/avc1/1080x1920/RQmQRTsAmNxOAi_W.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2083725645289492979",
+        "created_at": "2026-08-02T14:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083928592803909803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083928592803909803",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083725645289492979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii 问题来了，你也是萝莉吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083725148327469056"
+          ]
+        },
+        "author_id": "1342135083252105216",
+        "conversation_id": "2083725645289492979",
+        "created_at": "2026-08-02T01:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:22:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083725196171805161",
+          "2083725645289492979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bz6j88l6a1",
+              "end": 35,
+              "expanded_url": "https://x.com/xixikawaii/status/2083725645289492979/video/1",
+              "media_key": "13_2083725148327469056",
+              "start": 12,
+              "url": "https://t.co/bz6j88l6a1"
+            },
+            {
+              "display_url": "x.com/xixikawaii/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/xixikawaii/status/2083407297578234184",
+              "start": 36,
+              "url": "https://t.co/Jx6cUthqYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083725645289492979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 63047,
+          "like_count": 492,
+          "quote_count": 0,
+          "reply_count": 78,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083407297578234184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更更更奇怪了... 🫪 https://t.co/bz6j88l6a1 https://t.co/Jx6cUthqYJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 1426,
+          "like_count": 437,
+          "listed_count": 2,
+          "media_count": 828,
+          "tweet_count": 3240
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "infp | 戒赌版 | 每天要去迪士尼版 | 投稿请私信DM\n\nJKS水手服 | cl一生推 | 分享欲高 | 亮点推文\n\n承蒙厚爱不胜感激 | 私のことを好きになってくださり、ありがとうございます。🩵\n\n爱党 | 爱国 | 坚持一个中国原则",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_xixi",
+                "start": 0,
+                "url": "https://t.co/Xf4PjsKl0T"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "location": "1000x Meme Alpha 👉🏻",
+        "name": "汐",
+        "pinned_tweet_id": "2074172096805233082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081397697450496000/Lp1pngND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46794,
+          "following_count": 1190,
+          "like_count": 15407,
+          "listed_count": 466,
+          "media_count": 5142,
+          "tweet_count": 25188
+        },
+        "url": "https://t.co/Xf4PjsKl0T",
+        "username": "xixikawaii",
+        "verified": true
+      }
+    ]
+  }
+}

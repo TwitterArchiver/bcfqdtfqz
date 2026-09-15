@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1486467051363258370",
+          "name": "IPOs"
+        }
+      }
+    ],
+    "conversation_id": "2087365177155141686",
+    "created_at": "2026-08-12T06:39:13.000Z",
+    "display_text_range": [
+      8,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T07:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087428674677330395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4848269835",
+          "start": 0,
+          "username": "_FORAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087428674677330395",
+    "in_reply_to_user_id": "4848269835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087365177155141686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FORAB 漏了个很后续，后续Manus计划在港IPO上市，这个才是问题的关键"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1272,
+        "media_key": "3_2087364795167371264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfPOMybcAAClWT.png",
+        "width": 960
+      },
+      {
+        "height": 1132,
+        "media_key": "3_2087364981918715904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfPZEfa0AA_8vU.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1486467051363258370",
+              "name": "IPOs"
+            }
+          }
+        ],
+        "conversation_id": "2087365177155141686",
+        "created_at": "2026-08-12T06:39:13.000Z",
+        "display_text_range": [
+          8,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087428674677330395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4848269835",
+              "start": 0,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087428674677330395",
+        "in_reply_to_user_id": "4848269835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087365177155141686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FORAB 漏了个很后续，后续Manus计划在港IPO上市，这个才是问题的关键"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087364795167371264",
+            "3_2087364981918715904"
+          ]
+        },
+        "author_id": "4848269835",
+        "conversation_id": "2087365177155141686",
+        "created_at": "2026-08-12T02:26:54.000Z",
+        "display_text_range": [
+          0,
+          163
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087365177155141686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nue93i1tLK",
+              "end": 187,
+              "expanded_url": "https://x.com/_FORAB/status/2087365177155141686/photo/1",
+              "media_key": "3_2087364795167371264",
+              "start": 164,
+              "url": "https://t.co/nue93i1tLK"
+            },
+            {
+              "display_url": "pic.x.com/nue93i1tLK",
+              "end": 187,
+              "expanded_url": "https://x.com/_FORAB/status/2087365177155141686/photo/1",
+              "media_key": "3_2087364981918715904",
+              "start": 164,
+              "url": "https://t.co/nue93i1tLK"
+            },
+            {
+              "display_url": "x.com/_FORAB/status/…",
+              "end": 211,
+              "expanded_url": "https://twitter.com/_FORAB/status/2057406446774722807",
+              "start": 188,
+              "url": "https://t.co/iV3GIPZnt6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087365177155141686",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087364795167371264"
+          },
+          {
+            "media_key": "3_2087364981918715904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 99992,
+          "like_count": 107,
+          "quote_count": 3,
+          "reply_count": 80,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057406446774722807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "果然，资方把钱吐回来了。财新披露，此前被监管叫停，将公司 20 亿美金出售给 Meta 的中国 AI Manus 团队。\n\n包括腾讯、真格、红杉等原股东在内，以 20 亿美元向 Meta 购回 Manus 股份，交易价格接近 Meta 此前的收购价。\n\n此前因配合监管调查，彭博称 Manus 团队成员和相关资方在大陆被边控。 https://t.co/nue93i1tLK https://t.co/iV3GIPZnt6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2087428674677330395",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 1427,
+          "like_count": 454,
+          "listed_count": 2,
+          "media_count": 841,
+          "tweet_count": 3392
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "is_identity_verified": true,
+        "location": "🇯🇵 Tokyo , Japan",
+        "most_recent_tweet_id": "2087421527138664556",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4848269835/1778770582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137489,
+          "following_count": 646,
+          "like_count": 10444,
+          "listed_count": 2091,
+          "media_count": 4367,
+          "tweet_count": 15959
+        },
+        "url": "",
+        "username": "_FORAB",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

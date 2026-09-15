@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2091224181514055693",
+    "created_at": "2026-08-23T11:52:15.000Z",
+    "display_text_range": [
+      17,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T12:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091493719749120475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1951418128921178112",
+          "start": 0,
+          "username": "ChappelDae55911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091493719749120475",
+    "in_reply_to_user_id": "1951418128921178112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091224181514055693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChappelDae55911 那个哥们你知道李大霄吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2091224181514055693",
+        "created_at": "2026-08-23T11:52:15.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091493719749120475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951418128921178112",
+              "start": 0,
+              "username": "ChappelDae55911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091493719749120475",
+        "in_reply_to_user_id": "1951418128921178112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091224181514055693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChappelDae55911 那个哥们你知道李大霄吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951418128921178112",
+        "conversation_id": "2091224181514055693",
+        "created_at": "2026-08-22T18:01:12.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T19:00:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091224029218877588",
+          "2091224181514055693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091224181514055693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "三个月以后国内基本会开启全民炒股时代\n目前只有这个办法能暂时解决所有的问题\n财政只能靠这个办法了\n当然我不建议这个时候你去炒股\n炒股的同时如果做个自媒体一年赚300都是小钱\n所以我今年一月份就买了一个证券咨询许可证，当时花了1万左右吧，现在涨到10万了\n没有证件卖股票课是违法\n不过你胆子大的话可以"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 10048,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "三个月以后国内基本会开启全民炒股时代\n目前只有这个办法能暂时解决所有的问题\n财政只能靠这个办法了\n当然我不建议这个时候你去炒股\n炒股的同时如果做个自媒体一年赚300都是小钱\n所以我今年一月份就买了一个证券咨询许可证，当时花了1万左右吧，现在涨到10万了\n没有证件卖股票课是违法"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2091493719749120475",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 1435,
+          "like_count": 484,
+          "listed_count": 2,
+          "media_count": 869,
+          "tweet_count": 3678
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-01T23:02:03.000Z",
+        "description": "抗衰私域头部玩家\n（24-25）沉香单品类小红第一名，绝对头部玩家\n SOA品牌创始人https://t.co/ErABga6bth，有日本实验室和药厂 小号@mihmtsmy124975\n想进社群私信即可，我的经验绝对能帮到你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "mihmtsmy124975"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "inner-s.com",
+                "end": 66,
+                "expanded_url": "http://inner-s.com",
+                "start": 43,
+                "url": "https://t.co/ErABga6bth"
+              }
+            ]
+          }
+        },
+        "id": "1951418128921178112",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2091491879775093117",
+        "name": "林森",
+        "pinned_tweet_id": "2056644528308953140",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951418128921178112/1774868346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018614605661265920/L-bhdGgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6745,
+          "following_count": 223,
+          "like_count": 3421,
+          "listed_count": 30,
+          "media_count": 435,
+          "tweet_count": 3160
+        },
+        "url": "",
+        "username": "ChappelDae55911",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

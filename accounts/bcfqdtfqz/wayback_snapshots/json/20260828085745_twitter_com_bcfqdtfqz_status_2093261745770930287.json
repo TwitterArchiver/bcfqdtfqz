@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2093110264082419938",
+    "created_at": "2026-08-28T08:57:45.000Z",
+    "display_text_range": [
+      25,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T09:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093261745770930287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1616035120464691201",
+          "start": 0,
+          "username": "TodZheng25"
+        },
+        {
+          "end": 24,
+          "id": "2023881245193867264",
+          "start": 12,
+          "username": "wa_ika89390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093261745770930287",
+    "in_reply_to_user_id": "1616035120464691201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093210351013953618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TodZheng25 @wa_ika89390 其实立党老师应该看着手机在那里撸管才对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2093110264082419938",
+        "created_at": "2026-08-28T08:57:45.000Z",
+        "display_text_range": [
+          25,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T09:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093261745770930287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1616035120464691201",
+              "start": 0,
+              "username": "TodZheng25"
+            },
+            {
+              "end": 24,
+              "id": "2023881245193867264",
+              "start": 12,
+              "username": "wa_ika89390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093261745770930287",
+        "in_reply_to_user_id": "1616035120464691201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093210351013953618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TodZheng25 @wa_ika89390 其实立党老师应该看着手机在那里撸管才对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616035120464691201",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "2093110264082419938",
+        "created_at": "2026-08-28T05:33:32.000Z",
+        "display_text_range": [
+          13,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T06:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093210351013953618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023881245193867264",
+              "start": 0,
+              "username": "wa_ika89390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093210351013953618",
+        "in_reply_to_user_id": "2023881245193867264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2959,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093110264082419938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wa_ika89390 立党说\n你们这些呱呱理科不好竞赛题不会做，不转码不卖房不长期持有美股，整天走艺术走体育炒炒币妄想一夜暴富登上人生巅峰\n只能度过一个相对失败的人生"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2093261745770930287",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 1434,
+          "like_count": 499,
+          "listed_count": 4,
+          "media_count": 879,
+          "tweet_count": 3785
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-19T11:29:43.000Z",
+        "description": "ai专业大一新生，喜欢看书，喜欢小动物，喜欢折腾\n最近沉迷vibe coding，尝试做一些有意思的东西\n交个朋友吧，无条件回fo",
+        "id": "1616035120464691201",
+        "is_identity_verified": false,
+        "location": "2.05 km",
+        "most_recent_tweet_id": "2093244027902775771",
+        "name": "vibe睦头人",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1616035120464691201/1787020722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088093035582390272/d1WXK8ju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 493,
+          "like_count": 1294,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1129
+        },
+        "url": "",
+        "username": "TodZheng25",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-17T22:04:36.000Z",
+        "description": "大家好，我是一個日本人，中文學習中，希望可以和使用中文的人成為朋友。",
+        "id": "2023881245193867264",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093241884898726153",
+        "name": "川和汪酱薯条🍟🇯🇵井外势力",
+        "pinned_tweet_id": "2066790509277069360",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077191556709392384/N4xk2myz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 74,
+          "like_count": 3153,
+          "listed_count": 6,
+          "media_count": 137,
+          "tweet_count": 1702
+        },
+        "url": "",
+        "username": "wa_ika89390",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

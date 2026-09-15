@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2095343037102870636",
+    "created_at": "2026-09-04T01:40:22.000Z",
+    "display_text_range": [
+      10,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T02:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095688389630873827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2089319216205942784",
+          "start": 0,
+          "username": "Blue68mx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095688389630873827",
+    "in_reply_to_user_id": "2089319216205942784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095343037102870636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blue68mx 我开学第一天被几个穿的清凉的所谓学姐堵着办了张校园卡，月费50 20g只有流量连接个短信都接不了。外加我认识几个开校园墙的身边也有卖被子驾校的，只能说确实很神。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2095343037102870636",
+        "created_at": "2026-09-04T01:40:22.000Z",
+        "display_text_range": [
+          10,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T02:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095688389630873827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2089319216205942784",
+              "start": 0,
+              "username": "Blue68mx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095688389630873827",
+        "in_reply_to_user_id": "2089319216205942784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095343037102870636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blue68mx 我开学第一天被几个穿的清凉的所谓学姐堵着办了张校园卡，月费50 20g只有流量连接个短信都接不了。外加我认识几个开校园墙的身边也有卖被子驾校的，只能说确实很神。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089319216205942784",
+        "conversation_id": "2095343037102870636",
+        "created_at": "2026-09-03T02:48:04.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T03:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095343037102870636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095343037102870636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 293529,
+          "like_count": 1168,
+          "quote_count": 0,
+          "reply_count": 641,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "想问一下学校那种学长又干校园卡又代课又搞家教中介还有驾校撸货什么的是不是超级赚钱 我每次点开他们的朋友圈都搞的跟传销一样 置顶是自己全款买的车 然后每条朋友圈都是人生总结"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2095688389630873827",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 1436,
+          "like_count": 519,
+          "listed_count": 4,
+          "media_count": 902,
+          "tweet_count": 3958
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T11:53:34.000Z",
+        "description": "过门私信",
+        "id": "2089319216205942784",
+        "is_identity_verified": false,
+        "location": "赫尔辛根.莫斯肯",
+        "most_recent_tweet_id": "2095528922821836919",
+        "name": "Blue",
+        "pinned_tweet_id": "2091150723375562836",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089319216205942784/1788240755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089319897750970369/Me2x88RN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 5,
+          "like_count": 2112,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 378
+        },
+        "url": "",
+        "username": "Blue68mx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

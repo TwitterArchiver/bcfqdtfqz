@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092483859594268672"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2092266510488346929",
+    "created_at": "2026-08-26T05:26:52.000Z",
+    "display_text_range": [
+      17,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T06:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092483898743898449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "902877284918468608",
+          "start": 0,
+          "username": "RkMonoChrome_CN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DOc0qjvW7V",
+          "end": 69,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2092483898743898449/photo/1",
+          "media_key": "3_2092483859594268672",
+          "start": 46,
+          "url": "https://t.co/DOc0qjvW7V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092483898743898449",
+    "in_reply_to_user_id": "902877284918468608",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092483859594268672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092266510488346929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RkMonoChrome_CN 刚写的文章，\n没必要无意义的内卷，让自己快乐才是最重要的 https://t.co/DOc0qjvW7V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1812,
+        "media_key": "3_2092483859594268672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQn--91a0AAGygh.jpg",
+        "width": 1062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092483859594268672"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2092266510488346929",
+        "created_at": "2026-08-26T05:26:52.000Z",
+        "display_text_range": [
+          17,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092483898743898449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "902877284918468608",
+              "start": 0,
+              "username": "RkMonoChrome_CN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DOc0qjvW7V",
+              "end": 69,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2092483898743898449/photo/1",
+              "media_key": "3_2092483859594268672",
+              "start": 46,
+              "url": "https://t.co/DOc0qjvW7V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092483898743898449",
+        "in_reply_to_user_id": "902877284918468608",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092483859594268672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092266510488346929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RkMonoChrome_CN 刚写的文章，\n没必要无意义的内卷，让自己快乐才是最重要的 https://t.co/DOc0qjvW7V"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "902877284918468608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2092266510488346929",
+        "created_at": "2026-08-25T15:03:03.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T16:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092266510488346929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LiYuchigz9r/st…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/LiYuchigz9r/status/2091247489861218757",
+              "start": 108,
+              "url": "https://t.co/repVrgiIm5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092266510488346929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 868,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091247489861218757",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起来我是真的不想再回忆自己的高中时代了，基本上就是一段彻头彻尾的耻辱史和战犯史，卷得那么惨到最后还是没有考上什么名牌大学，属于是竹篮打水一场空\n我能够怀念的也就只有那段时间里用极其有限的放学/假期时间看过的日漫了 https://t.co/repVrgiIm5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2092483898743898449",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 1439,
+          "like_count": 489,
+          "listed_count": 3,
+          "media_count": 875,
+          "tweet_count": 3730
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-30T12:54:54.000Z",
+        "description": "無言フォロー失礼\n日本語中国語両方支離滅裂ゴミ人間ド金欠人生失敗中国人限界御宅｜初音ミク大好き｜V老人｜ゲーム・アニメとか趣味色々｜アラサー予備軍\n※スパム・エロ垢・投資垢・インプレゾンビなどは発見次第問答無用BLOCK致します\n中文/English/日本語/한국어（조금밖에 할줄 모름）OK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/rkmonochrome_c…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/rkmonochrome_cn?utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/FHKhXzzmes"
+              }
+            ]
+          }
+        },
+        "id": "902877284918468608",
+        "is_identity_verified": false,
+        "location": "現実世界・中国⇆ストリートのセカイ",
+        "most_recent_tweet_id": "2092447748243267763",
+        "name": "𝓜𝓸𝓷𝓸𝓒𝓱𝓻𝓸𝓶𝓮.(モノクロ)(𝓡𝓮:仮)",
+        "pinned_tweet_id": "2037171201580425359",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/902877284918468608/1771083468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906919226901983232/JCcdNeSL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3721,
+          "following_count": 4878,
+          "like_count": 533312,
+          "listed_count": 16,
+          "media_count": 7888,
+          "tweet_count": 66391
+        },
+        "url": "https://t.co/FHKhXzzmes",
+        "username": "RkMonoChrome_CN",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

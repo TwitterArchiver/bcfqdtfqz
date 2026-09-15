@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2083923012454428730",
+    "created_at": "2026-08-02T14:52:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083928999487734101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1637070779975352320",
+          "start": 0,
+          "username": "arkuy99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083928999487734101",
+    "in_reply_to_user_id": "1637070779975352320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083923012454428730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arkuy99 腾讯上防沉迷能让未成年小登去拿他爹妈的身份证重新注册然后重复氪金\n\n如果国抖红果上紧箍咒约等于字节给自己上吊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2083923012454428730",
+        "created_at": "2026-08-02T14:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083928999487734101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1637070779975352320",
+              "start": 0,
+              "username": "arkuy99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083928999487734101",
+        "in_reply_to_user_id": "1637070779975352320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083923012454428730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arkuy99 腾讯上防沉迷能让未成年小登去拿他爹妈的身份证重新注册然后重复氪金\n\n如果国抖红果上紧箍咒约等于字节给自己上吊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637070779975352320",
+        "conversation_id": "2083923012454428730",
+        "created_at": "2026-08-02T14:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083923012454428730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_FORAB/status/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/_FORAB/status/2083907377603203517",
+              "start": 37,
+              "url": "https://t.co/uYQHrOUZbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083923012454428730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083907377603203517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "腾讯游戏有强制防沉迷系统   抖音没有。\n\n啥时候给抖音 红果上个紧箍咒 https://t.co/uYQHrOUZbf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 1426,
+          "like_count": 437,
+          "listed_count": 2,
+          "media_count": 828,
+          "tweet_count": 3241
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T12:37:54.000Z",
+        "description": "building  https://t.co/m270kq0Knj  a native iOS app for Claude Code \n/ ex @TencentGames \n/ ex @TempleRun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "TencentGames"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "TempleRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "seedex.app",
+                "end": 33,
+                "expanded_url": "https://seedex.app",
+                "start": 10,
+                "url": "https://t.co/m270kq0Knj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com/invite/m4sM6QU…",
+                "end": 23,
+                "expanded_url": "https://discord.com/invite/m4sM6QUuMt",
+                "start": 0,
+                "url": "https://t.co/zxI1WGCfvQ"
+              }
+            ]
+          }
+        },
+        "id": "1637070779975352320",
+        "location": "Less is more.",
+        "name": "Go学长",
+        "pinned_tweet_id": "2049078848978145704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929775085520670720/nyG5k8ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8405,
+          "following_count": 1066,
+          "like_count": 7367,
+          "listed_count": 46,
+          "media_count": 751,
+          "tweet_count": 10305
+        },
+        "url": "https://t.co/zxI1WGCfvQ",
+        "username": "arkuy99",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2096543276459516168",
+    "created_at": "2026-09-06T15:28:18.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T16:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096621521083240864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1157898559355666433",
+          "start": 0,
+          "username": "0x70140"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096621521083240864",
+    "in_reply_to_user_id": "1157898559355666433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096543276459516168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0x70140 老师，关注你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2096543276459516168",
+        "created_at": "2026-09-06T15:28:18.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096621521083240864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1157898559355666433",
+              "start": 0,
+              "username": "0x70140"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096621521083240864",
+        "in_reply_to_user_id": "1157898559355666433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096543276459516168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x70140 老师，关注你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1157898559355666433",
+        "conversation_id": "2096543276459516168",
+        "created_at": "2026-09-06T10:17:23.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096543276459516168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Launch a token on HyperEVM via PerpMe. Instant PRJX liquidity, locked at launch, priced in HYPE, USDC, USD₮0 or PURR.",
+              "display_url": "perpme.fun",
+              "end": 115,
+              "expanded_url": "https://perpme.fun",
+              "start": 92,
+              "status": 200,
+              "title": "PerpMe — launch a token on HyperEVM",
+              "unwound_url": "https://perpme.fun",
+              "url": "https://t.co/R8K3T4wRNe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096543276459516168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "HYPE EVM 最新发射台： 发行的代币perpme，目前在发射基于股票配对的meme，60%收入归创作者，收入40%归平台所有，全部用于回购代币销毁，有点类似于pons，未来可期\nhttps://t.co/R8K3T4wRNe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 94,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 71,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2096621521083240864",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 1456,
+          "like_count": 524,
+          "listed_count": 4,
+          "media_count": 906,
+          "tweet_count": 4070
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-04T06:18:24.000Z",
+        "description": "币圈与币股爱好者｜关注 Web3、AI、RWA、数字资产趋势",
+        "id": "1157898559355666433",
+        "is_identity_verified": false,
+        "location": "Hyperliquid",
+        "most_recent_tweet_id": "2096566309681312034",
+        "name": "Dreamer",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080590983855751168/3ReS6kjP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 139,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "0x70140",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

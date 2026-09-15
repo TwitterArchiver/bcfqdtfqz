@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2092486910208024595",
+    "created_at": "2026-08-26T19:17:32.000Z",
+    "display_text_range": [
+      8,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T20:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092692943308226975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1856456679501541377",
+          "start": 0,
+          "username": "bbgeth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092692943308226975",
+    "in_reply_to_user_id": "1856456679501541377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092661201419620370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbgeth 主要福州学校作息日常比较夸张，你校作息和升学率都很夸张我就随缘拿出来举个例子了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2092486910208024595",
+        "created_at": "2026-08-26T19:17:32.000Z",
+        "display_text_range": [
+          8,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092692943308226975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1856456679501541377",
+              "start": 0,
+              "username": "bbgeth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092692943308226975",
+        "in_reply_to_user_id": "1856456679501541377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092661201419620370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbgeth 主要福州学校作息日常比较夸张，你校作息和升学率都很夸张我就随缘拿出来举个例子了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856456679501541377",
+        "conversation_id": "2092486910208024595",
+        "created_at": "2026-08-26T17:11:24.000Z",
+        "display_text_range": [
+          11,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092661201419620370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092661201419620370",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092486910208024595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 在这居然也能看到福州一中，而且时不时迟到早退也没啥事（至少我们那时候是"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2092692943308226975",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 1434,
+          "like_count": 493,
+          "listed_count": 3,
+          "media_count": 877,
+          "tweet_count": 3741
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-12T21:59:15.000Z",
+        "description": "",
+        "id": "1856456679501541377",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092661201419620370",
+        "name": "bbg",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017614233962528768/Da38_3___normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 79,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "bbgeth",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2083798342774198398",
+    "created_at": "2026-08-02T12:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083899172948955205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1317477880314486785",
+          "start": 0,
+          "username": "Arishia_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083899172948955205",
+    "in_reply_to_user_id": "1317477880314486785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083880516651213171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arishia_404 那不行，再疯狂b又得shadowban了。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2083798342774198398",
+        "created_at": "2026-08-02T12:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083899172948955205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1317477880314486785",
+              "start": 0,
+              "username": "Arishia_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083899172948955205",
+        "in_reply_to_user_id": "1317477880314486785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083880516651213171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arishia_404 那不行，再疯狂b又得shadowban了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317477880314486785",
+        "conversation_id": "2083798342774198398",
+        "created_at": "2026-08-02T11:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083880516651213171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083880516651213171",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083798342774198398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 这种的我一般看到直接block\n现在要清静不少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1761,
+          "following_count": 1424,
+          "like_count": 435,
+          "listed_count": 2,
+          "media_count": 828,
+          "tweet_count": 3236
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-17T14:49:48.000Z",
+        "description": "「以寫真📷✨收藏黃昏的碎片，靠文字📃打撈深海的微光。在程式碼👨‍💻裡建構發光島嶼，以電子📻纏繞成銀河藤蔓。永遠沉迷文藝的星塵震顫，期待與你交換掌心的光——這樣可愛的少女心可是無所不能的哦。」🚫政治露陰禁止\n@allknowbody2 @Yayoi_no_yume",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "allknowbody2"
+              },
+              {
+                "end": 131,
+                "start": 117,
+                "username": "Yayoi_no_yume"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/arishia404",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/arishia404",
+                "start": 0,
+                "url": "https://t.co/NanY1LWNI8"
+              }
+            ]
+          }
+        },
+        "id": "1317477880314486785",
+        "location": "DX3906星系黑域",
+        "name": "🌸𝒞𝒾𝓉𝓇𝓊𝓈 𝒹ℯ ℰ𝓁𝓎𝓈𝒾𝒶🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915569849058942977/Wls1sHB5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 1612,
+          "like_count": 11993,
+          "listed_count": 4,
+          "media_count": 310,
+          "tweet_count": 3438
+        },
+        "url": "https://t.co/NanY1LWNI8",
+        "username": "Arishia_404",
+        "verified": false
+      }
+    ]
+  }
+}

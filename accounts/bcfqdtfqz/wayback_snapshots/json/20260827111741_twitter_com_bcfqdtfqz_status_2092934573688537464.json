@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2092934573688537464",
+    "created_at": "2026-08-27T11:17:41.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092934573688537464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Researchcai/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Researchcai/status/2092579126171603288",
+          "start": 20,
+          "url": "https://t.co/tEYuBUDNAF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092934573688537464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092579126171603288",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "问题来了，请找出图里任何遵守法律的行为 https://t.co/tEYuBUDNAF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_2092578855185960960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpVYb_aUAAv27t.jpg",
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2092934573688537464",
+        "created_at": "2026-08-27T11:17:41.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092934573688537464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Researchcai/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Researchcai/status/2092579126171603288",
+              "start": 20,
+              "url": "https://t.co/tEYuBUDNAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092934573688537464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092579126171603288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "问题来了，请找出图里任何遵守法律的行为 https://t.co/tEYuBUDNAF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092578855185960960"
+          ]
+        },
+        "author_id": "1879234410459066368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Binance CEO.",
+              "id": "1603445515831545856",
+              "name": "Changpeng Zhao"
+            }
+          }
+        ],
+        "conversation_id": "2092579126171603288",
+        "created_at": "2026-08-26T11:45:16.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092579126171603288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "902926941413453824",
+              "start": 3,
+              "username": "cz_binance"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cHh59QZ98V",
+              "end": 61,
+              "expanded_url": "https://x.com/Researchcai/status/2092579126171603288/photo/1",
+              "media_key": "3_2092578855185960960",
+              "start": 38,
+              "url": "https://t.co/cHh59QZ98V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092579126171603288",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092578855185960960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 78410,
+          "like_count": 87,
+          "quote_count": 12,
+          "reply_count": 88,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚 @cz_binance  评论的那个18岁项目创始人，这年轻人，卧槽 https://t.co/cHh59QZ98V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2092934573688537464",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 1437,
+          "like_count": 497,
+          "listed_count": 4,
+          "media_count": 878,
+          "tweet_count": 3766
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2005963922587934725/gFXx1NAu_bigger.jpg",
+          "description": "GMGN.Ai",
+          "url": "https://twitter.com/gmgnai",
+          "user_id": [
+            "1656210167816650754"
+          ]
+        },
+        "created_at": "2025-01-14T18:30:12.000Z",
+        "description": "认真扫链一段时间，所有推文非投资建议，$BNB \n最快的BOT https://t.co/vAu0SLr2Xd\n打狗频道\nhttps://t.co/UcEVbNuCSE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmgn.ai/r/luca168?chai…",
+                "end": 55,
+                "expanded_url": "https://gmgn.ai/r/luca168?chain=bsc",
+                "start": 32,
+                "url": "https://t.co/vAu0SLr2Xd"
+              },
+              {
+                "display_url": "t.me/niugemcall",
+                "end": 84,
+                "expanded_url": "https://t.me/niugemcall",
+                "start": 61,
+                "url": "https://t.co/UcEVbNuCSE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/niugemcall",
+                "end": 23,
+                "expanded_url": "https://t.me/niugemcall",
+                "start": 0,
+                "url": "https://t.co/UcEVbNuCSE"
+              }
+            ]
+          }
+        },
+        "id": "1879234410459066368",
+        "is_identity_verified": false,
+        "location": "Mars",
+        "most_recent_tweet_id": "2092919315297378578",
+        "name": "牛顶天（bayue)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1879234410459066368/1757346536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084731988024713216/973Gk7dS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7805,
+          "following_count": 2383,
+          "like_count": 46,
+          "listed_count": 41,
+          "media_count": 112,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/UcEVbNuCSE",
+        "username": "Researchcai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

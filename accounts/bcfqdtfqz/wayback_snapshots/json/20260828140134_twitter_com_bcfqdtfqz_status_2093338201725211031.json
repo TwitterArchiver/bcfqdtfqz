@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2092986168799547854",
+    "created_at": "2026-08-28T14:01:34.000Z",
+    "display_text_range": [
+      28,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T15:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093338201725211031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1697913281816432640",
+          "start": 0,
+          "username": "kiligulyanov"
+        },
+        {
+          "end": 27,
+          "id": "1900590967289466880",
+          "start": 14,
+          "username": "hathawaybk56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093338201725211031",
+    "in_reply_to_user_id": "1697913281816432640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092995180509168059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiligulyanov @hathawaybk56 我试过，这招没用了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2092986168799547854",
+        "created_at": "2026-08-28T14:01:34.000Z",
+        "display_text_range": [
+          28,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T15:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093338201725211031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1697913281816432640",
+              "start": 0,
+              "username": "kiligulyanov"
+            },
+            {
+              "end": 27,
+              "id": "1900590967289466880",
+              "start": 14,
+              "username": "hathawaybk56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093338201725211031",
+        "in_reply_to_user_id": "1697913281816432640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092995180509168059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiligulyanov @hathawaybk56 我试过，这招没用了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697913281816432640",
+        "conversation_id": "2092986168799547854",
+        "created_at": "2026-08-27T15:18:31.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092995180509168059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900590967289466880",
+              "start": 0,
+              "username": "hathawaybk56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092995180509168059",
+        "in_reply_to_user_id": "1900590967289466880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092986168799547854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hathawaybk56 多自言自语"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2093338201725211031",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1822,
+          "following_count": 1436,
+          "like_count": 499,
+          "listed_count": 4,
+          "media_count": 882,
+          "tweet_count": 3794
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-09-02T10:04:17.000Z",
+        "description": "爱征服一切，让我们屈服于爱吧",
+        "id": "1697913281816432640",
+        "is_identity_verified": false,
+        "location": "梦境的地方",
+        "most_recent_tweet_id": "2093306217569697910",
+        "name": "Kilig",
+        "pinned_tweet_id": "1797459378897068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697913281816432640/1734420223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874127554749358085/H_nHRR6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3224,
+          "following_count": 1539,
+          "like_count": 29094,
+          "listed_count": 16,
+          "media_count": 1649,
+          "tweet_count": 11256
+        },
+        "url": "",
+        "username": "kiligulyanov",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-14T16:53:04.000Z",
+        "description": "Noa｜07年｜高中生｜常驻大陆东北\n精力过剩，怕麻烦，但不坏，想要互fo\n❤️❤️❤️@yuanren0130 @lei47076 @junrey_vox @qinlin_love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "yuanren0130"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "lei47076"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "junrey_vox"
+              },
+              {
+                "end": 91,
+                "start": 79,
+                "username": "qinlin_love"
+              }
+            ]
+          }
+        },
+        "id": "1900590967289466880",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2093337002842411126",
+        "name": "Noa人间",
+        "pinned_tweet_id": "2087093726254625029",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900590967289466880/1785179577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090005365933113344/fWEAmDeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 124,
+          "like_count": 3237,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1259
+        },
+        "url": "",
+        "username": "hathawaybk56",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

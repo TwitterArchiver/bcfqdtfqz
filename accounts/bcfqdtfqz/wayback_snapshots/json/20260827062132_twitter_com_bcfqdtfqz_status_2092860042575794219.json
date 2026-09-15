@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2092486910208024595",
+    "created_at": "2026-08-27T06:21:32.000Z",
+    "display_text_range": [
+      10,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T07:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092860042575794219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3248810198",
+          "start": 0,
+          "username": "SeviYZ98"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092860042575794219",
+    "in_reply_to_user_id": "3248810198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092811062966145395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeviYZ98 这位初中生可能只是单纯的抱怨生活有多苦多累，但是评论区的社达以及这位神人up让他去读中专我只看出了满满的单纯带有立场的恶意。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2092486910208024595",
+        "created_at": "2026-08-27T06:21:32.000Z",
+        "display_text_range": [
+          10,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092860042575794219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3248810198",
+              "start": 0,
+              "username": "SeviYZ98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092860042575794219",
+        "in_reply_to_user_id": "3248810198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092811062966145395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeviYZ98 这位初中生可能只是单纯的抱怨生活有多苦多累，但是评论区的社达以及这位神人up让他去读中专我只看出了满满的单纯带有立场的恶意。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3248810198",
+        "conversation_id": "2092486910208024595",
+        "created_at": "2026-08-27T03:06:54.000Z",
+        "display_text_range": [
+          11,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T04:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092811062966145395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092811062966145395",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092486910208024595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 那你这不是更加佐证了原文那个“好想去日本上学因为没有压力，在中国上学等于上监狱”的不是正常人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2092860042575794219",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 1433,
+          "like_count": 494,
+          "listed_count": 4,
+          "media_count": 877,
+          "tweet_count": 3756
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-06-18T14:49:06.000Z",
+        "description": "没有什么能够阻挡",
+        "id": "3248810198",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2092811905148858779",
+        "name": "seviyz",
+        "pinned_tweet_id": "2073623374623015147",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3248810198/1542724173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1064888310412111872/ebpzUM7p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 146,
+          "like_count": 2395,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 829
+        },
+        "url": "",
+        "username": "SeviYZ98",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

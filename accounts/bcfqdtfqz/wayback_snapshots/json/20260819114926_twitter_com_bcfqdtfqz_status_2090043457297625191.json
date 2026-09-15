@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2090030153346998296",
+    "created_at": "2026-08-19T11:49:26.000Z",
+    "display_text_range": [
+      13,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T12:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090043457297625191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1697293328352686080",
+          "start": 0,
+          "username": "wentj390787"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090043457297625191",
+    "in_reply_to_user_id": "1697293328352686080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090030153346998296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wentj390787 这时候无论男的女的都更应该幸福者退让了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10356,
+        "height": 1920,
+        "media_key": "13_2090029921183887360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090029921183887360/img/JI365p2kJftFz1JE.jpg",
+        "public_metrics": {
+          "view_count": 164
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090029921183887360/vid/avc1/320x714/OH3UziZObkWT4QV6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090029921183887360/vid/avc1/720x1606/7875QpoMTh4AqczK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090029921183887360/pl/8I9rrx8nTlrtwxyI.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090029921183887360/vid/avc1/480x1070/I3RUT-pcp4FYnGsA.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090029921183887360/vid/avc1/860x1920/GK75Ehgvx6-FG01G.mp4"
+          }
+        ],
+        "width": 860
+      },
+      {
+        "duration_ms": 34342,
+        "height": 1920,
+        "media_key": "13_2090029963298893824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090029963298893824/img/OXbIbH0cR5PlBR25.jpg",
+        "public_metrics": {
+          "view_count": 22
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090029963298893824/pl/LjMQ-1IsUC5S0adR.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090029963298893824/vid/avc1/860x1920/1gHj09N7a9cF7v7g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090029963298893824/vid/avc1/720x1606/6D1AuHvHcCY96nZg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090029963298893824/vid/avc1/480x1070/84BpYYd0a2Lt6jtY.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090029963298893824/vid/avc1/320x714/wu2L50qKcxjd20Im.mp4"
+          }
+        ],
+        "width": 860
+      },
+      {
+        "duration_ms": 16680,
+        "height": 1920,
+        "media_key": "13_2090030037252878336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090030037252878336/img/3myiU7V6Y5zhQNEf.jpg",
+        "public_metrics": {
+          "view_count": 30
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090030037252878336/vid/avc1/320x714/oLwTF8uUWu45elRh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090030037252878336/vid/avc1/720x1606/cAuht4Jevk4dX8lz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090030037252878336/pl/QNKiGe-FdzTG8KzJ.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090030037252878336/vid/avc1/480x1070/PDW_XPSNd7ajY7p3.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090030037252878336/vid/avc1/860x1920/jjUaCEHF5C4qKyi5.mp4"
+          }
+        ],
+        "width": 860
+      },
+      {
+        "duration_ms": 33552,
+        "height": 1920,
+        "media_key": "13_2090030085709721600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090030085709721600/img/pl4lrPsVCYnP1JM3.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090030085709721600/vid/avc1/320x714/OH_GDo_fqQPbfdel.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090030085709721600/pl/nfVvE4E10wrLVlf8.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090030085709721600/vid/avc1/720x1606/GNp21AA8vhyF4DF1.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090030085709721600/vid/avc1/860x1920/XKCb2UKLzJekYb7T.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090030085709721600/vid/avc1/480x1070/zJccNY4GhiaOdv-W.mp4"
+          }
+        ],
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2090030153346998296",
+        "created_at": "2026-08-19T11:49:26.000Z",
+        "display_text_range": [
+          13,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090043457297625191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1697293328352686080",
+              "start": 0,
+              "username": "wentj390787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090043457297625191",
+        "in_reply_to_user_id": "1697293328352686080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090030153346998296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wentj390787 这时候无论男的女的都更应该幸福者退让了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090029921183887360",
+            "13_2090029963298893824",
+            "13_2090030037252878336",
+            "13_2090030085709721600"
+          ]
+        },
+        "author_id": "1697293328352686080",
+        "conversation_id": "2090030153346998296",
+        "created_at": "2026-08-19T10:56:34.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090030153346998296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OX9IBsKcXW",
+              "end": 80,
+              "expanded_url": "https://x.com/wentj390787/status/2090030153346998296/video/1",
+              "media_key": "13_2090029921183887360",
+              "start": 57,
+              "url": "https://t.co/OX9IBsKcXW"
+            },
+            {
+              "display_url": "pic.x.com/OX9IBsKcXW",
+              "end": 80,
+              "expanded_url": "https://x.com/wentj390787/status/2090030153346998296/video/1",
+              "media_key": "13_2090029963298893824",
+              "start": 57,
+              "url": "https://t.co/OX9IBsKcXW"
+            },
+            {
+              "display_url": "pic.x.com/OX9IBsKcXW",
+              "end": 80,
+              "expanded_url": "https://x.com/wentj390787/status/2090030153346998296/video/1",
+              "media_key": "13_2090030037252878336",
+              "start": 57,
+              "url": "https://t.co/OX9IBsKcXW"
+            },
+            {
+              "display_url": "pic.x.com/OX9IBsKcXW",
+              "end": 80,
+              "expanded_url": "https://x.com/wentj390787/status/2090030153346998296/video/1",
+              "media_key": "13_2090030085709721600",
+              "start": 57,
+              "url": "https://t.co/OX9IBsKcXW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090030153346998296",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090029921183887360"
+          },
+          {
+            "media_key": "13_2090029963298893824"
+          },
+          {
+            "media_key": "13_2090030037252878336"
+          },
+          {
+            "media_key": "13_2090030085709721600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 401,
+                "start": 392,
+                "tag": "重庆时代峰峻事件"
+              },
+              {
+                "end": 407,
+                "start": 402,
+                "tag": "男女问题"
+              }
+            ]
+          },
+          "text": "我看了一下重庆的事情，我是非常震惊的，我没想到男女对立问题现在已经严重到了这种程度。男女之间真的发了这种“武斗”\n\n按理说视频里这些人都是10几岁到20岁出头的青少年，天天在学校里面也是互相接触异性的年纪，相互借作业抄抄、一起打打游戏.......女生开始喜欢男生，男生开始喜欢女生......毕竟抬头不见低头见的\n\n视频里面男生女生之间的怨气怎么感觉比互联网上的中年老登还大\n\n不知道是不是因为他们被网上刻意引导的男女对立信息影响了，现在男女问题已经越来居然越低龄化了，我们以前读初中高中的时候都是其乐融融，打成一片，哪有这么吓人\n\n还是那句话，如果继续这样发展下去女生群体应该是非常危险的，并且容易吃亏的。因为线上互喷，男女战斗力还可能五五开，但这种线下“武斗”女生是根本不可能打的过男生的\n\n不过我转念一想，现实里面我身边就没有遇到过打男拳女拳的...每个人信息茧房还蛮严重的\n#重庆时代峰峻事件 #男女问题"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看了一下重庆的事情，我是非常震惊的，我没想到男女对立问题现在已经严重到了这种程度。男女之间真的发了这种“武斗” https://t.co/OX9IBsKcXW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2090043457297625191",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 1421,
+          "like_count": 472,
+          "listed_count": 2,
+          "media_count": 859,
+          "tweet_count": 3540
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-31T17:02:41.000Z",
+        "description": "B站某六位数粉丝博主(匿名) ，二次元中登（对子供向也略有研究），锐评家，经常发点疯解读网络热点。互fo请私信 。喜欢一切内心善良的人。",
+        "id": "1697293328352686080",
+        "is_identity_verified": true,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2090030758937375209",
+        "name": "一起来吃辣条鱼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697293328352686080/1783223649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082007758245945344/ohD_w7qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3493,
+          "following_count": 3659,
+          "like_count": 1822,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 2008
+        },
+        "url": "",
+        "username": "wentj390787",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

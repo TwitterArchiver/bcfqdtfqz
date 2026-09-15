@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2092900618931454155",
+    "created_at": "2026-08-27T11:22:00.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092935656917868584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1775079210484436992",
+          "start": 0,
+          "username": "0xAstra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092935656917868584",
+    "in_reply_to_user_id": "1775079210484436992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092900618931454155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xAstra 看起来像是三分熟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092900611490779136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQt6BHobEAAO9nK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092900611427889152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQt6BHZbcAALBvk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2092900618931454155",
+        "created_at": "2026-08-27T11:22:00.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092935656917868584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1775079210484436992",
+              "start": 0,
+              "username": "0xAstra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092935656917868584",
+        "in_reply_to_user_id": "1775079210484436992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092900618931454155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xAstra 看起来像是三分熟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092900611490779136",
+            "3_2092900611427889152"
+          ]
+        },
+        "author_id": "1775079210484436992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092900618931454155",
+        "created_at": "2026-08-27T09:02:46.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092900618931454155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/08tGjSe8qn",
+              "end": 45,
+              "expanded_url": "https://x.com/0xAstra/status/2092900618931454155/photo/1",
+              "media_key": "3_2092900611490779136",
+              "start": 22,
+              "url": "https://t.co/08tGjSe8qn"
+            },
+            {
+              "display_url": "pic.x.com/08tGjSe8qn",
+              "end": 45,
+              "expanded_url": "https://x.com/0xAstra/status/2092900618931454155/photo/1",
+              "media_key": "3_2092900611427889152",
+              "start": 22,
+              "url": "https://t.co/08tGjSe8qn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092900618931454155",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092900611490779136"
+          },
+          {
+            "media_key": "3_2092900611427889152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 688,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我做的牛排观感怎么样？还行吧\n有人想吃吗😋 https://t.co/08tGjSe8qn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2092935656917868584",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 1437,
+          "like_count": 497,
+          "listed_count": 4,
+          "media_count": 878,
+          "tweet_count": 3767
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2024-04-02T08:34:21.000Z",
+        "description": "Intern @GMWallet | Top 10 GitHub Stars in Crypto | HODLer @PudgyPenguins #5103 | prev CICC\nTrade on Binance: https://t.co/gCvs8catqC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "GMWallet"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "PudgyPenguins"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=A…",
+                "end": 132,
+                "expanded_url": "https://www.binance.com/register?ref=ASTRA345",
+                "start": 109,
+                "url": "https://t.co/gCvs8catqC"
+              }
+            ]
+          }
+        },
+        "id": "1775079210484436992",
+        "is_identity_verified": false,
+        "location": "Canberra",
+        "most_recent_tweet_id": "2092927996592320767",
+        "name": "Astra",
+        "pinned_tweet_id": "2045323867988906374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775079210484436992/1781170680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063723095492644864/wQfoPaC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8704,
+          "following_count": 1003,
+          "like_count": 65903,
+          "listed_count": 38,
+          "media_count": 811,
+          "tweet_count": 13514
+        },
+        "url": "",
+        "username": "0xAstra",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

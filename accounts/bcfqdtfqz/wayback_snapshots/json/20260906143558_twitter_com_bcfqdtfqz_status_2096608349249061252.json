@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2096455070531322321",
+    "created_at": "2026-09-06T14:35:58.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096608349249061252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "885874569562644481",
+          "start": 0,
+          "username": "HappyQQ_AI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096608349249061252",
+    "in_reply_to_user_id": "885874569562644481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096455070531322321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappyQQ_AI vibe不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2096455070531322321",
+        "created_at": "2026-09-06T14:35:58.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096608349249061252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "885874569562644481",
+              "start": 0,
+              "username": "HappyQQ_AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096608349249061252",
+        "in_reply_to_user_id": "885874569562644481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096455070531322321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyQQ_AI vibe不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "885874569562644481",
+        "conversation_id": "2096455070531322321",
+        "created_at": "2026-09-06T04:26:53.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096455070531322321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096455070531322321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5581,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多人说没有编程基础，可以VIBE所有一切软件的人。\n来，挑战一下，就是我VIBE的HappySandBox，置顶上有，有丰富编程经验或者有逆向经验的不用来挑战。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 94,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 71,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2096608349249061252",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 1454,
+          "like_count": 524,
+          "listed_count": 4,
+          "media_count": 906,
+          "tweet_count": 4063
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-07-14T14:52:10.000Z",
+        "description": "为 AI 飞速发展助力，打造 AI 相关的好用的软件平台，\n为实现购买GB300自由而努力。\n爱读书、爱分享、有大爱 💖之心。\n公众号：移动互联网。\n微信号：HappyQQ_AI。\n纯AI技术交流请添加Discord社区：https://t.co/yNQuB0qs24",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.com/invite/uj3bTwQ…",
+                "end": 134,
+                "expanded_url": "https://discord.com/invite/uj3bTwQxxq",
+                "start": 111,
+                "url": "https://t.co/yNQuB0qs24"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/HappyQQ",
+                "end": 23,
+                "expanded_url": "https://github.com/HappyQQ",
+                "start": 0,
+                "url": "https://t.co/VisJrcJX9a"
+              }
+            ]
+          }
+        },
+        "id": "885874569562644481",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2096498866246082992",
+        "name": "𝙷𝚊𝚙𝚙𝚢𝚀𝚀",
+        "pinned_tweet_id": "2061075585367982332",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/885874569562644481/1733154719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038916956234067968/lSe0B5lk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19789,
+          "following_count": 14362,
+          "like_count": 169512,
+          "listed_count": 120,
+          "media_count": 2040,
+          "tweet_count": 48066
+        },
+        "url": "https://t.co/VisJrcJX9a",
+        "username": "HappyQQ_AI",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

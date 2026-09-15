@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2086822435001909617",
+    "created_at": "2026-08-10T14:30:14.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086822435001909617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bcfqdtfqz/stat…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/bcfqdtfqz/status/2086821350740726236",
+          "start": 77,
+          "url": "https://t.co/f7NDsYLs3X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086822435001909617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086821350740726236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然我很讨厌优绩主义，但是用魔法打败魔法真是他妈的爽啊，甚至回顾到一半她之前对我做的所作所为，在看到她现在这样，就算很能沉得住气的我都直接忍不住轻哼起来 https://t.co/f7NDsYLs3X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 236,
+        "media_key": "3_2086820388026322944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXgFiJaEAAG7Gd.png",
+        "width": 639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2086822435001909617",
+        "created_at": "2026-08-10T14:30:14.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086822435001909617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bcfqdtfqz/stat…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/bcfqdtfqz/status/2086821350740726236",
+              "start": 77,
+              "url": "https://t.co/f7NDsYLs3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086822435001909617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086821350740726236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然我很讨厌优绩主义，但是用魔法打败魔法真是他妈的爽啊，甚至回顾到一半她之前对我做的所作所为，在看到她现在这样，就算很能沉得住气的我都直接忍不住轻哼起来 https://t.co/f7NDsYLs3X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086820388026322944"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2086821350740726236",
+        "created_at": "2026-08-10T14:25:55.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086821350740726236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cA4KVYCOSa",
+              "end": 113,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2086821350740726236/photo/1",
+              "media_key": "3_2086820388026322944",
+              "start": 90,
+              "url": "https://t.co/cA4KVYCOSa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086821350740726236",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086820388026322944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没想到当年印象中接近完美的初恋也是差不多混吃等死的状态，原定计划的时间表提前了20年，接近癫狂的一下午也在思考接下来的目标是什么。\n\n有一说一，有点能理解李新野现在什么心理状态了 https://t.co/cA4KVYCOSa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2086822435001909617",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 1424,
+          "like_count": 450,
+          "listed_count": 2,
+          "media_count": 838,
+          "tweet_count": 3347
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

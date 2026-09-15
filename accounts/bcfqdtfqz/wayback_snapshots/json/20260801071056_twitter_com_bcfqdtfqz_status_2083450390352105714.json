@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2083418307110338628",
+    "created_at": "2026-08-01T07:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083450390352105714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1156538581529190400",
+          "start": 0,
+          "username": "sunnyhi47118169"
+        },
+        {
+          "end": 26,
+          "id": "1736391295554433024",
+          "start": 17,
+          "username": "Ni_Agent"
+        },
+        {
+          "end": 34,
+          "id": "4848269835",
+          "start": 27,
+          "username": "_FORAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083450390352105714",
+    "in_reply_to_user_id": "1156538581529190400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083428756753207587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunnyhi47118169 @Ni_Agent @_FORAB 准确来说是最不赚钱的🤫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2083418307110338628",
+        "created_at": "2026-08-01T07:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083450390352105714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1156538581529190400",
+              "start": 0,
+              "username": "sunnyhi47118169"
+            },
+            {
+              "end": 26,
+              "id": "1736391295554433024",
+              "start": 17,
+              "username": "Ni_Agent"
+            },
+            {
+              "end": 34,
+              "id": "4848269835",
+              "start": 27,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083450390352105714",
+        "in_reply_to_user_id": "1156538581529190400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083428756753207587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunnyhi47118169 @Ni_Agent @_FORAB 准确来说是最不赚钱的🤫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1156538581529190400",
+        "conversation_id": "2083418307110338628",
+        "created_at": "2026-08-01T05:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083428756753207587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1736391295554433024",
+              "start": 0,
+              "username": "Ni_Agent"
+            },
+            {
+              "end": 17,
+              "id": "4848269835",
+              "start": 10,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083428756753207587",
+        "in_reply_to_user_id": "1736391295554433024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083419502872854729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ni_Agent @_FORAB 差得遠了，XAI 只是馬斯克其中一個業務😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 1426,
+          "like_count": 432,
+          "listed_count": 2,
+          "media_count": 827,
+          "tweet_count": 3222
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-31T12:14:20.000Z",
+        "description": "",
+        "id": "1156538581529190400",
+        "name": "game over",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784075914122584065/HAb11rNx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 841,
+          "like_count": 2492,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 4163
+        },
+        "url": "",
+        "username": "sunnyhi47118169",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T14:22:35.000Z",
+        "description": "忠言逆耳\n\n加密、AI、科技圈里的事,我不写小作文,写播客里\n镰刀声太吵,我用最舒缓的播客声盖过去\n\n逆耳,但好听",
+        "id": "1736391295554433024",
+        "location": "中国",
+        "name": "逆耳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048225401554731008/ODKkG5yN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 842,
+          "like_count": 947,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1535
+        },
+        "url": "",
+        "username": "Ni_Agent",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136136,
+          "following_count": 637,
+          "like_count": 10403,
+          "listed_count": 2094,
+          "media_count": 4239,
+          "tweet_count": 15778
+        },
+        "url": "",
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

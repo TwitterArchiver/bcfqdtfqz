@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2097332764307853498",
+    "created_at": "2026-09-09T10:41:45.000Z",
+    "display_text_range": [
+      27,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T11:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097636572581728700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1013416487648980992",
+          "start": 0,
+          "username": "Jose_yukogu"
+        },
+        {
+          "end": 26,
+          "id": "1690356626434453504",
+          "start": 13,
+          "username": "DavidzhuLife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097636572581728700",
+    "in_reply_to_user_id": "1013416487648980992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097635474299072639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jose_yukogu @DavidzhuLife 你觉得准备开始找加盟商投钱的时候，看到一堆四五十岁的大叔在那爻奶茶，你作为加盟商看到会怎么想。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2097332764307853498",
+        "created_at": "2026-09-09T10:41:45.000Z",
+        "display_text_range": [
+          27,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T11:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097636572581728700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1013416487648980992",
+              "start": 0,
+              "username": "Jose_yukogu"
+            },
+            {
+              "end": 26,
+              "id": "1690356626434453504",
+              "start": 13,
+              "username": "DavidzhuLife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097636572581728700",
+        "in_reply_to_user_id": "1013416487648980992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097635474299072639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jose_yukogu @DavidzhuLife 你觉得准备开始找加盟商投钱的时候，看到一堆四五十岁的大叔在那爻奶茶，你作为加盟商看到会怎么想。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1013416487648980992",
+        "conversation_id": "2097332764307853498",
+        "created_at": "2026-09-09T10:37:23.000Z",
+        "display_text_range": [
+          25,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T11:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097635474299072639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            },
+            {
+              "end": 24,
+              "id": "1690356626434453504",
+              "start": 11,
+              "username": "DavidzhuLife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097635474299072639",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097629547638452284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz @DavidzhuLife 奶茶店的年纪和招什么人没关系吧，难道开业不足18年的奶茶店只能招未成年人吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n年龄未知，性别未知，身高未知，体重未知\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 114,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 91,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2097636572581728700",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 1461,
+          "like_count": 530,
+          "listed_count": 4,
+          "media_count": 921,
+          "tweet_count": 4134
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-07-01T13:38:13.000Z",
+        "description": "like drawing pictures,watching anime and reading comic.",
+        "id": "1013416487648980992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097636260328382471",
+        "name": "何塞",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1013416487648980992/1551332562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1181237178099126273/VdAwbSSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 488,
+          "like_count": 2022,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 727
+        },
+        "url": "",
+        "username": "Jose_yukogu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-12T13:36:50.000Z",
+        "description": "审美洁癖患者，我对内容有近乎苛刻的审美标准。人生信条：对得起自己，对得起观众。",
+        "id": "1690356626434453504",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097634229417075047",
+        "name": "Davidzhu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690356626434453504/1776858384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005847877160165376/khiGaYlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14436,
+          "following_count": 2358,
+          "like_count": 28047,
+          "listed_count": 44,
+          "media_count": 76,
+          "tweet_count": 10812
+        },
+        "url": "",
+        "username": "DavidzhuLife",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

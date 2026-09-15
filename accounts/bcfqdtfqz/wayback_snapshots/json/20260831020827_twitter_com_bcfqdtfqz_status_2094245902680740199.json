@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2094195806106714335",
+    "created_at": "2026-08-31T02:08:27.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T03:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094245902680740199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1599598815098519552",
+          "start": 0,
+          "username": "Bitgold_Hold"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094245902680740199",
+    "in_reply_to_user_id": "1599598815098519552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094195806106714335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitgold_Hold 什么地区的这个？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094195794228453376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAT-rUaoAA1goP.jpg",
+        "width": 990
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094195795142864896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAT-uubcAAEelM.jpg",
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2094195806106714335",
+        "created_at": "2026-08-31T02:08:27.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T03:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094245902680740199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1599598815098519552",
+              "start": 0,
+              "username": "Bitgold_Hold"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094245902680740199",
+        "in_reply_to_user_id": "1599598815098519552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094195806106714335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitgold_Hold 什么地区的这个？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094195794228453376",
+            "3_2094195795142864896"
+          ]
+        },
+        "author_id": "1599598815098519552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094195806106714335",
+        "created_at": "2026-08-30T22:49:23.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T23:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094195806106714335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSdEqVTtzd",
+              "end": 59,
+              "expanded_url": "https://x.com/Bitgold_Hold/status/2094195806106714335/photo/1",
+              "media_key": "3_2094195794228453376",
+              "start": 36,
+              "url": "https://t.co/YSdEqVTtzd"
+            },
+            {
+              "display_url": "pic.x.com/YSdEqVTtzd",
+              "end": 59,
+              "expanded_url": "https://x.com/Bitgold_Hold/status/2094195806106714335/photo/1",
+              "media_key": "3_2094195795142864896",
+              "start": 36,
+              "url": "https://t.co/YSdEqVTtzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094195806106714335",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094195794228453376"
+          },
+          {
+            "media_key": "3_2094195795142864896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 572,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一早打开X，发现有了Money按钮，点开后提示不可用，逗玩呢这是？！🫪 https://t.co/YSdEqVTtzd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2094245902680740199",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 1434,
+          "like_count": 507,
+          "listed_count": 4,
+          "media_count": 891,
+          "tweet_count": 3859
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-05T02:58:27.000Z",
+        "description": "理性、客观、逻辑，人性立场｜比特币是未来货币｜社会观察，感悟分享",
+        "id": "1599598815098519552",
+        "is_identity_verified": true,
+        "location": "New Taipei City, Taiwan",
+        "most_recent_tweet_id": "2094233722661052699",
+        "name": "极简",
+        "pinned_tweet_id": "2042593422113149190",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1599598815098519552/1717926221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012714503507509248/Vm7xAhZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5791,
+          "following_count": 4742,
+          "like_count": 10124,
+          "listed_count": 16,
+          "media_count": 1126,
+          "tweet_count": 10398
+        },
+        "url": "",
+        "username": "Bitgold_Hold",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

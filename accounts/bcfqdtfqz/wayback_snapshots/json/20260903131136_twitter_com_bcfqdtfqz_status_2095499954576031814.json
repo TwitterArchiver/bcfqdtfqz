@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2095499024677978287",
+    "created_at": "2026-09-03T13:11:36.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T14:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095499954576031814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342135083252105216",
+          "start": 0,
+          "username": "xixikawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095499954576031814",
+    "in_reply_to_user_id": "1342135083252105216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095499024677978287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikawaii 图一我老婆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095499017237196800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRS1QPWacAASwa2.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095499017254060032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRS1QPabwAA6e8h.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095499017212035072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRS1QPQagAAdY7v.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2095499024677978287",
+        "created_at": "2026-09-03T13:11:36.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T14:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095499954576031814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095499954576031814",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095499024677978287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii 图一我老婆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095499017237196800",
+            "3_2095499017254060032",
+            "3_2095499017212035072"
+          ]
+        },
+        "author_id": "1342135083252105216",
+        "conversation_id": "2095499024677978287",
+        "created_at": "2026-09-03T13:07:54.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T14:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095499024677978287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sk81r1Bwg4",
+              "end": 94,
+              "expanded_url": "https://x.com/xixikawaii/status/2095499024677978287/photo/1",
+              "media_key": "3_2095499017237196800",
+              "start": 71,
+              "url": "https://t.co/sk81r1Bwg4"
+            },
+            {
+              "display_url": "pic.x.com/sk81r1Bwg4",
+              "end": 94,
+              "expanded_url": "https://x.com/xixikawaii/status/2095499024677978287/photo/1",
+              "media_key": "3_2095499017254060032",
+              "start": 71,
+              "url": "https://t.co/sk81r1Bwg4"
+            },
+            {
+              "display_url": "pic.x.com/sk81r1Bwg4",
+              "end": 94,
+              "expanded_url": "https://x.com/xixikawaii/status/2095499024677978287/photo/1",
+              "media_key": "3_2095499017212035072",
+              "start": 71,
+              "url": "https://t.co/sk81r1Bwg4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095499024677978287",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095499017237196800"
+          },
+          {
+            "media_key": "3_2095499017254060032"
+          },
+          {
+            "media_key": "3_2095499017212035072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么刷抖音也都是推特切片啊\n甚至还TMD有我自己的🫪\n\n这个世界如此荒诞，就好像\n\n我的内裤，总是摸我屁股\n我的被子，总是想要睡我...😭 https://t.co/sk81r1Bwg4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2095499954576031814",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 1436,
+          "like_count": 518,
+          "listed_count": 4,
+          "media_count": 900,
+          "tweet_count": 3945
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "INFP | 戒断Crypto | 水手服 | 喜欢可爱的事物 | 分享欲高 | 每天都要去迪士尼版 | DYOR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_xixi",
+                "start": 0,
+                "url": "https://t.co/Xf4PjsKl0T"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "is_identity_verified": false,
+        "location": "GMGN 聪明钱 1000x Meme Alpha 👉🏻",
+        "most_recent_tweet_id": "2095499932790899073",
+        "name": "汐",
+        "pinned_tweet_id": "2074172096805233082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1342135083252105216/1744721710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090127412013182976/-_Pe7Ang_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53904,
+          "following_count": 1212,
+          "like_count": 15688,
+          "listed_count": 480,
+          "media_count": 5533,
+          "tweet_count": 26718
+        },
+        "url": "https://t.co/Xf4PjsKl0T",
+        "username": "xixikawaii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

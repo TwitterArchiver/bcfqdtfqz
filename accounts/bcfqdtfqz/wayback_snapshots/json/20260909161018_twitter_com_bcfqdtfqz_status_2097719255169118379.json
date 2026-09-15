@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2097504173390754299",
+    "created_at": "2026-09-09T16:10:18.000Z",
+    "display_text_range": [
+      48,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T17:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097719255169118379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847211911458504704",
+          "start": 0,
+          "username": "ikai_freedom"
+        },
+        {
+          "end": 24,
+          "id": "28940967",
+          "start": 14,
+          "username": "lidangzzz"
+        },
+        {
+          "end": 34,
+          "id": "1279731337578967040",
+          "start": 25,
+          "username": "leto_bao"
+        },
+        {
+          "end": 47,
+          "id": "1959025762725765120",
+          "start": 35,
+          "username": "AlanShao111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097719255169118379",
+    "in_reply_to_user_id": "1847211911458504704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097504173390754299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ikai_freedom @lidangzzz @leto_bao @AlanShao111 小登也有听不进去意见自以为是的，可能只是你没遇到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2097504173390754299",
+        "created_at": "2026-09-09T16:10:18.000Z",
+        "display_text_range": [
+          48,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T17:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097719255169118379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847211911458504704",
+              "start": 0,
+              "username": "ikai_freedom"
+            },
+            {
+              "end": 24,
+              "id": "28940967",
+              "start": 14,
+              "username": "lidangzzz"
+            },
+            {
+              "end": 34,
+              "id": "1279731337578967040",
+              "start": 25,
+              "username": "leto_bao"
+            },
+            {
+              "end": 47,
+              "id": "1959025762725765120",
+              "start": 35,
+              "username": "AlanShao111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097719255169118379",
+        "in_reply_to_user_id": "1847211911458504704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097504173390754299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikai_freedom @lidangzzz @leto_bao @AlanShao111 小登也有听不进去意见自以为是的，可能只是你没遇到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847211911458504704",
+        "conversation_id": "2097504173390754299",
+        "created_at": "2026-09-09T01:55:39.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T02:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097504173390754299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "28940967",
+              "start": 28,
+              "username": "lidangzzz"
+            },
+            {
+              "end": 98,
+              "id": "1279731337578967040",
+              "start": 89,
+              "username": "leto_bao"
+            },
+            {
+              "end": 143,
+              "id": "1959025762725765120",
+              "start": 131,
+              "username": "AlanShao111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097504173390754299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 38,
+                "id": "28940967",
+                "start": 28,
+                "username": "lidangzzz"
+              },
+              {
+                "end": 98,
+                "id": "1279731337578967040",
+                "start": 89,
+                "username": "leto_bao"
+              },
+              {
+                "end": 143,
+                "id": "1959025762725765120",
+                "start": 131,
+                "username": "AlanShao111"
+              }
+            ]
+          },
+          "text": "亲身感觉到X上老登跟小登明显的差距\n\n那个老登巨婴立党 @lidangzzz 听不得一点负面留言，甚至中性的评论也不行。\n\n小登比如前端时间被猛喷的Leto(字节股神因为装逼) @leto_bao 被狂喷，我也嘲讽了一句，但他是很友善的回了我一句。最近那个艾伦 @AlanShao111 也是\n\n很明显小登比老登更注重言论自由，那些群老登死也只是时间的问题了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4194,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲身感觉到X上老登跟小登明显的差距\n\n那个老登巨婴立党 @lidangzzz 听不得一点负面留言，甚至中性的评论也不行。\n\n小登比如前端时间被猛喷的Leto(字节股神因为装逼) @leto_bao 被狂喷，我也嘲讽了一句，但他是很友善的回了我一句。最近那个艾伦 @AlanShao111 也是"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n年龄未知，性别未知，身高未知，体重未知\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 114,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 91,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2097719255169118379",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2107,
+          "following_count": 1463,
+          "like_count": 530,
+          "listed_count": 4,
+          "media_count": 921,
+          "tweet_count": 4140
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-18T09:43:50.000Z",
+        "description": "谎言不会伤人，真相才是快刀。",
+        "id": "1847211911458504704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097718874594845020",
+        "name": "i凯（露脸教父）",
+        "pinned_tweet_id": "2097699344031834184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847211911458504704/1778931728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087417550011596800/YtYCjvrp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3220,
+          "following_count": 2168,
+          "like_count": 5885,
+          "listed_count": 4,
+          "media_count": 869,
+          "tweet_count": 7130
+        },
+        "url": "",
+        "username": "ikai_freedom",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC\n（私信提问前请务必先到YouTube频道观看各期解答世间万物节目，有问题请到X Space上麦直接询问，未回私信证明你的问题已经在YouTube回答过了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinq.me/lidang",
+                "end": 23,
+                "expanded_url": "https://dinq.me/lidang",
+                "start": 0,
+                "url": "https://t.co/RcYK9nT6WO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "is_identity_verified": false,
+        "location": "Houston, TX",
+        "most_recent_tweet_id": "2097712644580921391",
+        "name": "lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28940967/1590188835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609023,
+          "following_count": 2742,
+          "like_count": 29031,
+          "listed_count": 3903,
+          "media_count": 10169,
+          "tweet_count": 48942
+        },
+        "url": "https://t.co/RcYK9nT6WO",
+        "username": "lidangzzz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-05T10:58:44.000Z",
+        "description": "跟华尔街拼了！\nleto@proairos.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/MCc9GwknUB",
+                "end": 23,
+                "expanded_url": "https://discord.gg/MCc9GwknUB",
+                "start": 0,
+                "url": "https://t.co/dIx6Zus3pw"
+              }
+            ]
+          }
+        },
+        "id": "1279731337578967040",
+        "is_identity_verified": false,
+        "location": "500 m",
+        "most_recent_tweet_id": "2097697216458809528",
+        "name": "Leto Bao",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1279731337578967040/1625762423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1404826880168005632/7isxeHVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92785,
+          "following_count": 146,
+          "like_count": 1839,
+          "listed_count": 499,
+          "media_count": 103,
+          "tweet_count": 510
+        },
+        "url": "https://t.co/dIx6Zus3pw",
+        "username": "leto_bao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-22T22:52:02.000Z",
+        "description": "千万粉丝Content Creator\n分享投资、商业、互联网和人生思考\nYouTu₿e：邵艾伦Alan",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+sfLvN17gk4I2N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+sfLvN17gk4I2NGYx",
+                "start": 0,
+                "url": "https://t.co/w1VyNmbyZO"
+              }
+            ]
+          }
+        },
+        "id": "1959025762725765120",
+        "is_identity_verified": false,
+        "location": "TG频道发布重要信息",
+        "most_recent_tweet_id": "2097609556948083065",
+        "name": "邵艾伦Alan（薄肌版）",
+        "pinned_tweet_id": "2089049662611399110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959025762725765120/1755903250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086673168098570240/6K719ph7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40009,
+          "following_count": 114,
+          "like_count": 625,
+          "listed_count": 29,
+          "media_count": 74,
+          "tweet_count": 872
+        },
+        "url": "https://t.co/w1VyNmbyZO",
+        "username": "AlanShao111",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

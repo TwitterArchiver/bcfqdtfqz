@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2096417743633301700",
+    "created_at": "2026-09-06T14:28:26.000Z",
+    "display_text_range": [
+      11,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096606456099594293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1619910362119405570",
+          "start": 0,
+          "username": "fiapp_pro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096606456099594293",
+    "in_reply_to_user_id": "1619910362119405570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096417743633301700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fiapp_pro 我觉得你首要做的第一件事是跟立党睡在一张床上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2096417743633301700",
+        "created_at": "2026-09-06T14:28:26.000Z",
+        "display_text_range": [
+          11,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096606456099594293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1619910362119405570",
+              "start": 0,
+              "username": "fiapp_pro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096606456099594293",
+        "in_reply_to_user_id": "1619910362119405570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096417743633301700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fiapp_pro 我觉得你首要做的第一件事是跟立党睡在一张床上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619910362119405570",
+        "conversation_id": "2096417743633301700",
+        "created_at": "2026-09-06T01:58:34.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096417743633301700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096417743633301700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Astra 是独立游戏开发者的福音，2d，依赖玩法，轻画质建模的场景下，Astra 就是无敌。 \n\n如果你想做游戏，第一件事就是退学，微积分、线性代数、物理实验、微观经济学等所有课程，对你的小品游戏开发帮助为零，  \n\n第二件事就是购买 GPT 大会员全家桶大套餐，  \n\n第三件事就是选一个游戏类型，用 Astra 把你疯狂的点子全部落地，使劲上架，到处售卖，彻底躺平，  \n\n杀戮尖塔，rimworld，等等各种 100 元以下的游戏市场，都会被 Astra 彻底占领，彻底冲击。\n\n学校不会教你什么叫做好的游戏，也不会教你 GPT 的一百种使用方法，也不会教你如何营销自己的游戏，学校对你来说就是一个巨大的粪坑，只会浪费你的时间。  \n\n所以请立刻立即马上退学，走向彻底成功之路。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 7444,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Astra 是独立游戏开发者的福音，2d，依赖玩法，轻画质建模的场景下，Astra 就是无敌。 \n\n如果你想做游戏，第一件事就是退学，微积分、线性代数、物理实验、微观经济学等所有课程，对你的小品游戏开发帮助为零，  \n\n第二件事就是购买 GPT 大会员全家桶大套餐，  \n\n第三件事就是选一个游戏类型，用 Astra"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 94,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 71,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2096606456099594293",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 1451,
+          "like_count": 523,
+          "listed_count": 4,
+          "media_count": 906,
+          "tweet_count": 4063
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-30T04:08:29.000Z",
+        "description": "量化机构工程师  \nUCSD 计算机  \n股票/加密量化：https://t.co/ehU5LISqkF\n社群：https://t.co/rcquyCkUke \ntg：@fiapp_sls  \nfounder of AnyUni, Inc.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "fiapp_sls"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fiapp.pro",
+                "end": 52,
+                "expanded_url": "https://fiapp.pro",
+                "start": 29,
+                "url": "https://t.co/ehU5LISqkF"
+              },
+              {
+                "display_url": "t.me/fiappPro",
+                "end": 79,
+                "expanded_url": "http://t.me/fiappPro",
+                "start": 56,
+                "url": "https://t.co/rcquyCkUke"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fiapp.pro",
+                "end": 23,
+                "expanded_url": "https://fiapp.pro",
+                "start": 0,
+                "url": "https://t.co/ehU5LISqkF"
+              }
+            ]
+          }
+        },
+        "id": "1619910362119405570",
+        "is_identity_verified": true,
+        "location": "CA | NY",
+        "most_recent_tweet_id": "2096598905815486936",
+        "name": "索螺丝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1619910362119405570/1787236597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090447890292568065/vBMEAcef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15207,
+          "following_count": 286,
+          "like_count": 12856,
+          "listed_count": 116,
+          "media_count": 1249,
+          "tweet_count": 6627
+        },
+        "url": "https://t.co/ehU5LISqkF",
+        "username": "fiapp_pro",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

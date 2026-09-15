@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2069271094138380786",
+    "created_at": "2026-08-28T15:53:25.000Z",
+    "display_text_range": [
+      15,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T16:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093366349200244870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1801517762130677763",
+          "start": 0,
+          "username": "kairakuryo129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093366349200244870",
+    "in_reply_to_user_id": "1801517762130677763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069271094138380786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kairakuryo129 科大讯飞是搞啥的来着，翻译还是学习机？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17566,
+        "height": 1920,
+        "media_key": "13_2069270761379160064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069270761379160064/img/SNyOK4ldOK_N8J85.jpg",
+        "public_metrics": {
+          "view_count": 280
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069270761379160064/vid/avc1/480x852/ihkCvBulEpriwHIj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069270761379160064/pl/LEQXXet-84yGgeLw.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069270761379160064/vid/avc1/720x1280/U3D94GxfOpKIxGhK.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069270761379160064/vid/avc1/320x568/8HOXoBiZirQjYHX1.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069270761379160064/vid/avc1/1080x1920/zUyzx7Cg-BqITNFi.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2069271094138380786",
+        "created_at": "2026-08-28T15:53:25.000Z",
+        "display_text_range": [
+          15,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T16:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093366349200244870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1801517762130677763",
+              "start": 0,
+              "username": "kairakuryo129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093366349200244870",
+        "in_reply_to_user_id": "1801517762130677763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069271094138380786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kairakuryo129 科大讯飞是搞啥的来着，翻译还是学习机？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069270761379160064"
+          ]
+        },
+        "author_id": "1801517762130677763",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129035372757827584",
+              "name": "Robotics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129035372757827584",
+              "name": "Robotics"
+            }
+          }
+        ],
+        "conversation_id": "2069271094138380786",
+        "created_at": "2026-06-23T04:07:28.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069271094138380786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITUDTKflsF",
+              "end": 115,
+              "expanded_url": "https://x.com/kairakuryo129/status/2069271094138380786/video/1",
+              "media_key": "13_2069270761379160064",
+              "start": 92,
+              "url": "https://t.co/ITUDTKflsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069271094138380786",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2069270761379160064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 1140686,
+          "like_count": 498,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "サプライチェーン博覧会で発見！中国AIの進化がすごい！！\n人型ロボット、四足ロボット、AI翻訳機まで…未来の暮らしがもう目の前？\n科大訊飛、宇樹科技など中国ブランドの最新技術に注目！ https://t.co/ITUDTKflsF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2093366349200244870",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 1435,
+          "like_count": 501,
+          "listed_count": 4,
+          "media_count": 883,
+          "tweet_count": 3810
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-14T07:31:33.000Z",
+        "description": "みなさん、こんにちは！「快楽寮」へようこそ！！！\n今日から配信させていただきます～ここは、寮の中で友達と日常を分かち合うように、毎日の新しい出来事や楽しいこと、しかも恥ずかしいことも気軽に共有できる場所ですよ（＾ω＾）\nぜひフォローしていただき、一緒に楽しみを見つけていきましょうね☆\nよろしくお願いいたします☆～",
+        "id": "1801517762130677763",
+        "is_identity_verified": false,
+        "location": "恵比寿",
+        "most_recent_tweet_id": "2093300561982713952",
+        "name": "快楽寮chitchat",
+        "pinned_tweet_id": "2062055877805588722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801517762130677763/1718610912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802620765986340864/QqgiMEfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106268,
+          "following_count": 10,
+          "like_count": 6,
+          "listed_count": 21,
+          "media_count": 4247,
+          "tweet_count": 4290
+        },
+        "url": "",
+        "username": "kairakuryo129",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

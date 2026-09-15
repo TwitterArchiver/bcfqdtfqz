@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2090808947699761597",
+    "created_at": "2026-08-23T02:04:59.000Z",
+    "display_text_range": [
+      8,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T03:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091345928414478338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1993940545706819584",
+          "start": 0,
+          "username": "ovo3oi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091345928414478338",
+    "in_reply_to_user_id": "1993940545706819584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090808947699761597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovo3oi 首先我想做被女追的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2090808947699761597",
+        "created_at": "2026-08-23T02:04:59.000Z",
+        "display_text_range": [
+          8,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T03:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091345928414478338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1993940545706819584",
+              "start": 0,
+              "username": "ovo3oi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091345928414478338",
+        "in_reply_to_user_id": "1993940545706819584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090808947699761597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovo3oi 首先我想做被女追的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993940545706819584",
+        "conversation_id": "2090808947699761597",
+        "created_at": "2026-08-21T14:31:13.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090808947699761597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090808947699761597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 140939,
+          "like_count": 2277,
+          "quote_count": 22,
+          "reply_count": 536,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "我真的特别佩服女追男，男生冰山融化然后恋爱那种。我对感兴趣的男生也不敢太主动…只要对面表现出一点点不是很想继续聊下去的欲望，我就一句话也不敢说了😇每天就是好想和他说话，我的面子，好想和他说话，我的面子…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2091345928414478338",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 1429,
+          "like_count": 483,
+          "listed_count": 2,
+          "media_count": 865,
+          "tweet_count": 3651
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-27T07:10:54.000Z",
+        "description": "剥开我萌萌的外表 得到一枚纯净的吊丝\n爱我的给我打钱 恨我的可以开始爱我了\n匿名提问👇 防走丢@dntjunjun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "dntjunjun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo3oi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovo3oi2",
+                "start": 0,
+                "url": "https://t.co/mZXfc2cC0R"
+              }
+            ]
+          }
+        },
+        "id": "1993940545706819584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091218261476307298",
+        "name": "苹什猫",
+        "pinned_tweet_id": "2050522324697571616",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1993940545706819584/1774881170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038625208815476736/_OyzoErq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1698,
+          "following_count": 77,
+          "like_count": 3776,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 1750
+        },
+        "url": "https://t.co/mZXfc2cC0R",
+        "username": "ovo3oi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

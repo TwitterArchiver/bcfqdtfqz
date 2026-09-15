@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2096128409156071619",
+    "created_at": "2026-09-05T15:18:28.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T16:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096256657286459470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938619920012750848",
+          "start": 0,
+          "username": "VEazOtFqUI68576"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096256657286459470",
+    "in_reply_to_user_id": "1938619920012750848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096128409156071619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VEazOtFqUI68576 没想到还有ox我的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 268,
+        "media_key": "3_2096128397244313600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbxq-lbMAAotlO.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2096128409156071619",
+        "created_at": "2026-09-05T15:18:28.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096256657286459470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938619920012750848",
+              "start": 0,
+              "username": "VEazOtFqUI68576"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096256657286459470",
+        "in_reply_to_user_id": "1938619920012750848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096128409156071619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VEazOtFqUI68576 没想到还有ox我的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096128397244313600"
+          ]
+        },
+        "author_id": "1938619920012750848",
+        "conversation_id": "2096128409156071619",
+        "created_at": "2026-09-05T06:48:51.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T07:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096128409156071619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pIyzQTOwQb",
+              "end": 70,
+              "expanded_url": "https://x.com/VEazOtFqUI68576/status/2096128409156071619/photo/1",
+              "media_key": "3_2096128397244313600",
+              "start": 47,
+              "url": "https://t.co/pIyzQTOwQb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096128409156071619",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096128397244313600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "表面是时间线上的微调，实则搅动市场情绪 利好未落地时肆意演绎，等到尘埃落定，热闹或许就该落幕 https://t.co/pIyzQTOwQb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 94,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 71,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2096256657286459470",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2053,
+          "following_count": 1441,
+          "like_count": 521,
+          "listed_count": 4,
+          "media_count": 903,
+          "tweet_count": 4014
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-27T15:26:35.000Z",
+        "description": "Alpha调研 🎯 | 野生交易员 🎒 | 摸鱼时挖遍链上机会，佛系下单拒绝FOMO焦虑 | 不追高、不接盘、不搞短线投机，在波动里守好筹码，在认知里慢慢变富，做加密圈里最稳的长期主义选手～$BTC",
+        "id": "1938619920012750848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096195619643937072",
+        "name": "0x番茄",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938619920012750848/1777965597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051562476882604032/Xns9oHZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 378,
+          "like_count": 3140,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1817
+        },
+        "url": "",
+        "username": "VEazOtFqUI68576",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

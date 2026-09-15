@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2096576022376497426",
+    "created_at": "2026-09-06T13:43:39.000Z",
+    "display_text_range": [
+      14,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096595185677574585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1775457158563274752",
+          "start": 0,
+          "username": "AshlynHe1129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096595185677574585",
+    "in_reply_to_user_id": "1775457158563274752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096576022376497426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AshlynHe1129 跟腾讯一样快成某种意义的垄断企业了，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096576011307732992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiIxi6aUAAacmS.jpg",
+        "width": 1136
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2096576011299323904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiIxi4aAAAvk_R.jpg",
+        "width": 1970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2096576022376497426",
+        "created_at": "2026-09-06T13:43:39.000Z",
+        "display_text_range": [
+          14,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096595185677574585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1775457158563274752",
+              "start": 0,
+              "username": "AshlynHe1129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096595185677574585",
+        "in_reply_to_user_id": "1775457158563274752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096576022376497426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AshlynHe1129 跟腾讯一样快成某种意义的垄断企业了，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096576011307732992",
+            "3_2096576011299323904"
+          ]
+        },
+        "author_id": "1775457158563274752",
+        "conversation_id": "2096576022376497426",
+        "created_at": "2026-09-06T12:27:30.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096576022376497426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfg79LJKqe",
+              "end": 108,
+              "expanded_url": "https://x.com/AshlynHe1129/status/2096576022376497426/photo/1",
+              "media_key": "3_2096576011307732992",
+              "start": 85,
+              "url": "https://t.co/pfg79LJKqe"
+            },
+            {
+              "display_url": "pic.x.com/pfg79LJKqe",
+              "end": 108,
+              "expanded_url": "https://x.com/AshlynHe1129/status/2096576022376497426/photo/1",
+              "media_key": "3_2096576011299323904",
+              "start": 85,
+              "url": "https://t.co/pfg79LJKqe"
+            },
+            {
+              "display_url": "x.com/ashlynhe1129/s…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/ashlynhe1129/status/2095177492265099321",
+              "start": 109,
+              "url": "https://t.co/OX0ARg2uIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096576022376497426",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096576011307732992"
+          },
+          {
+            "media_key": "3_2096576011299323904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 953,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095177492265099321",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死评论区怎么还有人质疑我在字节当牛马啊😅\n在字节当牛马是什么很值得骄傲的事情吗？\n我当时干了几个月就跑路了，\n当时还是个清澈愚蠢的女大，\n时间过的好快吖  ๑ᵒᯅᵒ๑ https://t.co/pfg79LJKqe https://t.co/OX0ARg2uIf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 94,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 71,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2096595185677574585",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 1447,
+          "like_count": 523,
+          "listed_count": 4,
+          "media_count": 906,
+          "tweet_count": 4050
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-03T09:36:03.000Z",
+        "description": "AI穿戴产品创业中 ｜前字节&牛津AI startup |  LSE alum\nBuilding ZenStellar @HeAisling\n🍠：Ashlyn超爱喝奶茶\n📮：ashlynhe1129@outlook.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "HeAisling"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ashlyn.me",
+                "end": 23,
+                "expanded_url": "https://ashlyn.me/",
+                "start": 0,
+                "url": "https://t.co/c0Qm7jKcHv"
+              }
+            ]
+          }
+        },
+        "id": "1775457158563274752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096593577279455570",
+        "name": "Ashlyn He",
+        "pinned_tweet_id": "2061371877755670695",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775457158563274752/1756529213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062019571431915520/IaQP1Ryy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11042,
+          "following_count": 522,
+          "like_count": 7619,
+          "listed_count": 53,
+          "media_count": 114,
+          "tweet_count": 2209
+        },
+        "url": "https://t.co/c0Qm7jKcHv",
+        "username": "AshlynHe1129",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

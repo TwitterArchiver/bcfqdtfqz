@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2088968123554656655",
+    "created_at": "2026-08-16T13:32:33.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088982246569152747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1697293328352686080",
+          "start": 0,
+          "username": "wentj390787"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088982246569152747",
+    "in_reply_to_user_id": "1697293328352686080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088968123554656655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wentj390787 几把养了什么都吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2244,
+        "media_key": "3_2088968083067289600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2BZ1pawAAkgbO.jpg",
+        "width": 1834
+      },
+      {
+        "height": 3260,
+        "media_key": "3_2088968092869447680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2BaaKb0AA-_xN.jpg",
+        "width": 1834
+      },
+      {
+        "height": 3088,
+        "media_key": "3_2088968103225102336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2BbAvakAALwLH.jpg",
+        "width": 1834
+      },
+      {
+        "height": 2440,
+        "media_key": "3_2088968113421475840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2Bbmua4AAst5L.jpg",
+        "width": 1834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2088968123554656655",
+        "created_at": "2026-08-16T13:32:33.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088982246569152747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1697293328352686080",
+              "start": 0,
+              "username": "wentj390787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088982246569152747",
+        "in_reply_to_user_id": "1697293328352686080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088968123554656655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wentj390787 几把养了什么都吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088968083067289600",
+            "3_2088968092869447680",
+            "3_2088968103225102336",
+            "3_2088968113421475840"
+          ]
+        },
+        "author_id": "1697293328352686080",
+        "conversation_id": "2088968123554656655",
+        "created_at": "2026-08-16T12:36:26.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088968123554656655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bgcnau7rEQ",
+              "end": 103,
+              "expanded_url": "https://x.com/wentj390787/status/2088968123554656655/photo/1",
+              "media_key": "3_2088968083067289600",
+              "start": 80,
+              "url": "https://t.co/bgcnau7rEQ"
+            },
+            {
+              "display_url": "pic.x.com/bgcnau7rEQ",
+              "end": 103,
+              "expanded_url": "https://x.com/wentj390787/status/2088968123554656655/photo/1",
+              "media_key": "3_2088968092869447680",
+              "start": 80,
+              "url": "https://t.co/bgcnau7rEQ"
+            },
+            {
+              "display_url": "pic.x.com/bgcnau7rEQ",
+              "end": 103,
+              "expanded_url": "https://x.com/wentj390787/status/2088968123554656655/photo/1",
+              "media_key": "3_2088968103225102336",
+              "start": 80,
+              "url": "https://t.co/bgcnau7rEQ"
+            },
+            {
+              "display_url": "pic.x.com/bgcnau7rEQ",
+              "end": 103,
+              "expanded_url": "https://x.com/wentj390787/status/2088968123554656655/photo/1",
+              "media_key": "3_2088968113421475840",
+              "start": 80,
+              "url": "https://t.co/bgcnau7rEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088968123554656655",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088968083067289600"
+          },
+          {
+            "media_key": "3_2088968092869447680"
+          },
+          {
+            "media_key": "3_2088968103225102336"
+          },
+          {
+            "media_key": "3_2088968113421475840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是？😧我以为翻墙出来，并且能成功下载推特，注册登录的中国人已经够聪明了\n\n我想破头也想不到\n\n为什么还有人相信这些玩意啊！🤢\n\n推特的保健品赛道难道是蓝海？ https://t.co/bgcnau7rEQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2088982246569152747",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 1428,
+          "like_count": 467,
+          "listed_count": 2,
+          "media_count": 849,
+          "tweet_count": 3485
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-31T17:02:41.000Z",
+        "description": "B站某六位数粉丝博主(匿名) ，二次元中登（对子供向也略有研究），锐评家，经常发点疯解读网络热点。互fo请私信 。喜欢一切内心善良的人。",
+        "id": "1697293328352686080",
+        "is_identity_verified": true,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2088970744093082003",
+        "name": "一起来吃辣条鱼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697293328352686080/1783223649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082007758245945344/ohD_w7qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 2676,
+          "like_count": 1676,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 1911
+        },
+        "url": "",
+        "username": "wentj390787",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

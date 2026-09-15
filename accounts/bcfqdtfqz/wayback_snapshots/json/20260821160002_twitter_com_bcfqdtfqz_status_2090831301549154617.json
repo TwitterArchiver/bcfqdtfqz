@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2090802198003200439",
+    "created_at": "2026-08-21T16:00:02.000Z",
+    "display_text_range": [
+      32,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T17:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090831301549154617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1389019381380698113",
+          "start": 0,
+          "username": "HUd7iC57fj04GLi"
+        },
+        {
+          "end": 31,
+          "id": "1456122926432862223",
+          "start": 17,
+          "username": "giantcutie666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090831301549154617",
+    "in_reply_to_user_id": "1389019381380698113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090809066415374438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HUd7iC57fj04GLi @giantcutie666 腾讯要是一帮人脑袋好使就不会大撒币十个亿让人用他那傻逼元宝了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2090802198003200439",
+        "created_at": "2026-08-21T16:00:02.000Z",
+        "display_text_range": [
+          32,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090831301549154617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1389019381380698113",
+              "start": 0,
+              "username": "HUd7iC57fj04GLi"
+            },
+            {
+              "end": 31,
+              "id": "1456122926432862223",
+              "start": 17,
+              "username": "giantcutie666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090831301549154617",
+        "in_reply_to_user_id": "1389019381380698113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090809066415374438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HUd7iC57fj04GLi @giantcutie666 腾讯要是一帮人脑袋好使就不会大撒币十个亿让人用他那傻逼元宝了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389019381380698113",
+        "conversation_id": "2090802198003200439",
+        "created_at": "2026-08-21T14:31:41.000Z",
+        "display_text_range": [
+          15,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090809066415374438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1456122926432862223",
+              "start": 0,
+              "username": "giantcutie666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090809066415374438",
+        "in_reply_to_user_id": "1456122926432862223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3037,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090802198003200439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@giantcutie666 武汉大学是有点东西的，问题是腾讯的一帮人看不出来一个年总包300的博士的真实水平？\n入职就300是三清大神的水平了，本硕博都是清华才行，背后这男友力工放市场绝对是求偶市场上塔尖的存在\n就这，居然敢养小奶狗，武大的PUA课程也太牛逼了吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2090831301549154617",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 1417,
+          "like_count": 478,
+          "listed_count": 2,
+          "media_count": 862,
+          "tweet_count": 3580
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-03T00:50:17.000Z",
+        "description": "$btc 世界是一个嘈杂的草台班子\n\n一个赌狗+傻逼",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "btc"
+              }
+            ]
+          }
+        },
+        "id": "1389019381380698113",
+        "is_identity_verified": false,
+        "location": "San Francisco, CA",
+        "most_recent_tweet_id": "2090811091932827725",
+        "name": "于无声处",
+        "pinned_tweet_id": "2057691731878142345",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1389019381380698113/1707492565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778126120732467202/B-LgFehn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2429,
+          "following_count": 1823,
+          "like_count": 2909,
+          "listed_count": 58,
+          "media_count": 411,
+          "tweet_count": 8810
+        },
+        "url": "",
+        "username": "HUd7iC57fj04GLi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-04T04:55:47.000Z",
+        "description": "CLabs 创始人|历经两轮牛熊| TG群：https://t.co/MWphcCTLCk，视频号搜索“漂亮财经”，商务合作：https://t.co/pSuhrQgmkj ，交易账号：@giantcutie777 土狗交易：@GiantCutie888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 93,
+                "username": "giantcutie777"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "GiantCutie888"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/giantcutie6688",
+                "end": 45,
+                "expanded_url": "https://t.me/giantcutie6688",
+                "start": 22,
+                "url": "https://t.co/MWphcCTLCk"
+              },
+              {
+                "display_url": "t.me/clabskoala1900",
+                "end": 86,
+                "expanded_url": "https://t.me/clabskoala1900",
+                "start": 63,
+                "url": "https://t.co/pSuhrQgmkj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@GiantCutie-CH",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@GiantCutie-CH",
+                "start": 0,
+                "url": "https://t.co/WCLhfZDD0e"
+              }
+            ]
+          }
+        },
+        "id": "1456122926432862223",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090813670074753480",
+        "name": "大漂亮| C Labs",
+        "pinned_tweet_id": "1716448495811674381",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1456122926432862223/1696657363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550390972714029056/gf_BBRIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136178,
+          "following_count": 1473,
+          "like_count": 14772,
+          "listed_count": 998,
+          "media_count": 3124,
+          "tweet_count": 16557
+        },
+        "url": "https://t.co/WCLhfZDD0e",
+        "username": "giantcutie666",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

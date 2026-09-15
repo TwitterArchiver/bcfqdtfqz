@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2092486910208024595",
+    "created_at": "2026-08-26T19:26:04.000Z",
+    "display_text_range": [
+      16,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T20:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092695091542425859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1607923847315226625",
+          "start": 0,
+          "username": "MrOryza_sativa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092695091542425859",
+    "in_reply_to_user_id": "1607923847315226625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092693179791544612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrOryza_sativa 首先我援引这个只是想反驳图一里说中专才有下午四点放学，\n其次，据传这所学校自由度和隔壁的福州某211差不太多，你可以对照参考下。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2092486910208024595",
+        "created_at": "2026-08-26T19:26:04.000Z",
+        "display_text_range": [
+          16,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092695091542425859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1607923847315226625",
+              "start": 0,
+              "username": "MrOryza_sativa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092695091542425859",
+        "in_reply_to_user_id": "1607923847315226625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092693179791544612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrOryza_sativa 首先我援引这个只是想反驳图一里说中专才有下午四点放学，\n其次，据传这所学校自由度和隔壁的福州某211差不太多，你可以对照参考下。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607923847315226625",
+        "conversation_id": "2092486910208024595",
+        "created_at": "2026-08-26T19:18:29.000Z",
+        "display_text_range": [
+          11,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092693179791544612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092693179791544612",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092692394323931403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 你的意思是，根据图中的作息，在你眼里是8点上学4点放学？晚自习累了不想上可以躺床上刷视频吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2092695091542425859",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 1434,
+          "like_count": 493,
+          "listed_count": 3,
+          "media_count": 877,
+          "tweet_count": 3743
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-28T02:18:22.000Z",
+        "description": "满脑子黄色废料。看白袜+社交 = = 没有里推。已经退出PhD课程。中文; English (proficient); français (intermédiaire).",
+        "id": "1607923847315226625",
+        "is_identity_verified": false,
+        "location": "Alberta, Canada",
+        "most_recent_tweet_id": "2092693179791544612",
+        "name": "禾雀鳴鸞",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004890425946243073/qyVQZt-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 384,
+          "like_count": 2636,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1516
+        },
+        "url": "",
+        "username": "MrOryza_sativa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

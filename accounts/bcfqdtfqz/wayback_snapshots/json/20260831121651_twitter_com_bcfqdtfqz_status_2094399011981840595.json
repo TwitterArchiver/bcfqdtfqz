@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2094390320159166838",
+    "created_at": "2026-08-31T12:16:51.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094399011981840595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342135083252105216",
+          "start": 0,
+          "username": "xixikawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094399011981840595",
+    "in_reply_to_user_id": "1342135083252105216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094390320159166838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikawaii 苹果高中生"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28078,
+        "height": 720,
+        "media_key": "13_2094390008098832384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094390008098832384/img/-JWzbw3zu1dL4Iqx.jpg",
+        "public_metrics": {
+          "view_count": 216
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094390008098832384/vid/avc1/480x270/8JyvnmtxtGQYMeo-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094390008098832384/vid/avc1/640x360/ma5JAURGwH9kOwba.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094390008098832384/vid/avc1/1280x720/cVjnQS2Vff0Kuhup.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094390008098832384/pl/5cYRvuEOqTxgdjHd.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2094390320159166838",
+        "created_at": "2026-08-31T12:16:51.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094399011981840595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094399011981840595",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094390320159166838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii 苹果高中生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094390008098832384"
+          ]
+        },
+        "author_id": "1342135083252105216",
+        "conversation_id": "2094390320159166838",
+        "created_at": "2026-08-31T11:42:18.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094390320159166838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KmhFZDLgbv",
+              "end": 102,
+              "expanded_url": "https://x.com/xixikawaii/status/2094390320159166838/video/1",
+              "media_key": "13_2094390008098832384",
+              "start": 79,
+              "url": "https://t.co/KmhFZDLgbv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094390320159166838",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094390008098832384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 754,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夕阳下的青春真美好啊~ 🥹在迪士尼遇到一群高中生学校组织游学好像，00后中年老登在旁看得满眼羡慕，拍的时候米奇大街快闪的主题曲也开始了，这一幕也太美好... https://t.co/KmhFZDLgbv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2094399011981840595",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1960,
+          "following_count": 1431,
+          "like_count": 509,
+          "listed_count": 4,
+          "media_count": 891,
+          "tweet_count": 3873
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "INFP | 戒断Crypto | 水手服 | 喜欢可爱的事物 | 分享欲高 | 每天都要去迪士尼版 | DYOR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_xixi",
+                "start": 0,
+                "url": "https://t.co/Xf4PjsKl0T"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "is_identity_verified": false,
+        "location": "1000x Meme Alpha 👉🏻",
+        "most_recent_tweet_id": "2094394756092899750",
+        "name": "汐",
+        "pinned_tweet_id": "2074172096805233082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1342135083252105216/1744721710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090127412013182976/-_Pe7Ang_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53306,
+          "following_count": 1211,
+          "like_count": 15669,
+          "listed_count": 477,
+          "media_count": 5505,
+          "tweet_count": 26582
+        },
+        "url": "https://t.co/Xf4PjsKl0T",
+        "username": "xixikawaii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091489606265114624"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2091341574483607673",
+    "created_at": "2026-08-23T11:35:57.000Z",
+    "display_text_range": [
+      11,
+      152
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T12:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091489619598864505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1821849172368355328",
+          "start": 0,
+          "username": "L98808Lju"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7CM5hW6Fec",
+          "end": 176,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2091489619598864505/photo/1",
+          "media_key": "3_2091489606265114624",
+          "start": 153,
+          "url": "https://t.co/7CM5hW6Fec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091489619598864505",
+    "in_reply_to_user_id": "1821849172368355328",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091489606265114624"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091341574483607673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L98808Lju yori转载的这个人的立场我不喜欢，就直接用截图回复了\n\n如果一个企业没钱只会降本增效我只会觉得一点前景都没有，\n但是如果一个企业没钱的话可以考虑改善业务能力/收购企业从低估值到高估值，本身信誉没有问题的话，那我会好好考虑然后把自己的时间金钱投入进去。\n\n对企业如此，对人更是如此。 https://t.co/7CM5hW6Fec"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2270,
+        "media_key": "3_2091489606265114624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZ2tzjakAA0daf.jpg",
+        "width": 1071
+      },
+      {
+        "duration_ms": 198878,
+        "height": 1280,
+        "media_key": "13_2090416204926124033",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090416204926124033/img/bvskCkNhPjzOTl31.jpg",
+        "public_metrics": {
+          "view_count": 311028
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090416204926124033/vid/avc1/320x568/pTXo78SxGD2BBjjG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090416204926124033/vid/avc1/480x852/vZ1Fo-ltm2BjRf_Q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090416204926124033/vid/avc1/720x1280/6tZnppxjbnz316bd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090416204926124033/pl/keBM2gTgRWjLMaWZ.m3u8?v=aa0"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091489606265114624"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2091341574483607673",
+        "created_at": "2026-08-23T11:35:57.000Z",
+        "display_text_range": [
+          11,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091489619598864505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1821849172368355328",
+              "start": 0,
+              "username": "L98808Lju"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7CM5hW6Fec",
+              "end": 176,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2091489619598864505/photo/1",
+              "media_key": "3_2091489606265114624",
+              "start": 153,
+              "url": "https://t.co/7CM5hW6Fec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091489619598864505",
+        "in_reply_to_user_id": "1821849172368355328",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091489606265114624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091341574483607673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L98808Lju yori转载的这个人的立场我不喜欢，就直接用截图回复了\n\n如果一个企业没钱只会降本增效我只会觉得一点前景都没有，\n但是如果一个企业没钱的话可以考虑改善业务能力/收购企业从低估值到高估值，本身信誉没有问题的话，那我会好好考虑然后把自己的时间金钱投入进去。\n\n对企业如此，对人更是如此。 https://t.co/7CM5hW6Fec"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090416204926124033"
+          ],
+          "media_source_tweet_id": [
+            "2090539367383121964"
+          ]
+        },
+        "author_id": "1821849172368355328",
+        "conversation_id": "2091341574483607673",
+        "created_at": "2026-08-23T01:47:41.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T02:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091341574483607673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7eDLuWydEU",
+              "end": 258,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2090539367383121964/video/1?s=46",
+              "media_key": "13_2090416204926124033",
+              "start": 235,
+              "url": "https://t.co/7eDLuWydEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091341574483607673",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090416204926124033"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/whyyoutouzhele…",
+                "end": 258,
+                "expanded_url": "https://x.com/whyyoutouzhele/status/2090539367383121964/video/1?s=46",
+                "start": 235,
+                "url": "https://t.co/7eDLuWydEU"
+              }
+            ]
+          },
+          "text": "只和所谓“有条件的人”交朋友是一种非常功利主义的思维呢，Yoyi觉得交朋友更重要的是缘分和感觉啦，太过重视功利而忽视情感会产生心理压力，也可能在现实里遭到其它人排挤哦😉。\n另外有钱、有能力、品德好三项能同时满足的人也是比较少的，何为有钱有能力这些评价方式也是主观且相对的。有些看起来很富裕的人也可能精神贫穷导致他们反而很贪婪；有些看起来品德好的可能只是戴上了面具的伪装，关键时刻反而会踢你一脚。所以没必要强行设置一个所谓的标杆，多去相处交流找到合适感觉的人才更重要啦。 https://t.co/7eDLuWydEU"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3945,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "只和所谓“有条件的人”交朋友是一种非常功利主义的思维呢，Yoyi觉得交朋友更重要的是缘分和感觉啦，太过重视功利而忽视情感会产生心理压力，也可能在现实里遭到其它人排挤哦😉。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2091489619598864505",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 1433,
+          "like_count": 484,
+          "listed_count": 2,
+          "media_count": 869,
+          "tweet_count": 3674
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-09T10:01:27.000Z",
+        "description": "I’m Anon’s (千早爱音) sister. PhD in Science🎓,首席AI政治学家🦋,谣言家^_^Share Knowledge/Social View/Animation. 亲爱的骑士@Romanorum_ 学生@C4_rRed 油管有时直播CS/日麻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "Romanorum_"
+              },
+              {
+                "end": 124,
+                "start": 116,
+                "username": "C4_rRed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yoyi-f6q",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@yoyi-f6q",
+                "start": 0,
+                "url": "https://t.co/fyCyiOfIWn"
+              }
+            ]
+          }
+        },
+        "id": "1821849172368355328",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2091470668248547524",
+        "name": "神樂坂🌸Yoyi🇸🇬",
+        "pinned_tweet_id": "2061737251789570249",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1821849172368355328/1732710181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920668084102459395/1OyHpsxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2183,
+          "following_count": 550,
+          "like_count": 51402,
+          "listed_count": 11,
+          "media_count": 1066,
+          "tweet_count": 17093
+        },
+        "url": "https://t.co/fyCyiOfIWn",
+        "username": "L98808Lju",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

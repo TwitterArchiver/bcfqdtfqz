@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2097532380764586351",
+    "created_at": "2026-09-09T10:25:59.000Z",
+    "display_text_range": [
+      12,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T11:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097632602014482772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1707065821569368064",
+          "start": 0,
+          "username": "nini_1210_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097632602014482772",
+    "in_reply_to_user_id": "1707065821569368064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097532380764586351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nini_1210_ 大学耍起完了，找工作也得耍起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2097532380764586351",
+        "created_at": "2026-09-09T10:25:59.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T11:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097632602014482772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1707065821569368064",
+              "start": 0,
+              "username": "nini_1210_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097632602014482772",
+        "in_reply_to_user_id": "1707065821569368064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097532380764586351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nini_1210_ 大学耍起完了，找工作也得耍起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707065821569368064",
+        "conversation_id": "2097532380764586351",
+        "created_at": "2026-09-09T03:47:44.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097532380764586351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097532380764586351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4215,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 92,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大一水课多 是耍起的最佳时机 大二经历了一年磨练 可以更好的耍起 大三摸清了大学套路 课业虽重 但耍得更熟练 更有节奏感 大四最后一年了 耍起必须善始善终"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n年龄未知，性别未知，身高未知，体重未知\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 114,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 91,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2097632602014482772",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 1460,
+          "like_count": 530,
+          "listed_count": 4,
+          "media_count": 921,
+          "tweet_count": 4133
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-27T16:14:42.000Z",
+        "description": "ESFP🥕･◡･🥕maimai🥕瓦🥕大一生 🥕ᕱ⑅ᕱ",
+        "id": "1707065821569368064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097532380764586351",
+        "name": "妮妮子",
+        "pinned_tweet_id": "1992074292394443101",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707065821569368064/1775067653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039411900124123136/qU2N3cy6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 48,
+          "like_count": 7521,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 972
+        },
+        "url": "",
+        "username": "nini_1210_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

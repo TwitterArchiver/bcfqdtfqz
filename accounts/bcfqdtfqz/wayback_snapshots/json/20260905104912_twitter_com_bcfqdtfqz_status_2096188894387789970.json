@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2096143772015104228",
+    "created_at": "2026-09-05T10:49:12.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T11:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096188894387789970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1605171476881371136",
+          "start": 0,
+          "username": "haku_dabai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096188894387789970",
+    "in_reply_to_user_id": "1605171476881371136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096143772015104228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haku_dabai 可以蹭个100作吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2096143772015104228",
+        "created_at": "2026-09-05T10:49:12.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096188894387789970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1605171476881371136",
+              "start": 0,
+              "username": "haku_dabai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096188894387789970",
+        "in_reply_to_user_id": "1605171476881371136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096143772015104228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haku_dabai 可以蹭个100作吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605171476881371136",
+        "conversation_id": "2096143772015104228",
+        "created_at": "2026-09-05T07:49:54.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096143772015104228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096143772015104228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 737,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想发顶刊😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2096188894387789970",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2048,
+          "following_count": 1439,
+          "like_count": 519,
+          "listed_count": 4,
+          "media_count": 903,
+          "tweet_count": 3994
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-20T12:01:24.000Z",
+        "description": "热爱和梦想，希望和勇气Ⅱ 里@haku_uchi | 小中@dontbesadforit | 中文/日本語 OK，English 苦手 | ENFP-T | 天才化学少女 | vup预备中 | N2备考中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "haku_uchi"
+              },
+              {
+                "end": 44,
+                "start": 29,
+                "username": "dontbesadforit"
+              }
+            ]
+          }
+        },
+        "id": "1605171476881371136",
+        "is_identity_verified": false,
+        "location": "距你3.2km",
+        "most_recent_tweet_id": "2096143772015104228",
+        "name": "haku-大白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605171476881371136/1730541111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018329763514085376/DRsKluvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2718,
+          "following_count": 1551,
+          "like_count": 21681,
+          "listed_count": 10,
+          "media_count": 1283,
+          "tweet_count": 18365
+        },
+        "url": "",
+        "username": "haku_dabai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

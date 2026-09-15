@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2089938124495597763",
+    "created_at": "2026-08-19T06:29:47.000Z",
+    "display_text_range": [
+      17,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089963017375023606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "938027704842043392",
+          "start": 0,
+          "username": "PremierGoebbels"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089963017375023606",
+    "in_reply_to_user_id": "938027704842043392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089938124495597763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PremierGoebbels 牛来要是像哪吒二那种夸张延期我相信票房能到十亿级。\n还有冯导这么急是因为1942拍亏了然后同期的私人订制大赚，不过冯小刚想了十年估计也没想明白，谁会愿意花几十块钱单纯的去看两个多小时的苦难和饥荒。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 556,
+        "media_key": "3_2089938115867914240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDzpLbbMAAWQZh.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2089938124495597763",
+        "created_at": "2026-08-19T06:29:47.000Z",
+        "display_text_range": [
+          17,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089963017375023606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "938027704842043392",
+              "start": 0,
+              "username": "PremierGoebbels"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089963017375023606",
+        "in_reply_to_user_id": "938027704842043392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089938124495597763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PremierGoebbels 牛来要是像哪吒二那种夸张延期我相信票房能到十亿级。\n还有冯导这么急是因为1942拍亏了然后同期的私人订制大赚，不过冯小刚想了十年估计也没想明白，谁会愿意花几十块钱单纯的去看两个多小时的苦难和饥荒。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089938115867914240"
+          ]
+        },
+        "author_id": "938027704842043392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2089938124495597763",
+        "created_at": "2026-08-19T04:50:52.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T05:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089938124495597763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zloX2RenCM",
+              "end": 164,
+              "expanded_url": "https://x.com/PremierGoebbels/status/2089938124495597763/photo/1",
+              "media_key": "3_2089938115867914240",
+              "start": 141,
+              "url": "https://t.co/zloX2RenCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089938124495597763",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089938115867914240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原本大家看《牛来》就是一种取乐，票房高是宣发的事，跟电影无关，能把这么一坨海霸糊品鉴成美味那真是老吃家了，论思想深度哪个文艺片不吊打牛来，论美学哪个不吊打牛来，别跟我提预算的事儿，预算低一样能做出好电影，这种屎能审出美说明观众本身不正常，冯小刚说过，有不正常的电影就有不正常的观众 https://t.co/zloX2RenCM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2089963017375023606",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 1421,
+          "like_count": 472,
+          "listed_count": 2,
+          "media_count": 858,
+          "tweet_count": 3531
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-12-05T12:50:07.000Z",
+        "description": "如果我们选择了最能为人类而工作的职业，那么，重担就不能把我们压倒，因为这是为大家作出的牺牲；那时我们所享受的就不是可怜的、有限的、自私的乐趣，我们的幸福将属于千百万人，我们的事业将悄然无声地存在下去，但是它会永远发挥作用，而面对我们的骨灰，高尚的人们将洒下热泪。",
+        "id": "938027704842043392",
+        "is_identity_verified": false,
+        "location": "Beijing——新中国从这里走来",
+        "most_recent_tweet_id": "2089954242425688372",
+        "name": "约瑟夫·戈培尔",
+        "pinned_tweet_id": "2030623958262051151",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/938027704842043392/1685974425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067881688060092416/rYA8m3tS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3797,
+          "following_count": 4170,
+          "like_count": 31873,
+          "listed_count": 23,
+          "media_count": 1775,
+          "tweet_count": 27463
+        },
+        "url": "",
+        "username": "PremierGoebbels",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2088801538621964753",
+    "created_at": "2026-08-16T12:08:48.000Z",
+    "display_text_range": [
+      27,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088961169273040993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "65673590",
+          "start": 0,
+          "username": "Kuldahar"
+        },
+        {
+          "end": 26,
+          "id": "1844007544165175296",
+          "start": 10,
+          "username": "xiaoqingwu83363"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088961169273040993",
+    "in_reply_to_user_id": "65673590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088918363015618893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuldahar @xiaoqingwu83363 为了十亿整这么一大圈我能理解，为了一百万真有必要绕这么一大圈吗。。。哪里的财政夸张到这么个鬼地步了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 668,
+        "media_key": "3_2088918356158218240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1ULWeagAAoNWv.jpg",
+        "width": 615
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2088801538621964753",
+        "created_at": "2026-08-16T12:08:48.000Z",
+        "display_text_range": [
+          27,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088961169273040993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "65673590",
+              "start": 0,
+              "username": "Kuldahar"
+            },
+            {
+              "end": 26,
+              "id": "1844007544165175296",
+              "start": 10,
+              "username": "xiaoqingwu83363"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088961169273040993",
+        "in_reply_to_user_id": "65673590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088918363015618893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuldahar @xiaoqingwu83363 为了十亿整这么一大圈我能理解，为了一百万真有必要绕这么一大圈吗。。。哪里的财政夸张到这么个鬼地步了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088918356158218240"
+          ]
+        },
+        "author_id": "65673590",
+        "conversation_id": "2088801538621964753",
+        "created_at": "2026-08-16T09:18:42.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088918363015618893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1844007544165175296",
+              "start": 0,
+              "username": "xiaoqingwu83363"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HiXAmayMjp",
+              "end": 51,
+              "expanded_url": "https://x.com/Kuldahar/status/2088918363015618893/photo/1",
+              "media_key": "3_2088918356158218240",
+              "start": 28,
+              "url": "https://t.co/HiXAmayMjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088918363015618893",
+        "in_reply_to_user_id": "1844007544165175296",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088918356158218240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 424,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088801538621964753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqingwu83363 我怎么看到另一个版本 https://t.co/HiXAmayMjp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2088961169273040993",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 1427,
+          "like_count": 464,
+          "listed_count": 2,
+          "media_count": 849,
+          "tweet_count": 3475
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-08-14T16:30:49.000Z",
+        "description": "法外之地的无事佬",
+        "id": "65673590",
+        "is_identity_verified": false,
+        "location": "NKC",
+        "most_recent_tweet_id": "2088918363015618893",
+        "name": "酷达哈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/65673590/1624294442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1096937997/-01_normal.JPG",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 341,
+          "like_count": 25045,
+          "listed_count": 8,
+          "media_count": 52,
+          "tweet_count": 6574
+        },
+        "url": "",
+        "username": "Kuldahar",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-09T13:30:46.000Z",
+        "description": "手作皮具・烘焙・猫の日常\n记录生活里的小确幸\nSingapore 🇸🇬\nパンと猫が大好きです 🐾🍞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xiaoqingwu8336…",
+                "end": 23,
+                "expanded_url": "https://x.com/xiaoqingwu83363/creator-subscriptions/subscribe",
+                "start": 0,
+                "url": "https://t.co/EngYQbJ330"
+              }
+            ]
+          }
+        },
+        "id": "1844007544165175296",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2088949733549334655",
+        "name": "Blinda | 手作 · 烘焙 · 日常 ✨",
+        "pinned_tweet_id": "2051513942732878173",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844007544165175296/1773206092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041520097144246272/k7HrTEzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 1028,
+          "like_count": 8395,
+          "listed_count": 2,
+          "media_count": 685,
+          "tweet_count": 7883
+        },
+        "url": "https://t.co/EngYQbJ330",
+        "username": "xiaoqingwu83363",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

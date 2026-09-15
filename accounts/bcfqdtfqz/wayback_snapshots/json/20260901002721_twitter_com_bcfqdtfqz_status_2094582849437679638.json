@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2094582849437679638",
+    "created_at": "2026-09-01T00:27:21.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T01:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094582849437679638"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Babymlnr/statu…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/Babymlnr/status/2094472049653592413",
+          "start": 49,
+          "url": "https://t.co/yAuBvMf3Dg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094582849437679638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094472049653592413",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看到推上也有几位女生没钱也会自己开动脑筋挣钱，而不是做男生的蚂蟥疯狂吸男的血，怎么，是没能力吗 https://t.co/yAuBvMf3Dg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2094582849437679638",
+        "created_at": "2026-09-01T00:27:21.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T01:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094582849437679638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Babymlnr/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Babymlnr/status/2094472049653592413",
+              "start": 49,
+              "url": "https://t.co/yAuBvMf3Dg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094582849437679638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094472049653592413",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看到推上也有几位女生没钱也会自己开动脑筋挣钱，而不是做男生的蚂蟥疯狂吸男的血，怎么，是没能力吗 https://t.co/yAuBvMf3Dg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670319832716447745",
+        "conversation_id": "2094161680884441442",
+        "created_at": "2026-08-31T17:07:04.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094472049653592413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094472049653592413",
+        "in_reply_to_user_id": "1670319832716447745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1887,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094161680884441442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我从来不厌男 我厌蠢 厌穷 我不否认任何一位在做优秀男性的付出，也不会为自作下贱的女人辩解  为了世界和平，请穷人蠢人贱人，别他妈出来祸害我们热爱生活的老实人。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2094582849437679638",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1969,
+          "following_count": 1433,
+          "like_count": 509,
+          "listed_count": 4,
+          "media_count": 891,
+          "tweet_count": 3886
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-18T06:37:46.000Z",
+        "description": "骂我的全家死绝了 不收门槛不闲聊不约炮操你妈的如果是给我带来麻烦和糟糕情绪的话麻烦把嘴闭上吧",
+        "id": "1670319832716447745",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094501208820007123",
+        "name": "仙女",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670319832716447745/1774801411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038290873486811136/W-InLkVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 135,
+          "like_count": 165,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "Babymlnr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

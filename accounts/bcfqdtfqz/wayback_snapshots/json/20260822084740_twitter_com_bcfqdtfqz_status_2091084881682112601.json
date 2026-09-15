@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2091072388180164962",
+    "created_at": "2026-08-22T08:47:40.000Z",
+    "display_text_range": [
+      11,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T09:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091084881682112601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1509912900038582272",
+          "start": 0,
+          "username": "EnHeng456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091084881682112601",
+    "in_reply_to_user_id": "1509912900038582272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091072388180164962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EnHeng456 我不会成为嗯哼这种玩梗连饮料都做不出来的垃圾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2091072388180164962",
+        "created_at": "2026-08-22T08:47:40.000Z",
+        "display_text_range": [
+          11,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T09:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091084881682112601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1509912900038582272",
+              "start": 0,
+              "username": "EnHeng456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091084881682112601",
+        "in_reply_to_user_id": "1509912900038582272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091072388180164962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EnHeng456 我不会成为嗯哼这种玩梗连饮料都做不出来的垃圾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509912900038582272",
+        "conversation_id": "2091072388180164962",
+        "created_at": "2026-08-22T07:58:02.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091072388180164962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/enheng456/stat…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/enheng456/status/2090737819912458602",
+              "start": 59,
+              "url": "https://t.co/HtP7YtV9rG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091072388180164962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7321,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090737819912458602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "寒门立志，向来九死一生，如果给你选择的机会，是上桌风光20年还是一辈子碌碌无为，24000亿最后只死了一个农民的孩子 https://t.co/HtP7YtV9rG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2091084881682112601",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 1423,
+          "like_count": 479,
+          "listed_count": 2,
+          "media_count": 863,
+          "tweet_count": 3616
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-01T15:17:54.000Z",
+        "description": "05年大学生学习记｜Ai Build｜NVIDIA｜build BNB Aster 🦅｜近3亿选择https://t.co/Y1GpxuSDRD｜Giggle BNB慈善贡献榜首位｜HTX｜TG enheng777 ｜微信Eth6668889｜仅代表个人观点不构成投资建议 高风险投机 DYOR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Binance.com",
+                "end": 72,
+                "expanded_url": "http://Binance.com",
+                "start": 49,
+                "url": "https://t.co/Y1GpxuSDRD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EnhengAlpha",
+                "end": 23,
+                "expanded_url": "https://t.me/EnhengAlpha",
+                "start": 0,
+                "url": "https://t.co/WbYu1QWLUL"
+              }
+            ]
+          }
+        },
+        "id": "1509912900038582272",
+        "is_identity_verified": false,
+        "location": "TG频道发布重要信息",
+        "most_recent_tweet_id": "2091072388180164962",
+        "name": "EnHeng嗯哼.Ai",
+        "pinned_tweet_id": "1906199745389043877",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1509912900038582272/1774356462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966152812536147968/nzlqBIZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113809,
+          "following_count": 3063,
+          "like_count": 78327,
+          "listed_count": 1178,
+          "media_count": 3136,
+          "tweet_count": 36350
+        },
+        "url": "https://t.co/WbYu1QWLUL",
+        "username": "EnHeng456",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

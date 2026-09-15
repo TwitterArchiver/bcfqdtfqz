@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090415556918919169"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2090415596446052558",
+    "created_at": "2026-08-20T12:28:10.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090415596446052558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RELkpY9Sfw",
+          "end": 131,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2090415596446052558/photo/1",
+          "media_key": "3_2090415556918919169",
+          "start": 108,
+          "url": "https://t.co/RELkpY9Sfw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090415596446052558",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090415556918919169"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很简单，要么是这个女的做了些很让我下头的事情或者明着面想偷腥，我想抓个现行直接分手，从而不让她朋友和家人觉得我是一个彻头彻尾的傻逼事后来找我麻烦。\n\n当然大多数情况如果她没问题我都是直接先对这种男的来文的后来武的。 https://t.co/RELkpY9Sfw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1385,
+        "media_key": "3_2090415556918919169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKl358aQAEThR5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090415556918919169"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2090415596446052558",
+        "created_at": "2026-08-20T12:28:10.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090415596446052558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RELkpY9Sfw",
+              "end": 131,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2090415596446052558/photo/1",
+              "media_key": "3_2090415556918919169",
+              "start": 108,
+              "url": "https://t.co/RELkpY9Sfw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090415596446052558",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090415556918919169"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很简单，要么是这个女的做了些很让我下头的事情或者明着面想偷腥，我想抓个现行直接分手，从而不让她朋友和家人觉得我是一个彻头彻尾的傻逼事后来找我麻烦。\n\n当然大多数情况如果她没问题我都是直接先对这种男的来文的后来武的。 https://t.co/RELkpY9Sfw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2090415596446052558",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 1417,
+          "like_count": 476,
+          "listed_count": 2,
+          "media_count": 862,
+          "tweet_count": 3564
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

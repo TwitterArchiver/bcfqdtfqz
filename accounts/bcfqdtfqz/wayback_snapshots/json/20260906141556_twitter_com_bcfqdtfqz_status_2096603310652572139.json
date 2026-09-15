@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2096585541340786736",
+    "created_at": "2026-09-06T14:15:56.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096603310652572139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1451898340262645760",
+          "start": 0,
+          "username": "Naiwenel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096603310652572139",
+    "in_reply_to_user_id": "1451898340262645760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096585541340786736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naiwenel 你这名字我吓哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 405,
+        "media_key": "3_2096584848874070017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiQz9aa4AEn3K5.jpg",
+        "width": 1182
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2096585541340786736",
+        "created_at": "2026-09-06T14:15:56.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096603310652572139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1451898340262645760",
+              "start": 0,
+              "username": "Naiwenel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096603310652572139",
+        "in_reply_to_user_id": "1451898340262645760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096585541340786736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naiwenel 你这名字我吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096584848874070017"
+          ]
+        },
+        "author_id": "1451898340262645760",
+        "conversation_id": "2096585541340786736",
+        "created_at": "2026-09-06T13:05:20.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096585541340786736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8bpEIEgAp",
+              "end": 51,
+              "expanded_url": "https://x.com/Naiwenel/status/2096585541340786736/photo/1",
+              "media_key": "3_2096584848874070017",
+              "start": 28,
+              "url": "https://t.co/J8bpEIEgAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096585541340786736",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096584848874070017"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1671,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是2022年，GPT刚发布时程序员对AI的乐观看法： https://t.co/J8bpEIEgAp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 94,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 71,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2096603310652572139",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 1448,
+          "like_count": 523,
+          "listed_count": 4,
+          "media_count": 906,
+          "tweet_count": 4057
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-23T13:08:43.000Z",
+        "description": "这里是小涵~希望你能天天开心哦~ | they&them | 游戏开发中... | 如无特殊说明，发布的作品均遵循GPLv3协议 | 【广告】请关注我们的新游戏《逆型莫比乌斯》喵谢谢喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "naiwenel.com",
+                "end": 23,
+                "expanded_url": "http://www.naiwenel.com",
+                "start": 0,
+                "url": "https://t.co/pjAQTrZ9Oe"
+              }
+            ]
+          }
+        },
+        "id": "1451898340262645760",
+        "is_identity_verified": false,
+        "location": "乌托邦 Utopia ",
+        "most_recent_tweet_id": "2096585541340786736",
+        "name": "小涵Naiwenel",
+        "pinned_tweet_id": "1763787971818594679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1451898340262645760/1767439927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027971155374612480/DCwn5VnI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5624,
+          "following_count": 318,
+          "like_count": 111888,
+          "listed_count": 15,
+          "media_count": 2236,
+          "tweet_count": 22811
+        },
+        "url": "https://t.co/pjAQTrZ9Oe",
+        "username": "Naiwenel",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

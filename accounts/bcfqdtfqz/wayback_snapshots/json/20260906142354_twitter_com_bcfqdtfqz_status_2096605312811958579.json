@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2096187109363028261",
+    "created_at": "2026-09-06T14:23:54.000Z",
+    "display_text_range": [
+      9,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096605312811958579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3412724687",
+          "start": 0,
+          "username": "BtreeWw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096605312811958579",
+    "in_reply_to_user_id": "3412724687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096187109363028261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BtreeWw 游戏葡萄其实有时候也写得比较主观。\n但是一般人玩ai水货贴皮立绘游戏和花真心做的还是能玩的出来区别的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2096187109363028261",
+        "created_at": "2026-09-06T14:23:54.000Z",
+        "display_text_range": [
+          9,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096605312811958579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3412724687",
+              "start": 0,
+              "username": "BtreeWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096605312811958579",
+        "in_reply_to_user_id": "3412724687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096187109363028261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BtreeWw 游戏葡萄其实有时候也写得比较主观。\n但是一般人玩ai水货贴皮立绘游戏和花真心做的还是能玩的出来区别的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3412724687",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2096187109363028261",
+        "created_at": "2026-09-05T10:42:06.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096187109363028261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/colmugx/status…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/colmugx/status/2096098855423250902",
+              "start": 147,
+              "url": "https://t.co/Kqmkn6XTHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096187109363028261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我真心觉得大家对游戏有点敬畏之心，多听听405游局或者游戏葡萄这种播客。\n多深入了解一下游戏开发从头到尾遇到的种种困难，多发现一点AI并不能干什么，而不是只看到AI能做个3D场景就觉得游戏仅仅如此了。\nAI编程可能生成一个小软件很快，现在Astra可能可以生成很炫酷的3D场景并且有一定交互。\n但是游戏并不是仅仅如此，他还包括了交互，美术，脚本，剧情，玩法，体验等等多方面因素。\n而且并不是所有东西目前都能被AI加速。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 30334,
+          "like_count": 193,
+          "quote_count": 9,
+          "reply_count": 24,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096098855423250902",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真心觉得大家对游戏有点敬畏之心，多听听405游局或者游戏葡萄这种播客。\n多深入了解一下游戏开发从头到尾遇到的种种困难，多发现一点AI并不能干什么，而不是只看到AI能做个3D场景就觉得游戏仅仅如此了。\nAI编程可能生成一个小软件很快，现在Astra可能可以生成很炫酷的3D场景并且有一定交互。 https://t.co/Kqmkn6XTHR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 94,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 71,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2096605312811958579",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 1451,
+          "like_count": 523,
+          "listed_count": 4,
+          "media_count": 906,
+          "tweet_count": 4062
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-08-10T13:45:45.000Z",
+        "description": "SWE @Uber mobile ML/AI platform. Ex: Tesla/Google\nHuman Native.\nTry Decoder to decode your dota2!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "Uber"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "phylactery.dota2tavern.org",
+                "end": 23,
+                "expanded_url": "https://phylactery.dota2tavern.org/",
+                "start": 0,
+                "url": "https://t.co/0gK9RjuSDF"
+              }
+            ]
+          }
+        },
+        "id": "3412724687",
+        "is_identity_verified": false,
+        "location": "Amsterdam",
+        "most_recent_tweet_id": "2096560490281361911",
+        "name": "BinaryTree",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3412724687/1780234524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061078915087581190/T24A1lu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 275,
+          "like_count": 1856,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1137
+        },
+        "url": "https://t.co/0gK9RjuSDF",
+        "username": "BtreeWw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

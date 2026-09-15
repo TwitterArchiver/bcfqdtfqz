@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087429780958494720"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2087143854835392659",
+    "created_at": "2026-08-12T06:43:39.000Z",
+    "display_text_range": [
+      34,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T07:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087429791905616193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1848225108567162880",
+          "start": 0,
+          "username": "miusiaini1"
+        },
+        {
+          "end": 21,
+          "id": "2078420946868965376",
+          "start": 12,
+          "username": "Zeroxkuf"
+        },
+        {
+          "end": 33,
+          "id": "1344757688845160450",
+          "start": 22,
+          "username": "meiyisi456"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gIVtfqwnw2",
+          "end": 99,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2087429791905616193/photo/1",
+          "media_key": "3_2087429780958494720",
+          "start": 76,
+          "url": "https://t.co/gIVtfqwnw2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087429791905616193",
+    "in_reply_to_user_id": "1848225108567162880",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087429780958494720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087386301905731629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miusiaini1 @Zeroxkuf @meiyisi456 tg我也设置正常接收消息并且天天拿这玩意看视频，3.3G，请问QQ凭什么40个G？ https://t.co/gIVtfqwnw2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1002,
+        "media_key": "3_2087429780958494720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgKU3uaQAAmr71.jpg",
+        "width": 1049
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087429780958494720"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2087143854835392659",
+        "created_at": "2026-08-12T06:43:39.000Z",
+        "display_text_range": [
+          34,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087429791905616193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1848225108567162880",
+              "start": 0,
+              "username": "miusiaini1"
+            },
+            {
+              "end": 21,
+              "id": "2078420946868965376",
+              "start": 12,
+              "username": "Zeroxkuf"
+            },
+            {
+              "end": 33,
+              "id": "1344757688845160450",
+              "start": 22,
+              "username": "meiyisi456"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gIVtfqwnw2",
+              "end": 99,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2087429791905616193/photo/1",
+              "media_key": "3_2087429780958494720",
+              "start": 76,
+              "url": "https://t.co/gIVtfqwnw2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087429791905616193",
+        "in_reply_to_user_id": "1848225108567162880",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087429780958494720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087386301905731629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miusiaini1 @Zeroxkuf @meiyisi456 tg我也设置正常接收消息并且天天拿这玩意看视频，3.3G，请问QQ凭什么40个G？ https://t.co/gIVtfqwnw2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848225108567162880",
+        "conversation_id": "2087143854835392659",
+        "created_at": "2026-08-12T03:50:50.000Z",
+        "display_text_range": [
+          22,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T04:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087386301905731629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2078420946868965376",
+              "start": 0,
+              "username": "Zeroxkuf"
+            },
+            {
+              "end": 21,
+              "id": "1344757688845160450",
+              "start": 10,
+              "username": "meiyisi456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087386301905731629",
+        "in_reply_to_user_id": "2078420946868965376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 565,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087358993497047229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zeroxkuf @meiyisi456 那还是你国内软件用的多，你卸载了就剩国外软件。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2087429791905616193",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 1427,
+          "like_count": 454,
+          "listed_count": 2,
+          "media_count": 842,
+          "tweet_count": 3393
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-21T04:49:53.000Z",
+        "description": "",
+        "id": "1848225108567162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087386301905731629",
+        "name": "缪斯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1848225108567162880/1735984349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987036883021668357/OFe89NXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 34,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "miusiaini1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T10:06:20.000Z",
+        "description": "",
+        "id": "2078420946868965376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087369282451857639",
+        "name": "崽罗",
+        "pinned_tweet_id": "2078558340964290815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078420946868965376/1784391212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078513438738042880/ZodR06Oo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 2616,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "Zeroxkuf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-31T21:29:59.000Z",
+        "description": "",
+        "id": "1344757688845160450",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087145116528210071",
+        "name": "350234",
+        "pinned_tweet_id": "2058236210460622856",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344757688845160450/1756074517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082481774807109632/8cP5JAe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9987,
+          "following_count": 351,
+          "like_count": 2362,
+          "listed_count": 13,
+          "media_count": 60,
+          "tweet_count": 2241
+        },
+        "url": "",
+        "username": "meiyisi456",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

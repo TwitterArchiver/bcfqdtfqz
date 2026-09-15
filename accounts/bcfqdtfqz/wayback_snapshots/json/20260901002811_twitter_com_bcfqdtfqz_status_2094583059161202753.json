@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2094001952376189205",
+    "created_at": "2026-09-01T00:28:11.000Z",
+    "display_text_range": [
+      27,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T01:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094583059161202753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1987790647307464704",
+          "start": 0,
+          "username": "jeff_red73975"
+        },
+        {
+          "end": 26,
+          "id": "2011863707106885632",
+          "start": 15,
+          "username": "susen33112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094583059161202753",
+    "in_reply_to_user_id": "1987790647307464704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094582306933752179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jeff_red73975 @susen33112 是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2094001952376189205",
+        "created_at": "2026-09-01T00:28:11.000Z",
+        "display_text_range": [
+          27,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T01:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094583059161202753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1987790647307464704",
+              "start": 0,
+              "username": "jeff_red73975"
+            },
+            {
+              "end": 26,
+              "id": "2011863707106885632",
+              "start": 15,
+              "username": "susen33112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094583059161202753",
+        "in_reply_to_user_id": "1987790647307464704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094582306933752179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jeff_red73975 @susen33112 是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987790647307464704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2094001952376189205",
+        "created_at": "2026-09-01T00:25:12.000Z",
+        "display_text_range": [
+          23,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T01:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094582306933752179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2011863707106885632",
+              "start": 0,
+              "username": "susen33112"
+            },
+            {
+              "end": 22,
+              "id": "2018306514549972992",
+              "start": 12,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094582306933752179",
+        "in_reply_to_user_id": "2011863707106885632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094313063063359709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@susen33112 @bcfqdtfqz 你的grok是plus版的吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2094583059161202753",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1969,
+          "following_count": 1433,
+          "like_count": 509,
+          "listed_count": 4,
+          "media_count": 891,
+          "tweet_count": 3887
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T07:53:48.000Z",
+        "description": "",
+        "id": "1987790647307464704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094582306933752179",
+        "name": "Red jeff",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987790783223824384/i6QTIYJX_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 118,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "jeff_red73975",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-15T18:11:20.000Z",
+        "description": "探索 Grok 的上限，每天更新劲爆的ai好看视频\n\n一键生成无审查短剧：https://t.co/cze1Mv3Q0p\n一张图片即可生成劲爆的ai视频工具：\nhttps://t.co/iPNx4BT6z9\nhttps://t.co/RCC4LsdFku",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/NOlKjk",
+                "end": 60,
+                "expanded_url": "https://reurl.cc/NOlKjk",
+                "start": 37,
+                "url": "https://t.co/cze1Mv3Q0p"
+              },
+              {
+                "display_url": "reurl.cc/rkDrGb",
+                "end": 103,
+                "expanded_url": "https://reurl.cc/rkDrGb",
+                "start": 80,
+                "url": "https://t.co/iPNx4BT6z9"
+              },
+              {
+                "display_url": "reurl.cc/yWv3LM",
+                "end": 127,
+                "expanded_url": "https://reurl.cc/yWv3LM",
+                "start": 104,
+                "url": "https://t.co/RCC4LsdFku"
+              }
+            ]
+          }
+        },
+        "id": "2011863707106885632",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2094554753913237620",
+        "name": "Susen | Grok AI 创作者",
+        "pinned_tweet_id": "2093833527024595095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011863707106885632/1787960574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093484570989760512/ZnMsUHSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49006,
+          "following_count": 128,
+          "like_count": 644,
+          "listed_count": 191,
+          "media_count": 513,
+          "tweet_count": 829
+        },
+        "url": "",
+        "username": "susen33112",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

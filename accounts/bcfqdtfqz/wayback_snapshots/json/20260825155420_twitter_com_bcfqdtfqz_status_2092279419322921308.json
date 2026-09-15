@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092279398615617537"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2092279419322921308",
+    "created_at": "2026-08-25T15:54:20.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T16:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092279419322921308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ebd2HUfnhM",
+          "end": 35,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2092279419322921308/photo/1",
+          "media_key": "3_2092279398615617537",
+          "start": 12,
+          "url": "https://t.co/Ebd2HUfnhM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092279419322921308",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092279398615617537"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "日常被莫名其妙的骂一顿 https://t.co/Ebd2HUfnhM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2326,
+        "media_key": "3_2092279398615617537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQlFBxVaEAEoExe.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092279398615617537"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2092279419322921308",
+        "created_at": "2026-08-25T15:54:20.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T16:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092279419322921308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ebd2HUfnhM",
+              "end": 35,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2092279419322921308/photo/1",
+              "media_key": "3_2092279398615617537",
+              "start": 12,
+              "url": "https://t.co/Ebd2HUfnhM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092279419322921308",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092279398615617537"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日常被莫名其妙的骂一顿 https://t.co/Ebd2HUfnhM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2092279419322921308",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 1440,
+          "like_count": 488,
+          "listed_count": 3,
+          "media_count": 874,
+          "tweet_count": 3722
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

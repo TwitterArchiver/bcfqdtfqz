@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2083452066270462310",
+    "created_at": "2026-08-02T00:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T01:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083713242376118707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2075213801302245376",
+          "start": 0,
+          "username": "ghuorfqiu"
+        },
+        {
+          "end": 25,
+          "id": "800710502351409154",
+          "start": 11,
+          "username": "realcoreychiu"
+        },
+        {
+          "end": 35,
+          "id": "1699797396589588480",
+          "start": 26,
+          "username": "MaxForAI"
+        },
+        {
+          "end": 50,
+          "id": "1863959670169501696",
+          "start": 36,
+          "username": "Kimi_Moonshot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083713242376118707",
+    "in_reply_to_user_id": "2075213801302245376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083543149314769257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ghuorfqiu @realcoreychiu @MaxForAI @Kimi_Moonshot 那特么是抢劫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2083452066270462310",
+        "created_at": "2026-08-02T00:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T01:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083713242376118707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2075213801302245376",
+              "start": 0,
+              "username": "ghuorfqiu"
+            },
+            {
+              "end": 25,
+              "id": "800710502351409154",
+              "start": 11,
+              "username": "realcoreychiu"
+            },
+            {
+              "end": 35,
+              "id": "1699797396589588480",
+              "start": 26,
+              "username": "MaxForAI"
+            },
+            {
+              "end": 50,
+              "id": "1863959670169501696",
+              "start": 36,
+              "username": "Kimi_Moonshot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083713242376118707",
+        "in_reply_to_user_id": "2075213801302245376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083543149314769257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ghuorfqiu @realcoreychiu @MaxForAI @Kimi_Moonshot 那特么是抢劫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075213801302245376",
+        "conversation_id": "2083452066270462310",
+        "created_at": "2026-08-01T13:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083543149314769257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "800710502351409154",
+              "start": 0,
+              "username": "realcoreychiu"
+            },
+            {
+              "end": 24,
+              "id": "1699797396589588480",
+              "start": 15,
+              "username": "MaxForAI"
+            },
+            {
+              "end": 39,
+              "id": "1863959670169501696",
+              "start": 25,
+              "username": "Kimi_Moonshot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083543149314769257",
+        "in_reply_to_user_id": "800710502351409154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083468282636497295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realcoreychiu @MaxForAI @Kimi_Moonshot 去银行领，但是会喜提一副银手铐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1761,
+          "following_count": 1426,
+          "like_count": 433,
+          "listed_count": 2,
+          "media_count": 827,
+          "tweet_count": 3233
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-09T13:42:39.000Z",
+        "description": "",
+        "id": "2075213801302245376",
+        "name": "Carter James",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080981160839225345/Lls629Ao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "ghuorfqiu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-21T14:40:35.000Z",
+        "description": "💻 Software Engineer / Indie Hacker 💡做有意思和有用的产品 🚀 梦想是Coding around the world 💬 分享独立开发路上的所见所闻所想 \n💰 Building in public @MoneyFa_st",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "MoneyFa_st"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "showmethe.codes",
+                "end": 23,
+                "expanded_url": "http://showmethe.codes",
+                "start": 0,
+                "url": "https://t.co/iVN8D116ti"
+              }
+            ]
+          }
+        },
+        "id": "800710502351409154",
+        "location": "Talk is cheap 👉",
+        "name": "Corey Chiu",
+        "pinned_tweet_id": "2061332835965751761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808894379253510146/_SFe0D22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11242,
+          "following_count": 717,
+          "like_count": 9734,
+          "listed_count": 135,
+          "media_count": 1052,
+          "tweet_count": 6376
+        },
+        "url": "https://t.co/iVN8D116ti",
+        "username": "realcoreychiu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容🫡\nHead of growth @lobehub（81K🌟）\nPrev @listenhub @Sapient_Int \n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n更多请访问网站⬇️（欢迎商务、合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "listenhub"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2062538878096130207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24193,
+          "following_count": 2619,
+          "like_count": 18803,
+          "listed_count": 214,
+          "media_count": 1139,
+          "tweet_count": 8512
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-03T14:54:14.000Z",
+        "description": "Built by Moonshot AI to empower everyone to be superhuman. \n@Kimidevs built for developers\n⚡️API: https://t.co/XCrgjXAqMw\nDC: https://t.co/wBsBTn6Ncc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Kimidevs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "platform.kimi.ai",
+                "end": 121,
+                "expanded_url": "http://platform.kimi.ai",
+                "start": 98,
+                "url": "https://t.co/XCrgjXAqMw"
+              },
+              {
+                "display_url": "discord.gg/9SY8CenBNh",
+                "end": 149,
+                "expanded_url": "https://discord.gg/9SY8CenBNh",
+                "start": 126,
+                "url": "https://t.co/wBsBTn6Ncc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kimi.com",
+                "end": 23,
+                "expanded_url": "https://www.kimi.com/",
+                "start": 0,
+                "url": "https://t.co/mlnKFmsdLe"
+              }
+            ]
+          }
+        },
+        "id": "1863959670169501696",
+        "name": "Kimi.ai",
+        "pinned_tweet_id": "2081760186235289764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910294000927645696/QseOV0uF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348416,
+          "following_count": 137,
+          "like_count": 319,
+          "listed_count": 2516,
+          "media_count": 176,
+          "tweet_count": 440
+        },
+        "url": "https://t.co/mlnKFmsdLe",
+        "username": "Kimi_Moonshot",
+        "verified": true
+      }
+    ]
+  }
+}

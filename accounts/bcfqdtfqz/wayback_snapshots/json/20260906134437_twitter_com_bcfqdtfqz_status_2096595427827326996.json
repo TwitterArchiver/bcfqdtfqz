@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2096491985569984904",
+    "created_at": "2026-09-06T13:44:37.000Z",
+    "display_text_range": [
+      25,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096595427827326996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751139081382178816",
+          "start": 0,
+          "username": "PearceChen42"
+        },
+        {
+          "end": 24,
+          "id": "1957897967459004416",
+          "start": 14,
+          "username": "lego31333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096595427827326996",
+    "in_reply_to_user_id": "1751139081382178816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096526029464678487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PearceChen42 @lego31333 学课程知识可能可以，其他的，不好评价。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2096491985569984904",
+        "created_at": "2026-09-06T13:44:37.000Z",
+        "display_text_range": [
+          25,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096595427827326996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751139081382178816",
+              "start": 0,
+              "username": "PearceChen42"
+            },
+            {
+              "end": 24,
+              "id": "1957897967459004416",
+              "start": 14,
+              "username": "lego31333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096595427827326996",
+        "in_reply_to_user_id": "1751139081382178816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096526029464678487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PearceChen42 @lego31333 学课程知识可能可以，其他的，不好评价。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751139081382178816",
+        "conversation_id": "2096491985569984904",
+        "created_at": "2026-09-06T09:08:51.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096526029464678487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957897967459004416",
+              "start": 0,
+              "username": "lego31333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096526029464678487",
+        "in_reply_to_user_id": "1957897967459004416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096491985569984904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lego31333 B站如何"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 94,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 71,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2096595427827326996",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 1447,
+          "like_count": 523,
+          "listed_count": 4,
+          "media_count": 906,
+          "tweet_count": 4051
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-27T07:04:38.000Z",
+        "description": "",
+        "id": "1751139081382178816",
+        "is_identity_verified": false,
+        "location": "Mars",
+        "most_recent_tweet_id": "2096569559235043641",
+        "name": "Pearce",
+        "pinned_tweet_id": "1797150256725123138",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751139081382178816/1710150957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091409212471660544/--zhWVI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 2765,
+          "like_count": 33259,
+          "listed_count": 1,
+          "media_count": 943,
+          "tweet_count": 6650
+        },
+        "url": "",
+        "username": "PearceChen42",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-19T20:10:35.000Z",
+        "description": "2023入坑加密，现全职在家研究加密，美股。\n我会在这里给大家带来不一样的市场分析。\n微信legolego3",
+        "id": "1957897967459004416",
+        "is_identity_verified": false,
+        "location": "中国上海",
+        "most_recent_tweet_id": "2096544956634865882",
+        "name": "一条加密区",
+        "pinned_tweet_id": "2094614043642499136",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957897967459004416/1787463460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092123111751876608/4-F2sUYw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 1722,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1610
+        },
+        "url": "",
+        "username": "lego31333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

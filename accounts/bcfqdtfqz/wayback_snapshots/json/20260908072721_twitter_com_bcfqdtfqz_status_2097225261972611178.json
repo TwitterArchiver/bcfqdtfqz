@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097225241848414208"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2097225261972611178",
+    "created_at": "2026-09-08T07:27:21.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T08:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097225261972611178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N5SFFICmck",
+          "end": 33,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2097225261972611178/photo/1",
+          "media_key": "3_2097225241848414208",
+          "start": 10,
+          "url": "https://t.co/N5SFFICmck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097225261972611178",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097225241848414208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这什么茶艺这么贵？ https://t.co/N5SFFICmck"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1714,
+        "media_key": "3_2097225241848414208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrXPvJbgAAJl3j.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097225241848414208"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2097225261972611178",
+        "created_at": "2026-09-08T07:27:21.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T08:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097225261972611178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N5SFFICmck",
+              "end": 33,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2097225261972611178/photo/1",
+              "media_key": "3_2097225241848414208",
+              "start": 10,
+              "url": "https://t.co/N5SFFICmck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097225261972611178",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097225241848414208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这什么茶艺这么贵？ https://t.co/N5SFFICmck"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n年龄未知，性别未知，身高未知，体重未知\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 114,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 91,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2097225261972611178",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2078,
+          "following_count": 1460,
+          "like_count": 527,
+          "listed_count": 4,
+          "media_count": 911,
+          "tweet_count": 4102
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

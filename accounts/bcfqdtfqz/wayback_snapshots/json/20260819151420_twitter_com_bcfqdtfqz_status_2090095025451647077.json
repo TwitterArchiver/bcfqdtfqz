@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2090009040026042455",
+    "created_at": "2026-08-19T15:14:20.000Z",
+    "display_text_range": [
+      17,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T16:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090095025451647077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2089196569241542656",
+          "start": 0,
+          "username": "bilibili_create"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090095025451647077",
+    "in_reply_to_user_id": "2089196569241542656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090009040026042455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bilibili_create 请选择你的英雄\n妙界智能按摩仪，转转，瓜子二手车"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2090009040026042455",
+        "created_at": "2026-08-19T15:14:20.000Z",
+        "display_text_range": [
+          17,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090095025451647077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2089196569241542656",
+              "start": 0,
+              "username": "bilibili_create"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090095025451647077",
+        "in_reply_to_user_id": "2089196569241542656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090009040026042455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bilibili_create 请选择你的英雄\n妙界智能按摩仪，转转，瓜子二手车"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089196569241542656",
+        "conversation_id": "2090009040026042455",
+        "created_at": "2026-08-19T09:32:40.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090009040026042455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Naruvt0/status…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/Naruvt0/status/2089994779144982576",
+              "start": 83,
+              "url": "https://t.co/qIJAObFBwf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090009040026042455",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1379,
+          "impression_count": 375849,
+          "like_count": 8238,
+          "quote_count": 374,
+          "reply_count": 256,
+          "retweet_count": 772
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089994779144982576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Thanks for the shoutout! Yes bilibili is going global so follow for more updates 😍 https://t.co/qIJAObFBwf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2090095025451647077",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771,
+          "following_count": 1421,
+          "like_count": 473,
+          "listed_count": 2,
+          "media_count": 859,
+          "tweet_count": 3544
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T03:50:37.000Z",
+        "description": "Official bilibili Creator Hub. Follow for platform updates, campaign announcements & content tips and tricks!\nCreator Hub: https://t.co/YDNSuimQsI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.com/invite/JrRuATe…",
+                "end": 146,
+                "expanded_url": "https://discord.com/invite/JrRuATe2gM",
+                "start": 123,
+                "url": "https://t.co/YDNSuimQsI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com",
+                "end": 23,
+                "expanded_url": "http://bilibili.com",
+                "start": 0,
+                "url": "https://t.co/3fjaz3zKEe"
+              }
+            ]
+          }
+        },
+        "id": "2089196569241542656",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090086781018677614",
+        "name": "bilibili Creator Hub",
+        "pinned_tweet_id": "2090025699432153295",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089196569241542656/1787143722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089198243871965184/Cvbk6niX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3448,
+          "following_count": 8,
+          "like_count": 66,
+          "listed_count": 7,
+          "media_count": 6,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/3fjaz3zKEe",
+        "username": "bilibili_create",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

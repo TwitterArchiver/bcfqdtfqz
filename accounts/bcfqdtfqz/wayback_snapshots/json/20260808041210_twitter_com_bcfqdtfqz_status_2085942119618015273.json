@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2085942119618015273",
+    "created_at": "2026-08-08T04:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T05:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085942119618015273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__fanqie__/sta…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/__fanqie__/status/2085938612777132476",
+          "start": 59,
+          "url": "https://t.co/Z3qKhxZloz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085942119618015273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085938612777132476",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "憋不住，这波真恶心到我了\n其实原稿件还有更恶心的内容，小孩子不知道这些也就算了，这个父亲做这种恶心的事情要不要点脸🤮 https://t.co/Z3qKhxZloz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2085938604917039104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPK-HAFaoAAymeN.jpg",
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2085942119618015273",
+        "created_at": "2026-08-08T04:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T05:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085942119618015273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__fanqie__/sta…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/__fanqie__/status/2085938612777132476",
+              "start": 59,
+              "url": "https://t.co/Z3qKhxZloz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085942119618015273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085938612777132476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "憋不住，这波真恶心到我了\n其实原稿件还有更恶心的内容，小孩子不知道这些也就算了，这个父亲做这种恶心的事情要不要点脸🤮 https://t.co/Z3qKhxZloz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085938604917039104"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2085938612777132476",
+        "created_at": "2026-08-08T03:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T04:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085938612777132476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q0XfLkllFL",
+              "end": 35,
+              "expanded_url": "https://x.com/__fanqie__/status/2085938612777132476/photo/1",
+              "media_key": "3_2085938604917039104",
+              "start": 12,
+              "url": "https://t.co/Q0XfLkllFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085938612777132476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁说墙内审核管的严的？ https://t.co/Q0XfLkllFL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "锅里，和蛋在一起",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1757,
+          "following_count": 1427,
+          "like_count": 447,
+          "listed_count": 2,
+          "media_count": 832,
+          "tweet_count": 3314
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuO2ty"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12163,
+          "following_count": 2781,
+          "like_count": 1612,
+          "listed_count": 25,
+          "media_count": 2552,
+          "tweet_count": 11416
+        },
+        "url": "https://t.co/ndOwWuO2ty",
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

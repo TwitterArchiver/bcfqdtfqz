@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2097666316727697574",
+    "created_at": "2026-09-09T16:13:34.000Z",
+    "display_text_range": [
+      9,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T17:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097720074249670748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1775079210484436992",
+          "start": 0,
+          "username": "0xAstra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097720074249670748",
+    "in_reply_to_user_id": "1775079210484436992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097666316727697574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xAstra 前阵子还有人嚷嚷着取消英语呢，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2097666316727697574",
+        "created_at": "2026-09-09T16:13:34.000Z",
+        "display_text_range": [
+          9,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T17:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097720074249670748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1775079210484436992",
+              "start": 0,
+              "username": "0xAstra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097720074249670748",
+        "in_reply_to_user_id": "1775079210484436992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097666316727697574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xAstra 前阵子还有人嚷嚷着取消英语呢，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775079210484436992",
+        "conversation_id": "2097666316727697574",
+        "created_at": "2026-09-09T12:39:57.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097666316727697574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nannan07788/st…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/nannan07788/status/2097599449555947679",
+              "start": 58,
+              "url": "https://t.co/7OZbRGlYPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097666316727697574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1096,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097599449555947679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得中国也是最重视英语的国家之一了吧，强制把语数英并列，外语从小作为必修主课，也没见中国人都掌握双语能力啊，呵呵 https://t.co/7OZbRGlYPK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n年龄未知，性别未知，身高未知，体重未知\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 114,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 91,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2097720074249670748",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2107,
+          "following_count": 1464,
+          "like_count": 530,
+          "listed_count": 4,
+          "media_count": 921,
+          "tweet_count": 4142
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2024-04-02T08:34:21.000Z",
+        "description": "Photographer & Product Manager | Night City enjoyer |Intern @GMWallet | Top 10 GitHub Stars Crypto Program | ex-CICC | BAYC Holder: https://t.co/uBlAPV8pDX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "GMWallet"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bayc.com/astra",
+                "end": 155,
+                "expanded_url": "http://bayc.com/astra",
+                "start": 132,
+                "url": "https://t.co/uBlAPV8pDX"
+              }
+            ]
+          }
+        },
+        "id": "1775079210484436992",
+        "is_identity_verified": false,
+        "location": "Canberra",
+        "most_recent_tweet_id": "2097712126756565456",
+        "name": "Astra 🍌🦍",
+        "pinned_tweet_id": "2045323867988906374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775079210484436992/1781170680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095779450948550656/vhPp0CYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8910,
+          "following_count": 1413,
+          "like_count": 69998,
+          "listed_count": 39,
+          "media_count": 886,
+          "tweet_count": 14459
+        },
+        "url": "",
+        "username": "0xAstra",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

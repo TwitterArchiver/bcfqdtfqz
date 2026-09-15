@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2092255397415669793",
+    "created_at": "2026-08-25T14:45:14.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T15:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092262028165738759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342135083252105216",
+          "start": 0,
+          "username": "xixikawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092262028165738759",
+    "in_reply_to_user_id": "1342135083252105216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092255397415669793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixikawaii 老马：这招阴啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092255385478631424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkvMBbaEAApZAh.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092255385541562368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkvMBqaUAAMILl.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092255385508052992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkvMBibAAAhYXt.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2092255397415669793",
+        "created_at": "2026-08-25T14:45:14.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092262028165738759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342135083252105216",
+              "start": 0,
+              "username": "xixikawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092262028165738759",
+        "in_reply_to_user_id": "1342135083252105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092255397415669793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixikawaii 老马：这招阴啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092255385478631424",
+            "3_2092255385541562368",
+            "3_2092255385508052992"
+          ]
+        },
+        "author_id": "1342135083252105216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2092255397415669793",
+        "created_at": "2026-08-25T14:18:53.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092255397415669793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ripCpIQuvn",
+              "end": 117,
+              "expanded_url": "https://x.com/xixikawaii/status/2092255397415669793/photo/1",
+              "media_key": "3_2092255385478631424",
+              "start": 94,
+              "url": "https://t.co/ripCpIQuvn"
+            },
+            {
+              "display_url": "pic.x.com/ripCpIQuvn",
+              "end": 117,
+              "expanded_url": "https://x.com/xixikawaii/status/2092255397415669793/photo/1",
+              "media_key": "3_2092255385541562368",
+              "start": 94,
+              "url": "https://t.co/ripCpIQuvn"
+            },
+            {
+              "display_url": "pic.x.com/ripCpIQuvn",
+              "end": 117,
+              "expanded_url": "https://x.com/xixikawaii/status/2092255397415669793/photo/1",
+              "media_key": "3_2092255385508052992",
+              "start": 94,
+              "url": "https://t.co/ripCpIQuvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092255397415669793",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092255385478631424"
+          },
+          {
+            "media_key": "3_2092255385541562368"
+          },
+          {
+            "media_key": "3_2092255385508052992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 941,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这几个标的是一块的，老马只要持续喊grok bot就会一直有行情。只不过第一个bot是阴谋 可以赌第二个社区标bot，office也是衍生标，要拉一起拉的，非广子 只做分享记录 DYOR https://t.co/ripCpIQuvn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2092262028165738759",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 1438,
+          "like_count": 488,
+          "listed_count": 3,
+          "media_count": 873,
+          "tweet_count": 3721
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-24T15:48:39.000Z",
+        "description": "INFP | 戒断Crypto | 想买好多好多水手服 | 分享欲高 | 每天都要去迪士尼版 | Clannad一生推 | 欢迎DM投稿 | 推文为兴趣爱好吹牛逼，不构成投资建议 DYOR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gmgnaibot?star…",
+                "end": 23,
+                "expanded_url": "https://t.me/gmgnaibot?start=i_xixi",
+                "start": 0,
+                "url": "https://t.co/Xf4PjsJNbl"
+              }
+            ]
+          }
+        },
+        "id": "1342135083252105216",
+        "is_identity_verified": false,
+        "location": "1000x Meme Alpha 👉🏻",
+        "most_recent_tweet_id": "2092259119617245635",
+        "name": "汐",
+        "pinned_tweet_id": "2074172096805233082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1342135083252105216/1744721710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090127412013182976/-_Pe7Ang_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52014,
+          "following_count": 1210,
+          "like_count": 15613,
+          "listed_count": 480,
+          "media_count": 5418,
+          "tweet_count": 26257
+        },
+        "url": "https://t.co/Xf4PjsJNbl",
+        "username": "xixikawaii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

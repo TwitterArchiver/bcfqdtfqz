@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2091920835372335206",
+    "created_at": "2026-08-25T00:31:28.000Z",
+    "display_text_range": [
+      14,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T01:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092047169968894095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1479293966",
+          "start": 0,
+          "username": "Yuanshan0626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092047169968894095",
+    "in_reply_to_user_id": "1479293966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091920835372335206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuanshan0626 看了推才知道宇树不行的，我建议还是得多学学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2091920835372335206",
+        "created_at": "2026-08-25T00:31:28.000Z",
+        "display_text_range": [
+          14,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T01:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092047169968894095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1479293966",
+              "start": 0,
+              "username": "Yuanshan0626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092047169968894095",
+        "in_reply_to_user_id": "1479293966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091920835372335206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuanshan0626 看了推才知道宇树不行的，我建议还是得多学学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479293966",
+        "conversation_id": "2091920835372335206",
+        "created_at": "2026-08-24T16:09:27.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091920835372335206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xianzhizhou/st…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/xianzhizhou/status/2091840818495791349",
+              "start": 145,
+              "url": "https://t.co/rEaMLgGl8N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091920835372335206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8326,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091840818495791349",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能上推特的华人，认知确实高。\n\n宇树蒸发2000亿，这边第一天就没人信。你随便刷两条推文就知道怎么回事。\n\n但我翻评论区发现，大部分人不知道，他们天天用的币圈交易所，可以做空宇树。\n\n如果说国内散户亏在信息差。\n那推上的各位，你没亏，但你也只是看着跌。\n\n信息差不是一道墙。是一层一层的。 https://t.co/rEaMLgGl8N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2092047169968894095",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 1438,
+          "like_count": 486,
+          "listed_count": 3,
+          "media_count": 872,
+          "tweet_count": 3710
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-06-03T09:31:42.000Z",
+        "description": "宏观周期 |  加密投研 |  美股研究 |  AI x Crypto\nCycles always win . Be early , be patient , be honest .",
+        "id": "1479293966",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091920835372335206",
+        "name": "远山洞见",
+        "pinned_tweet_id": "2048810507931705614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479293966/1733820806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805881910528487424/WKEi6soV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20281,
+          "following_count": 1995,
+          "like_count": 35758,
+          "listed_count": 173,
+          "media_count": 546,
+          "tweet_count": 2683
+        },
+        "url": "",
+        "username": "Yuanshan0626",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

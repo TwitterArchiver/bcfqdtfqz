@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2091484901350777253",
+    "created_at": "2026-08-23T11:54:38.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T12:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091494320117596573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1993652191954092033",
+          "start": 0,
+          "username": "manbo030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091494320117596573",
+    "in_reply_to_user_id": "1993652191954092033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091484901350777253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manbo030 加油哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091484883445284865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZya5rbAAE_IjH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2091484901350777253",
+        "created_at": "2026-08-23T11:54:38.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091494320117596573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1993652191954092033",
+              "start": 0,
+              "username": "manbo030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091494320117596573",
+        "in_reply_to_user_id": "1993652191954092033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091484901350777253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manbo030 加油哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091484883445284865"
+          ]
+        },
+        "author_id": "1993652191954092033",
+        "conversation_id": "2091484901350777253",
+        "created_at": "2026-08-23T11:17:13.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091484901350777253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iq4efUkXzB",
+              "end": 54,
+              "expanded_url": "https://x.com/manbo030/status/2091484901350777253/photo/1",
+              "media_key": "3_2091484883445284865",
+              "start": 31,
+              "url": "https://t.co/Iq4efUkXzB"
+            },
+            {
+              "display_url": "x.com/manbo030/statu…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/manbo030/status/2091472349862490344",
+              "start": 55,
+              "url": "https://t.co/MUxuAbN9Ov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091484901350777253",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091484883445284865"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 426,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091472349862490344",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出发惹\n\n你们在吃外卖的时候\n有想到曼波已经在外面送外卖了吗 https://t.co/Iq4efUkXzB https://t.co/MUxuAbN9Ov"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2091494320117596573",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 1436,
+          "like_count": 484,
+          "listed_count": 2,
+          "media_count": 869,
+          "tweet_count": 3680
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-26T12:05:27.000Z",
+        "description": "AI/Crypto Web3 Researcher | Content Creator｜每日10U猪脚饭\n猪脚饭电报群：https://t.co/W8FmE5xDJw✨\n\nCiallo～ʕ•ᴥ•ʔ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+gBdSpm-GzdJlM…",
+                "end": 83,
+                "expanded_url": "https://t.me/+gBdSpm-GzdJlMjE1",
+                "start": 60,
+                "url": "https://t.co/W8FmE5xDJw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/manbo030",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/manbo030",
+                "start": 0,
+                "url": "https://t.co/Yd5D3BqSKM"
+              }
+            ]
+          }
+        },
+        "id": "1993652191954092033",
+        "is_identity_verified": true,
+        "location": "个人网站👉",
+        "most_recent_tweet_id": "2091487487244054969",
+        "name": "曼波🎒",
+        "pinned_tweet_id": "2087777036379324663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1993652191954092033/1780915917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002020033686609922/jFdXd0er_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3320,
+          "following_count": 2065,
+          "like_count": 940,
+          "listed_count": 5,
+          "media_count": 636,
+          "tweet_count": 2980
+        },
+        "url": "https://t.co/Yd5D3BqSKM",
+        "username": "manbo030",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

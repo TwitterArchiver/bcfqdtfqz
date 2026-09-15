@@ -1,0 +1,697 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Robinhood",
+          "id": "10049614909",
+          "name": "Robinhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Robinhood",
+          "id": "10049614909",
+          "name": "Robinhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      }
+    ],
+    "conversation_id": "2098341584043639052",
+    "created_at": "2026-09-11T09:23:13.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098341584043639052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1858728391991496704",
+          "start": 3,
+          "username": "heatprotocol1"
+        },
+        {
+          "end": 124,
+          "id": "1800448983069782016",
+          "start": 116,
+          "username": "Blonskr"
+        },
+        {
+          "end": 137,
+          "id": "2098083494509371401",
+          "start": 125,
+          "username": "fruitflydev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098341584043639052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 297
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098247150442566005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heatprotocol1: 大家好，我是一名建筑环境与能源应用工程专业的大学生，我在 Robinhood Chain 上开发了一个第一款公平发射与热力挖矿协议-Heat Protocol（官方资产免费MINT）。  \n\n受@Blonskr和@fruitflydev启发…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2098247139189309440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR54p_ZbwAA8VZ1.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Robinhood",
+              "id": "10049614909",
+              "name": "Robinhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Robinhood",
+              "id": "10049614909",
+              "name": "Robinhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          }
+        ],
+        "conversation_id": "2098341584043639052",
+        "created_at": "2026-09-11T09:23:13.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098341584043639052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1858728391991496704",
+              "start": 3,
+              "username": "heatprotocol1"
+            },
+            {
+              "end": 124,
+              "id": "1800448983069782016",
+              "start": 116,
+              "username": "Blonskr"
+            },
+            {
+              "end": 137,
+              "id": "2098083494509371401",
+              "start": 125,
+              "username": "fruitflydev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098341584043639052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 297
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098247150442566005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heatprotocol1: 大家好，我是一名建筑环境与能源应用工程专业的大学生，我在 Robinhood Chain 上开发了一个第一款公平发射与热力挖矿协议-Heat Protocol（官方资产免费MINT）。  \n\n受@Blonskr和@fruitflydev启发…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098247139189309440"
+          ]
+        },
+        "author_id": "1858728391991496704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Robinhood",
+              "id": "10049614909",
+              "name": "Robinhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Robinhood",
+              "id": "10049614909",
+              "name": "Robinhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          }
+        ],
+        "conversation_id": "2098247150442566005",
+        "created_at": "2026-09-11T03:07:58.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T04:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098247150442566005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 105,
+              "id": "1800448983069782016",
+              "start": 97,
+              "username": "Blonskr"
+            },
+            {
+              "end": 118,
+              "id": "2098083494509371401",
+              "start": 106,
+              "username": "fruitflydev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qr1RmsEpFN",
+              "end": 164,
+              "expanded_url": "https://x.com/heatprotocol1/status/2098247150442566005/photo/1",
+              "media_key": "3_2098247139189309440",
+              "start": 141,
+              "url": "https://t.co/qr1RmsEpFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098247150442566005",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098247139189309440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 105,
+                "id": "1800448983069782016",
+                "start": 97,
+                "username": "Blonskr"
+              },
+              {
+                "end": 118,
+                "id": "2098083494509371401",
+                "start": 106,
+                "username": "fruitflydev"
+              },
+              {
+                "end": 700,
+                "id": "1800448983069782016",
+                "start": 692,
+                "username": "Blonskr"
+              },
+              {
+                "end": 716,
+                "id": "2076794413284569089",
+                "start": 702,
+                "username": "ponsdotfamily"
+              },
+              {
+                "end": 731,
+                "id": "1265037073",
+                "start": 718,
+                "username": "RobinhoodApp"
+              },
+              {
+                "end": 744,
+                "id": "902926941413453824",
+                "start": 733,
+                "username": "cz_binance"
+              },
+              {
+                "end": 756,
+                "id": "1294022686583054336",
+                "start": 745,
+                "username": "youyou5202"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "heat-protocol.com",
+                "end": 316,
+                "expanded_url": "https://heat-protocol.com",
+                "start": 293,
+                "url": "https://t.co/Yn1KpIYORR"
+              },
+              {
+                "display_url": "github.com/bradford5942-d…",
+                "end": 683,
+                "expanded_url": "https://github.com/bradford5942-debug/heat-protocol?utm_source=chatgpt.com",
+                "start": 660,
+                "url": "https://t.co/j9FCKo6TzP"
+              }
+            ]
+          },
+          "text": "大家好，我是一名建筑环境与能源应用工程专业的大学生，我在 Robinhood Chain 上开发了一个第一款公平发射与热力挖矿协议-Heat Protocol（官方资产免费MINT）。  \n\n受@Blonskr和@fruitflydev启发我创造了历史上第一款可真实运行的热力矿机 ，一个散热器片就是一个NFT，通过管道连接所有散热器片就组成了一个可以真实运行的链上热力矿机，但是如果蝇一样连接方案有几百种甚至几千种，不同的连接方案在现实生活中就会导致房间内的温度不同，同样对应链上就是算力不同！ \n \n现在我们创建了协议的官方散热器片Heat Protocol。  \n\nMINT网站：https://t.co/Yn1KpIYORR（第一次打开需要等20秒左右才会显示mint资产）  \n  \n总量：          2500万   \nmint单价:     免费\n单推特单钱包限制：10000 \n白名单：         6万  \n\n注：（之前网站崩溃时mint的自动成为白名单，如果有蓝V  KOL想要白可以私信我做推文任务。）\n\n我们的优势：   \n1.设计创新，第一次引入热力矿机概念，潜力无限。  \n2.免费MINT，mint完成或者mint过程中我可能随时结束mint然后发射代币开启挖矿，我自己掏腰包到PONS市场买入约3亿筹码供大家挖矿。\n 3.代币税费每天回购代币加入矿池，源源不断的增加矿池代币容量。 \n4.代币销毁制度：社区创建代币会销毁50000官方代币，不断缩减总量增加市值。  \n开源网站：https://t.co/j9FCKo6TzP （后续有更新）\n@Blonskr\n\n@ponsdotfamily\n\n@RobinhoodApp\n\n@cz_binance\n@youyou5202"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 23690,
+          "like_count": 416,
+          "quote_count": 11,
+          "reply_count": 393,
+          "retweet_count": 297
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是一名建筑环境与能源应用工程专业的大学生，我在 Robinhood Chain 上开发了一个第一款公平发射与热力挖矿协议-Heat Protocol（官方资产免费MINT）。  \n\n受@Blonskr和@fruitflydev启发我创造了历史上第一款可真实运行的热力矿机 https://t.co/qr1RmsEpFN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n年龄未知，性别未知，身高未知，体重未知\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 114,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 91,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2098341584043639052",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 1467,
+          "like_count": 536,
+          "listed_count": 4,
+          "media_count": 921,
+          "tweet_count": 4160
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-19T04:26:23.000Z",
+        "description": "Heat Protocol —— Robinhood Chain 上第一款公平发射与热力挖矿协议。公平 Mint，热力挑战，PONS发射；全网第一次将热力矿机概念真实的搬上链。持币第一是永久锁定矿池。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "heat-protocol.com",
+                "end": 23,
+                "expanded_url": "http://heat-protocol.com",
+                "start": 0,
+                "url": "https://t.co/yjzLdDSwEQ"
+              }
+            ]
+          }
+        },
+        "id": "1858728391991496704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098329894799413512",
+        "name": "heat-protocol",
+        "pinned_tweet_id": "2098247150442566005",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858728391991496704/1788256331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094724984098996224/8fSgLZiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 69,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/yjzLdDSwEQ",
+        "username": "heatprotocol1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-11T08:44:35.000Z",
+        "description": "An 8grade coder Email: Blonskr@tutamail.com\nTG：Blonskr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tapeout.net",
+                "end": 23,
+                "expanded_url": "https://tapeout.net",
+                "start": 0,
+                "url": "https://t.co/1mW9s7HjJb"
+              }
+            ]
+          }
+        },
+        "id": "1800448983069782016",
+        "is_identity_verified": false,
+        "location": "https://t.me/TapeOutnet",
+        "most_recent_tweet_id": "2098337919849447584",
+        "name": "Blonskr",
+        "pinned_tweet_id": "2096972630570209633",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1800448983069782016/1778505395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062077363723337729/yCihMpkJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101440,
+          "following_count": 368,
+          "like_count": 3233,
+          "listed_count": 57,
+          "media_count": 219,
+          "tweet_count": 6672
+        },
+        "url": "https://t.co/1mW9s7HjJb",
+        "username": "Blonskr",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-10T16:20:37.000Z",
+        "description": "A fruit fly connectome living on the open internet, funded with its own memecoin. 0x4eb990547bce4a982432ca88cf5fae7eed1a2d35",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "flybrain.online",
+                "end": 23,
+                "expanded_url": "http://flybrain.online",
+                "start": 0,
+                "url": "https://t.co/U9M0wqi8yy"
+              }
+            ]
+          }
+        },
+        "id": "2098083494509371401",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098312116583202894",
+        "name": "Fruit fly dev",
+        "pinned_tweet_id": "2098116826366415136",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098083494509371401/1789057428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098084745200713731/ZOhOwvkk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4570,
+          "following_count": 1,
+          "like_count": 18,
+          "listed_count": 15,
+          "media_count": 8,
+          "tweet_count": 35
+        },
+        "url": "https://t.co/U9M0wqi8yy",
+        "username": "fruitflydev",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

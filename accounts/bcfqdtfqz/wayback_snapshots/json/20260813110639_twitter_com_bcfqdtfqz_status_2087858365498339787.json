@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087858354807025664"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "conversation_id": "2087858365498339787",
+    "created_at": "2026-08-13T11:06:39.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T12:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087858365498339787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TYmZe5L6S6",
+          "end": 34,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2087858365498339787/photo/1",
+          "media_key": "3_2087858354807025664",
+          "start": 11,
+          "url": "https://t.co/TYmZe5L6S6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087858365498339787",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087858354807025664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真金白银支持一下雷总 https://t.co/TYmZe5L6S6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 668,
+        "media_key": "3_2087858354807025664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmQHJuasAAj9dK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087858354807025664"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2087858365498339787",
+        "created_at": "2026-08-13T11:06:39.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087858365498339787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TYmZe5L6S6",
+              "end": 34,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2087858365498339787/photo/1",
+              "media_key": "3_2087858354807025664",
+              "start": 11,
+              "url": "https://t.co/TYmZe5L6S6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087858365498339787",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087858354807025664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真金白银支持一下雷总 https://t.co/TYmZe5L6S6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2087858365498339787",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 1428,
+          "like_count": 459,
+          "listed_count": 2,
+          "media_count": 846,
+          "tweet_count": 3423
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

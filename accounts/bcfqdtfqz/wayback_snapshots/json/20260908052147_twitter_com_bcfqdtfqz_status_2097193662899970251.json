@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2097192447394586862",
+    "created_at": "2026-09-08T05:21:47.000Z",
+    "display_text_range": [
+      23,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097193662899970251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        },
+        {
+          "end": 22,
+          "id": "2090348740250906624",
+          "start": 14,
+          "username": "Uuucvea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097193662899970251",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097192447394586862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 @Uuucvea 这怎么实现的？直接爬文案谷歌搜索比他发布时间早的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2097192447394586862",
+        "created_at": "2026-09-08T05:21:47.000Z",
+        "display_text_range": [
+          23,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097193662899970251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            },
+            {
+              "end": 22,
+              "id": "2090348740250906624",
+              "start": 14,
+              "username": "Uuucvea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097193662899970251",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097192447394586862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 @Uuucvea 这怎么实现的？直接爬文案谷歌搜索比他发布时间早的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2097192447394586862",
+        "created_at": "2026-09-08T05:16:58.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097192447394586862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2090348740250906624",
+              "start": 10,
+              "username": "Uuucvea"
+            }
+          ],
+          "urls": [
+            {
+              "description": "收集了 Uuucvea 抄袭的帖子以及来源截图。",
+              "display_url": "liujiayi1111.github.io/uuu-dung-beetl…",
+              "end": 111,
+              "expanded_url": "https://liujiayi1111.github.io/uuu-dung-beetle/",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2097192449537896448/AHQ41-_J?format=png&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2097192449537896448/AHQ41-_J?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 88,
+              "status": 200,
+              "title": "Uuucvea 盗帖合集",
+              "unwound_url": "https://liujiayi1111.github.io/uuu-dung-beetle/",
+              "url": "https://t.co/YgyvkOMHK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097192447394586862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 18,
+                "id": "2090348740250906624",
+                "start": 10,
+                "username": "Uuucvea"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "liujiayi1111.github.io/uuu-dung-beetl…",
+                "end": 111,
+                "expanded_url": "https://liujiayi1111.github.io/uuu-dung-beetle/",
+                "start": 88,
+                "url": "https://t.co/YRLBLGj93h"
+              }
+            ]
+          },
+          "text": "我做了个半自动收集 @Uuucvea 抄袭帖子来源的工具，然后自动找出 Uuu 盗贴的来源，目前收集了有百来个盗贴的来源，顺便 vide code 了一个简易的网页展示，链接：https://t.co/YRLBLGj93h\n\n它说盗了哪些列出来它就一一删掉，不知道还算不算话🤭\n\n我发现它盗的帖子多数都来自 Threads 这个平台，而且原作者刚发布不久就被 Uuu 盗走了。\n\n这说明什么呢？它是个老吃家啊！太会吃了！吃翔都趁热吃，要吃最热乎那一个，都恨不得贴着腚吃啊，生怕凉了就不好吃了，真是给我笑得不行了。😆😆"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我做了个半自动收集 @Uuucvea 抄袭帖子来源的工具，然后自动找出 Uuu 盗贴的来源，目前收集了有百来个盗贴的来源，顺便 vide code 了一个简易的网页展示，链接：https://t.co/YgyvkOMHK1\n\n它说盗了哪些列出来它就一一删掉，不知道还算不算话🤭\n\n我发现它盗的帖子多数都来自 Threads"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n年龄未知，性别未知，身高未知，体重未知\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 114,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 91,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2097193662899970251",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 1460,
+          "like_count": 527,
+          "listed_count": 4,
+          "media_count": 910,
+          "tweet_count": 4098
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。LOL游戏主播。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi2",
+                "start": 0,
+                "url": "https://t.co/pDPmLWjxRk"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097192447394586862",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1876613242887282688/1780369791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11823,
+          "following_count": 145,
+          "like_count": 17651,
+          "listed_count": 31,
+          "media_count": 407,
+          "tweet_count": 5185
+        },
+        "url": "https://t.co/pDPmLWjxRk",
+        "username": "liujiayi1111",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T08:03:03.000Z",
+        "description": "礼貌你我他｜172cm｜46kg｜年龄是永远18岁｜屁话巨多的碎碎念大王\n此账号用来发抽象文字和日常碎碎念（屁话真多）每天不定时发帖 帖子内容..是想到啥发啥占卜@kill_this_love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "kill_this_love"
+              }
+            ]
+          }
+        },
+        "id": "2090348740250906624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097179883726078253",
+        "name": "Uuu",
+        "pinned_tweet_id": "2096504060383785331",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090348740250906624/1787213505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090350108348932096/B6xaOmpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4119,
+          "following_count": 14,
+          "like_count": 794,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 1232
+        },
+        "url": "",
+        "username": "Uuucvea",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

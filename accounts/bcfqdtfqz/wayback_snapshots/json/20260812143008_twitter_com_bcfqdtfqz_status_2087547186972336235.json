@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2087547186972336235",
+    "created_at": "2026-08-12T14:30:08.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087547186972336235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Weixin_WeChat/…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/Weixin_WeChat/status/2087509298310209718",
+          "start": 73,
+          "url": "https://t.co/G6MppIpzYY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087547186972336235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087509298310209718",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有时候真觉得有些大厂的管理层换只猪坐那估计都比这些985毕业研究挥霍公司资源内斗的好\n\n怎么，不学开年那会宣传元宝那样再撒十个亿现金表示一下吗？ https://t.co/G6MppIpzYY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2087509289028268032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhSo2XbsAAolei.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2087509289040797696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhSo2aa4AAlHn1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2087509289028182016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhSo2XaYAANjIB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2087547186972336235",
+        "created_at": "2026-08-12T14:30:08.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087547186972336235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Weixin_WeChat/…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/Weixin_WeChat/status/2087509298310209718",
+              "start": 73,
+              "url": "https://t.co/G6MppIpzYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087547186972336235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087509298310209718",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有时候真觉得有些大厂的管理层换只猪坐那估计都比这些985毕业研究挥霍公司资源内斗的好\n\n怎么，不学开年那会宣传元宝那样再撒十个亿现金表示一下吗？ https://t.co/G6MppIpzYY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087509289028268032",
+            "3_2087509289040797696",
+            "3_2087509289028182016"
+          ]
+        },
+        "author_id": "487312107",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2087509298310209718",
+        "created_at": "2026-08-12T11:59:35.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087509298310209718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RL94uqIRf1",
+              "end": 132,
+              "expanded_url": "https://x.com/Weixin_WeChat/status/2087509298310209718/photo/1",
+              "media_key": "3_2087509289028268032",
+              "start": 109,
+              "url": "https://t.co/RL94uqIRf1"
+            },
+            {
+              "display_url": "pic.x.com/RL94uqIRf1",
+              "end": 132,
+              "expanded_url": "https://x.com/Weixin_WeChat/status/2087509298310209718/photo/1",
+              "media_key": "3_2087509289040797696",
+              "start": 109,
+              "url": "https://t.co/RL94uqIRf1"
+            },
+            {
+              "display_url": "pic.x.com/RL94uqIRf1",
+              "end": 132,
+              "expanded_url": "https://x.com/Weixin_WeChat/status/2087509298310209718/photo/1",
+              "media_key": "3_2087509289028182016",
+              "start": 109,
+              "url": "https://t.co/RL94uqIRf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087509298310209718",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087509289028268032"
+          },
+          {
+            "media_key": "3_2087509289040797696"
+          },
+          {
+            "media_key": "3_2087509289028182016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 40317,
+          "like_count": 281,
+          "quote_count": 57,
+          "reply_count": 42,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "Meet WeLM — a family of large language models built by the Weixin team with resource efficiency at its core. https://t.co/RL94uqIRf1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2087547186972336235",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1746,
+          "following_count": 1426,
+          "like_count": 456,
+          "listed_count": 2,
+          "media_count": 844,
+          "tweet_count": 3417
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-02-09T07:11:48.000Z",
+        "description": "Connecting a billion people\nFeedback & Support: https://t.co/77y9vdUrF0  \nDownload: iOS https://t.co/dYDENLn6Lv + Android https://t.co/VLnFJdawAE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "help.wechat.com",
+                "end": 71,
+                "expanded_url": "http://help.wechat.com",
+                "start": 48,
+                "url": "https://t.co/77y9vdUrF0"
+              },
+              {
+                "display_url": "bit.ly/1M1vkoG",
+                "end": 111,
+                "expanded_url": "http://bit.ly/1M1vkoG",
+                "start": 88,
+                "url": "https://t.co/dYDENLn6Lv"
+              },
+              {
+                "display_url": "bit.ly/1uGE7n0",
+                "end": 145,
+                "expanded_url": "http://bit.ly/1uGE7n0",
+                "start": 122,
+                "url": "https://t.co/VLnFJdawAE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wechat.com/en",
+                "end": 22,
+                "expanded_url": "http://www.wechat.com/en",
+                "start": 0,
+                "url": "http://t.co/3VuclYcOlQ"
+              }
+            ]
+          }
+        },
+        "id": "487312107",
+        "is_identity_verified": false,
+        "location": "Worldwide",
+        "most_recent_tweet_id": "2087509298310209718",
+        "name": "WeChat",
+        "pinned_tweet_id": "2039651808633815454",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/487312107/1768910425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013582372524933120/LyGYhtIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253799,
+          "following_count": 24,
+          "like_count": 570,
+          "listed_count": 731,
+          "media_count": 791,
+          "tweet_count": 3390
+        },
+        "url": "http://t.co/3VuclYcOlQ",
+        "username": "Weixin_WeChat",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

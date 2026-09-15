@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405571471955533827",
+          "name": "USD Coin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "id": "1405571471955533827",
+          "name": "USD Coin"
+        }
+      }
+    ],
+    "conversation_id": "2092490221564879291",
+    "created_at": "2026-08-26T09:40:18.000Z",
+    "display_text_range": [
+      13,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T10:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092547678228115780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2679174451",
+          "start": 0,
+          "username": "lansingzhao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092547678228115780",
+    "in_reply_to_user_id": "2679174451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092490221564879291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lansingzhao 你这个模型有根本性的问题\n没考虑到hip-4和最新的usdc持币生息回购对hype币价的影响。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          }
+        ],
+        "conversation_id": "2092490221564879291",
+        "created_at": "2026-08-26T09:40:18.000Z",
+        "display_text_range": [
+          13,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092547678228115780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2679174451",
+              "start": 0,
+              "username": "lansingzhao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092547678228115780",
+        "in_reply_to_user_id": "2679174451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092490221564879291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lansingzhao 你这个模型有根本性的问题\n没考虑到hip-4和最新的usdc持币生息回购对hype币价的影响。"
+      },
+      {
+        "article": {
+          "cover_media": "3_2092486084320169984",
+          "entities": {
+            "urls": [
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/2753.svg"
+              },
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/1f4cd.svg"
+              },
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/1f6a9.svg"
+              },
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/1f232.svg"
+              },
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/1f4cd.svg"
+              },
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/2753.svg"
+              },
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/1f4cd.svg"
+              },
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/1f4cd.svg"
+              },
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/2753.svg"
+              },
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/1f4cd.svg"
+              },
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/1f4b0.svg"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2092486735485890560",
+            "3_2092487002759544833",
+            "3_2092487255067938816",
+            "3_2092487523608260608"
+          ],
+          "plain_text": "最近我花了不少时间研究 Hyperliquid 和 HYPE。\n先说结论：\n我很看好 Hyperliquid。\n但在 HYPE 价格约 $80 的位置，我不会买。\n不是因为项目不好。\n恰恰相反，正是因为大家都已经知道它很好，所以当前价格里，可能已经提前写进了一个相当乐观的未来。\n投资里最容易犯的错误之一，就是把两件事混为一谈：\n好项目，不等于好价格。\n \n01｜为什么 HYPE 值得认真研究？\n最初，我也把 HYPE 和许多加密代币放在一起看。\n但研究之后，我发现它们之间存在一个本质区别：\nHyperliquid 背后真的有一门生意。\n用户在 Hyperliquid 上交易永续合约、现货以及其他资产，产生真实交易量，支付真实手续费。\n协议产生费用。\n其中被分配至 Assistance Fund 的费用，会自动转换成 HYPE，并将购入的 HYPE 永久销毁。\n于是，它形成了一条相对清晰的经济链条：\n交易活动\n→ 手续费\n→ Assistance Fund\n→ 买入 HYPE\n→ 销毁 HYPE\n这意味着，HYPE 的价值逻辑不只是“以后会不会有更多人用更高价格接盘”。\n它背后存在一台可以持续观察、测量和跟踪的经济机器。\n只要 Hyperliquid 的交易活动继续增长，这台机器就会不断产生费用；而只要费用继续被用于买入和销毁 HYPE，协议经营与代币供给之间就存在真实联系。\n这也是我开始认真研究 HYPE 的原因。\n\n-------------------------------------------------------------\n\n02｜但这里很容易掉进一个估值陷阱\n看到 Hyperliquid 很赚钱以后，很多人会立刻做一件事：\n把最近一个月的收入乘以 12，然后告诉自己：\nHYPE 很便宜。\n我认为这样算非常危险。\n因为交易所是一门高度周期性的生意。\n\n牛市来了：\n交易量上涨、杠杆需求上升、手续费增加、收入暴涨。\n市场冷下来：\n交易量、手续费、收入和回购能力也可能一起下降。\n\n所以，不能简单地拿一段市场异常活跃期的数据直接年化，再给它一个很高的估值倍数。\n真正应该估算的，不是“最近赚了多少钱”，而是：\n穿越不同市场周期以后，Hyperliquid 每年能够持续为 HYPE 捕获多少价值？\n截至 2026 年 8 月 26 日，DefiLlama 显示 Hyperliquid 最近 30 天 Holders Revenue 约为 $30.07M，其当前年化指标约为 $731.5M。\n但这个数字仍然是基于近期数据推算出来的，并不代表未来每年都能稳定达到这个水平。\n因此，我没有直接使用一个数字，而是划分了三个情景：\n熊市：可持续年化价值捕获 $400M\n基准：可持续年化价值捕获 $700M\n牛市：可持续年化价值捕获 $1.0B\n然后分别给予：\n10 倍\n15 倍\n20 倍\n的估值。\n本文采用 CoinMarketCap 约 2.52 亿枚市场流通量的口径，计算公式为：\n目标价格 = 可持续年化价值捕获 × 估值倍数 ÷ 市场流通量\n重新计算以后，得到下面这张矩阵：\n \n结果非常直观：\n可持续年化价值捕获10× 15× 20×\n$400M       $16 $24 $32\n$700M        $28 $42 $56\n$1.0B            $40 $60 $79\n当时 HYPE 的三源行情约为 $80–82。\n也就是说，当前价格已经接近：\n$1.0B 可持续年化价值捕获 × 20 倍估值\n这个九宫格里最乐观的组合。\n这并不意味着 HYPE 一定会跌。\n如果 Hyperliquid 未来能够持续扩大市场份额，进入更多交易品类，并把可持续价值捕获推到 $1B 以上，HYPE 当然还可以拥有更高的估值。\n但问题在于：\n你现在付出的价格，已经要求相当漂亮的未来真正发生。\n你不是在低价购买一个被市场忽视的优秀项目。\n你是在用一个不便宜的价格，购买一个市场已经知道它很优秀的项目。\n这是两件完全不同的事情。\n所以我对当前价格的判断是：\n项目很好，赔率不够好。\n\n-------------------------------------------------------------\n\n03｜我的 HYPE 价格地图\n基于这套估值框架，我给自己画了一张价格地图。\n \n$70 以上：观察区\n在这个位置，我不会因为担心错过而追高。\n除非 Hyperliquid 的可持续收入和价值捕获继续明显增长，否则当前估值已经没有给我留下足够的安全边际。\n$50–60：试探区\n如果 HYPE 回到这个区间，同时 Hyperliquid 的交易量、收入、用户和市场份额仍然强，我会开始认真观察。\n这里可以考虑建立很小的观察仓，但还谈不上明显便宜。\n$40–50：配置区\n如果 Hyperliquid 的生意没有明显恶化，这个区间开始出现我想要的赔率。\n以约 $42 为例，它大致对应：\n$700M 可持续年化价值捕获 × 15 倍估值\n这是一个相对合理、也更容易承受周期波动的组合。\n$30–40：进攻区\n如果价格跌到这里，原因主要是整个加密市场杀估值，而不是 Hyperliquid 自己的生意出了问题，我会明显提高兴趣。\n但这里有一句必须强调：\n💰价格低，不等于便宜。\n如果 HYPE 从 $80 跌到 $40，是因为市场整体恐慌，而 Hyperliquid 依然保持：\n强劲交易量\n稳定或上升的市场份额\n健康的协议收入\n持续的 Assistance Fund 买入和销毁\n那么 $40 很可能是机会。\n\n但如果 HYPE 跌到 $40，是因为：\n用户流失\n交易量下降\n竞争对手抢走市场份额\n可持续价值捕获从 $700M 降到 $200M\n净供应开始快速增加\n那么 $40 可能一点也不便宜。\n真正应该看的永远不是单独的价格，而是：\n🚩价格 × 基本面。\n\n-------------------------------------------------------------\n\n04｜“解锁”不等于“当天卖压”\n研究 HYPE 时，还有一个反复出现的问题：\n代币解锁。\n很多第三方网站会列出一个巨大的理论解锁数字。\n看到这个数字以后，市场很容易直接得出结论：\n“这么多 HYPE 要解锁，肯定会产生巨大卖压。”\n但这中间至少隔着四个完全不同的环节：\n理论归属或解锁\n→ 实际领取\n→ 进入市场流通\n→ 转入交易所形成潜在卖压\n这四件事不能画等号。\n理论上归属了多少，不代表当天实际领取了多少。\n实际领取了多少，不代表全部立即进入市场。\n进入市场流通，也不代表全部转进交易所出售。\n因此，只盯着解锁日历，很容易高估实际卖压。\n与此同时，另一股力量也在发生：\n协议交易费用\n→ Assistance Fund\n→ 自动买入 HYPE\n→ 永久销毁\n所以，真正应该研究的不是单独的“理论解锁”，而是最终的净供应变化：\n \n实际新增流通 − 买入销毁 = 净供应变化\n以后我真正会监控的是：\n实际领取了多少 HYPE？\n市场流通量到底增加了多少？\n有多少 HYPE 转入交易所？\nAssistance Fund 同期买入并销毁了多少？\n最终净供应增加了还是减少了？\n\n如果出现下面这种情况：\n理论解锁数字很大\n实际领取数量很少\n进入交易所的数量更少\nAssistance Fund 继续大量买入和销毁\nHyperliquid 的交易量和收入仍然强劲\n那么所谓的“解锁大利空”，反而可能成为市场误判制造出来的机会。\n相反，如果实际领取、交易所流入和净供应同时快速增加，而协议收入又开始下降，那么解锁风险就不能被轻视。\n\n-------------------------------------------------------------\n\n05｜什么情况会让我改变判断？\n我现在不愿意在 $80 左右买，并不代表我永远不买，也不代表 $80 一定是顶部。\n如果下面这些事情发生，我会重新提高对 HYPE 合理估值的判断：\n📍第一，价值捕获持续突破 $1B\n不是一两个月的牛市脉冲，而是经过更长时间仍然能够维持。\n📍第二，Hyperliquid 持续扩大市场份额\n尤其是在永续合约之外，成功进入更多现货、股票指数、商品和其他交易品类。\n📍第三，用户和流动性形成更强的网络效应\n更多交易者带来更多流动性，更深的流动性又吸引更多交易者。\n📍第四，协议竞争优势没有被复制\n真正重要的不是今天领先，而是竞争对手投入大量资源以后，Hyperliquid 是否仍然能够保持产品、流动性、品牌和用户优势。\n📍第五，实际净供应增长低于市场预期\n理论解锁很大，但真实卖压较小，同时 Assistance Fund 持续买入和销毁。\n如果这些条件持续兑现，那么今天看起来乐观的估值，未来可能被基本面逐渐消化。\n但在这些事情真正发生以前，我不愿意提前把全部成功都付进价格里。\n\n-------------------------------------------------------------\n\n06｜我最终的投资结论\n如果今天让我在约 $80 买 HYPE，我的答案是：\n🈲不买。\n不是看空 Hyperliquid。\n而是等待赔率。\n如果来到 $55 左右，我会开始更密集地跟踪数据。\n如果来到 $40–50，同时基本面没有明显恶化，我会考虑第一笔配置。\n如果来到 $30–40，价格下跌主要来自市场风险偏好，而 Hyperliquid 仍然是现在这台赚钱机器，我会明显提高兴趣。\n如果价格上涨，我错过了，也没有关系。\n市场永远不缺少机会。\n真正稀缺的，是在一个项目最受欢迎、故事最性感的时候，仍然能够区分：\n❓什么是好生意，❓什么是好资产，❓什么又是好价格。\nHyperliquid 可能是一门好生意。\nHYPE 也可能是一项好资产。\n但在约 $80 的价格上，它未必是一笔赔率足够好的投资。\n所以我现在选择的不是唱空，也不是追高。\n而是：\n看好它，研究它，等待它。",
+          "preview_text": "最近我花了不少时间研究 Hyperliquid 和 HYPE。\n先说结论：\n我很看好 Hyperliquid。\n但在 HYPE 价格约 $80 的位置，我不会买。\n不是因为项目不好。",
+          "title": "我看好 HYPE，但我不想在 $80 买"
+        },
+        "attachments": {},
+        "author_id": "2679174451",
+        "conversation_id": "2092490221564879291",
+        "created_at": "2026-08-26T05:52:00.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092490221564879291"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "HYPE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2092…",
+              "end": 46,
+              "expanded_url": "https://x.com/i/article/2092485922558558208",
+              "start": 23,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2092485922558558208",
+              "url": "https://t.co/87bxpLzCD8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092490221564879291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 6232,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "近期关于对于 $HYPE 的一些观察与思考。 https://t.co/87bxpLzCD8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2092547678228115780",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 1439,
+          "like_count": 489,
+          "listed_count": 3,
+          "media_count": 876,
+          "tweet_count": 3735
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-07-25T09:20:30.000Z",
+        "description": "视觉设计师｜播客制作人｜ISFJ\n专注 AI 设计工作流与内容生产\n\n📮 商务：视觉设计、品牌咨询、播客制作",
+        "id": "2679174451",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092527082970775802",
+        "name": "MOSA",
+        "pinned_tweet_id": "1667204054135762945",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2679174451/1786935140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092504080291889152/JXjAZgOa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 250,
+          "like_count": 140,
+          "listed_count": 5,
+          "media_count": 68,
+          "tweet_count": 426
+        },
+        "url": "",
+        "username": "lansingzhao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

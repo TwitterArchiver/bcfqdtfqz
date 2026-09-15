@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2093139942683893962",
+    "created_at": "2026-08-29T00:01:11.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T01:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093489099206426872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1404449980841005065",
+          "start": 0,
+          "username": "a1547025987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093489099206426872",
+    "in_reply_to_user_id": "1404449980841005065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093139942683893962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a1547025987 你好你好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2093139942683893962",
+        "created_at": "2026-08-29T00:01:11.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T01:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093489099206426872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1404449980841005065",
+              "start": 0,
+              "username": "a1547025987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093489099206426872",
+        "in_reply_to_user_id": "1404449980841005065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093139942683893962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a1547025987 你好你好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1404449980841005065",
+        "conversation_id": "2093139942683893962",
+        "created_at": "2026-08-28T00:53:45.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T01:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093139942683893962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093139942683893962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 69478,
+          "like_count": 815,
+          "quote_count": 0,
+          "reply_count": 153,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "🇨🇳大家好！我是来自中国的中国人!\n我是喜欢中国的中国人🇨🇳\n我很高兴，因为这个软件我可以和大家聊天🥰\n我在日本住了0年，我喜欢中国文化，所以自己学习了中文，中文真的真的非常困难对我\n但是我已经不需要翻译器，希望大家多多聊天和\n我\n很高兴认识你们💕\n爱来自瓷器，还请多多关照💖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2093489099206426872",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 1436,
+          "like_count": 503,
+          "listed_count": 4,
+          "media_count": 884,
+          "tweet_count": 3821
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-14T14:45:55.000Z",
+        "description": "你说你不会忘记我。我相信，从今往后我的全部生命，就寄托在你的这句话里。即使这是施加给我的诅咒，我也会将它当成祝福一样热爱！                                                  我的宝宝：@Ananan9113              *苯海索/唑吡坦最大受害者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Ananan9113"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/@Mutsumi_never…",
+                "end": 23,
+                "expanded_url": "https://t.me/@Mutsumi_never_cries",
+                "start": 0,
+                "url": "https://t.co/e6Z8zLqL78"
+              }
+            ]
+          }
+        },
+        "id": "1404449980841005065",
+        "is_identity_verified": false,
+        "location": "佛罗里达州",
+        "most_recent_tweet_id": "2093354209697751151",
+        "name": "机巧睦头不会受伤",
+        "pinned_tweet_id": "2070897702855176460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404449980841005065/1782467925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048337386590113793/PEyizSud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 1323,
+          "like_count": 4598,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 493
+        },
+        "url": "https://t.co/e6Z8zLqL78",
+        "username": "a1547025987",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

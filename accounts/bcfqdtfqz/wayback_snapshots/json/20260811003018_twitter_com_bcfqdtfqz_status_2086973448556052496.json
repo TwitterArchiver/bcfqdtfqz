@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2086973448556052496",
+    "created_at": "2026-08-11T00:30:18.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T01:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086973448556052496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BBL2009/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/BBL2009/status/2086897914513899916",
+          "start": 8,
+          "url": "https://t.co/vFn6ap1mlv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086973448556052496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086897914513899916",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大方向基本没错 https://t.co/vFn6ap1mlv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3011,
+        "media_key": "3_2086897908477984768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYml0VWAAA3JON.jpg",
+        "width": 1841
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2086973448556052496",
+        "created_at": "2026-08-11T00:30:18.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T01:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086973448556052496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BBL2009/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/BBL2009/status/2086897914513899916",
+              "start": 8,
+              "url": "https://t.co/vFn6ap1mlv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086973448556052496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086897914513899916",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大方向基本没错 https://t.co/vFn6ap1mlv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086897908477984768"
+          ]
+        },
+        "author_id": "88389067",
+        "conversation_id": "2086897914513899916",
+        "created_at": "2026-08-10T19:30:10.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T20:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086897914513899916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uTT7XqfFTA",
+              "end": 124,
+              "expanded_url": "https://x.com/BBL2009/status/2086897914513899916/photo/1",
+              "media_key": "3_2086897908477984768",
+              "start": 101,
+              "url": "https://t.co/uTT7XqfFTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086897914513899916",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086897908477984768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我知道家人们藏龙卧虎，肯定有a8和a9🚁的弟兄姊妹，小米加步枪列出的这几条是真的吗？\n\n在下穷鬼一个，贫穷限制我的想象力，好在有家人们帮衬一把，除了这几条，家人们还有补充吗，也让我知道知道，见识见识😜 https://t.co/uTT7XqfFTA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2086973448556052496",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 1425,
+          "like_count": 452,
+          "listed_count": 2,
+          "media_count": 838,
+          "tweet_count": 3365
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-11-08T09:52:03.000Z",
+        "description": "🦞 Recording Daily AI Developments + Geeky Routine of Business Investments | Genuine Exchange Comes First 🦞",
+        "id": "88389067",
+        "is_identity_verified": false,
+        "location": "Los Angeles, United States",
+        "most_recent_tweet_id": "2086972087541887230",
+        "name": "Beastie2026",
+        "pinned_tweet_id": "2081748833797619902",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/88389067/1713293556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2538669880/sspz67l6xxplw9vt906o_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10329,
+          "following_count": 11193,
+          "like_count": 15047,
+          "listed_count": 19,
+          "media_count": 1852,
+          "tweet_count": 10885
+        },
+        "url": "",
+        "username": "BBL2009",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

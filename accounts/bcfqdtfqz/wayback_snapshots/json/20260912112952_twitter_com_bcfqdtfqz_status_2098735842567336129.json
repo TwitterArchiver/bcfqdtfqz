@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2098512230539305401",
+    "created_at": "2026-09-12T11:29:52.000Z",
+    "display_text_range": [
+      15,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T12:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098735842567336129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1629058457222656001",
+          "start": 0,
+          "username": "nursenika1840"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098735842567336129",
+    "in_reply_to_user_id": "1629058457222656001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098512230539305401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nursenika1840 有的有钱考着玩，有的追求学术，还有的是本科学历找不到工作强行考研的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2098512230539305401",
+        "created_at": "2026-09-12T11:29:52.000Z",
+        "display_text_range": [
+          15,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098735842567336129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1629058457222656001",
+              "start": 0,
+              "username": "nursenika1840"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098735842567336129",
+        "in_reply_to_user_id": "1629058457222656001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098512230539305401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nursenika1840 有的有钱考着玩，有的追求学术，还有的是本科学历找不到工作强行考研的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629058457222656001",
+        "conversation_id": "2098512230539305401",
+        "created_at": "2026-09-11T20:41:18.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T21:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098512230539305401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098512230539305401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 11831,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 80,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不懂就问，现在这么多人考研，考上研究生真能赚到钱嘛？ 哪些专业考了研更能赚钱？ 哪些专业考了研等于浪费生命？ 考研大军复习政治 英语 专业课之后，真能靠研究生身份改变本科学历的劣势么？  万分抱歉，我在国内真没考过研。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n年龄未知，性别未知，身高未知，体重未知\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 114,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 91,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2098735842567336129",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118,
+          "following_count": 1464,
+          "like_count": 535,
+          "listed_count": 4,
+          "media_count": 923,
+          "tweet_count": 4182
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T09:59:45.000Z",
+        "description": "如有移民问题可以私信，只能力所能及回答。",
+        "id": "1629058457222656001",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098691861703712806",
+        "name": "澳洲护士卡子弟",
+        "pinned_tweet_id": "1791700234860740900",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1629058457222656001/1681452587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648533563825082369/SW0QqoYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53946,
+          "following_count": 442,
+          "like_count": 10168,
+          "listed_count": 196,
+          "media_count": 956,
+          "tweet_count": 19071
+        },
+        "url": "",
+        "username": "nursenika1840",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

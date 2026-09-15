@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2092945520620933459",
+    "created_at": "2026-08-27T12:41:15.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092955603857543601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1697293328352686080",
+          "start": 0,
+          "username": "wentj390787"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092955603857543601",
+    "in_reply_to_user_id": "1697293328352686080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092945520620933459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wentj390787 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2615,
+        "media_key": "3_2092945500748357632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQui2BJboAAC3EF.jpg",
+        "width": 1834
+      },
+      {
+        "height": 2054,
+        "media_key": "3_2092945511041150976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQui2nfbMAAORQv.jpg",
+        "width": 1834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2092945520620933459",
+        "created_at": "2026-08-27T12:41:15.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092955603857543601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1697293328352686080",
+              "start": 0,
+              "username": "wentj390787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092955603857543601",
+        "in_reply_to_user_id": "1697293328352686080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092945520620933459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wentj390787 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092945500748357632",
+            "3_2092945511041150976"
+          ]
+        },
+        "author_id": "1697293328352686080",
+        "conversation_id": "2092945520620933459",
+        "created_at": "2026-08-27T12:01:11.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092945520620933459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CoCURR3ODX",
+              "end": 122,
+              "expanded_url": "https://x.com/wentj390787/status/2092945520620933459/photo/1",
+              "media_key": "3_2092945500748357632",
+              "start": 99,
+              "url": "https://t.co/CoCURR3ODX"
+            },
+            {
+              "display_url": "pic.x.com/CoCURR3ODX",
+              "end": 122,
+              "expanded_url": "https://x.com/wentj390787/status/2092945520620933459/photo/1",
+              "media_key": "3_2092945511041150976",
+              "start": 99,
+              "url": "https://t.co/CoCURR3ODX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092945520620933459",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092945500748357632"
+          },
+          {
+            "media_key": "3_2092945511041150976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以后再也不嘲笑瓦学弟叫别人“妈妈”了😭\n\n事实上，强如百亿大佬你孙割，在遇到真爱时也会叫别人“妈妈”🙌🏻💄💋\n\n我现在合理怀疑《牛来》之所以能火，是背后有一个喜欢被叫“妈妈”的群体的恶意推动👿👿 https://t.co/CoCURR3ODX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2092955603857543601",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 1436,
+          "like_count": 498,
+          "listed_count": 4,
+          "media_count": 878,
+          "tweet_count": 3770
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-31T17:02:41.000Z",
+        "description": "bilibili某六位数粉丝博主(匿名) ，二次元中登（对子供向也略有研究），锐评家，经常发点疯解读网络热点。互fo请私信 。喜欢一切内心善良的人。",
+        "id": "1697293328352686080",
+        "is_identity_verified": true,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2092952238713127169",
+        "name": "一起来吃辣条鱼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697293328352686080/1783223649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082007758245945344/ohD_w7qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5072,
+          "following_count": 5728,
+          "like_count": 2217,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 2292
+        },
+        "url": "",
+        "username": "wentj390787",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

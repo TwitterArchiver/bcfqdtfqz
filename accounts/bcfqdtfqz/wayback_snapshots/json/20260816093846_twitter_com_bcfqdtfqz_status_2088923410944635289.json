@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2088694176162754813",
+    "created_at": "2026-08-16T09:38:46.000Z",
+    "display_text_range": [
+      15,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T10:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088923410944635289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1528798633168347137",
+          "start": 0,
+          "username": "TomoriNao2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088923410944635289",
+    "in_reply_to_user_id": "1528798633168347137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088694176162754813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TomoriNao2022 客观评价，如果不外力干预下，牛来排片时长跟哪吒二差不多能破亿。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 444,
+        "media_key": "3_2088693776537833472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyH7GMbUAAUbZh.png",
+        "width": 200
+      },
+      {
+        "height": 690,
+        "media_key": "3_2088693800239779840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyH8efaUAAQDZZ.png",
+        "width": 491
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2088694176162754813",
+        "created_at": "2026-08-16T09:38:46.000Z",
+        "display_text_range": [
+          15,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088923410944635289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1528798633168347137",
+              "start": 0,
+              "username": "TomoriNao2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088923410944635289",
+        "in_reply_to_user_id": "1528798633168347137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088694176162754813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TomoriNao2022 客观评价，如果不外力干预下，牛来排片时长跟哪吒二差不多能破亿。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088693776537833472",
+            "3_2088693800239779840"
+          ]
+        },
+        "author_id": "1528798633168347137",
+        "conversation_id": "2088694176162754813",
+        "created_at": "2026-08-15T18:27:52.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T19:27:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088694026518347904",
+          "2088694176162754813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tEauUfD6du",
+              "end": 87,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2088694176162754813/photo/1",
+              "media_key": "3_2088693776537833472",
+              "start": 64,
+              "url": "https://t.co/tEauUfD6du"
+            },
+            {
+              "display_url": "pic.x.com/tEauUfD6du",
+              "end": 87,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2088694176162754813/photo/1",
+              "media_key": "3_2088693800239779840",
+              "start": 64,
+              "url": "https://t.co/tEauUfD6du"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088694176162754813",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088693776537833472"
+          },
+          {
+            "media_key": "3_2088693800239779840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1406,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛来票房暴涨1000倍。。。。😅\n\n就是一坨屎，也一定会人去尝尝咸淡。\n\n不过有一说一，这东西也不算劣币驱逐良币，这应该是冥币 https://t.co/tEauUfD6du"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2088923410944635289",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1757,
+          "following_count": 1427,
+          "like_count": 464,
+          "listed_count": 2,
+          "media_count": 849,
+          "tweet_count": 3466
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！\ntelegram：https://t.co/K8jioEliU0\ndiscord：https://t.co/g6evdifySc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+wVgo88kx8FphN…",
+                "end": 48,
+                "expanded_url": "https://t.me/+wVgo88kx8FphNjdl",
+                "start": 25,
+                "url": "https://t.co/K8jioEliU0"
+              },
+              {
+                "display_url": "discord.gg/5YhkSchu2",
+                "end": 80,
+                "expanded_url": "https://discord.gg/5YhkSchu2",
+                "start": 57,
+                "url": "https://t.co/g6evdifySc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/5YhkSchu2",
+                "end": 23,
+                "expanded_url": "https://discord.gg/5YhkSchu2",
+                "start": 0,
+                "url": "https://t.co/g6evdifySc"
+              }
+            ]
+          }
+        },
+        "id": "1528798633168347137",
+        "is_identity_verified": false,
+        "location": "神奈川県",
+        "most_recent_tweet_id": "2088916752864571770",
+        "name": "なおNaO",
+        "pinned_tweet_id": "2073983646399365630",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1528798633168347137/1653500269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18762,
+          "following_count": 1390,
+          "like_count": 12240,
+          "listed_count": 67,
+          "media_count": 3070,
+          "tweet_count": 11587
+        },
+        "url": "https://t.co/g6evdifySc",
+        "username": "TomoriNao2022",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

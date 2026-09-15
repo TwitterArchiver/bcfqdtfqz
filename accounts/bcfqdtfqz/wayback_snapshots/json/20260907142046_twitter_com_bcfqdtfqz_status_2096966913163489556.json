@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2096899305080602626",
+    "created_at": "2026-09-07T14:20:46.000Z",
+    "display_text_range": [
+      8,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096966913163489556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2041146061750956032",
+          "start": 0,
+          "username": "Liqwfe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096966913163489556",
+    "in_reply_to_user_id": "2041146061750956032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096899305080602626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liqwfe 那我还是逃课吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2096899305080602626",
+        "created_at": "2026-09-07T14:20:46.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096966913163489556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2041146061750956032",
+              "start": 0,
+              "username": "Liqwfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096966913163489556",
+        "in_reply_to_user_id": "2041146061750956032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096899305080602626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liqwfe 那我还是逃课吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041146061750956032",
+        "conversation_id": "2096899305080602626",
+        "created_at": "2026-09-07T09:52:07.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096899305080602626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096899305080602626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 544,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下你在上公选课 上课前一分钟旁边忽然来了一个男生散发着剧烈的狐臭。而你逃无可逃。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 94,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 71,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2096966913163489556",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 1458,
+          "like_count": 527,
+          "listed_count": 4,
+          "media_count": 907,
+          "tweet_count": 4082
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T13:29:04.000Z",
+        "description": "=00/林林｜07 intj ｜特别特别多碎碎念\n偶尔分享一些有趣的AI小玩具！😙\n欢迎人机恋的妹子互fo(｡ì _ í｡)\n请随意称呼🫶欢迎欢迎欢迎私联😙",
+        "id": "2041146061750956032",
+        "is_identity_verified": false,
+        "location": "潇湘",
+        "most_recent_tweet_id": "2096959221019365708",
+        "name": "林刻雪",
+        "pinned_tweet_id": "2093788221167792269",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041146061750956032/1785952011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086787459048964096/qdP_sb56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 318,
+          "like_count": 4605,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1348
+        },
+        "url": "",
+        "username": "Liqwfe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

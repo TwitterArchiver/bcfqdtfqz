@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2091205075209453649",
+    "created_at": "2026-08-23T02:01:31.000Z",
+    "display_text_range": [
+      18,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T03:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091345058461372555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "899470193776140289",
+          "start": 0,
+          "username": "hzqsns"
+        },
+        {
+          "end": 17,
+          "id": "1095025372914053120",
+          "start": 8,
+          "username": "LinQingV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091345058461372555",
+    "in_reply_to_user_id": "899470193776140289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091326903106068668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzqsns @LinQingV 如果长鑫pe放在闪迪上，迪子也能跟七姐妹掰手腕。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2091205075209453649",
+        "created_at": "2026-08-23T02:01:31.000Z",
+        "display_text_range": [
+          18,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T03:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091345058461372555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "899470193776140289",
+              "start": 0,
+              "username": "hzqsns"
+            },
+            {
+              "end": 17,
+              "id": "1095025372914053120",
+              "start": 8,
+              "username": "LinQingV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091345058461372555",
+        "in_reply_to_user_id": "899470193776140289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091326903106068668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzqsns @LinQingV 如果长鑫pe放在闪迪上，迪子也能跟七姐妹掰手腕。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "899470193776140289",
+        "conversation_id": "2091205075209453649",
+        "created_at": "2026-08-23T00:49:23.000Z",
+        "display_text_range": [
+          10,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T01:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091326903106068668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1095025372914053120",
+              "start": 0,
+              "username": "LinQingV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091326903106068668",
+        "in_reply_to_user_id": "1095025372914053120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091205075209453649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinQingV 会不会削弱SNDK的估值啊我在想。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2091345058461372555",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 1429,
+          "like_count": 483,
+          "listed_count": 2,
+          "media_count": 865,
+          "tweet_count": 3649
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-21T03:16:20.000Z",
+        "description": "ex-KS | ex-Baidu | 好男孩喵\nISFJ | mtx | 奇迹和魔法并不是免费的\n🐧：第40542075个质数(动动你聪明的脑袋瓜算一下) \n匿名提问箱：https://t.co/m2nyyckCBJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/0kg37l",
+                "end": 108,
+                "expanded_url": "https://reurl.cc/0kg37l",
+                "start": 85,
+                "url": "https://t.co/m2nyyckCBJ"
+              }
+            ]
+          }
+        },
+        "id": "899470193776140289",
+        "is_identity_verified": false,
+        "location": "M87",
+        "most_recent_tweet_id": "2091339682248573127",
+        "name": "Sakura🜃",
+        "pinned_tweet_id": "2061076825389019435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/899470193776140289/1744911350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471482768732160/Okzc1BWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 610,
+          "like_count": 4073,
+          "listed_count": 4,
+          "media_count": 629,
+          "tweet_count": 2731
+        },
+        "url": "",
+        "username": "hzqsns",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-11T18:22:48.000Z",
+        "description": "Ex-quant & PM｜AI chip design｜Semis × Capital Markets｜Not Financial Advice",
+        "id": "1095025372914053120",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091206683217527148",
+        "name": "Macro_Lin",
+        "pinned_tweet_id": "2069986536247218248",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1095025372914053120/1736514227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877702741306507264/0CbIskr3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55053,
+          "following_count": 1491,
+          "like_count": 2936,
+          "listed_count": 1077,
+          "media_count": 324,
+          "tweet_count": 4880
+        },
+        "url": "",
+        "username": "LinQingV",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

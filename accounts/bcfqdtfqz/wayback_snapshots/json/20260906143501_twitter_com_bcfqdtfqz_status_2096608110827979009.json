@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2096406510628925540",
+    "created_at": "2026-09-06T14:35:01.000Z",
+    "display_text_range": [
+      10,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096608110827979009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "823319475864748032",
+          "start": 0,
+          "username": "Ehco1996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096608110827979009",
+    "in_reply_to_user_id": "823319475864748032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096406510628925540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ehco1996 manus过于落后了，用了cherry studio接了ds的api再用mauns感觉不太顺手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2096406510628925540",
+        "created_at": "2026-09-06T14:35:01.000Z",
+        "display_text_range": [
+          10,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096608110827979009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "823319475864748032",
+              "start": 0,
+              "username": "Ehco1996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096608110827979009",
+        "in_reply_to_user_id": "823319475864748032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096406510628925540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ehco1996 manus过于落后了，用了cherry studio接了ds的api再用mauns感觉不太顺手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "823319475864748032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2096406510628925540",
+        "created_at": "2026-09-06T01:13:56.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096406510628925540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096406510628925540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 40481,
+          "like_count": 113,
+          "quote_count": 2,
+          "reply_count": 97,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "实话说我不明白 gpt6 这波到底发了什么\n\n如果只是加强了 computer use 的能力，让模型的能更好的调用工具画 3d 什么的，这难道不应该是 manus的 活么？\n\n我理解这是工程能力 不是模型本身的能力跃进，还是我哪边没搞对🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 94,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 71,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2096608110827979009",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 1454,
+          "like_count": 524,
+          "listed_count": 4,
+          "media_count": 906,
+          "tweet_count": 4062
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-01-23T00:00:34.000Z",
+        "description": "是 ehco 不是 echo 是 typo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Ehco1996",
+                "end": 23,
+                "expanded_url": "https://github.com/Ehco1996",
+                "start": 0,
+                "url": "https://t.co/H6049QcUDL"
+              }
+            ]
+          }
+        },
+        "id": "823319475864748032",
+        "is_identity_verified": false,
+        "location": "home",
+        "most_recent_tweet_id": "2096406510628925540",
+        "name": "Ehco",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014131596262338560/X8riyrJy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11114,
+          "following_count": 791,
+          "like_count": 6131,
+          "listed_count": 73,
+          "media_count": 537,
+          "tweet_count": 2712
+        },
+        "url": "https://t.co/H6049QcUDL",
+        "username": "Ehco1996",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

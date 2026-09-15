@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2093916815395098766",
+    "created_at": "2026-08-30T13:22:56.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T14:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094053253868867812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2074667929908502529",
+          "start": 0,
+          "username": "johnsmithqewgh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094053253868867812",
+    "in_reply_to_user_id": "2074667929908502529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093916815395098766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@johnsmithqewgh 考个差不多的大学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2093916815395098766",
+        "created_at": "2026-08-30T13:22:56.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094053253868867812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2074667929908502529",
+              "start": 0,
+              "username": "johnsmithqewgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094053253868867812",
+        "in_reply_to_user_id": "2074667929908502529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093916815395098766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@johnsmithqewgh 考个差不多的大学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074667929908502529",
+        "conversation_id": "2093916815395098766",
+        "created_at": "2026-08-30T04:20:46.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093916815395098766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093916815395098766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13442,
+          "like_count": 149,
+          "quote_count": 2,
+          "reply_count": 163,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我上高二了😭😭😭😭我上高二了😭😭😭😭我上高二了😭😭😭😭我上高二了😭😭😭😭我上高二了😭😭😭😭我上高二了😭😭😭😭我上高二了😭😭😭😭\n推友们有没有什么建议给我🥺\n我怕自己坚持不下去了😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2094053253868867812",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 1434,
+          "like_count": 506,
+          "listed_count": 4,
+          "media_count": 891,
+          "tweet_count": 3851
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-08T01:36:08.000Z",
+        "description": "原来的号被炸毁了。转生成功，这里是二周目。为了保证不再被狂轰滥炸，决定安静地当个斯人。高二在读，Python开发者，Windows/Linux（Debian系）。谢谢你关注窝！\n有TG了，欢迎来找窝聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/johnsmithqewgh",
+                "end": 23,
+                "expanded_url": "http://t.me/johnsmithqewgh",
+                "start": 0,
+                "url": "https://t.co/bmuTFUKBsG"
+              }
+            ]
+          }
+        },
+        "id": "2074667929908502529",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094052858102513927",
+        "name": "JS二周目",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074667929908502529/1783477305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074830605200535552/6F__D4nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 59,
+          "like_count": 1440,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/bmuTFUKBsG",
+        "username": "johnsmithqewgh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

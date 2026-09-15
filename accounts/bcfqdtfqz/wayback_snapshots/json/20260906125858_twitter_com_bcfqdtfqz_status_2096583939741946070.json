@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2096279945718968322",
+    "created_at": "2026-09-06T12:58:58.000Z",
+    "display_text_range": [
+      18,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T13:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096583939741946070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "54918133",
+          "start": 0,
+          "username": "0xraco"
+        },
+        {
+          "end": 17,
+          "id": "1809644323077849088",
+          "start": 8,
+          "username": "KeKeYa88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096583939741946070",
+    "in_reply_to_user_id": "54918133",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096544480996528233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xraco @KeKeYa88 富哥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 936,
+        "media_key": "3_2096544472888901632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhsFxJaAAASPCg.jpg",
+        "width": 901
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2096279945718968322",
+        "created_at": "2026-09-06T12:58:58.000Z",
+        "display_text_range": [
+          18,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096583939741946070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "54918133",
+              "start": 0,
+              "username": "0xraco"
+            },
+            {
+              "end": 17,
+              "id": "1809644323077849088",
+              "start": 8,
+              "username": "KeKeYa88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096583939741946070",
+        "in_reply_to_user_id": "54918133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096544480996528233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xraco @KeKeYa88 富哥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096544472888901632"
+          ]
+        },
+        "author_id": "54918133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096279945718968322",
+        "created_at": "2026-09-06T10:22:10.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096544480996528233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809644323077849088",
+              "start": 0,
+              "username": "KeKeYa88"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQhPckHmZp",
+              "end": 40,
+              "expanded_url": "https://x.com/0xraco/status/2096544480996528233/photo/1",
+              "media_key": "3_2096544472888901632",
+              "start": 17,
+              "url": "https://t.co/LQhPckHmZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096544480996528233",
+        "in_reply_to_user_id": "1809644323077849088",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096544472888901632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 627,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096279945718968322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KeKeYa88 是这样吗 哥 https://t.co/LQhPckHmZp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 94,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 71,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2096583939741946070",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 1446,
+          "like_count": 523,
+          "listed_count": 4,
+          "media_count": 905,
+          "tweet_count": 4036
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-07-08T14:53:41.000Z",
+        "description": "辞职创业 | 3D打印 | 建模学习 | 探索硬件 | AI",
+        "id": "54918133",
+        "is_identity_verified": false,
+        "location": "#AI",
+        "most_recent_tweet_id": "2096553999818539346",
+        "name": "Raco | 旭",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/54918133/1718541221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096185618346946560/nbWjIPWy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 108,
+          "like_count": 218,
+          "listed_count": 17,
+          "media_count": 56,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "0xraco",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-06T17:43:53.000Z",
+        "description": "医学生在读/web3入门/AI探索者/理财小白\n🤖https://t.co/MwaurZ1Z82 Community Growth Operator ｜ 搞钱研究所💰 \n坚定的半导体持有者！\n商务合作直接私信\n个人网站：https://t.co/QRQM24587p\n@hhdhhd02009235",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 134,
+                "username": "hhdhhd02009235"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "KOSX.ai",
+                "end": 48,
+                "expanded_url": "http://KOSX.ai",
+                "start": 25,
+                "url": "https://t.co/MwaurZ1Z82"
+              },
+              {
+                "display_url": "coucouya.com",
+                "end": 133,
+                "expanded_url": "http://coucouya.com",
+                "start": 110,
+                "url": "https://t.co/QRQM24587p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=ivYYWYcV",
+                "start": 0,
+                "url": "https://t.co/27LaQrcgEO"
+              }
+            ]
+          }
+        },
+        "id": "1809644323077849088",
+        "is_identity_verified": true,
+        "location": "自用机场👉",
+        "most_recent_tweet_id": "2096576488359555496",
+        "name": "可可鸭",
+        "pinned_tweet_id": "2095842772804841773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809644323077849088/1787485374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943531622743097344/frvI5TWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5631,
+          "following_count": 945,
+          "like_count": 15492,
+          "listed_count": 12,
+          "media_count": 455,
+          "tweet_count": 7154
+        },
+        "url": "https://t.co/27LaQrcgEO",
+        "username": "KeKeYa88",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

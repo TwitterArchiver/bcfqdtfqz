@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2090943228757577892",
+    "created_at": "2026-08-22T02:27:05.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T03:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090989103735345339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1491568506898649088",
+          "start": 0,
+          "username": "a2013bc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090989103735345339",
+    "in_reply_to_user_id": "1491568506898649088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090943228757577892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a2013bc 这期是人造牛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2090943228757577892",
+        "created_at": "2026-08-22T02:27:05.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T03:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090989103735345339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1491568506898649088",
+              "start": 0,
+              "username": "a2013bc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090989103735345339",
+        "in_reply_to_user_id": "1491568506898649088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090943228757577892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a2013bc 这期是人造牛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491568506898649088",
+        "conversation_id": "2090943228757577892",
+        "created_at": "2026-08-21T23:24:48.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T00:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090943228757577892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a2013bc/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/a2013bc/status/2090943161011220831",
+              "start": 7,
+              "url": "https://t.co/KwSHAeHHPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090943228757577892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090943161011220831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打开地狱之门 https://t.co/KwSHAeHHPx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2090989103735345339",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 1422,
+          "like_count": 478,
+          "listed_count": 2,
+          "media_count": 862,
+          "tweet_count": 3605
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-10T00:24:05.000Z",
+        "description": "“以物配主的人群及其崇拜的偶像，都是火狱的燃料，他们将永居其中。”（21:98-99）\n“惟有……拜偶像的……他们的份就在烧着硫磺的火湖里。”启示录 21:8",
+        "id": "1491568506898649088",
+        "is_identity_verified": false,
+        "location": "😋",
+        "most_recent_tweet_id": "2090980538165477576",
+        "name": "地狱之门守门员🇺🇦",
+        "pinned_tweet_id": "2062073635188416748",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020410978526187520/2Ih7mxPp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 1699,
+          "like_count": 26124,
+          "listed_count": 8,
+          "media_count": 2611,
+          "tweet_count": 31914
+        },
+        "url": "",
+        "username": "a2013bc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

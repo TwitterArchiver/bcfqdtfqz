@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2090303108429529571",
+    "created_at": "2026-08-20T12:31:51.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090416520002523378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1430384319122579459",
+          "start": 0,
+          "username": "0x044414D0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090416520002523378",
+    "in_reply_to_user_id": "1430384319122579459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090303108429529571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0x044414D0 我差点要开喷直到我看完了评论区"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14170,
+        "height": 1280,
+        "media_key": "13_2090303027647238144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090303027647238144/img/DKOL5avovJbuY3Z2.jpg",
+        "public_metrics": {
+          "view_count": 185753
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090303027647238144/vid/avc1/320x568/rdeCGSNTmSB05rKr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090303027647238144/vid/avc1/480x852/uG_KVrtrnjjoSwGn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090303027647238144/vid/avc1/720x1280/y3Ln60aDZUsk9Z_9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090303027647238144/pl/nxD4gMerxj5-b0fn.m3u8?v=938"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1179,
+        "media_key": "3_2090303027651522560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQI_h1wXsAA3bh9.jpg",
+        "width": 1881
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2090303108429529571",
+        "created_at": "2026-08-20T12:31:51.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090416520002523378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1430384319122579459",
+              "start": 0,
+              "username": "0x044414D0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090416520002523378",
+        "in_reply_to_user_id": "1430384319122579459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090303108429529571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x044414D0 我差点要开喷直到我看完了评论区"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090303027647238144",
+            "3_2090303027651522560"
+          ]
+        },
+        "author_id": "1430384319122579459",
+        "conversation_id": "2090303108429529571",
+        "created_at": "2026-08-20T05:01:11.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090303108429529571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxhoDasJwN",
+              "end": 68,
+              "expanded_url": "https://x.com/0x044414D0/status/2090303108429529571/video/1",
+              "media_key": "13_2090303027647238144",
+              "start": 45,
+              "url": "https://t.co/LxhoDasJwN"
+            },
+            {
+              "display_url": "pic.x.com/LxhoDasJwN",
+              "end": 68,
+              "expanded_url": "https://x.com/0x044414D0/status/2090303108429529571/video/1",
+              "media_key": "3_2090303027651522560",
+              "start": 45,
+              "url": "https://t.co/LxhoDasJwN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090303108429529571",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090303027647238144"
+          },
+          {
+            "media_key": "3_2090303027651522560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 765,
+          "impression_count": 315692,
+          "like_count": 1921,
+          "quote_count": 0,
+          "reply_count": 438,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "你的白月光七夕一直不回你消息\n直到你发了无数个1314后白月光终于发了一个视频并嘲讽了你 https://t.co/LxhoDasJwN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2090416520002523378",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 1417,
+          "like_count": 476,
+          "listed_count": 2,
+          "media_count": 862,
+          "tweet_count": 3565
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-25T04:20:21.000Z",
+        "description": "我要做优雅大姐姐 偶尔s属性大爆发\nCosplay & Cla/goth LolitaFashion\n去漫展搞cosplay的 日常穿lo出门炸街的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/04KxxdWCq1"
+              }
+            ]
+          }
+        },
+        "id": "1430384319122579459",
+        "is_identity_verified": false,
+        "location": "Middle of Nowhere",
+        "most_recent_tweet_id": "2090382823966298620",
+        "name": "小明不是黑长直学姐",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1430384319122579459/1762063320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984863495393783808/wi9_hWZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6348,
+          "following_count": 237,
+          "like_count": 5014,
+          "listed_count": 24,
+          "media_count": 643,
+          "tweet_count": 3633
+        },
+        "url": "https://t.co/04KxxdWCq1",
+        "username": "0x044414D0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

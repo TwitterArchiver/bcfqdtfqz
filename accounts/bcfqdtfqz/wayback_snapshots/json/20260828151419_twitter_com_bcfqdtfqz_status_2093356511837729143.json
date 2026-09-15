@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2093271528389660676",
+    "created_at": "2026-08-28T15:14:19.000Z",
+    "display_text_range": [
+      13,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T16:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093356511837729143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1697293328352686080",
+          "start": 0,
+          "username": "wentj390787"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093356511837729143",
+    "in_reply_to_user_id": "1697293328352686080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093271528389660676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wentj390787 怪不得全是妙界转转和瓜子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2093271528389660676",
+        "created_at": "2026-08-28T15:14:19.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T16:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093356511837729143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1697293328352686080",
+              "start": 0,
+              "username": "wentj390787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093356511837729143",
+        "in_reply_to_user_id": "1697293328352686080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093271528389660676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wentj390787 怪不得全是妙界转转和瓜子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697293328352686080",
+        "conversation_id": "2093271528389660676",
+        "created_at": "2026-08-28T09:36:38.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T10:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093271528389660676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jlxc2001/statu…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/jlxc2001/status/2093121897387168107",
+              "start": 144,
+              "url": "https://t.co/cKqfekbTMu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093271528389660676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "想念当年红利期一个月赚五六万的生活，广告接手软，水一期视频两千多创作激励😂\n\nB站现在做视频想靠着创作激励只能饿死，不过也有独家的激励计划，大up签的那种万播可能有20多以上。\n\n现在收入大头就是那些各个区小编搞的带话题的活动，在话题里面获奖了可能能得个一两千块钱，接点广告也能活...\n\n抖音的那个精选视频激励计划比B站钱多太多了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 611,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093121897387168107",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想念当年红利期一个月赚五六万的生活，广告接手软，水一期视频两千多创作激励😂\n\nB站现在做视频想靠着创作激励只能饿死，不过也有独家的激励计划，大up签的那种万播可能有20多以上。\n\n现在收入大头就是那些各个区小编搞的带话题的活动，在话题里面获奖了可能能得个一两千块钱，接点广告也能活... https://t.co/cKqfekbTMu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2093356511837729143",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1821,
+          "following_count": 1435,
+          "like_count": 500,
+          "listed_count": 4,
+          "media_count": 883,
+          "tweet_count": 3802
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-31T17:02:41.000Z",
+        "description": "bilibili某六位数粉丝博主(匿名) ，二次元中登（对子供向也略有研究），锐评家，经常发点疯解读网络热点。互fo请私信 。喜欢一切内心善良的人。",
+        "id": "1697293328352686080",
+        "is_identity_verified": true,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2093296396355207429",
+        "name": "一起来吃辣条鱼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697293328352686080/1783223649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082007758245945344/ohD_w7qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5151,
+          "following_count": 5761,
+          "like_count": 2251,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 2316
+        },
+        "url": "",
+        "username": "wentj390787",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

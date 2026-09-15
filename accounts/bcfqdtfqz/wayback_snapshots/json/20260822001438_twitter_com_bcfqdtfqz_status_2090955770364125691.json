@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2090478872051810602",
+    "created_at": "2026-08-22T00:14:38.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T01:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090955770364125691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "24166352",
+          "start": 0,
+          "username": "corleone0414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090955770364125691",
+    "in_reply_to_user_id": "2018306514549972992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090955733366169894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@corleone0414 是真的我吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2090478872051810602",
+        "created_at": "2026-08-22T00:14:38.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T01:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090955770364125691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "24166352",
+              "start": 0,
+              "username": "corleone0414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090955770364125691",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090955733366169894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@corleone0414 是真的我吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2090478872051810602",
+        "created_at": "2026-08-22T00:14:29.000Z",
+        "display_text_range": [
+          14,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T01:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090955733366169894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "24166352",
+              "start": 0,
+              "username": "corleone0414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090955733366169894",
+        "in_reply_to_user_id": "24166352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090478872051810602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@corleone0414 本来还半信半疑的，看完评论区"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2090955770364125691",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 1419,
+          "like_count": 479,
+          "listed_count": 2,
+          "media_count": 862,
+          "tweet_count": 3584
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-03-13T13:00:37.000Z",
+        "description": "@yuan0528TT \n其实上面这个是我的小号。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "yuan0528TT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cor1eone",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cor1eone",
+                "start": 0,
+                "url": "https://t.co/zRmcFlnHpc"
+              }
+            ]
+          }
+        },
+        "id": "24166352",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090865618199421268",
+        "name": "寧",
+        "pinned_tweet_id": "2090772277478805919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24166352/1787139105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090038293136379904/Vu9yg7x9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 17,
+          "like_count": 91,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 205
+        },
+        "url": "https://t.co/zRmcFlnHpc",
+        "username": "corleone0414",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

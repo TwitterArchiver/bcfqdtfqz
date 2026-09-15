@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2094727734690029586",
+    "created_at": "2026-09-01T10:17:26.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T11:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094731351056601120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1470943033365438470",
+          "start": 0,
+          "username": "MI_0_SE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094731351056601120",
+    "in_reply_to_user_id": "1470943033365438470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094727734690029586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MI_0_SE 怎么还有我的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2094727734690029586",
+        "created_at": "2026-09-01T10:17:26.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094731351056601120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1470943033365438470",
+              "start": 0,
+              "username": "MI_0_SE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094731351056601120",
+        "in_reply_to_user_id": "1470943033365438470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094727734690029586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MI_0_SE 怎么还有我的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470943033365438470",
+        "conversation_id": "2094727734690029586",
+        "created_at": "2026-09-01T10:03:04.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094727734690029586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094727734690029586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实回顾过去我发现\n\n边学边玩的效率是只学不玩的好几倍\n不开玩笑,我用番茄工作法,每个小时分配10到20分钟来玩手机,能学一整天,而且持续多少天都没问题\n\n但我要是强迫自己不玩,只能学,就越学越枯燥,越枯燥效率越低,读一行字都要反复读两三轮,可能坚持两个小时就顶不住了就玩半天手机或直接摆烂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2094731351056601120",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 1433,
+          "like_count": 510,
+          "listed_count": 4,
+          "media_count": 893,
+          "tweet_count": 3905
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "我是澪世 (404 not found)，你可以叫我 04 或者 みおせ (Miose) 都行",
+        "id": "1470943033365438470",
+        "is_identity_verified": false,
+        "location": "404 Not Found",
+        "most_recent_tweet_id": "2094728041264193599",
+        "name": "澪世❄️",
+        "pinned_tweet_id": "2080579498047832367",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1470943033365438470/1782138752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006754677745135617/PTxLN9py_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3137,
+          "following_count": 868,
+          "like_count": 29088,
+          "listed_count": 11,
+          "media_count": 1558,
+          "tweet_count": 21087
+        },
+        "url": "",
+        "username": "MI_0_SE",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

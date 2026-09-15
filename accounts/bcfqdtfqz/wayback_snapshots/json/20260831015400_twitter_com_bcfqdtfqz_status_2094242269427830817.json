@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2094001952376189205",
+    "created_at": "2026-08-31T01:54:00.000Z",
+    "display_text_range": [
+      41,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T02:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094242269427830817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1821945406718406660",
+          "start": 0,
+          "username": "li3108450150546"
+        },
+        {
+          "end": 32,
+          "id": "1600914955951378464",
+          "start": 17,
+          "username": "joshuabuford29"
+        },
+        {
+          "end": 40,
+          "id": "1220850306268811265",
+          "start": 33,
+          "username": "D1iloa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094242269427830817",
+    "in_reply_to_user_id": "1821945406718406660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094240852386459771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li3108450150546 @joshuabuford29 @D1iloa 机器人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2094001952376189205",
+        "created_at": "2026-08-31T01:54:00.000Z",
+        "display_text_range": [
+          41,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T02:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094242269427830817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1821945406718406660",
+              "start": 0,
+              "username": "li3108450150546"
+            },
+            {
+              "end": 32,
+              "id": "1600914955951378464",
+              "start": 17,
+              "username": "joshuabuford29"
+            },
+            {
+              "end": 40,
+              "id": "1220850306268811265",
+              "start": 33,
+              "username": "D1iloa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094242269427830817",
+        "in_reply_to_user_id": "1821945406718406660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094240852386459771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li3108450150546 @joshuabuford29 @D1iloa 机器人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821945406718406660",
+        "conversation_id": "2094001952376189205",
+        "created_at": "2026-08-31T01:48:22.000Z",
+        "display_text_range": [
+          35,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T02:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094240852386459771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1600914955951378464",
+              "start": 0,
+              "username": "joshuabuford29"
+            },
+            {
+              "end": 26,
+              "id": "2018306514549972992",
+              "start": 16,
+              "username": "bcfqdtfqz"
+            },
+            {
+              "end": 34,
+              "id": "1220850306268811265",
+              "start": 27,
+              "username": "D1iloa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094240852386459771",
+        "in_reply_to_user_id": "1600914955951378464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094099512667328528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joshuabuford29 @bcfqdtfqz @D1iloa 🤔你是被盗号了还是刷什么任务？实在不像机器人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2094242269427830817",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 1434,
+          "like_count": 506,
+          "listed_count": 4,
+          "media_count": 891,
+          "tweet_count": 3854
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-09T16:23:46.000Z",
+        "description": "想要获取更多知识",
+        "id": "1821945406718406660",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2094240852386459771",
+        "name": "易冬暖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1821945406718406660/1763950233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066886741882011648/uj9BNiE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 283,
+          "like_count": 1305,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 451
+        },
+        "url": "",
+        "username": "li3108450150546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-08T18:07:33.000Z",
+        "description": "",
+        "id": "1600914955951378464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094117942048997832",
+        "name": "伊伊",
+        "pinned_tweet_id": "1866536552660140083",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600914955951378464/1727342190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093936722778390528/iOW2nFDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 538,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1012
+        },
+        "url": "",
+        "username": "joshuabuford29",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-24T23:26:17.000Z",
+        "description": "我比男人更好色",
+        "id": "1220850306268811265",
+        "is_identity_verified": false,
+        "location": "附近2.88km",
+        "most_recent_tweet_id": "2093958308663308583",
+        "name": "那亲亲吧",
+        "pinned_tweet_id": "2093956775330591062",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1220850306268811265/1788071268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093948788499263488/MVPDyVJk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 315,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "D1iloa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

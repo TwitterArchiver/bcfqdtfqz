@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2097146801178738877",
+    "created_at": "2026-09-08T06:10:10.000Z",
+    "display_text_range": [
+      11,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T07:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097205838368968743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1497122386474258434",
+          "start": 0,
+          "username": "yunfan716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097205838368968743",
+    "in_reply_to_user_id": "1497122386474258434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097146801178738877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunfan716 万fo号关注这么值钱吗🫪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097146788704870400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqP5Kaa4AAI5bq.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097146788717445120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqP5KdawAAzY39.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2097146801178738877",
+        "created_at": "2026-09-08T06:10:10.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097205838368968743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1497122386474258434",
+              "start": 0,
+              "username": "yunfan716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097205838368968743",
+        "in_reply_to_user_id": "1497122386474258434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097146801178738877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunfan716 万fo号关注这么值钱吗🫪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097146788704870400",
+            "3_2097146788717445120"
+          ]
+        },
+        "author_id": "1497122386474258434",
+        "conversation_id": "2097146801178738877",
+        "created_at": "2026-09-08T02:15:35.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T03:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097146801178738877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dTY7lricjP",
+              "end": 80,
+              "expanded_url": "https://x.com/yunfan716/status/2097146801178738877/photo/1",
+              "media_key": "3_2097146788704870400",
+              "start": 57,
+              "url": "https://t.co/dTY7lricjP"
+            },
+            {
+              "display_url": "pic.x.com/dTY7lricjP",
+              "end": 80,
+              "expanded_url": "https://x.com/yunfan716/status/2097146801178738877/photo/1",
+              "media_key": "3_2097146788717445120",
+              "start": 57,
+              "url": "https://t.co/dTY7lricjP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097146801178738877",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097146788704870400"
+          },
+          {
+            "media_key": "3_2097146788717445120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 29286,
+          "like_count": 75,
+          "quote_count": 3,
+          "reply_count": 125,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "一个收取50美金，这就是头部KOL吗？\n\n7427x50=371350美金\n\n我去！此人也太会赚钱了吧，赚麻了！ https://t.co/dTY7lricjP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n年龄未知，性别未知，身高未知，体重未知\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 114,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 91,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2097205838368968743",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 1460,
+          "like_count": 527,
+          "listed_count": 4,
+          "media_count": 910,
+          "tweet_count": 4100
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-25T08:12:54.000Z",
+        "description": "单币观察｜专注BTC、山寨、美股/纳指ETF、黄金交易与分析\n遵循财富的边际与认知规律｜真实记录逆袭过程",
+        "id": "1497122386474258434",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097185034453348544",
+        "name": "Web3香克斯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497122386474258434/1719652704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053377558696308736/r1LaONh0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5019,
+          "following_count": 4742,
+          "like_count": 3211,
+          "listed_count": 3,
+          "media_count": 286,
+          "tweet_count": 4476
+        },
+        "url": "",
+        "username": "yunfan716",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

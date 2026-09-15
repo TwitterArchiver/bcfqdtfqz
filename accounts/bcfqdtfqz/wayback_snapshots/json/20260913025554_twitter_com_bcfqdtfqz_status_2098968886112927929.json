@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098968661004587008",
+        "3_2098968680105488384",
+        "3_2098968863929249792"
+      ]
+    },
+    "author_id": "2018306514549972992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2098968886112927929",
+    "created_at": "2026-09-13T02:55:54.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T03:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098968886112927929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HyzjsNgiY1",
+          "end": 43,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2098968886112927929/photo/1",
+          "media_key": "3_2098968661004587008",
+          "start": 20,
+          "url": "https://t.co/HyzjsNgiY1"
+        },
+        {
+          "display_url": "pic.x.com/HyzjsNgiY1",
+          "end": 43,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2098968886112927929/photo/1",
+          "media_key": "3_2098968680105488384",
+          "start": 20,
+          "url": "https://t.co/HyzjsNgiY1"
+        },
+        {
+          "display_url": "pic.x.com/HyzjsNgiY1",
+          "end": 43,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2098968886112927929/photo/1",
+          "media_key": "3_2098968863929249792",
+          "start": 20,
+          "url": "https://t.co/HyzjsNgiY1"
+        },
+        {
+          "display_url": "x.com/bcfqdtfqz/stat…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/bcfqdtfqz/status/2098967628765442308",
+          "start": 44,
+          "url": "https://t.co/6cB4TEqa6G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098968886112927929",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098968661004587008"
+      },
+      {
+        "media_key": "3_2098968680105488384"
+      },
+      {
+        "media_key": "3_2098968863929249792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098967628765442308",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好消息，酒店正好快收餐了，就随便吃点吧 https://t.co/HyzjsNgiY1 https://t.co/6cB4TEqa6G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2098968661004587008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSEI4FnbEAAkdpV.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2098968680105488384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSEI5MxbsAA79oN.jpg",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2098968863929249792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSEJD5kbsAAgzyA.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098968661004587008",
+            "3_2098968680105488384",
+            "3_2098968863929249792"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098968886112927929",
+        "created_at": "2026-09-13T02:55:54.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T03:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098968886112927929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HyzjsNgiY1",
+              "end": 43,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2098968886112927929/photo/1",
+              "media_key": "3_2098968661004587008",
+              "start": 20,
+              "url": "https://t.co/HyzjsNgiY1"
+            },
+            {
+              "display_url": "pic.x.com/HyzjsNgiY1",
+              "end": 43,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2098968886112927929/photo/1",
+              "media_key": "3_2098968680105488384",
+              "start": 20,
+              "url": "https://t.co/HyzjsNgiY1"
+            },
+            {
+              "display_url": "pic.x.com/HyzjsNgiY1",
+              "end": 43,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2098968886112927929/photo/1",
+              "media_key": "3_2098968863929249792",
+              "start": 20,
+              "url": "https://t.co/HyzjsNgiY1"
+            },
+            {
+              "display_url": "x.com/bcfqdtfqz/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/bcfqdtfqz/status/2098967628765442308",
+              "start": 44,
+              "url": "https://t.co/6cB4TEqa6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098968886112927929",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098968661004587008"
+          },
+          {
+            "media_key": "3_2098968680105488384"
+          },
+          {
+            "media_key": "3_2098968863929249792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098967628765442308",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好消息，酒店正好快收餐了，就随便吃点吧 https://t.co/HyzjsNgiY1 https://t.co/6cB4TEqa6G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2098967628765442308",
+        "created_at": "2026-09-13T02:50:54.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T03:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098967628765442308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098967628765442308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "躺在床上玩手机，才发现十点半了\n不知道酒店早餐是否还营业"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n年龄未知，性别未知，身高未知，体重未知\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 114,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 91,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2098968886112927929",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116,
+          "following_count": 1465,
+          "like_count": 535,
+          "listed_count": 4,
+          "media_count": 924,
+          "tweet_count": 4197
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

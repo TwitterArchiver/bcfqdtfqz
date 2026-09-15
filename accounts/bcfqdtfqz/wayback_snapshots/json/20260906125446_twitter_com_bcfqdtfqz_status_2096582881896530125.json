@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2096385972137329128",
+    "created_at": "2026-09-06T12:54:46.000Z",
+    "display_text_range": [
+      10,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T13:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096582881896530125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1727273302857822208",
+          "start": 0,
+          "username": "sisi7758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096582881896530125",
+    "in_reply_to_user_id": "1727273302857822208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096385972137329128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sisi7758 你这倒是让我想起来有个女生，本来都最后一天就结束了，在微信朋友圈骂教官忘记屏蔽，结果被教官看到连夜改成绩明年让她来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2096385972137329128",
+        "created_at": "2026-09-06T12:54:46.000Z",
+        "display_text_range": [
+          10,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096582881896530125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1727273302857822208",
+              "start": 0,
+              "username": "sisi7758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096582881896530125",
+        "in_reply_to_user_id": "1727273302857822208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096385972137329128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sisi7758 你这倒是让我想起来有个女生，本来都最后一天就结束了，在微信朋友圈骂教官忘记屏蔽，结果被教官看到连夜改成绩明年让她来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727273302857822208",
+        "conversation_id": "2096385972137329128",
+        "created_at": "2026-09-05T23:52:19.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T00:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096385972137329128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096385972137329128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 22484,
+          "like_count": 575,
+          "quote_count": 5,
+          "reply_count": 203,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "表白教官的是认真的吗 我军训的时候都想弄死他 还有人能爱上"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n🚪1988\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 94,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 71,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2096582881896530125",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 1443,
+          "like_count": 522,
+          "listed_count": 4,
+          "media_count": 905,
+          "tweet_count": 4031
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-22T10:30:33.000Z",
+        "description": "喜欢女生 小小思@sisidawang123 盗图替我挡灾 推广自辨 谢谢你的喜欢^_^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "sisidawang123"
+              }
+            ]
+          }
+        },
+        "id": "1727273302857822208",
+        "is_identity_verified": false,
+        "location": "加联系方式需要过🚪(｡ì _ í｡) 188/520",
+        "most_recent_tweet_id": "2096548115084169402",
+        "name": "sisi",
+        "pinned_tweet_id": "2095166434460713363",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833178858688032768/L96o5aM8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14103,
+          "following_count": 10,
+          "like_count": 2669,
+          "listed_count": 34,
+          "media_count": 182,
+          "tweet_count": 1791
+        },
+        "url": "",
+        "username": "sisi7758",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

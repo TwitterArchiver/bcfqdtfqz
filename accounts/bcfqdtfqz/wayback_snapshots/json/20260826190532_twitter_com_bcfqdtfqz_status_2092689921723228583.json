@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2092656209002471844",
+    "created_at": "2026-08-26T19:05:32.000Z",
+    "display_text_range": [
+      12,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T20:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092689921723228583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1093674343383498752",
+          "start": 0,
+          "username": "YouHoshino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092689921723228583",
+    "in_reply_to_user_id": "1093674343383498752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092656209002471844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YouHoshino 你杠你赢呗，\n反正清北招生组来这学校也是说四点放学，你去跟清北招生组杠😯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2092656209002471844",
+        "created_at": "2026-08-26T19:05:32.000Z",
+        "display_text_range": [
+          12,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092689921723228583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1093674343383498752",
+              "start": 0,
+              "username": "YouHoshino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092689921723228583",
+        "in_reply_to_user_id": "1093674343383498752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092656209002471844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YouHoshino 你杠你赢呗，\n反正清北招生组来这学校也是说四点放学，你去跟清北招生组杠😯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1093674343383498752",
+        "conversation_id": "2092656209002471844",
+        "created_at": "2026-08-26T16:51:34.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092656209002471844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bcfqdtfqz/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/bcfqdtfqz/status/2092486910208024595",
+              "start": 19,
+              "url": "https://t.co/XSurjs1UN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092656209002471844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092486910208024595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "课上完还要周测哦，bro没上过高中吗 https://t.co/XSurjs1UN5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2092689921723228583",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 1434,
+          "like_count": 493,
+          "listed_count": 3,
+          "media_count": 877,
+          "tweet_count": 3739
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-08T00:54:17.000Z",
+        "description": "主观你说的都对，客观以我为准，谢谢",
+        "id": "1093674343383498752",
+        "is_identity_verified": false,
+        "location": "Belfast, Northern Ireland",
+        "most_recent_tweet_id": "2092668816367272040",
+        "name": "You Hoshino",
+        "pinned_tweet_id": "1987909401387430107",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093674343383498752/1601637600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821850823204466691/Wu_N82pz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 324,
+          "like_count": 527,
+          "listed_count": 8,
+          "media_count": 137,
+          "tweet_count": 4149
+        },
+        "url": "",
+        "username": "YouHoshino",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

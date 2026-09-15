@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018306514549972992",
+    "conversation_id": "2089549118041698394",
+    "created_at": "2026-08-18T11:09:20.000Z",
+    "display_text_range": [
+      19,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T12:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089670979878621253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1445324741456269321",
+          "start": 0,
+          "username": "antiAIvo"
+        },
+        {
+          "end": 18,
+          "id": "2088162407575433216",
+          "start": 10,
+          "username": "NIUB100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089670979878621253",
+    "in_reply_to_user_id": "1445324741456269321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089625809619484924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@antiAIvo @NIUB100 可以被干"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2089549118041698394",
+        "created_at": "2026-08-18T11:09:20.000Z",
+        "display_text_range": [
+          19,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089670979878621253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1445324741456269321",
+              "start": 0,
+              "username": "antiAIvo"
+            },
+            {
+              "end": 18,
+              "id": "2088162407575433216",
+              "start": 10,
+              "username": "NIUB100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089670979878621253",
+        "in_reply_to_user_id": "1445324741456269321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089625809619484924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@antiAIvo @NIUB100 可以被干"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445324741456269321",
+        "conversation_id": "2089549118041698394",
+        "created_at": "2026-08-18T08:09:51.000Z",
+        "display_text_range": [
+          9,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T09:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089625809619484924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2088162407575433216",
+              "start": 0,
+              "username": "NIUB100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089625809619484924",
+        "in_reply_to_user_id": "2088162407575433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 375,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089549118041698394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NIUB100 一眼假，ID名字能不能改的逼真些\n请问番茄可以干什么？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2089670979878621253",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 1430,
+          "like_count": 472,
+          "listed_count": 2,
+          "media_count": 854,
+          "tweet_count": 3513
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-05T09:47:44.000Z",
+        "description": "ex-Tencent ｜ex-Baidu\nAI・LLM・Agent\n股市・硬科技・投资逻辑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nano-ai.tech",
+                "end": 23,
+                "expanded_url": "https://nano-ai.tech/",
+                "start": 0,
+                "url": "https://t.co/31Hg4NBBDZ"
+              }
+            ]
+          }
+        },
+        "id": "1445324741456269321",
+        "is_identity_verified": false,
+        "location": "space",
+        "most_recent_tweet_id": "2089668425199268061",
+        "name": "纳米AI",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1445324741456269321/1786852341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043161038628270080/NrnEFMcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21793,
+          "following_count": 440,
+          "like_count": 1889,
+          "listed_count": 207,
+          "media_count": 381,
+          "tweet_count": 3067
+        },
+        "url": "https://t.co/31Hg4NBBDZ",
+        "username": "antiAIvo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T07:16:13.000Z",
+        "description": "卢本伟，国内全平台封杀。\n刚入驻X平台，希望在这里和大家认识。\n跟我一起喊:卢本伟🐮B",
+        "id": "2088162407575433216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089667945681346927",
+        "name": "卢本伟-🐮B",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088162407575433216/1786973556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089344646673788928/vc9KsXDp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4719,
+          "following_count": 28,
+          "like_count": 2,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "NIUB100",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
